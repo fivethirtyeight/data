@@ -1,10 +1,9 @@
-# Analyze movie data from the following webistes: www.bechdeltest.com and www.the-numbers.com,
-# calculate summary statistics and conduct basic regression analysis to test whether movies
-# which pass the Bechdel test have better or worse in boxoffice profits.
+# Calculates summary statistics and conducts basic regression analysis to determine 
+# whether movies which pass the Bechdel test do better or worse at the box office, 
+# using data from www.bechdeltest.com and www.the-numbers.com
 
 # By Andrew Flowers (andrew.flowers@fivethirtyeight.com)
 # See also http://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/
-# Dependent files: "movies.csv"
 
 # Install and load required packages
 # install.packages(c("gdata", "cwhmisc")) 
