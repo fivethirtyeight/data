@@ -2,7 +2,7 @@
 # whether movies which pass the Bechdel test do better or worse at the box office, 
 # using data from www.bechdeltest.com and www.the-numbers.com
 
-# By Andrew Flowers (andrew.flowers@fivethirtyeight.com)
+# By Andrew Flowers <andrew.flowers@fivethirtyeight.com>
 # See also http://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/
 
 # Install and load required packages
