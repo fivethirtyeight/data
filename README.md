@@ -6,3 +6,4 @@ April 1, 2014 | [The Dollar-And-Cents Case Against Hollywood’s Exclusion of Wo
 April 11, 2014 | [Where Are America’s Librarians?](http://fivethirtyeight.com/datalab/where-are-americas-librarians) | `librarians`
 April 14, 2014 | [Do Pulitzers Help Newspapers Keep Readers?](http://fivethirtyeight.com/datalab/do-pulitzers-help-newspapers-keep-readers) | `pulitzer`
 April 16, 2014 | [Early Senate Polls Have Plenty to Tell Us About November](http://fivethirtyeight.com/features/early-senate-polls-have-plenty-to-tell-us-about-november/) | `early-senate-polls`
+April 14, 2014 | [A Statistical Analysis of the Work of Bob Ross](http://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross) | `bob-ross`
