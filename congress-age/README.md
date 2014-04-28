@@ -7,4 +7,4 @@ House membership data is from the [@unitedstates project](http://theunitedstates
 
 Senate membership data is mostly from the [New York Times Congress API](http://developer.nytimes.com/docs/read/congress_api) combined with birthdays from @unitedstates. (It does not include the birthday of Sen. Elmer Thomas.)
 
-In addition, we added an `incumbent` field to each record and manually added incumbency status for the 80th senate.
+In addition, we added an `incumbent` field to each record.
