@@ -1,5 +1,6 @@
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+June 17, 2014 | [Elitist, Superfluous, Or Popular? We Polled Americans on the Oxford Comma](http://fivethirtyeight.com/datalab/elitist-superfluous-or-popular-we-polled-americans-on-the-oxford-comma/) | `comma-survey-data`
 June 6, 2014 | [What Ethan Swan Learned From Tracking Every Tattoo in the NBA](http://fivethirtyeight.com/features/what-ethan-swan-learned-from-tracking-every-tattoo-in-the-nba/) | `nba-tattoos`
 June 3, 2014 | [Using Infrastructure Jobs as a Measuring Stick For State-Level Spending](http://fivethirtyeight.com/datalab/using-infrastructure-jobs-as-a-measuring-stick-for-state-level-spending/) | `infrastructure-jobs`
 April 29-30, 2014 | [Which States Are in the South?](http://fivethirtyeight.com/datalab/which-states-are-in-the-south) / [Which States Are in the Midwest?](http://fivethirtyeight.com/datalab/what-states-are-in-the-midwest) | `region-survey`
