@@ -14,7 +14,7 @@ Header | Definition
 `cup` | Chance of making it to the final game
 `win` | Chance of winning the whole thing
 
-__Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on their SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+__Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
 
 For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
 
