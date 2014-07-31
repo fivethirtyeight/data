@@ -17,3 +17,5 @@ April 11, 2014 | [Where Are America’s Librarians?](http://fivethirtyeight.com/
 April 1, 2014 | [The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women](http://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women) | `bechdel`
 March 27, 2014 | [The NCAA Bracket: Checking Our Work](http://fivethirtyeight.com/datalab/the-ncaa-bracket-checking-our-work) | `historical-ncaa-forecasts`
 March 17, 2014 | [FiveThirtyEight’s NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions) | `march-madness-predictions`
+
+We hope you'll use the data and code in this repository to check our work and to create stories and visualizations of your own. The code is available under the [MIT License](http://opensource.org/licenses/MIT) and the data is available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). If you do find it useful, please [let us know](mailto:andrei.scheinkman@fivethirtyeight.com).
