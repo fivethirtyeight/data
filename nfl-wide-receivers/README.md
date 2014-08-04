@@ -10,3 +10,11 @@ Header | Definition
 `bcs_rating` | The number of yards per game by which a player would outgain an average receiver on the same team, after adjusting for teammate quality and age (update of http://www.sabernomics.com/sabernomics/index.php/2005/02/ranking-the-all-time-great-wide-receivers/)
 
 http://fivethirtyeight.com/features/the-football-hall-of-fame-has-a-receiver-problem/
+
+Receiver aging curve definitions:
+
+Header | Definition
+---|---------
+`age_from` | The age (as of December 31st) the player is moving from
+`age_to` | The age (as of December 31st) the player is moving to
+`trypg_change` | Expected change in TRY/game from one age-season to the next
