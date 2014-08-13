@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Aug. 13, 2014 | [Dear Mona Followup: Where Do People Drink The Most Beer, Wine And Spirits?](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/) | `alcohol-consumption`
 Aug. 4, 2014 | [The Football Hall Of Fame Has A Receiver Problem](http://fivethirtyeight.com/features/the-football-hall-of-fame-has-a-receiver-problem/) | `nfl-wide-receivers`
 July 25, 2014 | [Dear Mona, How Many Couples Sleep in Separate Beds?](http://fivethirtyeight.com/datalab/dear-mona-how-many-couples-sleep-in-separate-beds/) | `sleeping-alone-data`
 July 22, 2014 | [America’s Favorite ‘Star Wars’ Movies (And Least Favorite Characters)](http://fivethirtyeight.com/datalab/americas-favorite-star-wars-movies-and-least-favorite-characters/) | `star-wars-survey`
