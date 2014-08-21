@@ -1,5 +1,7 @@
 ### Police residence data
 
+The raw data behind the story, [Most Police Don’t Live In The Cities They Serve](http://fivethirtyeight.com/datalab/most-police-dont-live-in-the-cities-they-serve/)
+
 Includes the cities with the 75 largest police forces, with the exception of Honolulu for which data is not available. All calculations are based on data from the U.S. Census.
 
 Header | Definition
