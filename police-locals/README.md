@@ -7,9 +7,7 @@ Includes the cities with the 75 largest police forces, with the exception of Hon
 The Census Bureau numbers are potentially going to differ from other counts for three reasons:
 
 1. The census category for police officers also includes sheriffs, transit police and others who might not be under the same jurisdiction as a city’s police department proper. The census category won’t include private security officers.
-
 2. The census data is estimated from 2006 to 2010; police forces may have changed in size since then.
-
 3. There is always a margin of error in census numbers; they are estimates, not complete counts.
 
 __How to read `police-locals.csv`__
