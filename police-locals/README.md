@@ -9,9 +9,10 @@ Header | Definition
 `city` | U.S. city
 `police_force_size` | Number of police officers serving that city
 `all` | Percentage of the total police force that lives in the city
-`white` | Percentage of white (non-hispanic) police officers who live in the city
+`white` | Percentage of white (non-Hispanic) police officers who live in the city
 `non-white` | Percentage of non-white police officers who live in the city
 `black` | Percentage of black police officers who live in the city
-`hispanic` | Percentage of hispanic police officers who live in the city
+`hispanic` | Percentage of Hispanic police officers who live in the city
+`asian` | Percentage of Asian police officers who live in the city
 
 __Note:__ When a cell contains `**` it means that there are fewer than 100 police officers of that race serving that city.
