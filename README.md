@@ -25,3 +25,6 @@ April 11, 2014 | [Where Are America’s Librarians?](http://fivethirtyeight.com/
 April 1, 2014 | [The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women](http://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women) | `bechdel`
 March 27, 2014 | [The NCAA Bracket: Checking Our Work](http://fivethirtyeight.com/datalab/the-ncaa-bracket-checking-our-work) | `historical-ncaa-forecasts`
 March 17, 2014 | [FiveThirtyEight’s NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions) | `march-madness-predictions`
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/collection/view/540daf704a323)
