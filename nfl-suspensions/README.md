@@ -7,7 +7,7 @@ Header | Definition
 `name` | first initial.last name
 `team` | team at time of suspension
 `games` | number of games suspended (one regular season = 16 games)
-`category` | PEDs = performance enhancing drugs
+`category` | personal conduct, substance abuse, peformance enhancing drugs or in-game violence
 `desc.` | description
 `year` | year of suspension
 `source` | news source
