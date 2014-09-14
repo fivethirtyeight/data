@@ -1,5 +1,17 @@
+This repository contains a selection of the data -- and the data-processing scripts -- behind the articles, graphics and interactives at [FiveThirtyEight](http://fivethirtyeight.com).
+
+We hope you'll use it to check our work and to create stories and visualizations of your own. The data is available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the code is available under the [MIT License](http://opensource.org/licenses/MIT). If you do find it useful, please [let us know](mailto:andrei.scheinkman@fivethirtyeight.com).
+
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Sept. 9, 2014 | [The NFL’s Uneven History Of Punishing Domestic Violence](http://fivethirtyeight.com/features/nfl-domestic-violence-policy-suspensions/) | `nfl-suspensions`
+Sept. 5, 2014 | [41 Percent of Fliers Say It’s Rude To Recline Your Airplane Seat](http://fivethirtyeight.com/datalab/airplane-etiquette-recline-seat/) | `flying-etiquette-survey`
+Aug. 20, 2014 | [Most Police Don’t Live In The Cities They Serve](http://fivethirtyeight.com/datalab/most-police-dont-live-in-the-cities-they-serve/) | `police-locals`
+Aug. 13, 2014 | [Dear Mona Followup: Where Do People Drink The Most Beer, Wine And Spirits?](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/) | `alcohol-consumption`
+Aug. 4, 2014 | [The Football Hall Of Fame Has A Receiver Problem](http://fivethirtyeight.com/features/the-football-hall-of-fame-has-a-receiver-problem/) | `nfl-wide-receivers`
+July 25, 2014 | [Dear Mona, How Many Couples Sleep in Separate Beds?](http://fivethirtyeight.com/datalab/dear-mona-how-many-couples-sleep-in-separate-beds/) | `sleeping-alone-data`
+July 22, 2014 | [America’s Favorite ‘Star Wars’ Movies (And Least Favorite Characters)](http://fivethirtyeight.com/datalab/americas-favorite-star-wars-movies-and-least-favorite-characters/) | `star-wars-survey`
+July 18, 2014 | [Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/) | `airline-safety`
 June 25, 2014 | [The FiveThirtyEight International Food Association’s 2014 World Cup](http://fivethirtyeight.com/features/the-fivethirtyeight-international-food-associations-2014-world-cup/) | `food-world-cup`
 June 17, 2014 | [Elitist, Superfluous, Or Popular? We Polled Americans on the Oxford Comma](http://fivethirtyeight.com/datalab/elitist-superfluous-or-popular-we-polled-americans-on-the-oxford-comma/) | `comma-survey-data`
 June 9, 2014 | [FiveThirtyEight’s World Cup Predictions](http://fivethirtyeight.com/interactives/world-cup/) | `world-cup-predictions`
