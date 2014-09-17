@@ -1,6 +1,6 @@
 ### Historical FiveThirtyEight Senate Forecasts
 
-The data behind the story [Here’s What’s Under The Hood Of Our Senate Forecasting Model](http://fivethirtyeight.com/features/heres-whats-under-the-hood-of-our-senate-forecasting-model)
+The data behind the story [How The FiveThirtyEight Senate Forecast Model Works](http://fivethirtyeight.com/features/how-the-fivethirtyeight-senate-forecast-model-works/)
 
 Header | Definition
 ---|---------
