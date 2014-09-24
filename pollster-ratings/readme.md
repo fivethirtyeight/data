@@ -2,7 +2,7 @@
 
 The raw data behind FiveThirtyEight's pollster ratings, which . An interactive table of these ratings [can be found here]().
 
-###`pollster-ratings.csv`
+###`pollster-ratings.tsv`
 
 Header | Definition
 ---|---------
@@ -16,7 +16,7 @@ Header | Definition
 `538 grade` |  A letter grade from "A+" to "F" which reflects a pollster’s Predictive Plus-Minus score. Firms banned by FiveThirtyEight are automatically given a grade of F.
 `Mean-Reverted Bias` | A pollster’s historical average statistical bias toward Democratic or Republican candidates, reverted to a mean of zero based on the number of polls in the database.
 
-###`raw-polls.csv`
+###`raw-polls.tsv`
 
 Contains all of the polls analyzed to give each pollster a grade.
 
