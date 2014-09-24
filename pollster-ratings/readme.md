@@ -1,6 +1,10 @@
 ## Political pollster ratings
 
-The raw data behind FiveThirtyEight's pollster ratings, which . An interactive table of these ratings [can be found here]().
+The raw data behind FiveThirtyEight's pollster ratings. An interactive table of these ratings [can be found here]().
+
+###`pollster-stats-full.xlsx`
+
+A spreadsheet with all of the summary data and calculations involved in determining the pollster ratings.
 
 ###`pollster-ratings.tsv`
 
