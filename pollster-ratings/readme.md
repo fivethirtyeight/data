@@ -3,7 +3,7 @@
 The data and calculations behind FiveThirtyEight's pollster ratings.
 
 * [Interactive table of pollster ratings](http://fivethirtyeight.com/interactives/pollster-ratings)
-* [Detailed description of the methodology](http://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings)
+* [How FiveThirtyEight calculates pollster ratings](http://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings)
 * [FiveThirtyEight's Senate forecast](http://fivethirtyeight.com/interactives/senate-forecast)
 
 ###`pollster-stats-full.xlsx`
