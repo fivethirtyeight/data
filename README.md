@@ -4,6 +4,8 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Sept. 25, 2014 | [FiveThirtyEight's Pollster Ratings](http://fivethirtyeight.com/interactives/pollster-ratings/) | `pollster-ratings`
+Sept. 25, 2014 | [How FiveThirtyEight Calculates Pollster Ratings](http://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings) | `pollster-ratings`
 Sept. 17, 2014 | [How The FiveThirtyEight Senate Forecast Model Works](http://fivethirtyeight.com/features/how-the-fivethirtyeight-senate-forecast-model-works/) | `forecast-methodology`
 Sept. 12, 2014 | [The Economic Guide To Picking A College Major](http://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/) | `college-majors`
 Sept. 9, 2014 | [The NFL’s Uneven History Of Punishing Domestic Violence](http://fivethirtyeight.com/features/nfl-domestic-violence-policy-suspensions/) | `nfl-suspensions`
