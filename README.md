@@ -4,6 +4,10 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Sept. 17, 2014 | [How The FiveThirtyEight Senate Forecast Model Works](http://fivethirtyeight.com/features/how-the-fivethirtyeight-senate-forecast-model-works/) | `forecast-methodology`
+Sept. 12, 2014 | [The Economic Guide To Picking A College Major](http://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/) | `college-majors`
+Sept. 9, 2014 | [The NFL’s Uneven History Of Punishing Domestic Violence](http://fivethirtyeight.com/features/nfl-domestic-violence-policy-suspensions/) | `nfl-suspensions`
+Sept. 5, 2014 | [41 Percent of Fliers Say It’s Rude To Recline Your Airplane Seat](http://fivethirtyeight.com/datalab/airplane-etiquette-recline-seat/) | `flying-etiquette-survey`
 Aug. 20, 2014 | [Most Police Don’t Live In The Cities They Serve](http://fivethirtyeight.com/datalab/most-police-dont-live-in-the-cities-they-serve/) | `police-locals`
 Aug. 13, 2014 | [Dear Mona Followup: Where Do People Drink The Most Beer, Wine And Spirits?](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/) | `alcohol-consumption`
 Aug. 4, 2014 | [The Football Hall Of Fame Has A Receiver Problem](http://fivethirtyeight.com/features/the-football-hall-of-fame-has-a-receiver-problem/) | `nfl-wide-receivers`
