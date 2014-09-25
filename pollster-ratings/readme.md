@@ -1,6 +1,10 @@
-## Political pollster ratings
+## Pollster ratings
 
-The raw data behind FiveThirtyEight's pollster ratings. An interactive table of these ratings [can be found here]().
+The data and calculations behind FiveThirtyEight's pollster ratings.
+
+* [Interactive table of pollster ratings](http://fivethirtyeight.com/interactives/pollster-ratings)
+* [Detailed description of the methodology](http://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings)
+* [FiveThirtyEight's Senate forecast](http://fivethirtyeight.com/interactives/senate-forecast)
 
 ###`pollster-stats-full.xlsx`
 
@@ -10,14 +14,16 @@ A spreadsheet with all of the summary data and calculations involved in determin
 
 Header | Definition
 ---|---------
-`Pollster` | Organization that contributed the most intellectual property to the methodology and execution of the poll (rather than the organization that paid for or sponsored it)
-`Polls` | Polls conducted in the final three weeks of House, Senate, gubernatorial and presidential general election campaigns since 1998, and the last three weeks of presidential primaries and caucuses since 2000
-`NCPP/AAPOR/Roeper` | Yes indicates the polling firm was a member of the National Council of Public Polls (NCPP), a signatory to the American Association Public Opinion Research (AAPOR) Transparency Initiative, or a contributor to the Roper Center data archive as of Aug. 29, 2014.
-`Calls Cellphones` | "Yes" indicates the polling firm is routinely placing calls to cellphones — in addition to landlines — as of Aug. 29, 2014. Text messages do not count. "Sometimes" indicates that the pollster TKTKTK. We assume a polling firm has not begun to include cellphones in its samples until we have evidence to the contrary. Pollsters that have routinely begun to include cellphones in their samples but which are listed without a "yes" should [contact FiveThirtyEight](mailto:contact@fivethirtyeight.com).
-`Banned by 538` | "Yes" indicates the polling firm is not used in FiveThirtyEight’s election forecasting models because we are concerned they have faked some polling results or engaged in other gross ethical misconduct.
-`Historical Advanced Plus-Minus` | How a pollster’s average error has compared to other polling firms surveying the same races, also accounting for the type of election polled, the number of days until the election, the poll’s sample size, and the number of other pollsters surveying the same race. Negative scores are favorable and indicate above-average quality.
-`Predictive Plus-Minus` | A projection of how accurate the poll will be in future elections, based on a combination of a pollster’s Historical Advanced Plus-Minus score, the number of polls it has in the database, and our proxies for methodological quality.
-`538 grade` |  A letter grade from "A+" to "F" which reflects a pollster’s Predictive Plus-Minus score. Firms banned by FiveThirtyEight are automatically given a grade of F.
+`Pollster` | The organization that conducted the poll (rather than the organization that paid for or sponsored it).
+`Calls Cellphones` | Yes indicates the polling firm usually or always places calls to cellphones — in addition to landlines — as of Aug. 29, 2014. Text messages do not count. Sometimes indicates that the pollster sometimes places calls to cellphones and sometimes does not. We assume a polling firm has not begun to include cellphones in its samples until we have evidence to the contrary. Pollsters that have routinely begun to include cellphones in their samples but are listed without a Yes should [contact FiveThirtyEight](mailto:contact@fivethirtyeight.com).
+`NCPP/AAPOR/Roeper` | Yes indicates that the polling firm was a member of the National Council of Public Polls (NCPP), a signatory to the American Association for Public Opinion Research (AAPOR) Transparency Initiative, or a contributor to the Roper Center data archive as of Aug. 29, 2014.
+`Polls` | The number of polls conducted in the final three weeks of House, Senate, gubernatorial and presidential general election campaigns since 1998, and the last three weeks of presidential primaries and caucuses since 2000.
+`Simple Average Error` | The pollster's average error, calculated as the difference between the polled result and the actual result for the margin separating the top two finishers in the race.
+`Simple Plus-Minus` | The firm's Simple Average Error minus its Simple Expected Error. As with other Plus-Minus categories, negative scores are favorable and indicate above-average quality.
+`Advanced Plus-Minus` | How a firm’s average error has compared to other polling firms surveying the same races, also accounting for the type of election polled, the number of days until the election, the poll’s sample size and the number of other pollsters surveying the same race. Negative scores are favorable and indicate above-average quality.
+`Predictive Plus-Minus` | A projection of how accurate the poll will be in future elections relative to other polls, based on a combination of a pollster’s historical performance, the number of polls it has in the database, and our proxies for methodological quality. Negative scores are favorable and indicate above-average quality.
+`538 grade` |  A letter grade from A+ to F that reflects a pollster’s Predictive Plus-Minus score. Firms banned by FiveThirtyEight are automatically given a grade of F.
+`Banned by 538` | Yes indicates that the polling firm is not used in FiveThirtyEight’s election forecasting models because we are concerned that it has faked some polling results or engaged in other gross ethical misconduct.
 `Mean-Reverted Bias` | A pollster’s historical average statistical bias toward Democratic or Republican candidates, reverted to a mean of zero based on the number of polls in the database.
 
 ###`raw-polls.tsv`
