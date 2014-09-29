@@ -1,4 +1,4 @@
-These files contain data used in FiveThirtyEight's story on marriage trends.File names are self-explanatory. Source for all data is Decennial Census (years 1960 to 2000) and American Community Survey (years 2001-2012), via <a href="https://usa.ipums.org/usa/cite.shtml">IPUMS USA</a>.
+These files contain data used in <a href="http://fivethirtyeight.com/features/marriage-isnt-dead-yet/">FiveThirtyEight's story</a> on marriage trends.File names are self-explanatory. Source for all data is Decennial Census (years 1960 to 2000) and American Community Survey (years 2001-2012), via <a href="https://usa.ipums.org/usa/cite.shtml">IPUMS USA</a>.
 
 Except in the divorce file, figures represent share of the relevant population that has never been married (MARST == 6 in the IPUMS data). Note that in the story, charts generally show the share that have <i>ever</i> been married, which is simply 1 - n. In the divorce file, figures are share of the relevant population that is <i>currently</i> divorced, conditional on having ever been married.
 
