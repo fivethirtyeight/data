@@ -5,6 +5,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
 Oct. 6, 2014 | [Pollsters Predict Greater Polling Error In Midterm Elections](http://fivethirtyeight.com/features/pollsters-predict-greater-polling-error-in-midterm-elections/) | `poll-of-pollsters`
+Oct. 3, 2014 | [Dear Mona, How Many Flight Attendants Are Men?](http://fivethirtyeight.com/datalab/dear-mona-how-many-flight-attendants-are-men/) | `male-flight-attendants`
 Sept. 29, 2014 | [Marriage Isn't Dead -- Yet](http://fivethirtyeight.com/features/marriage-isnt-dead-yet/) | `marriage`
 Sept. 25, 2014 | [FiveThirtyEight's Pollster Ratings](http://fivethirtyeight.com/interactives/pollster-ratings/) | `pollster-ratings`
 Sept. 25, 2014 | [How FiveThirtyEight Calculates Pollster Ratings](http://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings) | `pollster-ratings`
