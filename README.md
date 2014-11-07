@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Nov. 7, 2014 | [Most Pollsters We Surveyed Say Polling Did Well This Year](http://fivethirtyeight.com/features/most-pollsters-we-surveyed-say-polling-did-well-this-year/) | `poll-of-pollsters`
 Oct. 31, 2014 | [Even Pollsters Don’t Know All The Details Of How Their Polls Are Made](http://fivethirtyeight.com/features/even-pollsters-dont-know-all-the-details-of-how-their-polls-are-made/) | `poll-of-pollsters`
 Oct. 20, 2014 | [Pollsters Say They Follow Ethical Standards, But They Aren’t So Sure About Their Peers](http://fivethirtyeight.com/features/pollsters-say-they-follow-ethical-standards-but-they-arent-so-sure-about-their-peers/) | `poll-of-pollsters`
 Oct. 13, 2014 | [Comic Books Are Still Made By Men, For Men And About Men](http://fivethirtyeight.com/features/women-in-comic-books/) | `comic-characters`
