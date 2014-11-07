@@ -8,7 +8,10 @@ This repo contains the responses from pollsters to FiveThirtyEight's three polls
 
 [Even Pollsters Don’t Know All The Details Of How Their Polls Are Made](http://fivethirtyeight.com/features/even-pollsters-dont-know-all-the-details-of-how-their-polls-are-made/)
 
-We sent out the first poll starting Wed. Sept. 24, and 26 pollsters responded by deadline. We sent out the second poll starting Sunday, Oct. 12, and 24 pollsters responded by deadline. We sent out the third poll starting Friday, Oct. 24, and 26 pollsters responded by deadline. 
+[TK hed](TK link)
+
+We sent out the first poll starting Wed. Sept. 24, and 26 pollsters responded by deadline. We sent out the second poll starting Sunday, Oct. 12, and 24 pollsters responded by deadline. We sent out the third poll starting Friday, Oct. 24, and 26 pollsters responded by deadline. We sent out the fourth poll starting Wednesday, Nov. 5, and 17 pollsters responded by deadline. 
+
 Respondents include commercial and academic pollsters who identify their polling organizations as liberal, nonpartisan or conservative. 
 Some poll online, some by phone, some both. 
 Some answers have been edited, primarily for spelling, grammar, style and to protect anonymity, when requested.
@@ -45,3 +48,14 @@ This tab-separated file contains the names of 26 respondents, their polling orga
 `poll-of-pollsters-anonymous-answers-3.tsv`:
 
 This tab-separated file contains those responses that pollsters didn't want attributed to them. The heading of each column or set of columns contains a question and the next row contains the types of answer. Starting with the third row come the responses, in alphabetical order, grouped by question grouping. That means that each row doesn’t correspond to any one respondent. For example, the answers in the fourth row weren't all necessarily given by the same respondent. This sorting step was taken to better protect anonymity, by making it harder to figure out who gave which answer.
+
+Here are the files for the fourth poll:
+
+`poll-of-pollsters-4.tsv`:
+
+This tab-separated file contains the names of 17 respondents, their polling organizations, and those responses that they have agreed can be attributed to them. The heading of each column or set of columns contains a question and the next row contains the types of answer. Starting with the third row, each row lists the answer given by the pollster listed in that row. Empty fields either mean the corresponding pollster didn't answer that question, or didn't wish to have the answer attributed.
+
+`poll-of-pollsters-anonymous-answers-4.tsv`:
+
+This tab-separated file contains those responses that pollsters didn't want attributed to them. The heading of each column or set of columns contains a question and the next row contains the types of answer. Starting with the third row come the responses, in alphabetical order, grouped by question grouping. That means that each row doesn’t correspond to any one respondent. For example, the answers in the fourth row weren't all necessarily given by the same respondent. This sorting step was taken to better protect anonymity, by making it harder to figure out who gave which answer.
+
