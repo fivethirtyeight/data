@@ -1,6 +1,6 @@
 ### Most Common Name
 
-This repo contains the code and data behind the story:
+This directory contains the code and data behind the story:
 
 [Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/)
 
