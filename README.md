@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Dec. 30, 2014 | [Who Goes To Meaningless NFL Games And Why?](http://fivethirtyeight.com/datalab/who-goes-to-meaningless-nfl-games-and-why/) | `nfl-ticket-prices`
 Nov. 20, 2014 | [Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/) | `most-common-name`
 Nov. 7, 2014 | [Most Pollsters We Surveyed Say Polling Did Well This Year](http://fivethirtyeight.com/features/most-pollsters-we-surveyed-say-polling-did-well-this-year/) | `poll-of-pollsters`
 Oct. 31, 2014 | [Even Pollsters Don’t Know All The Details Of How Their Polls Are Made](http://fivethirtyeight.com/features/even-pollsters-dont-know-all-the-details-of-how-their-polls-are-made/) | `poll-of-pollsters`
