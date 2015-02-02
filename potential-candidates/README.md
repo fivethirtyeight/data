@@ -1,6 +1,16 @@
-### Looking For Clues: Who Is Going To Run For President In 2016?
+### Who Is Going To Run For President In 2016?
 
-The data behind the article [Looking For Clues: Who Is Going To Run For President In 2016?](http://fivethirtyeight.com/datalab/2016-president-who-is-going-to-run)
+Data behind our series of articles about who will run in the 2016 presidential primaries.
+
+## Articles
+
+Date | Headline | Folder
+---|---------|-------------
+Jan. 30, 2015 | [Who Will Run For President: Romney Is Out](http://fivethirtyeight.com/datalab/romney-not-running-for-president) | `potential-candidates/2015_01_30`
+Jan. 14, 2015 | [Looking For Clues: Who Is Going To Run For President In 2016?](http://fivethirtyeight.com/datalab/2016-president-who-is-going-to-run) | `potential-candidates/2015_01_14`
+
+
+## Data
 
 * `events.csv` contains events attended in Iowa and New Hampshire by potential presidential primary candidates.
 
