@@ -41,3 +41,4 @@ March 27, 2014 | [The NCAA Bracket: Checking Our Work](http://fivethirtyeight.co
 March 17, 2014 | [FiveThirtyEight’s NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions) | `march-madness-predictions`
 Jan. 14, 2015 | [Looking For Clues: Who Is Going To Run For President In 2016?](http://fivethirtyeight.com/datalab/2016-president-who-is-going-to-run) | `potential-candidates`
 Jan. 30, 2015 | [Who Will Run For President: Romney Is Out](http://fivethirtyeight.com/datalab/romney-not-running-for-president) | `potential-candidates`
+Feb. 18, 2015 | [Every NBA Team’s Chance Of Winning In Every Minute Across Every Game](https://fivethirtyeight.com/features/every-nba-teams-chance-of-winning-in-every-minute-across-every-game/) | `nba-winprobs`
