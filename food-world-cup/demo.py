@@ -11,7 +11,9 @@ import urllib2  # urlopen function (better than urllib version)
 import json
 from pprint import pprint
 import pylab as plt2
+from pylab import *
 from mpl_toolkits.basemap import Basemap
+from matplotlib.widgets import Slider, Button, RadioButtons
 plt.close('all')
 
 
@@ -42,12 +44,26 @@ def fix_data(filename):
 				element[index] = 0
 	return a
 
+def sum_by_age(filename,age_range):
+	data = fix_data(filename)
+	final = []
+	fn = []
+	for n in range(3,43):
+		column_country_sum = []
+		column_country = data[1:,n]
+		for index in range(1,len(column_country)):
+			if data[index, 44] == age_range:
+				try:
+					column_country_sum.append(int(data[index,n]))
+				except:
+					pass
+		final.append(sum(column_country_sum))
+	return final
 
 def sum_countries2(filename):
 	data = fix_data(filename)
 	final = []
 	fn = []
-
 	for n in range(3,43):
 		new2 = []
 		new = data[1:,n]
@@ -58,6 +74,12 @@ def sum_countries2(filename):
 				pass
 		final.append(sum(new2))
 	return final
+
+def country_rank_age(filename,age_range):
+	countries = ['Algeria','Argentina','Australia','Belgium','Bosnia and Herzegovia','Brazil','Cameroon','Chile','Colombia','Costa Rica','Croatia','Ecuador','England','France','Germany','Ghana','Greece','Honduras','Iran','Italy','Ivory Coast','Japan','Mexico','Netherlands','Nigeria','Portugal','Russia','South Korea','Spain','Switzerland','United States','Uruguay','China','India','Thailand','Turkey','Cuba','Ethiopia','Vietnam','Ireland']
+	country_sum = sum_by_age(filename, age_range)
+	country_rank = dict(zip(countries,country_sum))
+	return country_rank
 
 def country_rank(filename):
 	countries = ['Algeria','Argentina','Australia','Belgium','Bosnia and Herzegovia','Brazil','Cameroon','Chile','Colombia','Costa Rica','Croatia','Ecuador','England','France','Germany','Ghana','Greece','Honduras','Iran','Italy','Ivory Coast','Japan','Mexico','Netherlands','Nigeria','Portugal','Russia','South Korea','Spain','Switzerland','United States','Uruguay','China','India','Thailand','Turkey','Cuba','Ethiopia','Vietnam','Ireland']
@@ -79,6 +101,26 @@ def make_barplot(filename):
 	plt.ylabel('sum of survey data')
 	plt.title('Popularity of Ethnic Foods', fontsize=12)
 	plt.show()
+
+make_barplot("food-world-cup-data.csv")
+
+def make_interactive_plot(filename):
+	D = country_rank(filename,age_range)
+	fig, ax = plt.subplots()
+	l, = ax.plot(t, s0, lw=2, color='red')
+	plt.subplots_adjust(left=0.3)
+
+	axcolor = 'lightgoldenrodyellow'
+	rax = plt.axes([0.05, 0.7, 0.15, 0.15], axisbg=axcolor)
+	radio = RadioButtons(rax, ('2 Hz', '4 Hz', '8 Hz'))
+	def hzfunc(label):
+	    hzdict = {'2 Hz':s0, '4 Hz':s1, '8 Hz':s2}
+	    ydata = hzdict[label]
+	    l.set_ydata(ydata)
+	    plt.draw()
+	radio.on_clicked(hzfunc)
+
+
 
 def get_json(url):
     """
@@ -123,7 +165,14 @@ def plot_on_map(filename):
 	for city in D.keys():
 	        x, y = m(D[city][1],D[city][2]) 
 	        m.scatter(x,y,max_size*D[city][0]/D["Italy"][0],marker='o',color='r')
+
+	axcolor = 'lightgoldenrodyellow'
+	rax = axes([-10.0, 10.0, 10.0, -10.0], axisbg=axcolor)
+	radio = RadioButtons(rax, ('red', 'blue', 'green'), active=0)
+	def colorfunc(label):
+	    D.set_color(label)
+	    draw()
+	radio.on_clicked(colorfunc)
 	plt.show()
 
-plot_on_map("food-world-cup-data.csv")
 
