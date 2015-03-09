@@ -14,6 +14,7 @@ import pylab as plt2
 from pylab import *
 from mpl_toolkits.basemap import Basemap
 from matplotlib.widgets import Slider, Button, RadioButtons
+import matplotlib.ticker as ticker
 plt.close('all')
 
 
@@ -103,11 +104,14 @@ def make_barplot(filename):
 
 
 def make_interactive_plot(filename):
+	young = country_rank_age("food-world-cup-data.csv",'18-29')
+	medium = country_rank_age("food-world-cup-data.csv",'30-44')
+	old = country_rank_age("food-world-cup-data.csv",'45-60')
+	older = country_rank_age("food-world-cup-data.csv",'> 60')
 	fig, ax = plt.subplots()
-	D = country_rank(filename)
-
+	D = country_rank_age(filename, '18-30')
 	for country in D:
-		plt.bar(range(len(D)), D.values())
+		ax.bar(range(len(D)), D.values())
 	plt.xticks(range(len(D)),D.keys(),rotation = 'vertical')
 	plt.xlabel('country')
 	plt.ylabel('sum of survey data')
@@ -115,16 +119,16 @@ def make_interactive_plot(filename):
 	axcolor = 'lightgoldenrodyellow'
 	plt.subplots_adjust(left=0.3)
 	rax = plt.axes([0.05, 0.7, 0.15, 0.15], axisbg=axcolor)
-	radio = RadioButtons(rax, ('18-29', '30-44', '44-60'))
-	plt.show()
+	radio = RadioButtons(rax, ('18-29', '30-44', '45-60'))
 	def hzfunc(label):
-		D = country_rank_age(filename,label)
+		ax.clear()
+		hzdict = {'18-29':young, '30-44':medium, '45-60':old}
+   		D = hzdict[label]
 		for country in D:
-			fig.bar(range(len(D)), D.values())
-		fig.show()
-
-
+			ax.bar(range(len(D)), D.values())
+		plt.show()
 	radio.on_clicked(hzfunc)
+	plt.show()
 
 	
 
