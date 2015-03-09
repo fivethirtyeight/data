@@ -105,17 +105,23 @@ def make_barplot(filename):
 
 def make_interactive_plot(filename):
 	fig, ax = plt.subplots()
-	l, = ax.plot(t, s0, lw=2, color='red')
 	plt.subplots_adjust(left=0.3)
 
 	axcolor = 'lightgoldenrodyellow'
 	rax = plt.axes([0.05, 0.7, 0.15, 0.15], axisbg=axcolor)
 	radio = RadioButtons(rax, ('18-29', '30-44', '44-60'))
-	def hzfunc(label):
+	def hzfunc(filename,label):
 		D = country_rank_age(filename,label)
 		hzdict = {'18-29':s0, '30-44':s1, '44-60':s2}
 		ydata = hzdict[label]
 		l.set_ydata(ydata)
+		for country in D:
+		plt.bar(range(len(D)), D.values())
+		plt.xticks(range(len(D)),D.keys(),rotation = 'vertical')
+		plt.xlabel('country')
+		plt.ylabel('sum of survey data')
+		plt.title('Popularity of Ethnic Foods', fontsize=12)
+		plt.show()
 		plt.draw()
 	radio.on_clicked(hzfunc)
 
