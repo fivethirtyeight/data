@@ -102,24 +102,24 @@ def make_barplot(filename):
 	plt.title('Popularity of Ethnic Foods', fontsize=12)
 	plt.show()
 
-make_barplot("food-world-cup-data.csv")
 
 def make_interactive_plot(filename):
-	D = country_rank(filename,age_range)
 	fig, ax = plt.subplots()
 	l, = ax.plot(t, s0, lw=2, color='red')
 	plt.subplots_adjust(left=0.3)
 
 	axcolor = 'lightgoldenrodyellow'
 	rax = plt.axes([0.05, 0.7, 0.15, 0.15], axisbg=axcolor)
-	radio = RadioButtons(rax, ('2 Hz', '4 Hz', '8 Hz'))
+	radio = RadioButtons(rax, ('18-29', '30-44', '44-60'))
 	def hzfunc(label):
-	    hzdict = {'2 Hz':s0, '4 Hz':s1, '8 Hz':s2}
-	    ydata = hzdict[label]
-	    l.set_ydata(ydata)
-	    plt.draw()
+		D = country_rank_age(filename,label)
+		hzdict = {'18-29':s0, '30-44':s1, '44-60':s2}
+		ydata = hzdict[label]
+		l.set_ydata(ydata)
+		plt.draw()
 	radio.on_clicked(hzfunc)
 
+make_interactive_plot("food-world-cup-data.csv")
 
 
 def get_json(url):
