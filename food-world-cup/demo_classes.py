@@ -71,13 +71,13 @@ class Data(object):
 
 
 data = Data("food-world-cup-data.csv")
- .get_age_range('30-44')
+data.get_age_range('30-44')
 
 print data.get_country_rank_age()
 
 class Plot(object):
 	def __init__(self, filename):
-		self.filename = filename
+		self.filemame = Data(self.filename)
 
 	def add_age(self,age_range):
 		self.age_range = age_range
