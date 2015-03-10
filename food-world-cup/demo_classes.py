@@ -22,7 +22,7 @@ class Data(object):
 	def __init__(self, filename):
 		self.filename = filename
 
-	def add_age(self,age_range):
+	def get_age_range(self,age_range):
 		self.age_range = age_range
 		return age_range
 	
@@ -38,9 +38,7 @@ class Data(object):
 		return np.array([x+[]*(length-len(x)) for x in data])  
 
 	def fix_data(self):
-		filename = self.filename
-		data = Data(filename)
-		a = Data.get_numpy_array(data)
+		a = self.get_numpy_array()
 		remove = ["N/A"]
 		for element in a:
 			for index in range(len(element)):
@@ -48,18 +46,15 @@ class Data(object):
 					element[index] = 0
 		return a
 
-	def sum_by_age(self):
-		filename = self.filename
-		age_range = self.age_range
-		data_input = Data(filename)
-		data = Data.fix_data(data_input)
+	def get_sum_by_age(self):
+		data = self.fix_data()
 		final = []
 		fn = []
 		for n in range(3,43):
 			column_country_sum = []
 			column_country = data[1:,n]
 			for index in range(1,len(column_country)):
-				if data[index, 44] == age_range:
+				if data[index, 44] == self.age_range:
 					try:
 						column_country_sum.append(int(data[index,n]))
 					except:
@@ -68,21 +63,17 @@ class Data(object):
 		return final
 
 
-	def country_rank_age(self):
-		filename = self.filename
-		age_range = self.age_range
-		data = Data(filename)
-		data.add_age(age_range)
+	def get_country_rank_age(self):
 		countries = ['Algeria','Argentina','Australia','Belgium','Bosnia and Herzegovia','Brazil','Cameroon','Chile','Colombia','Costa Rica','Croatia','Ecuador','England','France','Germany','Ghana','Greece','Honduras','Iran','Italy','Ivory Coast','Japan','Mexico','Netherlands','Nigeria','Portugal','Russia','South Korea','Spain','Switzerland','United States','Uruguay','China','India','Thailand','Turkey','Cuba','Ethiopia','Vietnam','Ireland']
-		country_sum = Data.sum_by_age(data)
+		country_sum = self.get_sum_by_age()
 		country_rank = dict(zip(countries,country_sum))
 		return country_rank
 
 
-#data = Data("food-world-cup-data.csv")
-#data.add_age('30-44')
+data = Data("food-world-cup-data.csv")
+ .get_age_range('30-44')
 
-#print Data.country_rank_age(data)
+print data.get_country_rank_age()
 
 class Plot(object):
 	def __init__(self, filename):
@@ -153,6 +144,3 @@ class Plot(object):
 		radio.on_clicked(hzfunc)
 		plt.show()
 
-data = Plot("food-world-cup-data.csv")
-
-print Plot.make_barplot(data)
