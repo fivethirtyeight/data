@@ -109,7 +109,7 @@ def make_interactive_plot(filename):
 	old = country_rank_age("food-world-cup-data.csv",'45-60')
 	older = country_rank_age("food-world-cup-data.csv",'> 60')
 	fig, ax = plt.subplots()
-	D = country_rank_age(filename, '18-30')
+	D = country_rank_age(filename, '18-29')
 	for country in D:
 		ax.bar(range(len(D)), D.values())
 	plt.xticks(range(len(D)),D.keys(),rotation = 'vertical')
@@ -120,13 +120,23 @@ def make_interactive_plot(filename):
 	plt.subplots_adjust(left=0.3)
 	rax = plt.axes([0.05, 0.7, 0.15, 0.15], axisbg=axcolor)
 	radio = RadioButtons(rax, ('18-29', '30-44', '45-60'))
+
 	def hzfunc(label):
-		ax.clear()
+		fig, ax = plt.subplots()
+		plt.clf()
 		hzdict = {'18-29':young, '30-44':medium, '45-60':old}
    		D = hzdict[label]
 		for country in D:
 			ax.bar(range(len(D)), D.values())
+		plt.xticks(range(len(D)),D.keys(),rotation = 'vertical')
+		plt.xlabel('country')
+		plt.ylabel('sum of survey data')
+		plt.title('Popularity of Ethnic Foods', fontsize=12)
+		axcolor = 'lightgoldenrodyellow'
+		plt.subplots_adjust(left=0.3)
+		rax = plt.axes([0.05, 0.7, 0.15, 0.15], axisbg=axcolor)
 		plt.show()
+
 	radio.on_clicked(hzfunc)
 	plt.show()
 
@@ -135,6 +145,7 @@ def make_interactive_plot(filename):
 
 make_interactive_plot("food-world-cup-data.csv")
 
+##############################
 
 def get_json(url):
     """
@@ -146,12 +157,10 @@ def get_json(url):
     response_data = json.loads(response_text)
     return response_data
 
-
 def get_lat_long(place_name):
     """
     Given a place name or address, return a (latitude, longitude) tuple
     with the coordinates of the given place.
-
     See https://developers.google.com/maps/documentation/geocoding/
     for Google Maps Geocode API URL formatting requirements.
     """
@@ -188,5 +197,3 @@ def plot_on_map(filename):
 	    draw()
 	radio.on_clicked(colorfunc)
 	plt.show()
-
-
