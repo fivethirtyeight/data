@@ -95,7 +95,8 @@ class Plot(object):
 			plt.bar(range(len(D)), D.values(), color = '#055d66', edgecolor = '#ffffff') #plots bar graph of data
 		plt.xticks(range(len(D)),D.keys(),rotation = 'vertical')
 		plt.ylabel('Sum of Rankings', color = '#2b3233', fontsize=13)
-		plt.title('Popularity of Ethnic Foods', color='#2b3233',fontsize=15)
+		plt.title('Popularity of Ethnic Foods in the Age Range ' + str(data.age_range), color='#2b3233',fontsize=15)
+		plt2.ylim([0,1600])
 		self.make_button() #initalizes buttions
 		plt.draw()
 		plt.show()
@@ -104,25 +105,25 @@ class Plot(object):
 	    """Creates buttons that are shown on the barplot.  Also indicates the function that gets called when 
 	    buttons are clicked."""
 	    # Make '18-29' button
-	    young_button_ax = plt.axes([0.8, 0.92, 0.17, 0.07])
+	    young_button_ax = plt.axes([0.84, 0.92, 0.14, 0.07])
 	    button_young = Button(young_button_ax, '18-29')
 	    button_young.on_clicked(self.click_18_29_button)
 	    young_button_ax._button = button_young
 
 	    # Make '30-44' button
-	    middle_button_ax = plt.axes([0.8, 0.85, 0.17, 0.07])
+	    middle_button_ax = plt.axes([0.84, 0.85, 0.14, 0.07])
 	    button_middle = Button(middle_button_ax, '30-44')
 	    button_middle.on_clicked(self.click_30_44_button)
 	    middle_button_ax._button = button_middle
 
 	    # Make '45-60' button
-	    old_button_ax = plt.axes([0.8, 0.78, 0.17, 0.07])
+	    old_button_ax = plt.axes([0.84, 0.78, 0.14, 0.07])
 	    button_old = Button(old_button_ax, '45-60')
 	    button_old.on_clicked(self.click_45_60_button)
 	    old_button_ax._button = button_old
 
 	    # Make '> 60' button
-	    oldest_button_ax = plt.axes([0.8, 0.71, 0.17, 0.07])
+	    oldest_button_ax = plt.axes([0.84, 0.71, 0.14, 0.07])
 	    button_oldest = Button(oldest_button_ax, '> 60')
 	    button_oldest.on_clicked(self.click_60_button)
 	    oldest_button_ax._button = button_oldest
@@ -153,5 +154,5 @@ if __name__ == '__main__':
 
 
 data = Data('food-world-cup-data.csv')
-#plot = Plot(data)
-#plot.make_barplot()
+plot = Plot(data)
+plot.make_barplot()
