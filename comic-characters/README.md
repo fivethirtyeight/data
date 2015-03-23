@@ -4,7 +4,7 @@ The raw data behind the story [Comic Books Are Still Made By Men, For Men And Ab
 
 The data comes from [Marvel Wikia](http://marvel.wikia.com/Main_Page) and [DC Wikia](http://dc.wikia.com/wiki/Main_Page). Characters were scraped on August 24. Appearance counts were scraped on September 2. The month and year of the first issue each character appeared in was pulled on October 6.
 
-The data is split into two files, for DC and Marvel, respetively: `dc-wikia-data.csv` and `marvel-wikia-data.csv`. Each file has the following variables:
+The data is split into two files, for DC and Marvel, respectively: `dc-wikia-data.csv` and `marvel-wikia-data.csv`. Each file has the following variables:
 
 Variable | Definition
 ---|---------
