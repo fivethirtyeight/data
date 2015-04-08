@@ -13,4 +13,4 @@ Header | Definition
 `fatal_accidents_00_14` | Total number of fatal accidents, 2000–2014
 `fatalities_00_14` | Total number of fatalities, 2000–2014
 
-Source: [Aviation Safety Network](http://aviation-safety.net/index.php).
+Source: [Aviation Safety Network](http://aviation-safety.net)
