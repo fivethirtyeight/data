@@ -1,6 +1,6 @@
 ### Airline safety data
 
-The raw data behind the story, [Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/)
+The raw data behind the story [Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?](http://fivethirtyeight.com/features/should-travelers-avoid-flying-airlines-that-have-had-crashes-in-the-past/)
 
 Header | Definition
 ---|---------
@@ -13,4 +13,4 @@ Header | Definition
 `fatal_accidents_00_14` | Total number of fatal accidents, 2000–2014
 `fatalities_00_14` | Total number of fatalities, 2000–2014
 
-All data comes from the [Aviation Safety Network's Database](http://aviation-safety.net/index.php).
+Source: [Aviation Safety Network](http://aviation-safety.net)
