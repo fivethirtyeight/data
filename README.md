@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+May 12, 2015 | [Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building](http://fivethirtyeight.com/features/avengers-death-comics-age-of-ultron) | `avengers`
 April 23, 2015 | [How Baby Boomers Get High](http://fivethirtyeight.com/datalab/how-baby-boomers-get-high/) | `drug-use-by-age`
 April 20, 2015 | [Where People Go To Check The Weather](http://fivethirtyeight.com/datalab/weather-forecast-news-app-habits/) | `weather-check`
 March 15, 2015 | [FiveThirtyEight’s 2015 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions-2015/#mens) | `march-madness-predictions-2015`
