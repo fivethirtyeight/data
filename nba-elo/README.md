@@ -1,6 +1,6 @@
 ### Historical NBA Elo
 
-This directory contains the data behind the [Complete History Of The NBA](http://fivethirtyeight.com/interactives/the-complete-history-of-every-nba-team-by-elo) interactive. Data updated periodcially.
+This directory contains the data behind the [Complete History Of The NBA](http://fivethirtyeight.com/interactives/the-complete-history-of-every-nba-team-by-elo) interactive. Data updated periodically.
 
 In the data file `nbaallelo.csv` are the following variables:
 
