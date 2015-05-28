@@ -1,6 +1,6 @@
 ### FIFA
 
-This directory contains the code and data behind the story [How To Break FIFA](http://fivethirtyeight.com/features/how-to-break-fifa/).
+This directory contains the data behind the story [How To Break FIFA](http://fivethirtyeight.com/features/how-to-break-fifa/).
 
 The data file `fifa_countries_audience.csv` includes the following variables:
 
