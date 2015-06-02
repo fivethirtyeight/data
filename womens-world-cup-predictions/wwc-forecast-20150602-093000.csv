@@ -1,4 +1,4 @@
-team,group,spi,spi_off,spi_def,group_first,group_second,group_third_advance,group_third_no_advance,group_fourth,sixteen,quarter,semi,final,win
+team,group,wspi,wspi_offense,wspi_defense,group_first,group_second,group_third_advance,group_third_no_advance,group_fourth,sixteen,quarter,semi,final,win
 USA,D,95.36678795,3.66911394,0.43303633,0.64725,0.23885,0.07580,0.01220,0.02590,0.96190,0.80235,0.65400,0.41755,0.28235
 Germany,B,95.63576770,3.75438060,0.40466678,0.83385,0.15915,0.00620,0.00050,0.00030,0.99920,0.81475,0.60980,0.39540,0.27080
 Japan,C,92.66789611,2.89624622,0.56546943,0.79310,0.16925,0.03355,0.00255,0.00155,0.99590,0.78615,0.40780,0.23140,0.09735
