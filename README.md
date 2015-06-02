@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+June 2, 2012 | [FiveThirtyEight’s Women's World Cup Predictions](http://projects.fivethirtyeight.com/womens-world-cup/) | `womens-world-cup-predictions`
 June 2, 2015 | [The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’](http://fivethirtyeight.com/datalab/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one) | `san-andreas`
 May 29, 2015 | [How To Break FIFA](http://fivethirtyeight.com/features/how-to-break-fifa/) | `fifa`
 May 21, 2015 | [Complete History Of The NBA](http://fivethirtyeight.com/interactives/the-complete-history-of-every-nba-team-by-elo) | `nba-elo`
