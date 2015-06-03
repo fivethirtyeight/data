@@ -40,7 +40,7 @@ Header | Description | Source
 `county_income` | County-level median household income | Census
 `comp_income` | `h_income` / `county_income` | Calculated from Census 
 `county_bucket` | Household income, quintile within county | Calculated from Census
-`nat_bucket` | Household income, quintil nationally | Calculated from Census
+`nat_bucket` | Household income, quintile nationally | Calculated from Census
 `pov` | Tract-level poverty rate (official) | Census
 `urate` | Tract-level unemployment rate | Calculated from Census
 `college` | Share of 25+ pop with BA or higher | Calculated from Census
