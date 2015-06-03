@@ -1,6 +1,10 @@
 ### 2015 Women's World Cup tournament predictions
 
-FiveThirtyEight's forecasts for the 2015 World Cup, including each team's WSPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wwc-forecast-YYYYMMDD-HHMMSS.csv`. All times are in EDT.
+FiveThirtyEight's forecasts for the 2015 World Cup, including each team's WSPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file names. All times are in EDT.
+
+#### Overall forecasts
+
+Overall forecasts are stored in files named like `wwc-forecast-YYYYMMDD-HHMMSS.csv`.
 
 Header | Definition
 ---|---------
@@ -19,6 +23,16 @@ Header | Definition
 `win` | Chance of winning the whole thing
 
 __Note:__ These probabilities are based on 20,000 simulations. A `win` probability of 0.0 doesn't necessarily mean that a team has a zero percent chance of winning the tournament -- it means that the team did not win the tournament in any of the 20,000 simulations.
+
+#### Match probabilities
+
+Individual match probabilities are stored in files named like `wwc-matches-YYYYMMDD-HHMMSS.csv`.
+
+Header | Definition
+---|---------
+`team1_win` | The probability that team1 will beat team2
+`team2_win` | The probability that team2 will beat team1
+`tie` | The probability the game will end in a tie
 
 For the Women's World Cup predictions interactive, [click here](http://projects.fivethirtyeight.com/womens-world-cup/).
 
