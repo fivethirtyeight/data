@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+June 9, 2015 | [Blatter’s Reign At FIFA Hasn’t Helped Soccer’s Poor](http://fivethirtyeight.com/features/blatters-reign-at-fifa-hasnt-helped-soccers-poor/) | `elo-blatter`
 June 5, 2015 | [Why Some Tennis Matches Take Forever](http://fivethirtyeight.com/features/why-some-tennis-matches-take-forever/) | `tennis-time`
 June 3, 2015 | [Where Police Have Killed Americans In 2015](http://fivethirtyeight.com/features/where-police-have-killed-americans-in-2015) | `police-killings`
 June 2, 2015 | [FiveThirtyEight’s Women's World Cup Predictions](http://projects.fivethirtyeight.com/womens-world-cup/) | `womens-world-cup-predictions`
