@@ -2,7 +2,7 @@
 # June 10, 2015
 # Andrew <andrew.flowers@fivethirtyeight.com>
 
-setwd("~/private-data/unisex-names") # Change for your machine
+setwd("~/data/unisex-names") # Change for your machine
 
 require(dplyr)
 require(babynames)
@@ -65,11 +65,6 @@ unisexSummary_top20 <- unisexSummary %>% filter(total>=25000)
 
 # For sortable table
 unisexSummary_table <- unisexSummary %>% select(name, total, male_share, female_share, gap)
-
-# Filter out odd names
-unisexSummary_table <- unisexSummary_table %>% 
-  filter(name != "Unnamed" & name != "Unknown")
-
 write.csv(unisexSummary_table, "unisex_names_table.csv")
 
 # For specific queries
