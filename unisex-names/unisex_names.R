@@ -64,7 +64,15 @@ ggplot(data=unisexSummary, aes(x=gap, y=total))+geom_point()+ggtitle("Sex Imbala
 unisexSummary_top20 <- unisexSummary %>% filter(total>=25000)
 
 # For sortable table
-unisexSummary_table <- unisexSummary %>% select(name, total, male_share, female_share, gap)
+unisexSummary_table <- unisexSummary %>% 
+  select(name, total, male_share, female_share, gap) %>% 
+  # Remove placeholder names
+  filter(name != 'Unnamed' &
+         name != 'Unknown' &
+         name != 'Notnamed' &
+         name != 'Infant' &
+         name != 'Infantof')
+
 write.csv(unisexSummary_table, "unisex_names_table.csv")
 
 # For specific queries
