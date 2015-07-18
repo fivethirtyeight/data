@@ -2,6 +2,8 @@ Estimates of most talented MLB All-Star teams, 1933-2015
 
 Team talent estimates:
 
+Header | Definition
+---|---------
 `yearID` | The season in question
 `gameNum` | Order of All-Star Game for the season (in years w/ multiple ASGs; set to 0 when only 1 per year)
 `gameID` | Game ID at Baseball-Reference.com
@@ -21,6 +23,8 @@ Team talent estimates:
 
 Player talent estimates:
 
+Header | Definition
+---|---------
 `bbref_ID` | Player's ID at Baseball-Reference.com
 `yearID` | The season in question
 `gameNum` | Order of All-Star Game for the season (in years w/ multiple ASGs; set to 0 when only 1 per year)
