@@ -59,11 +59,11 @@ with plt.style.context('https://gist.githubusercontent.com/rhiever/d0a7332fe0bee
 
     # Create the dots marking record highs and lows for the year
     plt.scatter(new_max_records['day_order'].values + 0.5,
-                new_max_records['actual_max_temp'].values + 0.75,
+                new_max_records['actual_max_temp'].values + 1.25,
                 s=15, zorder=10, color='#d62728', alpha=0.75, linewidth=0)
 
     plt.scatter(new_min_records['day_order'].values + 0.5,
-                new_min_records['actual_min_temp'].values - 0.75,
+                new_min_records['actual_min_temp'].values - 1.25,
                 s=15, zorder=10, color='#1f77b4', alpha=0.75, linewidth=0)
 
     plt.ylim(-15, 111)
