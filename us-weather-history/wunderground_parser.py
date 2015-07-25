@@ -3,11 +3,11 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
 
-def parse_pages(station):
+def parse_station(station):
     '''
     This function parses the web pages downloaded from wunderground.com
     into a flat CSV file for the station you provide it.
-
+p
     Make sure to run the wunderground scraper first so you have the web
     pages downloaded.
     '''
