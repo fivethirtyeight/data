@@ -4,7 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
-Aug. 6, 2015 | [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](http://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) | `buster-posey-mvp`
+Aug. 6, 2015 | [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](http://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) | `daily-show-guests`
 July 30 22, 2015 | [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/) | `buster-posey-mvp`
 July 22, 2015 | [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/) | `us-weather-history`
 June 19, 2015 | [Projecting The Top 50 Players In The 2015 NBA Draft Class](http://fivethirtyeight.com/features/projecting-the-top-50-players-in-the-2015-nba-draft-class/) | `nba-draft-2015`
