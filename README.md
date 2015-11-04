@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Nov. 5, 2015 | [College Students Aren’t The Only Ones Abusing Adderall](http://fivethirtyeight.com/features/college-students-arent-the-only-ones-abusing-adderall) | `study-drugs`
 Oct. 15, 2015 | [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) | `fandango`
 Aug. 14, 2015 | ['Straight Outta Compton' Is The Rare Biopic Not About White Dudes](http://fivethirtyeight.com/features/straight-outta-compton-is-the-rare-biopic-not-about-white-dudes) | `biopics`
 Aug. 6, 2015 | [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](http://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) | `daily-show-guests`
