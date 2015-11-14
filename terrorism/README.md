@@ -1,6 +1,6 @@
 ### France Terror Attacks
 
-This directory contains data, code and charts behind the story [The Rise Of Religiously Inspired Terrorism In France](TK).
+This directory contains data, code and charts behind the story [The Rise Of Religiously Inspired Terrorism In France](http://fivethirtyeight.com/features/the-rise-of-religiously-inspired-terrorism-in-france/).
 
 The data source is the [Global Terrorism Database](http://www.start.umd.edu/gtd/) (GTD). Raw data files from the GTD were retrieved on November 13, 2015, and are found in the sub-directory `raw-data`. Please see the GTD codebook -- the file `GTD_Codebook_2015Final.pdf` -- for more information. Also included in this repo are two files from the GTD: the `Terms of Use.pdf` and `GTD Distribution letter 2015.pdf`. 
 
