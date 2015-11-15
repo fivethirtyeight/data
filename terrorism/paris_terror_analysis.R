@@ -8,7 +8,11 @@ require(dplyr)
 require(ggplot2)
 require(reshape2)
 
-# Load raw data
+# Load raw data -- instructions
+# Download the raw data files from the GTD website (http://www.start.umd.edu/gtd/)
+# Convert the three smaller .xlsx files into .csv files
+# Then place those .csv files in a sub-directory with the name `raw-data`
+
 rawData <- data.frame()
 
 for (f in list.files("./raw-data/")){
