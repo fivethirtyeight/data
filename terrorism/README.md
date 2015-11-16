@@ -2,7 +2,7 @@
 
 This directory contains data, code and charts behind the story [The Rise Of Religiously Inspired Terrorism In France](http://fivethirtyeight.com/features/the-rise-of-religiously-inspired-terrorism-in-france/).
 
-The data source is the [Global Terrorism Database](http://www.start.umd.edu/gtd/) (GTD). Raw data files from the GTD were retrieved on November 13, 2015; however, the raw data can not be made public. The data is freely available at the GTD [website](http://www.start.umd.edu/gtd/). Please see the GTD codebook -- the file `GTD_Codebook_2015Final.pdf` -- for more information. Also included in this repo are two files from the GTD: the `Terms of Use.pdf` and `GTD Distribution letter 2015.pdf`. 
+The data source is the [Global Terrorism Database](http://www.start.umd.edu/gtd/) (GTD). Raw data files from the GTD were retrieved on November 13, 2015; however, the raw data can not be made public. The data is freely available at the GTD [website](http://www.start.umd.edu/gtd/). Please see the GTD codebook -- the file `GTD_Codebook_2015Final.pdf` -- for more information.
 
 Note: incident-level data for the year 1993 does not exist in the GTD database. However, in appendenix II of the codebook, GTD provides country-level summary statistics for that year; that data is included in the file `country_stats_1993_appendix2.csv`.
 
