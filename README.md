@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Nov. 20, 2015 | [Here’s What Your Part of America Eats On Thanksgiving](http://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving) | `thanksgiving-2015`
 Nov. 14, 2015 | [The Rise Of Religiously Inspired Terrorism In France](http://fivethirtyeight.com/features/the-rise-of-religiously-inspired-terrorism-in-france/) | `terrorism`
 Nov. 5, 2015 | [College Students Aren’t The Only Ones Abusing Adderall](http://fivethirtyeight.com/features/college-students-arent-the-only-ones-abusing-adderall) | `study-drugs`
 Oct. 15, 2015 | [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) | `fandango`
