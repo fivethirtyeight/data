@@ -5,14 +5,14 @@ This directory contains the data behind the story [Here’s What Your Part of Am
 Using a SurveyMonkey poll, we asked 1,058 respondents on Nov. 17, 2015 the following questions about their Thanksgiving:
 
 * Do you celebrate Thanksgiving?
-* What is typically the main dish at your Thanksgiving dinner?
-* What is typically the main dish at your Thanksgiving dinner? - Other (please specify)
+* What is typically the main dish at your Thanksgiving dinner?	
+	+ Other (please specify)
 * How is the main dish typically cooked?
-* How is the main dish typically cooked? - Other (please specify)
-* What kind of stuffing/dressing do you typically have?
-* What kind of stuffing/dressing do you typically have? - Other (please specify)
+	+ Other (please specify)
+* What kind of stuffing/dressing do you typically have?	
+	+ Other (please specify)
 * What type of cranberry sauce do you typically have? 
-* What type of cranberry sauce do you typically have?  - Other (please specify)
+	+ Other (please specify)
 * Do you typically have gravy?
 * Which of these side dishes are typically served at your Thanksgiving dinner? Please select all that apply.
 	+ Brussel sprouts
