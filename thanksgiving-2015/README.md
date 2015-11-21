@@ -28,7 +28,6 @@ Using a SurveyMonkey poll, we asked 1,058 respondents on Nov. 17, 2015 the follo
 	+ Vegetable salad
 	+ Yams/sweet potato casserole
 	+ Other (please specify)
-	+ Other (please specify)
 * Which type of pie is typically served at your Thanksgiving dinner? Please select all that apply. 
 	+ Apple
 	+ Buttermilk
@@ -42,7 +41,6 @@ Using a SurveyMonkey poll, we asked 1,058 respondents on Nov. 17, 2015 the follo
 	+ Sweet Potato
 	+ None 
 	+ Other (please specify)
-	+ Other (please specify)
 * Which of these desserts do you typically have at Thanksgiving dinner? Please select all that apply.
 	+ Apple cobbler
 	+ Blondies
@@ -54,7 +52,6 @@ Using a SurveyMonkey poll, we asked 1,058 respondents on Nov. 17, 2015 the follo
 	+ Ice cream
 	+ Peach cobbler
 	+ None
-	+ Other (please specify)
 	+ Other (please specify)
 * Do you typically pray before or after the Thanksgiving meal?
 * How far will you travel for Thanksgiving?
