@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Dec. 9, 2015 | [A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie](http://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films) | `tarantino`
 Nov. 20, 2015 | [Here’s What Your Part of America Eats On Thanksgiving](http://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving) | `thanksgiving-2015`
 Nov. 14, 2015 | [The Rise Of Religiously Inspired Terrorism In France](http://fivethirtyeight.com/features/the-rise-of-religiously-inspired-terrorism-in-france/) | `terrorism`
 Nov. 5, 2015 | [College Students Aren’t The Only Ones Abusing Adderall](http://fivethirtyeight.com/features/college-students-arent-the-only-ones-abusing-adderall) | `study-drugs`
