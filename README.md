@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Dec. 28, 2015 | [Most Pollsters Say Their Reputations Have Worsened](http://fivethirtyeight.com/features/most-pollsters-say-their-reputations-have-worsened/) | `poll-of-pollsters`
 Dec. 9, 2015 | [A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie](http://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films) | `tarantino`
 Nov. 20, 2015 | [Here’s What Your Part of America Eats On Thanksgiving](http://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving) | `thanksgiving-2015`
 Nov. 14, 2015 | [The Rise Of Religiously Inspired Terrorism In France](http://fivethirtyeight.com/features/the-rise-of-religiously-inspired-terrorism-in-france/) | `terrorism`
