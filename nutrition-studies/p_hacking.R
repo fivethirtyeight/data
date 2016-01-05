@@ -1,7 +1,7 @@
-# Diet P-hacking
+# Nutrition Sutides P-hacking
 # Andrew Flowers <andrew.flowers@fivethirtyeight.com>
 
-setwd("~/private-data//dieting-project/")
+setwd("~/data/nutrition-studies/")
 
 require(readr)
 require(plyr)
