@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1452009684761.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3EF212EB",
+    "lastKnownWriteTime" : 140735085965160,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "l91i3fvvp3",
+        "caption" : "regAnalysis",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=regAnalysis&cache_key=l91i3fvvp3",
+        "displayedObservations" : "27716",
+        "environment" : "",
+        "object" : "regAnalysis",
+        "totalObservations" : "27716",
+        "variables" : "3"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
