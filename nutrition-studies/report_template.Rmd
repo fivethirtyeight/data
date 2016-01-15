@@ -1,0 +1,29 @@
+---
+title: "p-hacking food survey data"
+author: "sf210"
+---
+
+### Summary
+This study provides a statistical analysis to evaluate the correlation between `r anls$food` and `r anls$char`.  Data from the study is gathered using a food frequency survey, and examines a logistical regression to evaluate how variation in `r print(anls$char)` can be explained by variation in `r print(anls$food)`.
+
+### Data
+```{r echo=FALSE}
+anls$data[,1:3]
+```
+
+### Analysis
+```{r echo=FALSE}
+anls$regsmry
+```
+
+Data with fitted values and standard errors
+(Yes=2, No=1)
+```{r echo=FALSE}
+anls$data[1:5]
+```
+
+#### Scatter Plot
+
+```{r echo=FALSE,fig.width=5,fig.height=3.5}
+print(anls$plot)
+```
