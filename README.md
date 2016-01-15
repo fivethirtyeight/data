@@ -4,6 +4,28 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Aug. 14, 2015 | ['Straight Outta Compton' Is The Rare Biopic Not About White Dudes](http://fivethirtyeight.com/features/straight-outta-compton-is-the-rare-biopic-not-about-white-dudes) | `biopics`
+Aug. 6, 2015 | [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](http://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) | `daily-show-guests`
+July 30 22, 2015 | [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/) | `buster-posey-mvp`
+July 22, 2015 | [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/) | `us-weather-history`
+June 19, 2015 | [Projecting The Top 50 Players In The 2015 NBA Draft Class](http://fivethirtyeight.com/features/projecting-the-top-50-players-in-the-2015-nba-draft-class/) | `nba-draft-2015`
+June 10, 2015 | [The Most Common Unisex Names In America: Is Yours One Of Them?](http://fivethirtyeight.com/features/there-are-922-unisex-names-in-america-is-yours-one-of-them) | `unisex-names`
+June 9, 2015 | [Blatter’s Reign At FIFA Hasn’t Helped Soccer’s Poor](http://fivethirtyeight.com/features/blatters-reign-at-fifa-hasnt-helped-soccers-poor/) | `elo-blatter`
+June 5, 2015 | [Why Some Tennis Matches Take Forever](http://fivethirtyeight.com/features/why-some-tennis-matches-take-forever/) | `tennis-time`
+June 3, 2015 | [Where Police Have Killed Americans In 2015](http://fivethirtyeight.com/features/where-police-have-killed-americans-in-2015) | `police-killings`
+June 2, 2015 | [FiveThirtyEight’s Women's World Cup Predictions](http://projects.fivethirtyeight.com/womens-world-cup/) | `womens-world-cup-predictions`
+June 2, 2015 | [The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’](http://fivethirtyeight.com/datalab/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one) | `san-andreas`
+May 29, 2015 | [How To Break FIFA](http://fivethirtyeight.com/features/how-to-break-fifa/) | `fifa`
+May 21, 2015 | [Complete History Of The NBA](http://fivethirtyeight.com/interactives/the-complete-history-of-every-nba-team-by-elo) | `nba-elo`
+May 19, 2015 | [Evangelical Protestants Are The Biggest Winners When People Change Faiths](http://fivethirtyeight.com/datalab/evangelical-protestants-are-the-biggest-winners-when-people-change-faiths/) | `pew-religions`
+May 15, 2015 | [‘Mad Men’ Is Ending. What’s Next For The Cast?](http://fivethirtyeight.com/datalab/mad-men-is-ending-whats-next-for-the-cast/) | `mad-men`
+May 12, 2015 | [Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building](http://fivethirtyeight.com/features/avengers-death-comics-age-of-ultron) | `avengers`
+April 23, 2015 | [How Baby Boomers Get High](http://fivethirtyeight.com/datalab/how-baby-boomers-get-high/) | `drug-use-by-age`
+April 20, 2015 | [Where People Go To Check The Weather](http://fivethirtyeight.com/datalab/weather-forecast-news-app-habits/) | `weather-check`
+March 15, 2015 | [FiveThirtyEight’s 2015 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions-2015/#mens) | `march-madness-predictions-2015`
+Feb. 18, 2015 | [Every NBA Team’s Chance Of Winning In Every Minute Across Every Game](https://fivethirtyeight.com/features/every-nba-teams-chance-of-winning-in-every-minute-across-every-game/) | `nba-winprobs`
+Jan. 30, 2015 | [Who Will Run For President: Romney Is Out](http://fivethirtyeight.com/datalab/romney-not-running-for-president) | `potential-candidates`
+Jan. 14, 2015 | [Looking For Clues: Who Is Going To Run For President In 2016?](http://fivethirtyeight.com/datalab/2016-president-who-is-going-to-run) | `potential-candidates`
 Dec. 30, 2014 | [Who Goes To Meaningless NFL Games And Why?](http://fivethirtyeight.com/datalab/who-goes-to-meaningless-nfl-games-and-why/) | `nfl-ticket-prices`
 Nov. 20, 2014 | [Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/) | `most-common-name`
 Nov. 7, 2014 | [Most Pollsters We Surveyed Say Polling Did Well This Year](http://fivethirtyeight.com/features/most-pollsters-we-surveyed-say-polling-did-well-this-year/) | `poll-of-pollsters`
