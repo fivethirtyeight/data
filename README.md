@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Feb. 2, 2016 | [Iowa Teaches Pollsters To Poll Until The End](http://fivethirtyeight.com/features/iowa-teaches-pollsters-to-poll-until-the-end/) | `poll-of-pollsters`
 Jan. 6, 2016 | [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition) | `nutrition-studies`
 Dec. 28, 2015 | [Most Pollsters Say Their Reputations Have Worsened](http://fivethirtyeight.com/features/most-pollsters-say-their-reputations-have-worsened/) | `poll-of-pollsters`
 Dec. 9, 2015 | [A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie](http://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films) | `tarantino`
