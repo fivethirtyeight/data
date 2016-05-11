@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+May 11, 2016 | [Sitting Presidents Give Way More Commencement Speeches Than They Used To](http://fivethirtyeight.com/features/sitting-presidents-give-way-more-commencement-speeches-than-they-used-to/) | `presidential-commencement-speeches`
 March 30, 2016 | [How Trump Hacked The Media](http://fivethirtyeight.com/features/how-donald-trump-hacked-the-media/) | `trump-news`
 March 10, 2016 | [These Are The Phrases Each GOP Candidate Repeats Most](http://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most) | `repeated-phrases-gop`
 Feb. 2, 2016 | [Iowa Teaches Pollsters To Poll Until The End](http://fivethirtyeight.com/features/iowa-teaches-pollsters-to-poll-until-the-end/) | `poll-of-pollsters`
