@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+June 2, 2016 | [FiveThirtyEight's Pollster Ratings](http://projects.fivethirtyeight.com/pollster-ratings/) | `pollster-ratings`
 May 13, 2016 | [Some People Are Too Superstitious To Have A Baby On Friday The 13th](http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/) | `births`
 May 11, 2016 | [Sitting Presidents Give Way More Commencement Speeches Than They Used To](http://fivethirtyeight.com/features/sitting-presidents-give-way-more-commencement-speeches-than-they-used-to/) | `presidential-commencement-speeches`
 March 30, 2016 | [How Trump Hacked The Media](http://fivethirtyeight.com/features/how-donald-trump-hacked-the-media/) | `trump-news`
@@ -47,7 +48,6 @@ Oct. 13, 2014 | [Comic Books Are Still Made By Men, For Men And About Men](http:
 Oct. 6, 2014 | [Pollsters Predict Greater Polling Error In Midterm Elections](http://fivethirtyeight.com/features/pollsters-predict-greater-polling-error-in-midterm-elections/) | `poll-of-pollsters`
 Oct. 3, 2014 | [Dear Mona, How Many Flight Attendants Are Men?](http://fivethirtyeight.com/datalab/dear-mona-how-many-flight-attendants-are-men/) | `male-flight-attendants`
 Sept. 29, 2014 | [Marriage Isn't Dead -- Yet](http://fivethirtyeight.com/features/marriage-isnt-dead-yet/) | `marriage`
-Sept. 25, 2014 | [FiveThirtyEight's Pollster Ratings](http://fivethirtyeight.com/interactives/pollster-ratings/) | `pollster-ratings`
 Sept. 25, 2014 | [How FiveThirtyEight Calculates Pollster Ratings](http://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings) | `pollster-ratings`
 Sept. 17, 2014 | [How The FiveThirtyEight Senate Forecast Model Works](http://fivethirtyeight.com/features/how-the-fivethirtyeight-senate-forecast-model-works/) | `forecast-methodology`
 Sept. 12, 2014 | [The Economic Guide To Picking A College Major](http://fivethirtyeight.com/features/the-economic-guide-to-picking-a-college-major/) | `college-majors`
