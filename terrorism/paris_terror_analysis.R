@@ -1,7 +1,7 @@
 # Andrew Flowers <andrew.flowers@fivethirtyeight.com>
 # Nov 13, 2015
 
-setwd("~/data/terrorism/") # Change according to one's directory structure
+
 
 require(readr)
 require(dplyr)
