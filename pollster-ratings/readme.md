@@ -58,6 +58,6 @@ Header | Definition
 `cand2_actual` | Actual share of vote for Candidate #2
 `margin_actual` | Actual margin in the election. This is calculated as `cand1_actual - cand2_actual`. In races between a Democrat and a Republican, positive values indicate a Democratic win; negative values a Republican win.
 `error` | Absolute value of the difference between the actual and polled result. This is calculated as `abs(margin_poll - margin_actual)`
-`bias` | Statistical bias of the poll. This is calculated only for races in which the top two finishers were a Democrat and a Republican. It is calculated as `margin_poll - argin_actual`. Positive values indicate a Democratic bias (the Democrat did better in the poll than the election). Negative values indicate a Republican bias.
+`bias` | Statistical bias of the poll. This is calculated only for races in which the top two finishers were a Democrat and a Republican. It is calculated as `margin_poll - margin_actual`. Positive values indicate a Democratic bias (the Democrat did better in the poll than the election). Negative values indicate a Republican bias.
 `rightcall` | Flag to indicate whether the pollster called the outcome correctly, i.e. whether the candidate they had listed in 1st place won the election. A 1 indicates a correct call and a 0 an incorrect call; 0.5 indicates that the pollster had two or more candidates tied for the lead and one of the tied candidates won.
 `comment` | Additional information, such as alternate names for the poll.
