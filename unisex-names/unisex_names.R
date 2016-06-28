@@ -2,7 +2,7 @@
 # June 10, 2015
 # Andrew <andrew.flowers@fivethirtyeight.com>
 
-setwd("~/data/unisex-names") # Change for your machine
+
 
 require(dplyr)
 require(babynames)
