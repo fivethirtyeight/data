@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+July 14, 2016 | [Hip-Hop Is Turning On Donald Trump](http://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/) | `hip-hop-candidate-lyrics`
 June 2, 2016 | [FiveThirtyEight's Pollster Ratings](http://projects.fivethirtyeight.com/pollster-ratings/) | `pollster-ratings`
 May 13, 2016 | [Some People Are Too Superstitious To Have A Baby On Friday The 13th](http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/) | `births`
 May 11, 2016 | [Sitting Presidents Give Way More Commencement Speeches Than They Used To](http://fivethirtyeight.com/features/sitting-presidents-give-way-more-commencement-speeches-than-they-used-to/) | `presidential-commencement-speeches`
