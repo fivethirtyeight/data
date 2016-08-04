@@ -1,11 +1,11 @@
 import unittest
 import robopol2
+import math
 
 
 class TestRobopol(unittest.TestCase):
     def test_ngram_freqs(self):
         corpus = 'the quick brown fox jumps over the lazy dog'.split()
-        print(robopol2.ngram_freqs(corpus, 1))
         self.assertDictEqual(
             robopol2.ngram_freqs(corpus, 1),
             {
@@ -44,6 +44,25 @@ class TestRobopol(unittest.TestCase):
                 ('A', 'C', ): 1,
             }
         )
+
+
+    def test_tfidf_dicts_from_freq_dicts(self):
+        freq_dicts = [
+                {'A': 2, 'B': 1},
+                {'B': 2, 'C': 2},
+                {'B': 1},
+                {},
+        ]
+        self.assertEqual(
+            robopol2.tfidf_dicts_from_freq_dicts(freq_dicts),
+            [
+                {'A': 2.0 * math.log(4.0 / 1.0) * 1.0, 'B': 1.0 * math.log(4.0 / 3.0) * 1.0},
+                {'B': 2.0 * math.log(4.0 / 3.0) * 1.0, 'C': 2.0 * math.log(4.0 / 1.0) * 1.0},
+                {'B': 1.0 * math.log(4.0 / 3.0) * 1.0},
+                {},
+            ]
+        )
+
 
 if __name__ == '__main__':
     unittest.main()
