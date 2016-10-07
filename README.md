@@ -5,6 +5,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
 Sept. 16, 2016 | [When Does Praying In Public Make Others Uncomfortable?](http://fivethirtyeight.com/features/when-does-praying-in-public-make-others-uncomfortable/) | `religion-survey`
+Sept. 8, 2016 | [The Rams Are Dead To Me, So I Answered 3,352 Questions To Find A New NFL Team](http://fivethirtyeight.com/features/the-rams-are-dead-to-me-so-i-answered-3352-questions-to-find-a-new-team/) | `nfl-favorite-team`
 July 14, 2016 | [Hip-Hop Is Turning On Donald Trump](http://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/) | `hip-hop-candidate-lyrics`
 June 2, 2016 | [FiveThirtyEight's Pollster Ratings](http://projects.fivethirtyeight.com/pollster-ratings/) | `pollster-ratings`
 May 13, 2016 | [Some People Are Too Superstitious To Have A Baby On Friday The 13th](http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/) | `births`
