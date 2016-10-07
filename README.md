@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Oct. 6, 2016 | [A Handful Of Cities Are Driving 2016’s Rise In Murders](http://fivethirtyeight.com/features/a-handful-of-cities-are-driving-2016s-rise-in-murders/) | `murder_2016`
 Sept. 16, 2016 | [When Does Praying In Public Make Others Uncomfortable?](http://fivethirtyeight.com/features/when-does-praying-in-public-make-others-uncomfortable/) | `religion-survey`
 Sept. 8, 2016 | [The Rams Are Dead To Me, So I Answered 3,352 Questions To Find A New NFL Team](http://fivethirtyeight.com/features/the-rams-are-dead-to-me-so-i-answered-3352-questions-to-find-a-new-team/) | `nfl-favorite-team`
 July 14, 2016 | [Hip-Hop Is Turning On Donald Trump](http://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/) | `hip-hop-candidate-lyrics`
