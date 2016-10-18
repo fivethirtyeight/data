@@ -1,6 +1,6 @@
 ### Poll of Pollsters data
 
-This repo contains the responses from pollsters to FiveThirtyEight's six polls of professional political pollsters, as described in these articles:
+This repo contains the responses from pollsters to FiveThirtyEight's seven polls of professional political pollsters, as described in these articles:
 
 [Pollsters Predict Greater Polling Error In Midterm Elections](http://fivethirtyeight.com/features/pollsters-predict-greater-polling-error-in-midterm-elections/)
 
@@ -14,7 +14,9 @@ This repo contains the responses from pollsters to FiveThirtyEight's six polls o
 
 [Iowa Teaches Pollsters To Poll Until The End](http://fivethirtyeight.com/features/iowa-teaches-pollsters-to-poll-until-the-end/)
 
-We sent out the first poll starting Wed. Sept. 24, 2014, and 26 pollsters responded by deadline. We sent out the second poll starting Sunday, Oct. 12, and 24 pollsters responded by deadline. We sent out the third poll starting Friday, Oct. 24, and 26 pollsters responded by deadline. We sent out the fourth poll starting Wednesday, Nov. 5, and 17 pollsters responded by deadline. We sent out the fifth poll starting Friday, Dec. 11, 2015, and 26 pollsters responded by deadline. We sent out the sixth poll starting Tuesday, Feb. 2, 2016, and eight pollsters responded by deadline.
+[Top Pollsters Expect Clinton To Win](http://fivethirtyeight.com/features/top-pollsters-expect-clinton-to-win/)
+
+We sent out the first poll starting Wed. Sept. 24, 2014, and 26 pollsters responded by deadline. We sent out the second poll starting Sunday, Oct. 12, and 24 pollsters responded by deadline. We sent out the third poll starting Friday, Oct. 24, and 26 pollsters responded by deadline. We sent out the fourth poll starting Wednesday, Nov. 5, and 17 pollsters responded by deadline. We sent out the fifth poll starting Friday, Dec. 11, 2015, and 26 pollsters responded by deadline. We sent out the sixth poll starting Tuesday, Feb. 2, 2016, and eight pollsters responded by deadline. We sent out the seventh poll starting Saturday, Oct. 8, 2016, and 33 pollsters responded by deadline.
 
 Respondents include commercial and academic pollsters who identify their polling organizations as liberal, nonpartisan or conservative. Some poll online, some by phone, some both. Some answers have been edited, primarily for spelling, grammar, style and to protect anonymity, when requested.
 
