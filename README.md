@@ -23,7 +23,7 @@ Nov. 5, 2015 | [College Students Aren’t The Only Ones Abusing Adderall](http:/
 Oct. 15, 2015 | [Be Suspicious Of Online Movie Ratings, Especially Fandango’s](http://fivethirtyeight.com/features/fandango-movies-ratings/) | `fandango`
 Aug. 14, 2015 | ['Straight Outta Compton' Is The Rare Biopic Not About White Dudes](http://fivethirtyeight.com/features/straight-outta-compton-is-the-rare-biopic-not-about-white-dudes) | `biopics`
 Aug. 6, 2015 | [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](http://fivethirtyeight.com/datalab/every-guest-jon-stewart-ever-had-on-the-daily-show/) | `daily-show-guests`
-July 30 22, 2015 | [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/) | `buster-posey-mvp`
+July 30, 2015 | [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/) | `buster-posey-mvp`
 July 22, 2015 | [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/) | `us-weather-history`
 June 19, 2015 | [Projecting The Top 50 Players In The 2015 NBA Draft Class](http://fivethirtyeight.com/features/projecting-the-top-50-players-in-the-2015-nba-draft-class/) | `nba-draft-2015`
 June 10, 2015 | [The Most Common Unisex Names In America: Is Yours One Of Them?](http://fivethirtyeight.com/features/there-are-922-unisex-names-in-america-is-yours-one-of-them) | `unisex-names`
