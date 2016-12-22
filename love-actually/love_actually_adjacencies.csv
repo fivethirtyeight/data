@@ -1,0 +1,15 @@
+actors,bill_nighy,keira_knightley,andrew_lincoln,hugh_grant,colin_firth,alan_rickman,heike_makatsch,laura_linney,emma_thompson,liam_neeson,kris_marshall,abdul_salis,martin_freeman,rowan_atkinson
+bill_nighy,9,,,,,,,,,,,,,
+keira_knightley,2,7,,,,,,,,,,,,
+andrew_lincoln,2,7,8,,,,,,,,,,,
+hugh_grant,2,1,1,13,,,,,,,,,,
+colin_firth,1,2,2,1,13,,,,,,,,,
+alan_rickman,1,1,2,3,1,13,,,,,,,,
+heike_makatsch,0,0,1,1,0,7,9,,,,,,,
+laura_linney,1,3,4,1,2,4,3,11,,,,,,
+emma_thompson,1,1,2,3,1,9,3,2,12,,,,,
+liam_neeson,3,1,1,2,1,2,0,1,5,13,,,,
+kris_marshall,1,2,2,1,1,1,1,1,1,1,7,,,
+abdul_salis,1,2,2,1,1,1,0,1,1,1,5,7,,
+martin_freeman,1,1,1,2,1,2,0,1,2,2,1,3,7,
+rowan_atkinson,1,0,0,0,0,1,0,0,1,1,0,0,0,2
