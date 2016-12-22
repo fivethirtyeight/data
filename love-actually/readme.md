@@ -1,6 +1,6 @@
 ### Love Actually
 
-This directory contains the data behind the story: [The Definitive Analysis Of ‘Love Actually,’ The Greatest Christmas Movie Of Our Time](http://fivethirtyeight.com/features/the-definitive-a…ovie-of-our-time/)
+This directory contains the data behind the story: [The Definitive Analysis Of ‘Love Actually,’ The Greatest Christmas Movie Of Our Time](https://fivethirtyeight.com/features/the-definitive-analysis-of-love-actually-the-greatest-christmas-movie-of-our-time/)
 
 There are two data files:
 
