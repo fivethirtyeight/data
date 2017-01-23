@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Jan. 23, 2017 | [Higher Rates Of Hate Crimes Are Tied To Income Inequality](https://fivethirtyeight.com/features/higher-rates-of-hate-crimes-are-tied-to-income-inequality/) | `hate-crimes`
 Dec. 16, 2016 | [The Last 10 Weeks Of 2016 Campaign Stops In One Handy Gif](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/) | `presidential-campaign-trail`
 Oct. 6, 2016 | [A Handful Of Cities Are Driving 2016’s Rise In Murders](http://fivethirtyeight.com/features/a-handful-of-cities-are-driving-2016s-rise-in-murders/) | `murder_2016`
 Sept. 16, 2016 | [When Does Praying In Public Make Others Uncomfortable?](http://fivethirtyeight.com/features/when-does-praying-in-public-make-others-uncomfortable/) | `religion-survey`
