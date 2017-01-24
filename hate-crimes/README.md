@@ -30,3 +30,8 @@ Sources:
 [United States Elections Project](http://www.electproject.org/2016g)
 [Southern Poverty Law Center](https://www.splcenter.org/20161129/ten-days-after-harassment-and-intimidation-aftermath-election)
 [FBI](https://ucr.fbi.gov/hate-crime)
+
+#### Correction
+
+Please see the following commit:
+https://github.com/fivethirtyeight/data/commit/fbc884a5c8d45a0636e1d6b000021632a0861986
