@@ -9,3 +9,8 @@ Readers were asked to submit a strategy for the following “Colonel Blotto”-s
 > Submit a plan distributing your 100 soldiers among the 10 castles. Once I receive all your battle plans, I’ll adjudicate all the possible one-on-one matchups. Whoever wins the most wars wins the battle royale and is crowned king or queen of Riddler Nation!
 
 The data in `castle-solutions.csv` includes all 1,387 valid submissions, with solvers’ identifying information removed. The 11 columns represent the soldiers deployed to each of the 10 castles, plus a column where the reader could describe his or her strategic approach.
+
+#### Correction
+
+Please see the following commit:
+https://github.com/fivethirtyeight/data/commit/c3f808fda5b67aa26ea6fa663ddd4d2eb7c6187f
