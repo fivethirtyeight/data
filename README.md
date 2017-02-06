@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Feb. 3, 2017 | [Can You Rule Riddler Nation?](https://fivethirtyeight.com/features/can-you-rule-riddler-nation/) | `riddler-castles`
 Jan. 23, 2017 | [Higher Rates Of Hate Crimes Are Tied To Income Inequality](https://fivethirtyeight.com/features/higher-rates-of-hate-crimes-are-tied-to-income-inequality/) | `hate-crimes`
 Jan. 19, 2017 | [Obama Granted Clemency Unlike Any Other President In History](https://fivethirtyeight.com/features/obama-granted-clemency-unlike-any-other-president-in-history/) | `obama-commutations`
 Dec. 16, 2016 | [The Last 10 Weeks Of 2016 Campaign Stops In One Handy Gif](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/) | `presidential-campaign-trail`
