@@ -1,6 +1,6 @@
 ### Hate-crimes data
 
-The raw data behind the story []()
+The raw data behind the story [Higher Rates Of Hate Crimes Are Tied To Income Inequality](https://fivethirtyeight.com/features/higher-rates-of-hate-crimes-are-tied-to-income-inequality/)
 
 Header | Definition
 ---|---------
