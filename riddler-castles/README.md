@@ -1,0 +1,11 @@
+### Riddler - Solutions to Castles Puzzle
+
+This directory contains the raw data behind the submissions for the puzzle [Can You Rule Riddler Nation?](https://fivethirtyeight.com/features/can-you-rule-riddler-nation/)
+
+Readers were asked to submit a strategy for the following “Colonel Blotto”-style game:
+
+> In a distant, war-torn land, there are 10 castles. There are two warlords: you and your archenemy. Each castle has its own strategic value for a would-be conqueror. Specifically, the castles are worth 1, 2, 3, …, 9, and 10 victory points. You and your enemy each have 100 soldiers to distribute, any way you like, to fight at any of the 10 castles. Whoever sends more soldiers to a given castle conquers that castle and wins its victory points. If you each send the same number of troops, you split the points. You don’t know what distribution of forces your enemy has chosen until the battles begin. Whoever wins the most points wins the war. 
+>
+> Submit a plan distributing your 100 soldiers among the 10 castles. Once I receive all your battle plans, I’ll adjudicate all the possible one-on-one matchups. Whoever wins the most wars wins the battle royale and is crowned king or queen of Riddler Nation!
+
+The data in `castle-solutions.csv` includes all 1,387 valid submissions, with solvers’ identifying information removed. The 11 columns represent the soldiers deployed to each of the 10 castles, plus a column where the reader could describe his or her strategic approach.
