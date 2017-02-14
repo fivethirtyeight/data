@@ -7,7 +7,7 @@ Article Date(s) | Headline(s) | Folder
 Feb. 3, 2017 | [Can You Rule Riddler Nation?](https://fivethirtyeight.com/features/can-you-rule-riddler-nation/) | [riddler-castles](riddler-castles)
 Jan. 23, 2017 | [Higher Rates Of Hate Crimes Are Tied To Income Inequality](https://fivethirtyeight.com/features/higher-rates-of-hate-crimes-are-tied-to-income-inequality/) | [hate-crimes](hate-crimes)
 Jan. 19, 2017 | [Obama Granted Clemency Unlike Any Other President In History](https://fivethirtyeight.com/features/obama-granted-clemency-unlike-any-other-president-in-history/) | [obama-commutations](obama-commutations)
-Dec. 22, 2016 | [The Definitive Analysis Of ‘Love Actually,’ The Greatest Christmas Movie Of Our Time](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/) | [love-actually](love-actually)
+Dec. 22, 2016 | [The Definitive Analysis Of ‘Love Actually,’ The Greatest Christmas Movie Of Our Time](https://fivethirtyeight.com/features/the-definitive-analysis-of-love-actually-the-greatest-christmas-movie-of-our-time/) | [love-actually](love-actually)
 Dec. 16, 2016 | [The Last 10 Weeks Of 2016 Campaign Stops In One Handy Gif](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/) | [presidential-campaign-trail](presidential-campaign-trail)
 Oct. 6, 2016 | [A Handful Of Cities Are Driving 2016’s Rise In Murders](http://fivethirtyeight.com/features/a-handful-of-cities-are-driving-2016s-rise-in-murders/) | [murder_2016](murder_2016)
 Sept. 16, 2016 | [When Does Praying In Public Make Others Uncomfortable?](http://fivethirtyeight.com/features/when-does-praying-in-public-make-others-uncomfortable/) | [religion-survey](religion-survey)
