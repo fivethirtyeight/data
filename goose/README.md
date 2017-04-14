@@ -9,9 +9,9 @@ Header | Definition
 `year` | Start year of season
 `team` | Retrosheet team code
 `league` | NL or AL
-`gooseeggs` | Goose eggs
-`blowngeese` | Blown geese
-`mulligans` | Mulligans
+`goose_eggs` | Goose eggs
+`broken_eggs` | Broken eggs
+`mehs` | Mehs
 `league_average_gpct` | League-average goose percentage
 `ppf` | Pitcher park factor
 `replacement_gpct` | Replacement-level goose pecentage
