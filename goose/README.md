@@ -1,6 +1,6 @@
 ### Goose
 
-The raw data behind the story [The Save Ruined Relief Pitching. The Goose Egg Can Fix It.](https://fivethirtyeight.com/goose-egg-new-save-stat-relief-pitchers/).
+The raw data behind the story [The Save Ruined Relief Pitching. The Goose Egg Can Fix It](https://fivethirtyeight.com/goose-egg-new-save-stat-relief-pitchers/).
 
 
 Header | Definition
