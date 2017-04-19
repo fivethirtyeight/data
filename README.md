@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+April 19, 2017 | [How 'Qi' And 'Za' Changed Scrabble](https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/) |[scrabble-games](scrabble-games)
 April 17, 2017 | [The Save Ruined Relief Pitching. The Goose Egg Can Fix It.](https://fivethirtyeight.com/features/goose-egg-new-save-stat-relief-pitchers/) | [goose](goose)
 March 27, 2017 | [For A Trump Nominee, Neil Gorsuch’s Record Is Surprisingly Moderate On Immigration](http://53eig.ht/2nPVCrS) | [tenth-circuit](tenth-circuit)
 March 23, 2017 | [Dissecting Trump's Most Rabid Online Following](https://fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/) | [subreddit-algebra](subreddit-algebra)

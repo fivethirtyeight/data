@@ -1,10 +1,10 @@
 ### Scrabble tournament games data
 
-The raw data behind the story [Scrabble Hed TK](link TK)
+The raw data behind the story [How 'Qi' And 'Za' Changed Scrabble](https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/)
 
 Header | Definition
 ---|---------
-`gameid` | A numerical game ID 
+`gameid` | A numerical game ID
 `tourneyid` | A numerical tournament ID
 `tie` | A binary variable indicating if the game ended in a tie
 `winnerid` | A numerical ID for the winning player
