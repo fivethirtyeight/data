@@ -1,6 +1,6 @@
 ### Actions under the Antiquities Act 
 
-Data behind the story [TKTK](http://fivethirtyeight.com/features/tktk/). 
+Data behind the story [Trump Might Be The First President To Scrap A National Monument](http://fivethirtyeight.com/features/trump-might-be-the-first-president-to-scrap-a-national-monument/). 
 
 This data was compiled by the National Parks Conservation Association and includes national monuments that were created by presidents by under the Antiquities Act. It does not include national monuments created by Congress. 
 
