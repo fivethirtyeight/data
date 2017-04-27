@@ -1,6 +1,8 @@
 ### Actions under the Antiquities Act 
 
-Data behind the story [TKTK](http://fivethirtyeight.com/features/tktk/). This data was compiled by the National Parks Conservation Association and includes national monuments that were created by presidents by under the Antiquities Act. It does not include national monuments created by Congress. 
+Data behind the story [TKTK](http://fivethirtyeight.com/features/tktk/). 
+
+This data was compiled by the National Parks Conservation Association and includes national monuments that were created by presidents by under the Antiquities Act. It does not include national monuments created by Congress. 
 
 Header | Definition
 ---|---------
