@@ -9,11 +9,11 @@ The data and calculations behind FiveThirtyEight's pollster ratings.
 Past data:
 * [2014](2014/)
 
-###`pollster-stats-full.xlsx`
+### `pollster-stats-full.xlsx`
 
 A spreadsheet with all of the summary data and calculations involved in determining the pollster ratings.
 
-###`pollster-ratings.csv`
+### `pollster-ratings.csv`
 
 Header | Definition
 ---|---------
