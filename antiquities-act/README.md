@@ -16,4 +16,4 @@ Header | Definition
 `pres_or_congress` | President or congress that issued action
 `acres_affected` | Acres affected by action. Note that total current acreage is not included. National monuments that cover ocean are listed in square miles.
 
-Sources: [National Parks Conservation Association](https://www.npca.org/) and [National Parks Service Archeology Progam](https://www.nps.gov/history/archeology/sites/antiquities/MonumentsList.htm)
+Sources: [National Parks Conservation Association](https://www.npca.org/) and [National Parks Service Archeology Program](https://www.nps.gov/history/archeology/sites/antiquities/MonumentsList.htm)
