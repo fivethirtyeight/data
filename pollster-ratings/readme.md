@@ -9,11 +9,11 @@ The data and calculations behind FiveThirtyEight's pollster ratings.
 Past data:
 * [2014](2014/)
 
-###`pollster-stats-full.xlsx`
+### `pollster-stats-full.xlsx`
 
 A spreadsheet with all of the summary data and calculations involved in determining the pollster ratings.
 
-###`pollster-ratings.csv`
+### `pollster-ratings.csv`
 
 Header | Definition
 ---|---------
@@ -30,7 +30,7 @@ Header | Definition
 `Banned by 538` | Yes indicates that the polling firm is not used in FiveThirtyEight’s election forecasting models because we are concerned that it has faked some polling results or engaged in other gross ethical misconduct.
 `Mean-Reverted Bias` | A pollster’s historical average statistical bias toward Democratic or Republican candidates, reverted to a mean of zero based on the number of polls in the database.
 
-###`raw-polls.csv`
+### `raw-polls.csv`
 
 Contains all of the polls analyzed to give each pollster a grade.
 
