@@ -7051,7 +7051,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 92,house,F000381,Louis,,Frey,Jr.,1934-01-11,FL,R,Yes,1971-01-21,37.0
 92,house,A000103,William,Vollie,Alexander,Jr.,1934-01-16,AR,D,Yes,1971-01-21,37.0
 92,house,P000556,David,Hampton,Pryor,,1934-08-29,AR,D,Yes,1971-01-21,36.4
-92,house,D000558,Pierre,Samuel, IV,du Pont,,1935-01-22,DE,R,No,1971-01-21,36.0
+92,house,D000558,Pierre,Samuel, du Pont, IV,1935-01-22,DE,R,No,1971-01-21,36.0
 92,house,S001039,Williamson,Sylvester,Stuckey,Jr.,1935-05-25,GA,D,Yes,1971-01-21,35.7
 92,house,K000086,Jack,French,Kemp,,1935-07-13,NY,R,No,1971-01-21,35.5
 92,house,D000222,Ronald,Vernie,Dellums,,1935-11-24,CA,D,No,1971-01-21,35.2
@@ -7578,7 +7578,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 93,house,G000226,Ronald,Bryan,Ginn,,1934-05-31,GA,D,No,1973-01-03,38.6
 93,house,G000528,William,Dawson,Gunter,Jr.,1934-07-16,FL,D,No,1973-01-03,38.5
 93,house,S000062,Ronald,Arthur,Sarasin,,1934-12-31,CT,R,No,1973-01-03,38.0
-93,house,D000558,Pierre,Samuel, IV,du Pont,,1935-01-22,DE,R,Yes,1973-01-03,37.9
+93,house,D000558,Pierre,Samuel, du Pont,IV,1935-01-22,DE,R,Yes,1973-01-03,37.9
 93,house,S001039,Williamson,Sylvester,Stuckey,Jr.,1935-05-25,GA,D,Yes,1973-01-03,37.6
 93,house,K000086,Jack,French,Kemp,,1935-07-13,NY,R,Yes,1973-01-03,37.5
 93,house,D000222,Ronald,Vernie,Dellums,,1935-11-24,CA,D,Yes,1973-01-03,37.1
@@ -8085,7 +8085,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 94,house,N000016,Stephen,Lybrook,Neal,,1934-11-07,NC,D,No,1975-01-14,40.2
 94,house,H000719,Kenneth,Lamar,Holland,,1934-11-24,SC,D,No,1975-01-14,40.1
 94,house,S000062,Ronald,Arthur,Sarasin,,1934-12-31,CT,R,Yes,1975-01-14,40.0
-94,house,D000558,Pierre,Samuel, IV,du Pont,,1935-01-22,DE,R,Yes,1975-01-14,40.0
+94,house,D000558,Pierre,Samuel, du Pont,IV,1935-01-22,DE,R,Yes,1975-01-14,40.0
 94,house,N000163,Henry,James,Nowak,,1935-02-21,NY,D,No,1975-01-14,39.9
 94,house,M000413,Lawrence,Patton,McDonald,,1935-04-01,GA,D,No,1975-01-14,39.8
 94,house,S001039,Williamson,Sylvester,Stuckey,Jr.,1935-05-25,GA,D,Yes,1975-01-14,39.6
@@ -9716,7 +9716,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 97,house,C000344,Richard,Bruce,Cheney,,1941-01-30,WY,R,Yes,1981-01-05,39.9
 97,house,G000132,Richard,Andrew,Gephardt,,1941-01-31,MO,D,Yes,1981-01-05,39.9
 97,house,P000097,Charles,,Pashayan,Jr.,1941-03-27,CA,R,Yes,1981-01-05,39.8
-97,house,D000065,Harold,John, Jr.,,Daub,,1941-04-23,NE,R,No,1981-01-05,39.7
+97,house,D000065,Harold,John, Daub, Jr.,1941-04-23,NE,R,No,1981-01-05,39.7
 97,house,H000901,Thomas,Jerald,Huckaby,,1941-07-19,LA,D,Yes,1981-01-05,39.5
 97,house,H000302,Thomas,Forbes,Hartnett,,1941-08-07,SC,R,No,1981-01-05,39.4
 97,house,K000304,Raymond,Peter,Kogovsek,,1941-08-19,CO,D,Yes,1981-01-05,39.4
@@ -10016,7 +10016,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 98,house,V000026,Tommy,Joe,Vandergriff,,1926-01-29,TX,D,No,1983-01-03,56.9
 98,house,R000481,James,Roy,Rowland,Jr.,1926-02-03,GA,D,No,1983-01-03,56.9
 98,house,H000624,Elwood,Haynes,Hillis,,1926-03-06,IN,R,Yes,1983-01-03,56.8
-98,house,V000006,Itimous,Thaddeus, Jr.,,Valentine,,1926-03-15,NC,D,No,1983-01-03,56.8
+98,house,V000006,Itimous,Thaddeus,Valentine,Jr.,1926-03-15,NC,D,No,1983-01-03,56.8
 98,house,D000592,Mervyn,Malcolm,Dymally,,1926-05-12,CA,D,Yes,1983-01-03,56.6
 98,house,H001018,Earl,Dewitt,Hutto,,1926-05-12,FL,D,Yes,1983-01-03,56.6
 98,house,B001156,Phillip,,Burton,,1926-06-01,CA,D,Yes,1983-01-03,56.6
@@ -10232,7 +10232,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 98,house,G000132,Richard,Andrew,Gephardt,,1941-01-31,MO,D,Yes,1983-01-03,41.9
 98,house,P000097,Charles,,Pashayan,Jr.,1941-03-27,CA,R,Yes,1983-01-03,41.8
 98,house,B000410,Howard,L.,Berman,,1941-04-15,CA,D,No,1983-01-03,41.7
-98,house,D000065,Harold,John, Jr.,,Daub,,1941-04-23,NE,R,Yes,1983-01-03,41.7
+98,house,D000065,Harold,John,Daub,Jr.,1941-04-23,NE,R,Yes,1983-01-03,41.7
 98,house,S000586,Lawrence,Jack,Smith,,1941-04-25,FL,D,No,1983-01-03,41.7
 98,house,H000901,Thomas,Jerald,Huckaby,,1941-07-19,LA,D,Yes,1983-01-03,41.5
 98,house,B000236,Jim,,Bates,,1941-07-21,CA,D,No,1983-01-03,41.5
@@ -10547,7 +10547,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 99,house,S000081,Gus,,Savage,,1925-10-30,IL,D,Yes,1985-01-03,59.2
 99,house,R000481,James,Roy,Rowland,Jr.,1926-02-03,GA,D,Yes,1985-01-03,58.9
 99,house,H000624,Elwood,Haynes,Hillis,,1926-03-06,IN,R,Yes,1985-01-03,58.8
-99,house,V000006,Itimous,Thaddeus, Jr.,,Valentine,,1926-03-15,NC,D,Yes,1985-01-03,58.8
+99,house,V000006,Itimous,Thaddeus,Valentine,Jr.,1926-03-15,NC,D,Yes,1985-01-03,58.8
 99,house,D000592,Mervyn,Malcolm,Dymally,,1926-05-12,CA,D,Yes,1985-01-03,58.6
 99,house,H001018,Earl,Dewitt,Hutto,,1926-05-12,FL,D,Yes,1985-01-03,58.6
 99,house,F000141,Hamilton,,Fish,Jr.,1926-06-03,NY,R,Yes,1985-01-03,58.6
@@ -10638,7 +10638,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 99,house,S000394,Elmer,Greinert,Shuster,,1932-01-23,PA,R,Yes,1985-01-03,52.9
 99,house,B000556,Tom,,Bliley,,1932-01-28,VA,R,Yes,1985-01-03,52.9
 99,house,J000033,Andrew,,Jacobs,Jr.,1932-02-24,IN,D,Yes,1985-01-03,52.9
-99,house,M000566,John,Alexander, III,McMillan,,1932-05-09,NC,R,No,1985-01-03,52.7
+99,house,M000566,John,Alexander,McMillan,III,1932-05-09,NC,R,No,1985-01-03,52.7
 99,house,M001120,John,P.,Murtha,,1932-06-17,PA,D,Yes,1985-01-03,52.5
 99,house,B001220,Beverly,Barton Butcher,Byron,,1932-07-27,MD,D,Yes,1985-01-03,52.4
 99,house,D000131,Robert,William,Davis,,1932-07-31,MI,R,Yes,1985-01-03,52.4
@@ -10761,7 +10761,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 99,house,P000097,Charles,,Pashayan,Jr.,1941-03-27,CA,R,Yes,1985-01-03,43.8
 99,house,S000606,Robert,,Smith,,1941-03-30,NH,R,No,1985-01-03,43.8
 99,house,B000410,Howard,L.,Berman,,1941-04-15,CA,D,Yes,1985-01-03,43.7
-99,house,D000065,Harold,John, Jr.,,Daub,,1941-04-23,NE,R,Yes,1985-01-03,43.7
+99,house,D000065,Harold,John, Daub,Jr.,1941-04-23,NE,R,Yes,1985-01-03,43.7
 99,house,S000586,Lawrence,Jack,Smith,,1941-04-25,FL,D,Yes,1985-01-03,43.7
 99,house,E000033,Fred,J.,Eckert,,1941-05-06,NY,R,No,1985-01-03,43.7
 99,house,T000350,James,A.,Traficant,Jr.,1941-05-08,OH,D,No,1985-01-03,43.7
@@ -11072,7 +11072,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 100,house,L000508,Thomas,Andrew,Luken,,1925-07-09,OH,D,Yes,1987-01-06,61.5
 100,house,S000081,Gus,,Savage,,1925-10-30,IL,D,Yes,1987-01-06,61.2
 100,house,R000481,James,Roy,Rowland,Jr.,1926-02-03,GA,D,Yes,1987-01-06,60.9
-100,house,V000006,Itimous,Thaddeus, Jr.,,Valentine,,1926-03-15,NC,D,Yes,1987-01-06,60.8
+100,house,V000006,Itimous,Thaddeus,Valentine,Jr.,1926-03-15,NC,D,Yes,1987-01-06,60.8
 100,house,D000592,Mervyn,Malcolm,Dymally,,1926-05-12,CA,D,Yes,1987-01-06,60.7
 100,house,H001018,Earl,Dewitt,Hutto,,1926-05-12,FL,D,Yes,1987-01-06,60.7
 100,house,F000141,Hamilton,,Fish,Jr.,1926-06-03,NY,R,Yes,1987-01-06,60.6
@@ -11165,7 +11165,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 100,house,S000394,Elmer,Greinert,Shuster,,1932-01-23,PA,R,Yes,1987-01-06,55.0
 100,house,B000556,Tom,,Bliley,,1932-01-28,VA,R,Yes,1987-01-06,54.9
 100,house,J000033,Andrew,,Jacobs,Jr.,1932-02-24,IN,D,Yes,1987-01-06,54.9
-100,house,M000566,John,Alexander, III,McMillan,,1932-05-09,NC,R,Yes,1987-01-06,54.7
+100,house,M000566,John,Alexander,McMillan,III,1932-05-09,NC,R,Yes,1987-01-06,54.7
 100,house,M001120,John,P.,Murtha,,1932-06-17,PA,D,Yes,1987-01-06,54.6
 100,house,B001220,Beverly,Barton Butcher,Byron,,1932-07-27,MD,D,Yes,1987-01-06,54.4
 100,house,D000131,Robert,William,Davis,,1932-07-31,MI,R,Yes,1987-01-06,54.4
@@ -11287,7 +11287,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 100,house,P000097,Charles,,Pashayan,Jr.,1941-03-27,CA,R,Yes,1987-01-06,45.8
 100,house,S000606,Robert,,Smith,,1941-03-30,NH,R,Yes,1987-01-06,45.8
 100,house,B000410,Howard,L.,Berman,,1941-04-15,CA,D,Yes,1987-01-06,45.7
-100,house,D000065,Harold,John, Jr.,,Daub,,1941-04-23,NE,R,Yes,1987-01-06,45.7
+100,house,D000065,Harold,John, Daub, Jr.,1941-04-23,NE,R,Yes,1987-01-06,45.7
 100,house,S000586,Lawrence,Jack,Smith,,1941-04-25,FL,D,Yes,1987-01-06,45.7
 100,house,T000350,James,A.,Traficant,Jr.,1941-05-08,OH,D,Yes,1987-01-06,45.7
 100,house,H000901,Thomas,Jerald,Huckaby,,1941-07-19,LA,D,Yes,1987-01-06,45.5
@@ -11603,7 +11603,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 101,house,L000508,Thomas,Andrew,Luken,,1925-07-09,OH,D,Yes,1989-01-03,63.5
 101,house,S000081,Gus,,Savage,,1925-10-30,IL,D,Yes,1989-01-03,63.2
 101,house,R000481,James,Roy,Rowland,Jr.,1926-02-03,GA,D,Yes,1989-01-03,62.9
-101,house,V000006,Itimous,Thaddeus, Jr.,,Valentine,,1926-03-15,NC,D,Yes,1989-01-03,62.8
+101,house,V000006,Itimous,Thaddeus, Valentine, Jr.,1926-03-15,NC,D,Yes,1989-01-03,62.8
 101,house,D000592,Mervyn,Malcolm,Dymally,,1926-05-12,CA,D,Yes,1989-01-03,62.6
 101,house,H001018,Earl,Dewitt,Hutto,,1926-05-12,FL,D,Yes,1989-01-03,62.6
 101,house,F000141,Hamilton,,Fish,Jr.,1926-06-03,NY,R,Yes,1989-01-03,62.6
@@ -11694,7 +11694,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 101,house,S000394,Elmer,Greinert,Shuster,,1932-01-23,PA,R,Yes,1989-01-03,56.9
 101,house,B000556,Tom,,Bliley,,1932-01-28,VA,R,Yes,1989-01-03,56.9
 101,house,J000033,Andrew,,Jacobs,Jr.,1932-02-24,IN,D,Yes,1989-01-03,56.9
-101,house,M000566,John,Alexander, III,McMillan,,1932-05-09,NC,R,Yes,1989-01-03,56.7
+101,house,M000566,John,Alexander,McMillan,III,1932-05-09,NC,R,Yes,1989-01-03,56.7
 101,house,M001120,John,P.,Murtha,,1932-06-17,PA,D,Yes,1989-01-03,56.5
 101,house,B001220,Beverly,Barton Butcher,Byron,,1932-07-27,MD,D,Yes,1989-01-03,56.4
 101,house,D000131,Robert,William,Davis,,1932-07-31,MI,R,Yes,1989-01-03,56.4
@@ -12138,7 +12138,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 102,house,D000326,William,Louis,Dickinson,,1925-06-05,AL,R,Yes,1991-01-03,65.6
 102,house,S000081,Gus,,Savage,,1925-10-30,IL,D,Yes,1991-01-03,65.2
 102,house,R000481,James,Roy,Rowland,Jr.,1926-02-03,GA,D,Yes,1991-01-03,64.9
-102,house,V000006,Itimous,Thaddeus, Jr.,,Valentine,,1926-03-15,NC,D,Yes,1991-01-03,64.8
+102,house,V000006,Itimous,Thaddeus, Valentine,Jr.,1926-03-15,NC,D,Yes,1991-01-03,64.8
 102,house,N000094,Richard,,Nichols,,1926-04-29,KS,R,No,1991-01-03,64.7
 102,house,D000592,Mervyn,Malcolm,Dymally,,1926-05-12,CA,D,Yes,1991-01-03,64.6
 102,house,H001018,Earl,Dewitt,Hutto,,1926-05-12,FL,D,Yes,1991-01-03,64.6
@@ -12227,7 +12227,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 102,house,S000394,Elmer,Greinert,Shuster,,1932-01-23,PA,R,Yes,1991-01-03,58.9
 102,house,B000556,Tom,,Bliley,,1932-01-28,VA,R,Yes,1991-01-03,58.9
 102,house,J000033,Andrew,,Jacobs,Jr.,1932-02-24,IN,D,Yes,1991-01-03,58.9
-102,house,M000566,John,Alexander, III,McMillan,,1932-05-09,NC,R,Yes,1991-01-03,58.7
+102,house,M000566,John,Alexander,McMillan,III,1932-05-09,NC,R,Yes,1991-01-03,58.7
 102,house,M001120,John,P.,Murtha,,1932-06-17,PA,D,Yes,1991-01-03,58.5
 102,house,B001220,Beverly,Barton Butcher,Byron,,1932-07-27,MD,D,Yes,1991-01-03,58.4
 102,house,D000131,Robert,William,Davis,,1932-07-31,MI,R,Yes,1991-01-03,58.4
@@ -12661,7 +12661,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,house,R000141,Ralph,,Regula,,1924-12-03,OH,R,Yes,1993-01-05,68.1
 103,house,S000948,Louis,,Stokes,,1925-02-23,OH,D,Yes,1993-01-05,67.9
 103,house,R000481,James,Roy,Rowland,Jr.,1926-02-03,GA,D,Yes,1993-01-05,66.9
-103,house,V000006,Itimous,Thaddeus, Jr.,,Valentine,,1926-03-15,NC,D,Yes,1993-01-05,66.8
+103,house,V000006,Itimous,Thaddeus,Valentine,Jr.,1926-03-15,NC,D,Yes,1993-01-05,66.8
 103,house,M000628,Carrie,,Meek,,1926-04-29,FL,D,No,1993-01-05,66.7
 103,house,H001018,Earl,Dewitt,Hutto,,1926-05-12,FL,D,Yes,1993-01-05,66.7
 103,house,B000208,Roscoe,G.,Bartlett,,1926-06-03,MD,R,No,1993-01-05,66.6
@@ -12735,7 +12735,7 @@ congress,chamber,bioguide,firstname,middlename,lastname,suffix,birthday,state,pa
 103,house,S000394,Elmer,Greinert,Shuster,,1932-01-23,PA,R,Yes,1993-01-05,61.0
 103,house,B000556,Tom,,Bliley,,1932-01-28,VA,R,Yes,1993-01-05,60.9
 103,house,J000033,Andrew,,Jacobs,Jr.,1932-02-24,IN,D,Yes,1993-01-05,60.9
-103,house,M000566,John,Alexander, III,McMillan,,1932-05-09,NC,R,Yes,1993-01-05,60.7
+103,house,M000566,John,Alexander,McMillan,III,1932-05-09,NC,R,Yes,1993-01-05,60.7
 103,house,M001120,John,P.,Murtha,,1932-06-17,PA,D,Yes,1993-01-05,60.6
 103,house,H000172,James,V.,Hansen,,1932-08-14,UT,R,Yes,1993-01-05,60.4
 103,house,C000052,H.,L.,Callahan,,1932-09-11,AL,R,Yes,1993-01-05,60.3
