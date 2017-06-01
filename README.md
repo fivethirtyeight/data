@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+May 19, 2017 | [The Battle For Riddler Nation, Round 2](http://fivethirtyeight.com/features/the-battle-for-riddler-nation-round-2/) | [riddler-castles](riddler-castles)
 April 27, 2017 | [Trump Might Be The First President To Scrap A National Monument](http://fivethirtyeight.com/features/trump-might-be-the-first-president-to-scrap-a-national-monument/) | [antiquities-act](antiquities-act)
 April 21, 2017 | [When Scientists Donate To Politicians, It’s Usually To Democrats](https://fivethirtyeight.com/features/when-scientists-donate-to-politicians-its-usually-to-democrats) |[science-giving](science-giving)
 April 19, 2017 | [How 'Qi' And 'Za' Changed Scrabble](https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/) |[scrabble-games](scrabble-games)
