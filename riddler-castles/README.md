@@ -1,6 +1,9 @@
 ### Riddler - Solutions to Castles Puzzle
 
-This directory contains the raw data behind the submissions for the puzzle [Can You Rule Riddler Nation?](https://fivethirtyeight.com/features/can-you-rule-riddler-nation/)
+This directory contains the raw data behind the submissions for castles puzzle.
+
+* `castle-solutions.csv` contains the submissions for [Can You Rule Riddler Nation?](https://fivethirtyeight.com/features/can-you-rule-riddler-nation/)
+* `castle-solutions-2.csv` contains the submissions for [The Battle For Riddler Nation, Round 2](http://fivethirtyeight.com/features/the-battle-for-riddler-nation-round-2/)
 
 Readers were asked to submit a strategy for the following “Colonel Blotto”-style game:
 
@@ -8,7 +11,7 @@ Readers were asked to submit a strategy for the following “Colonel Blotto”-s
 >
 > Submit a plan distributing your 100 soldiers among the 10 castles. Once I receive all your battle plans, I’ll adjudicate all the possible one-on-one matchups. Whoever wins the most wars wins the battle royale and is crowned king or queen of Riddler Nation!
 
-The data in `castle-solutions.csv` includes all 1,387 valid submissions, with solvers’ identifying information removed. The 11 columns represent the soldiers deployed to each of the 10 castles, plus a column where the reader could describe his or her strategic approach.
+The data includes all valid submissions, with solvers’ identifying information removed. The 11 columns represent the soldiers deployed to each of the 10 castles, plus a column where the reader could describe his or her strategic approach.
 
 #### Correction
 
