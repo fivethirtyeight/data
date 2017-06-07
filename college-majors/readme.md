@@ -22,7 +22,7 @@ All contain basic earnings and labor force information.
 recent-grads contains more detailed breakdown, including by sex and by the type of job they got. Full headers below.
 grad-students contains details on graduate school attendees.
 
-Additionally, women-stem.csv contains data for scatter plot in associated DataLab post on women in science/technology jobs. It is a subset of recent-grads.csv. (Small easter egg: Check out my related Shiny app: https://bencasselman.shinyapps.io/new-test/)
+Additionally, women-stem.csv contains data for scatter plot in associated DataLab post on women in science/technology jobs. It is a subset of recent-grads.csv. (Small easter egg: Check out my related Shiny app: https://bencasselman.shinyapps.io/ed_app/)
 
 Headers for  recent-grads.csv
 
