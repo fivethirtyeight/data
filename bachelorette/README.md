@@ -6,6 +6,7 @@ The raw data behind the stories:
 - [Rachel’s Season Is Fitting Neatly Into ‘Bachelorette’ History](https://fivethirtyeight.com/features/rachels-season-is-fitting-neatly-into-bachelorette-history/)
 - [Rachel Lindsay’s ‘Bachelorette’ Season, In Three Charts](https://fivethirtyeight.com/features/rachel-lindsays-bachelorette-season-in-three-charts/)
 
+Data was scraped from the [Bachelor Nation Wiki](http://bachelor-nation.wikia.com/wiki/Bachelor_Nation_Wikia) and then missing seasons were filled in by ABC and FiveThirtyEight staffers.
 
 Header          | Description
 ----------------|------------
@@ -39,4 +40,3 @@ Header          | Description
 - "R" means the contestant received a rose. "R1" means the contestant got a first impression rose.
 - "D1" means a one-on-one date, "D2" means a 2-on-1, "D3" means a 3-on-1 group date, and so on
 - Weeks of the show are deliminated by rose ceremonies, and may not line up exactly with episodes.
-- Data was scraped from the Bachelor Nation Wiki (http|//bachelor-nation.wikia.com/wiki/Bachelor_Nation_Wikia) and then missing seasons were filled in by ABC and FiveThirtyEight staffers.
