@@ -4,8 +4,11 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+August 7, 2017 | [Rachel Lindsay’s ‘Bachelorette’ Season, In Three Charts](https://fivethirtyeight.com/features/rachel-lindsays-bachelorette-season-in-three-charts/) | [bachelorette](bachelorette)
+July 17, 2017 | [Rachel’s Season Is Fitting Neatly Into ‘Bachelorette’ History](https://fivethirtyeight.com/features/rachels-season-is-fitting-neatly-into-bachelorette-history/) | [bachelorette](bachelorette)
 June 15, 2017 | [Why The GOP Is So Hell-Bent On Passing An Unpopular Health Care Bill](https://fivethirtyeight.com/features/why-the-gop-is-so-hell-bent-on-passing-an-unpopular-health-care-bill) | [ahca-polls](ahca-polls)
 June 7, 2017 | [How Trump’s Least Enthusiastic Voters Feel About Him Now](https://fivethirtyeight.com/features/how-trumps-least-enthusiastic-voters-feel-about-him-now/) | [reluctant-trump](reluctant-trump)
+May 22, 2017 | [How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette’](https://fivethirtyeight.com/features/the-bachelorette/) | [bachelorette](bachelorette)
 May 19, 2017 | [The Battle For Riddler Nation, Round 2](http://fivethirtyeight.com/features/the-battle-for-riddler-nation-round-2/) | [riddler-castles](riddler-castles)
 April 27, 2017 | [Trump Might Be The First President To Scrap A National Monument](http://fivethirtyeight.com/features/trump-might-be-the-first-president-to-scrap-a-national-monument/) | [antiquities-act](antiquities-act)
 April 21, 2017 | [When Scientists Donate To Politicians, It’s Usually To Democrats](https://fivethirtyeight.com/features/when-scientists-donate-to-politicians-its-usually-to-democrats) |[science-giving](science-giving)
