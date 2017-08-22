@@ -11,4 +11,4 @@ Federation | Player's new federation
 Form.Fed | Player's former federation
 Transfer Date | Date of transfer
 
-Data was collected from the [World Chess Federation](https://ratings.fide.com/fedchange.phtml).
+Data was collected from [FIDE](https://ratings.fide.com/fedchange.phtml).
