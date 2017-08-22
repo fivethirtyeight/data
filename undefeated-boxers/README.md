@@ -1,8 +1,8 @@
 # Undefeated Boxers
 
-This directory contains the data behind the story [Mayweather Is Defined By The Zero Next To His Name](https://fivethirtyeight.com/features/mayweather-is-defined-by-the-zero-next-to-his-name/)
+This directory contains the data behind the story [Mayweather Is Defined By The Zero Next To His Name](https://fivethirtyeight.com/features/mayweather-is-defined-by-the-zero-next-to-his-name/).
 
-Data on boxing matches of undefeated boxers from [http://boxrec.com/](http://boxrec.com/)
+Data on boxing matches of undefeated boxers from [http://boxrec.com/](http://boxrec.com/).
 
 Header | Definition
 -------|------------
