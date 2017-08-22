@@ -7,7 +7,7 @@ This directory contains the raw data behind the stories:
 - [‘Reluctant’ Trump Voters Swung The Election. Here’s How They Think He’s Doing](https://fivethirtyeight.com/features/reluctant-trump-voters-swung-the-election-heres-how-they-think-hes-doing/)
 
 
-The files shown in the table below contain data from a SurveyMonkey News Survey conducted in partnership with FiveThirtyEight and include crosstabs of Trump voters who were excited to vote for Trump versus those who were not.
+Files in this directory contain data from a SurveyMonkey News Survey conducted in partnership with FiveThirtyEight and include crosstabs of Trump voters who were excited to vote for Trump versus those who were not.
 
 file | survey dates
 -----|-------------
