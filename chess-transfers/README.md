@@ -10,3 +10,5 @@ ID | Player ID
 Federation | Player's new federation
 Form.Fed | Player's former federation
 Transfer Date | Date of transfer
+
+Data collected from the [World Chess Federation](https://ratings.fide.com/fedchange.phtml)
