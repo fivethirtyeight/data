@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+August 23, 2017 | [Trump’s Reluctant Voters Are Getting More Reluctant](https://fivethirtyeight.com/features/trumps-reluctant-voters-are-getting-more-reluctant/) | [reluctant-trump](reluctant-trump)
 August 18, 2017 | [Mayweather Is Defined By The Zero Next To His Name](https://fivethirtyeight.com/features/mayweather-is-defined-by-the-zero-next-to-his-name/) | [undefeated-boxers](undefeated-boxers)
 August 8, 2017 | [American Chess Is Great Again](https://fivethirtyeight.com/features/american-chess-is-great-again/) | [chess-transfers](chess-transfers)
 August 7, 2017 | [Rachel Lindsay’s ‘Bachelorette’ Season, In Three Charts](https://fivethirtyeight.com/features/rachel-lindsays-bachelorette-season-in-three-charts/) | [bachelorette](bachelorette)
