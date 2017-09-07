@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+September 7, 2017 | [Al Gore’s New Movie Exposes The Big Flaw In Online Movie Ratings](https://fivethirtyeight.com/features/al-gores-new-movie-exposes-the-big-flaw-in-online-movie-ratings/) | [inconvenient-sequel](inconvenient-sequel)
 August 30, 2017 | [The Mayweather-McGregor Fight As Told Through Emojis](https://fivethirtyeight.com/features/the-mayweather-mcgregor-fight-as-told-through-emojis/) | [mayweather-mcgregor](mayweather-mcgregor)
 August 23, 2017 | [Trump’s Reluctant Voters Are Getting More Reluctant](https://fivethirtyeight.com/features/trumps-reluctant-voters-are-getting-more-reluctant/) | [reluctant-trump](reluctant-trump)
 August 18, 2017 | [Mayweather Is Defined By The Zero Next To His Name](https://fivethirtyeight.com/features/mayweather-is-defined-by-the-zero-next-to-his-name/) | [undefeated-boxers](undefeated-boxers)
