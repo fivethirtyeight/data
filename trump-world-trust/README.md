@@ -15,4 +15,4 @@ The other five are approval ratings across countries for five of President Trump
 * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4`)
 * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5`)
 
-Source: [Pew Research Group](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
