@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+September 19, 2017 | [The (Very) Long Tail Of Hurricane Recovery](https://projects.fivethirtyeight.com/sandy-311/) | [sandy-311-calls](sandy-311-calls)
 September 18, 2017 | [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/) | [trump-world-trust](trump-world-trust)
 September 8, 2017 | [Can You Beat FiveThirtyEight's NFL Predictions?](https://projects.fivethirtyeight.com/nfl-predictions-game/) | [nfl-elo-game](https://github.com/fivethirtyeight/nfl-elo-game)
 September 7, 2017 | [Al Gore’s New Movie Exposes The Big Flaw In Online Movie Ratings](https://fivethirtyeight.com/features/al-gores-new-movie-exposes-the-big-flaw-in-online-movie-ratings/) | [inconvenient-sequel](inconvenient-sequel)
