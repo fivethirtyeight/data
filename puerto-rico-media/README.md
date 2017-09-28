@@ -6,6 +6,7 @@ Data about Online News was collected using the [Media Cloud](https://mediacloud.
 
 * `mediacloud_hurricanes.csv` contains the number of sentences per day that mention Hurricanes Harvey, Irma, Jose, and Maria in online news.
 * `mediacloud_states.csv` contains the number of sentences per day that mention Puerto Rico, Texas, and Florida in online news.
+* `mediacloud_top_online_news.csv` contains a list of sources included in Media Cloud's "U.S. Top Online News" collection.
 
 ### TV News Data
 
