@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+September 28, 2017 | [The Media Really Has Neglected Puerto Rico](https://fivethirtyeight.com/features/the-media-really-has-neglected-puerto-rico/) | [puerto-rico-media](puerto-rico-media)
 September 19, 2017 | [The (Very) Long Tail Of Hurricane Recovery](https://projects.fivethirtyeight.com/sandy-311/) | [sandy-311-calls](sandy-311-calls)
 September 18, 2017 | [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/) | [trump-world-trust](trump-world-trust)
 September 8, 2017 | [Can You Beat FiveThirtyEight's NFL Predictions?](https://projects.fivethirtyeight.com/nfl-predictions-game/) | [nfl-elo-game](https://github.com/fivethirtyeight/nfl-elo-game)
