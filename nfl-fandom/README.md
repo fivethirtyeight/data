@@ -1,5 +1,7 @@
 # NFL Fandom Data
 
+Data behind the story [How Every NFL Team’s Fans Lean Politically](https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically).
+
 ### Google Trends Data
 Google Trends data was derived from comparing 5-year search traffic for the 7 sports leagues we analyzed:
 
