@@ -1,5 +1,7 @@
 # NFL Fandom Data
 
+Data behind the story [How Every NFL Team’s Fans Lean Politically](https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically).
+
 ### Google Trends Data
 Google Trends data was derived from comparing 5-year search traffic for the 7 sports leagues we analyzed:
 
@@ -7,7 +9,7 @@ https://g.co/trends/5P8aa
 
 Results are listed by designated market area (DMA).
 
-The percentages are the aproximate percentage of major-sports searches that were conducted for each league.
+The percentages are the approximate percentage of major-sports searches that were conducted for each league.
 
 Trump's percentage is his share of the vote within the DMA in the 2016 presidential election.
 
