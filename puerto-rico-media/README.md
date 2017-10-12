@@ -5,8 +5,10 @@
 Data about Online News was collected using the [Media Cloud](https://mediacloud.org/) dashboard, an open source suite of tools for analyzing a database of online news.
 
 * `mediacloud_hurricanes.csv` contains the number of sentences per day that mention Hurricanes Harvey, Irma, Jose, and Maria in online news.
-* `mediacloud_states.csv` contains the number of sentences per day that mention Puerto Rico, Texas, and Florida in online news.
+* `mediacloud_states.csv` **(Updated through 10/10/2017)** contains the number of sentences per day that mention Puerto Rico, Texas, and Florida in online news.
+* `mediacloud_trump.csv` **(Updated through 10/10/2017)** contains the number of headlines that mention Puerto Rico, Texas, and Florida, as well as headlines that mention those three locations along with 'President' or 'Trump'.
 * `mediacloud_top_online_news.csv` contains a list of sources included in Media Cloud's "U.S. Top Online News" collection.
+
 
 ### TV News Data
 
@@ -14,7 +16,7 @@ TV News Data was collected from the [Internet TV News Archive](https://archive.o
 
 * `tv_hurricanes.csv` - contains the percent of sentences per day in TV News that mention Hurricanes Harvey, Irma, Jose, and Maria.
 * `tv_hurricanes_by_network.csv` - contains the percent of sentences per day in TV News per network that mention Hurricanes Harvey, Irma, Jose, and Maria.
-* `tv_states.csv` - contains the percent of sentences per day in TV News that mention Puerto Rico, Texas, and Florida.
+* `tv_states.csv` **(Updated through 10/10/2017)** - contains the percent of sentences per day in TV News that mention Puerto Rico, Texas, and Florida.
 
 ### Google Search Queries
 
