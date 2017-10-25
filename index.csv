@@ -1,13 +1,13 @@
-dataset_url,article_url,live,
+dataset_url,article_url,live
 https://github.com/fivethirtyeight/data/tree/master/twitter-ratio,https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/,
 https://github.com/fivethirtyeight/data/tree/master/puerto-rico-media,https://fivethirtyeight.com/features/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did/,
 https://github.com/fivethirtyeight/data/tree/master/nfl-fandom,https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically/,
 https://github.com/fivethirtyeight/data/tree/master/puerto-rico-media,https://fivethirtyeight.com/features/the-media-really-has-neglected-puerto-rico/,
 https://github.com/fivethirtyeight/data/tree/master/sandy-311-calls,https://projects.fivethirtyeight.com/sandy-311/,
-https://github.com/fivethirtyeight/data/tree/master/congress-generic-ballot,https://projects.fivethirtyeight.com/congress-generic-ballot-polls/,TRUE,
-https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings,https://projects.fivethirtyeight.com/trump-approval-ratings/,TRUE,
+https://github.com/fivethirtyeight/data/tree/master/congress-generic-ballot,https://projects.fivethirtyeight.com/congress-generic-ballot-polls/,TRUE
+https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings,https://projects.fivethirtyeight.com/trump-approval-ratings/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/trump-world-trust,https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/,
-https://github.com/fivethirtyeight/nfl-elo-game,https://projects.fivethirtyeight.com/nfl-predictions-game/,TRUE,
+https://github.com/fivethirtyeight/nfl-elo-game,https://projects.fivethirtyeight.com/nfl-predictions-game/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/inconvenient-sequel,https://fivethirtyeight.com/features/al-gores-new-movie-exposes-the-big-flaw-in-online-movie-ratings/,
 https://github.com/fivethirtyeight/data/tree/master/mayweather-mcgregor,https://fivethirtyeight.com/features/the-mayweather-mcgregor-fight-as-told-through-emojis/,
 https://github.com/fivethirtyeight/data/tree/master/reluctant-trump,https://fivethirtyeight.com/features/trumps-reluctant-voters-are-getting-more-reluctant/,
