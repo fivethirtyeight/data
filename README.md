@@ -5,6 +5,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
 Oct. 24, 2017 | [The Worst Tweeter In Politics Isn’t Trump](https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/) | [twitter-ratio](twitter-ratio)
+Oct. 12,2017 |[The Media Really Started Paying Attention To Puerto Rico When Trump Did](https://fivethirtyeight.com/features/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did/) | [puerto-rico-media](puerto-rico-media)
 September 29, 2017 | [How Every NFL Team’s Fans Lean Politically](https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically/) | [nfl-fandom](nfl-fandom)
 September 28, 2017 | [The Media Really Has Neglected Puerto Rico](https://fivethirtyeight.com/features/the-media-really-has-neglected-puerto-rico/) | [puerto-rico-media](puerto-rico-media)
 September 19, 2017 | [The (Very) Long Tail Of Hurricane Recovery](https://projects.fivethirtyeight.com/sandy-311/) | [sandy-311-calls](sandy-311-calls)
