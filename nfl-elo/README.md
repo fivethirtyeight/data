@@ -4,6 +4,6 @@ files:
 ---
 # NFL Elo
 
-This contains the raw data behind "[The Complete History Of The NFL](https://projects.fivethirtyeight.com/complete-history-of-the-nfl/)" and our "[NFL Predictions](https://projects.fivethirtyeight.com/2017-nfl-predictions/)".
+This contains the raw data behind [The Complete History Of The NFL](https://projects.fivethirtyeight.com/complete-history-of-the-nfl/) and our [NFL Predictions](https://projects.fivethirtyeight.com/2017-nfl-predictions/).
 
 * `nfl_elo.csv` - Game-by-game Elo ratings and forecasts back to 1920.
