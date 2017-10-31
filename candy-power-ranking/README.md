@@ -1,6 +1,6 @@
 # Candy Power Ranking
 
-Raw data behind [The Ultimate Halloween Candy Power Ranking](http |//fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/)
+Raw data behind [The Ultimate Halloween Candy Power Ranking](http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/)
 
 `candy-data.csv` includes attributes for each candy along with its ranking. For binary variables, 1 means yes, 0 means no. The data contains the following feilds: 
 
