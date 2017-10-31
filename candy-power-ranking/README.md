@@ -16,6 +16,6 @@ hard | Is it a hard candy?
 bar | Is it a candy bar?
 pluribus | Is it one of many candies in a bag or box?
 sugarpercent | The percentile of sugar it falls under within the data set.
-pricepercentile | The unit price percentile compared to the rest of the set.
+pricepercent | The unit price percentile compared to the rest of the set.
 winpercent | The overall win percentage according to 269,000 matchups.
 
