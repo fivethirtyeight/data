@@ -4,6 +4,7 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Nov. 7, 2017 | [Kenley Jansen Is The Model Of A Modern Reliever](https://fivethirtyeight.com/features/kenley-jansen-is-the-model-of-a-modern-reliever/) | [goose](goose)
 Oct. 27, 2017 | [The Ultimate Halloween Candy Power Ranking](http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/) | [candy-power-ranking](candy-power-ranking)
 Oct. 24, 2017 | [The Worst Tweeter In Politics Isn’t Trump](https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/) | [twitter-ratio](twitter-ratio)
 Oct. 12,2017 |[The Media Really Started Paying Attention To Puerto Rico When Trump Did](https://fivethirtyeight.com/features/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did/) | [puerto-rico-media](puerto-rico-media)
