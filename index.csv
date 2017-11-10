@@ -1,5 +1,5 @@
 dataset_url,article_url,live
-https://github.com/fivethirtyeight/data/blob/master/goose,https://fivethirtyeight.com/features/kenley-jansen-is-the-model-of-a-modern-reliever/,
+https://github.com/fivethirtyeight/data/tree/master/goose,https://fivethirtyeight.com/features/kenley-jansen-is-the-model-of-a-modern-reliever/,
 https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking,http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/,
 https://github.com/fivethirtyeight/data/tree/master/mlb-elo,https://projects.fivethirtyeight.com/2017-mlb-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/nfl-elo,https://projects.fivethirtyeight.com/2017-nfl-predictions/,TRUE
