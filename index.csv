@@ -1,5 +1,4 @@
 dataset_url,article_url,live
-https://github.com/fivethirtyeight/data/tree/master/goose,https://fivethirtyeight.com/features/kenley-jansen-is-the-model-of-a-modern-reliever/,
 https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking,http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/,
 https://github.com/fivethirtyeight/data/tree/master/mlb-elo,https://projects.fivethirtyeight.com/2017-mlb-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/nfl-elo,https://projects.fivethirtyeight.com/2017-nfl-predictions/,TRUE
@@ -14,6 +13,7 @@ https://github.com/fivethirtyeight/data/tree/master/congress-generic-ballot,http
 https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings,https://projects.fivethirtyeight.com/trump-approval-ratings/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/trump-world-trust,https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/,
 https://github.com/fivethirtyeight/nfl-elo-game,https://projects.fivethirtyeight.com/nfl-predictions-game/,TRUE
+https://github.com/fivethirtyeight/data/tree/master/goose,https://fivethirtyeight.com/features/kenley-jansen-is-the-model-of-a-modern-reliever/,
 https://github.com/fivethirtyeight/data/tree/master/inconvenient-sequel,https://fivethirtyeight.com/features/al-gores-new-movie-exposes-the-big-flaw-in-online-movie-ratings/,
 https://github.com/fivethirtyeight/data/tree/master/mayweather-mcgregor,https://fivethirtyeight.com/features/the-mayweather-mcgregor-fight-as-told-through-emojis/,
 https://github.com/fivethirtyeight/data/tree/master/reluctant-trump,https://fivethirtyeight.com/features/trumps-reluctant-voters-are-getting-more-reluctant/,
