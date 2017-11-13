@@ -1,7 +1,7 @@
 dataset_url,article_url,live
 https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking,http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/,
-https://github.com/fivethirtyeight/data/tree/master/mlb-elo,https://projects.fivethirtyeight.com/2017-mlb-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/nfl-elo,https://projects.fivethirtyeight.com/2017-nfl-predictions/,TRUE
+https://github.com/fivethirtyeight/data/tree/master/mlb-elo,https://projects.fivethirtyeight.com/2017-mlb-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/nba-carmelo,https://projects.fivethirtyeight.com/2018-nba-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/soccer-spi,https://projects.fivethirtyeight.com/soccer-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/twitter-ratio,https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/,
