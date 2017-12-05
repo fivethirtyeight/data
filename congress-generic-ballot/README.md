@@ -1,7 +1,7 @@
 ---
 files:
-  - https://projects.fivethirtyeight.com/trump-approval-data/approval_polllist.csv
-  - https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv
+  - https://projects.fivethirtyeight.com/generic-ballot-data/generic_polllist.csv
+  - https://projects.fivethirtyeight.com/generic-ballot-data/generic_topline.csv
 ---
 # Congress Generic Ballot Polls
 
