@@ -8,6 +8,7 @@ Data for [The Next Bechdel Test](http://google.com) story.
     - Each column is one of the tests. A `0` means the movie failed that test, a `1` means it passed. 
 
 2. `nextBechal_castGender.csv` Gender for the entire cast for every movie, including whether a role was supporting or main 
+ 
 Variable | Definition
 ---|---------
 `movie` | Title of the film
@@ -19,6 +20,7 @@ Variable | Definition
 
 
 3. `nextBechal_crewGender.csv` crew for every movie, by probablity that a give first name is male.  
+ 
 Variable | Definition
 ---|---------
 `movie` | Title of the film
