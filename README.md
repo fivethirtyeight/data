@@ -1,6 +1,6 @@
 This repository contains a selection of the data -- and the data-processing scripts -- behind the articles, graphics and interactives at [FiveThirtyEight](http://fivethirtyeight.com).
 
-We hope you'll use it to check our work and to create stories and visualizations of your own. The data is available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the code is available under the [MIT License](http://opensource.org/licenses/MIT). If you do find it useful, please [let us know](mailto:andrei.scheinkman@fivethirtyeight.com).
+We hope you'll use it to check our work and to create stories and visualizations of your own. Unless otherwise noted, the data is available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the code is available under the [MIT License](http://opensource.org/licenses/MIT). If you do find it useful, please [let us know](mailto:andrei.scheinkman@fivethirtyeight.com).
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
