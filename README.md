@@ -4,6 +4,8 @@ We hope you'll use it to check our work and to create stories and visualizations
 
 Article Date(s) | Headline(s) | Folder
 ---|---------|-------------
+Jan. 29, 2018 | [We’ve Never Seen Congressional Resignations Like This Before
+](https://fivethirtyeight.com/features/more-people-are-resigning-from-congress-than-at-any-time-in-recent-history/) | [congress-resignations](congress-resignations)
 Dec. 21, 2017 | [The Next Bechdel Test](https://projects.fivethirtyeight.com/next-bechdel/) | [next-bechdel](next-bechdel)
 Nov. 7, 2017 | [Kenley Jansen Is The Model Of A Modern Reliever](https://fivethirtyeight.com/features/kenley-jansen-is-the-model-of-a-modern-reliever/) | [goose](goose)
 Oct. 27, 2017 | [The Ultimate Halloween Candy Power Ranking](http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/) | [candy-power-ranking](candy-power-ranking)
