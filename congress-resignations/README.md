@@ -2,19 +2,19 @@
 
 Data behind the story [We’ve Never Seen Congressional Resignations Like This Before](https://fivethirtyeight.com/features/more-people-are-resigning-from-congress-than-at-any-time-in-recent-history/).
 
-The data includes 615 congressional resignations since 1901 (57th congress) through 1/15/2018 (115th congress), as well as the congressperson’s party, district, resignation date, the reason for their resignation as well as the source of the information.
+`congressional_resignations.csv` contains information about the 615 members of Congress who resigned or were removed from office from March 4, 1901 (the first day of the 57th Congress) through January 15, 2018, including the resigning member’s party and district, the date they resigned, the reason for their resignation and the source of the information about their resignation.
 
-The reasons are coded in the following categories:
+The reasons are categorized as follows:
 
 Code | Category
 -----| ---------
-`X` | Unwanted Sexual Contact
-`A` | Consensual Sex Scandals
-`B` | Other Scandals
-`C` | Other Office
-`D` | Private Sector
-`E` | Health/Family
+`X` | Unwanted sexual contact
+`A` | Consensual sex scandals
+`B` | Other scandals
+`C` | Other office
+`D` | Private sector
+`E` | Health/family
 `F` | Other
-`G` | Left Early
-`H` | Military Service
-`I` | Election Overturned
+`G` | Left early
+`H` | Military service
+`I` | Election overturned
