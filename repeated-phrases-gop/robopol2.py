@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from __future__ import division
 import random
 import numpy
 import math
@@ -28,7 +29,7 @@ def ngram_freqs(corpus, n):
     
     # generate a list of all n-grams in the corpus
     ngrams = []
-    for i in range(n, len(corpus)):
+    for i in range(n, len(corpus) + 1):
         if not "<BR>" in tuple(corpus[i-n:i]):
             ngrams += [tuple(corpus[i-n:i])]
     
@@ -204,4 +205,4 @@ def main():
     
 if __name__ == '__main__':
     main()
-    
+
