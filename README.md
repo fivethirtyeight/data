@@ -1,3 +1,3 @@
-This repository contains a selection of the data -- and the data-processing scripts -- behind the articles, graphics and interactives at [FiveThirtyEight](http://fivethirtyeight.com). For all of our data sets, please visit [data.fivethirtyeight.com](https://data.fivethirtyeight.com).
+See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
 
-We hope you'll use it to check our work and to create stories and visualizations of your own. Unless otherwise noted, our data sets are available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the code is available under the [MIT License](http://opensource.org/licenses/MIT). If you do find it useful, please [let us know](mailto:data@fivethirtyeight.com).
+Unless otherwise noted, our data sets are available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), and the code is available under the [MIT License](http://opensource.org/licenses/MIT). If you find this information useful, please let us know.
