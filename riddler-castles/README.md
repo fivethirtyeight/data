@@ -1,6 +1,6 @@
 ### Riddler - Solutions to Castles Puzzle
 
-This directory contains the raw data behind the submissions for castles puzzle.
+This directory contains the data behind the submissions for castles puzzle.
 
 * `castle-solutions.csv` contains the submissions for [Can You Rule Riddler Nation?](https://fivethirtyeight.com/features/can-you-rule-riddler-nation/)
 * `castle-solutions-2.csv` contains the submissions for [The Battle For Riddler Nation, Round 2](http://fivethirtyeight.com/features/the-battle-for-riddler-nation-round-2/)

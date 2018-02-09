@@ -1,6 +1,6 @@
 # Reluctant Trump Voters
 
-This directory contains the raw data behind the stories:
+This directory contains data behind the stories:
 
 * [Trump’s Reluctant Voters Are Getting More Reluctant](https://fivethirtyeight.com/features/trumps-reluctant-voters-are-getting-more-reluctant/)
 * [How Trump’s Least Enthusiastic Voters Feel About Him Now](https://fivethirtyeight.com/features/how-trumps-least-enthusiastic-voters-feel-about-him-now/)
