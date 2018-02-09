@@ -1,8 +1,8 @@
-# NFL Fandom Data
+# NFL Fandom
 
-Data behind the story [How Every NFL Team’s Fans Lean Politically](https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically).
+This folder contains data behind the story [How Every NFL Team’s Fans Lean Politically](https://fivethirtyeight.com/features/how-every-nfl-teams-fans-lean-politically).
 
-### Google Trends Data
+## Google Trends Data
 Google Trends data was derived from comparing 5-year search traffic for the 7 sports leagues we analyzed:
 
 https://g.co/trends/5P8aa
@@ -13,7 +13,7 @@ The percentages are the approximate percentage of major-sports searches that wer
 
 Trump's percentage is his share of the vote within the DMA in the 2016 presidential election.
 
-### SurveyMonkey Data
+## SurveyMonkey Data
 
 SurveyMonkey data was derived from a poll of American adults ages 18 and older, conducted between Sept. 1-7, 2017.
 

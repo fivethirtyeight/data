@@ -1,7 +1,8 @@
+# NFL Favorite Team
 
-The data behind the story [The Rams Are Dead To Me, So I Answered 3,352 Questions To Find A New NFL Team](http://fivethirtyeight.com/features/the-rams-are-dead-to-me-so-i-answered-3352-questions-to-find-a-new-team/).
+This folder contains data behind the story [The Rams Are Dead To Me, So I Answered 3,352 Questions To Find A New NFL Team](http://fivethirtyeight.com/features/the-rams-are-dead-to-me-so-i-answered-3352-questions-to-find-a-new-team/).
 
-Contains grades for each NFL franchise in 16 categories, to be used to pick a new favorite team.
+`team-picking-categories.csv` contains grades for each NFL franchise in 16 categories, to be used to pick a new favorite team.
 
 Key for categories:
 
@@ -23,7 +24,5 @@ Key for categories:
 | CCH    | Coaching - Strength of on-field leadership                                                                                    |
 | UNI    | Uniform - Stylishness of uniform design, according to Uni Watch's Paul Lukas                                                  |
 | BMK    | Big Market - Size of market in terms of population, where bigger is better                                                    |
-
-
 
 Should be used in conjunction with weights derived from a survey structured like this: http://www.allourideas.org/nflteampickingsample.

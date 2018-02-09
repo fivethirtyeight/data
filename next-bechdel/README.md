@@ -6,7 +6,7 @@ This folder contains data behind the story [The Next Bechdel Test](https://proje
     - Each row is one of the 50 top-grossing movies from 2016.
     - Each column is one of the tests. A `0` means the movie failed that test, a `1` means it passed.
 
-`nextBechal_castGender.csv` contains the estimated gender for the entire cast for every movie, including whether a role was supporting or main. Data was obtained from [The Numbers](http://the-numbers.com)
+`nextBechal_castGender.csv` contains the estimated gender for the entire cast for every movie, including whether a role was supporting or main. Data was obtained from [The Numbers](http://the-numbers.com).
 
 	Variable | Definition
 	---|---------
