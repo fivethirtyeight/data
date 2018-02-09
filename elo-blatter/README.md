@@ -1,4 +1,4 @@
-# FIFA teams under Blatter
+# FIFA Teams Under Blatter
 
 This folder contains data behind the story [Blatter’s Reign At FIFA Hasn’t Helped Soccer’s Poor](http://fivethirtyeight.com/features/blatters-reign-at-fifa-hasnt-helped-soccers-poor/).
 

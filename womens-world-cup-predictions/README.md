@@ -1,4 +1,4 @@
-# 2015 Women's World Cup tournament predictions
+# 2015 Women's World Cup Tournament Predictions
 
 FiveThirtyEight's forecasts for the 2015 World Cup, including each team's WSPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file names. All times are in EDT.
 

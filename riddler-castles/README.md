@@ -1,4 +1,4 @@
-### Riddler - Solutions to Castles Puzzle
+# Riddler - Solutions to Castles Puzzle
 
 This directory contains the data behind the submissions for castles puzzle.
 

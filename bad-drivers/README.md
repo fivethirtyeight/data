@@ -1,6 +1,6 @@
-# Bad drivers
+# Bad Drivers
 
-Data from the article [Dear Mona, Which State Has The Worst Drivers?](http://fivethirtyeight.com/datalab/which-state-has-the-worst-drivers/)
+This folder contains data behind the story [Dear Mona, Which State Has The Worst Drivers?](http://fivethirtyeight.com/datalab/which-state-has-the-worst-drivers/).
 
 Variable | Source
 ---|---------

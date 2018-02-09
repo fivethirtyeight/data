@@ -1,4 +1,4 @@
-# Comic characters data
+# Comic Characters
 
 This folder contains data behind the story [Comic Books Are Still Made By Men, For Men And About Men](http://fivethirtyeight.com/features/women-in-comic-books/).
 

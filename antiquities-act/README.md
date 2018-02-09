@@ -1,4 +1,4 @@
-# Actions under the Antiquities Act
+# Antiquities Act
 
 This folder contains the data behind the story [Trump Might Be The First President To Scrap A National Monument](http://fivethirtyeight.com/features/trump-might-be-the-first-president-to-scrap-a-national-monument/).
 
