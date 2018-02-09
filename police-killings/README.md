@@ -1,4 +1,4 @@
-### Police Killings
+# Police Killings
 
 This directory contains the data behind the story [Where Police Have Killed Americans In 2015](http://fivethirtyeight.com/features/where-police-have-killed-americans-in-2015).
 

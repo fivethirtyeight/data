@@ -1,4 +1,8 @@
-Advanced career stats for NFL receivers, 1932-2013.
+# NFL Wide Receivers
+
+This folder contains data behind the story [The Football Hall Of Fame Has A Receiver Problem](http://fivethirtyeight.com/features/the-football-hall-of-fame-has-a-receiver-problem/).
+
+`advanced-historical.csv` contains advanced career stats for NFL receivers, 1932-2013.
 
 Header | Definition
 ---|---------
@@ -9,9 +13,7 @@ Header | Definition
 `career_wowy` | The amount by which career_ranypa exceeds what would be expected from his QBs' (age-adjusted) performance without the receiver
 `bcs_rating` | The number of yards per game by which a player would outgain an average receiver on the same team, after adjusting for teammate quality and age (update of http://www.sabernomics.com/sabernomics/index.php/2005/02/ranking-the-all-time-great-wide-receivers/)
 
-http://fivethirtyeight.com/features/the-football-hall-of-fame-has-a-receiver-problem/
-
-Receiver aging curve definitions:
+`try-per-game-aging-curve.csv` contains receiver aging curve definitions.
 
 Header | Definition
 ---|---------

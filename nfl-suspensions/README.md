@@ -1,6 +1,6 @@
-### NFL suspensions data
+# NFL Suspensions
 
-The raw data behind the story, [The NFL’s Uneven History Of Punishing Domestic Violence](http://fivethirtyeight.com/features/nfl-domestic-violence-policy-suspensions/).
+This folder contains data behind the story [The NFL’s Uneven History Of Punishing Domestic Violence](http://fivethirtyeight.com/features/nfl-domestic-violence-policy-suspensions/).
 
 Header | Definition
 ---|---------

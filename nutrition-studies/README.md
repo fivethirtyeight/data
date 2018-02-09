@@ -1,4 +1,4 @@
-### Nutrition Studies
+# Nutrition Studies
 
 This directory contains data and code behind the story [You Can’t Trust What You Read About Nutrition](http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition).
 
