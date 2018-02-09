@@ -1,6 +1,6 @@
-### Historical FiveThirtyEight Senate Forecasts
+# Historical FiveThirtyEight Senate Forecasts
 
-The data behind the story [How The FiveThirtyEight Senate Forecast Model Works](http://fivethirtyeight.com/features/how-the-fivethirtyeight-senate-forecast-model-works/)
+This folder contains the data behind the story [How The FiveThirtyEight Senate Forecast Model Works](http://fivethirtyeight.com/features/how-the-fivethirtyeight-senate-forecast-model-works/).
 
 Header | Definition
 ---|---------

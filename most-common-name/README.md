@@ -1,8 +1,6 @@
-### Most Common Name
+# Most Common Name
 
-This directory contains the code and data behind the story:
-
-[Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/)
+This directory contains the code and data behind the story [Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/).
 
 The main script file is `most-common-name.R`
 

@@ -1,8 +1,8 @@
-### Endorsements through June 30
+# Endorsements through June 30
 
-The raw data behind the story [Pols And Polls Say The Same Thing: Jeb Bush Is A Weak Front-Runner](http://fivethirtyeight.com/features/pols-and-polls-say-the-same-thing-jeb-bush-is-a-weak-front-runner/)
+This folder contains data behind the story [Pols And Polls Say The Same Thing: Jeb Bush Is A Weak Front-Runner](http://fivethirtyeight.com/features/pols-and-polls-say-the-same-thing-jeb-bush-is-a-weak-front-runner/).
 
-This data includes something we call "endorsement points," an attempt to quantify the importance of endorsements by weighting each one according to the position held by the endorser: 10 points for each governor, 5 points for each senator and 1 point for each representative
+This data includes something we call "endorsement points," an attempt to quantify the importance of endorsements by weighting each one according to the position held by the endorser: 10 points for each governor, 5 points for each senator and 1 point for each representative.
 
 Header | Definition
 ---|---------

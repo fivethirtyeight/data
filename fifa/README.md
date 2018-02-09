@@ -1,4 +1,4 @@
-### FIFA
+# FIFA
 
 This directory contains the data behind the story [How To Break FIFA](http://fivethirtyeight.com/features/how-to-break-fifa/).
 

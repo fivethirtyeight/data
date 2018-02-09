@@ -1,6 +1,10 @@
-These files contain data used in <a href="http://fivethirtyeight.com/features/marriage-isnt-dead-yet/">FiveThirtyEight's story</a> on marriage trends.File names are self-explanatory. Source for all data is Decennial Census (years 1960 to 2000) and American Community Survey (years 2001-2012), via <a href="https://usa.ipums.org/usa/cite.shtml">IPUMS USA</a>.
+# Marriage
 
-Except in the divorce file, figures represent share of the relevant population that has never been married (MARST == 6 in the IPUMS data). Note that in the story, charts generally show the share that have <i>ever</i> been married, which is simply 1 - n. In the divorce file, figures are share of the relevant population that is <i>currently</i> divorced, conditional on having ever been married.
+This folder contains data behind the story [Marriage Isn’t Dead — Yet](http://fivethirtyeight.com/features/marriage-isnt-dead-yet/).
+
+Source for all data is Decennial Census (years 1960 to 2000) and American Community Survey (years 2001-2012), via [IPUMS USA](https://usa.ipums.org/usa/cite.shtml).
+
+Except in the divorce file, figures represent share of the relevant population that has never been married (MARST == 6 in the IPUMS data). Note that in the story, charts generally show the share that have *ever* been married, which is simply 1 - n. In the divorce file, figures are share of the relevant population that is *currently* divorced, conditional on having ever been married.
 
 Variable names are as follows. Number in variable names are age ranges, so `all_2534` is the marriage rate for everyone ages 25 to 34.
 

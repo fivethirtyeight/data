@@ -1,6 +1,10 @@
+# MLB All-Star Teams
+
+This folder contains data behind the story [The Best MLB All-Star Teams Ever](http://fivethirtyeight.com/features/the-best-mlb-all-star-teams-ever/).
+
 Estimates of most talented MLB All-Star teams, 1933-2015
 
-Team talent estimates:
+`allstar_team_talent.csv` contains team talent estimates with the following headers:
 
 Header | Definition
 ---|---------
@@ -21,7 +25,7 @@ Header | Definition
 `no_1_player` | Best player according to combo of actual PA/IP and talent
 `no_2_player` | 2nd-best player according to combo of actual PA/IP and talent
 
-Player talent estimates:
+`allstar_player_talent.csv` contains team player estimates with the following headers:
 
 Header | Definition
 ---|---------
@@ -41,4 +45,3 @@ Header | Definition
 `PITper9innASG` | Expected pitching runs added above average (from talent) based on IP in ASG, scaled to a 9-inning game
 `TOTper9innASG` | Expected runs added above average (from talent) based on PA/IP in ASG, scaled to a 9-inning game
 
-http://fivethirtyeight.com/features/the-best-mlb-all-star-teams-ever/

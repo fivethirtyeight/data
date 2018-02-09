@@ -1,4 +1,5 @@
-March Madness Predictions 2015
-==============================
+# March Madness Predictions
 
-Data files for [FiveThirtyEight's 2015 March Madness Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions-2015/), updated each time we calculate new odds.
+This folder contains data behind the [2015 March Madness Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions-2015/).
+
+Data was updated each time we calculate new odds.
