@@ -1,4 +1,4 @@
-### 2014 World Cup tournament predictions
+# 2014 World Cup Tournament Predictions
 
 FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
 

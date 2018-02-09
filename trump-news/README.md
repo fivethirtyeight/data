@@ -1,6 +1,6 @@
-### Trump News
+# Trump News
 
-The raw data behind the story [How Trump Hacked The Media](http://fivethirtyeight.com/features/how-donald-trump-hacked-the-media/).
+This folder contains the data behind the story [How Trump Hacked The Media](http://fivethirtyeight.com/features/how-donald-trump-hacked-the-media/).
 
 File | Description
 ---|---------

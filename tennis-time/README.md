@@ -1,6 +1,6 @@
-### Tennis Time
+# Tennis Time
 
-The data behind the story [Why Some Tennis Matches Take Forever](http://fivethirtyeight.com/features/why-some-tennis-matches-take-forever).
+This folder contains data behind the story [Why Some Tennis Matches Take Forever](http://fivethirtyeight.com/features/why-some-tennis-matches-take-forever).
 
 `serve_times.csv`
 

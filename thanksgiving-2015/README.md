@@ -1,4 +1,4 @@
-### Thanksgiving  2015
+# Thanksgiving  2015
 
 This directory contains the data behind the story [Here’s What Your Part of America Eats On Thanksgiving](http://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving).
 

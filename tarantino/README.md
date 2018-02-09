@@ -1,6 +1,6 @@
-### Curse Words and Deaths in Quentin Tarantino’s Films
+# Tarantino
 
-The raw data behind the story [A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie](http://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films)
+This folder contains data behind the story [A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie](http://fivethirtyeight.com/features/complete-catalog-curses-deaths-quentin-tarantino-films).
 
 Header | Definition
 ---|---------

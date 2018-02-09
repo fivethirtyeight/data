@@ -1,4 +1,4 @@
-### France Terror Attacks
+# France Terror Attacks
 
 This directory contains data, code and charts behind the story [The Rise Of Religiously Inspired Terrorism In France](http://fivethirtyeight.com/features/the-rise-of-religiously-inspired-terrorism-in-france/).
 

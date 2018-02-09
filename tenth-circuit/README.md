@@ -1,6 +1,6 @@
 # Cases in the Tenth Circuit Court of Appeals
 
-The raw data behind the story [For A Trump Nominee, Neil Gorsuch’s Record Is Surprisingly Moderate On Immigration](http://53eig.ht/2nPVCrS)
+This folder contains the data behind the story [For A Trump Nominee, Neil Gorsuch’s Record Is Surprisingly Moderate On Immigration](https://fivethirtyeight.com/features/for-a-trump-nominee-neil-gorsuchs-record-is-surprisingly-moderate-on-immigration)
 
 `tenth-circuit.csv` contains Tenth Circuit cases decided during Gorsuch’s tenure.
 

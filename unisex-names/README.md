@@ -1,6 +1,6 @@
-### Unisex Names
+# Unisex Names
 
-This directory contains the code and data behind the story [The Most Common Unisex Names In America: Is Yours One Of Them?](http://fivethirtyeight.com/features/there-are-922-unisex-names-in-america-is-yours-one-of-them)
+This directory contains the code and data behind the story [The Most Common Unisex Names In America: Is Yours One Of Them?](http://fivethirtyeight.com/features/there-are-922-unisex-names-in-america-is-yours-one-of-them).
 
 The script `unisex_names.R` generates the data in `unisex_names_table.csv`, which contains the over 900 names given to each sex at least one-third of the time and with a minimum of 100 people. It has the following variables:
 

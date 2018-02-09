@@ -1,6 +1,6 @@
-### What the world thinks of Trump
+# Trump World Trust
 
-The extracted data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
 
 Two of the datasets concern the share of different countries' populations that:
 

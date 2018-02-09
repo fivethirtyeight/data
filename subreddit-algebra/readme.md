@@ -1,6 +1,6 @@
-### Subreddit Algebra
+# Subreddit Algebra
 
-This directory contains the code and data behind the story: [Dissecting Trump's Most Rabid Online Following](https://fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/)
+This directory contains the code and data behind the story [Dissecting Trump's Most Rabid Online Following](https://fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/).
 
 The raw data (an online cache of Reddit comments going back to 2005) is from [Google's BigQuery](https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2015_05) and more information about the data can [be found here](https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/).
 
