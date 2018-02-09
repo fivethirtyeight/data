@@ -1,6 +1,6 @@
 # Mad Men
 
-This directory contains the data behind the story [‘Mad Men’ Is Ending. What’s Next For The Cast?](http://fivethirtyeight.com/datalab/mad-men-is-ending-whats-next-for-the-cast/).
+This directory contains the data behind the story [‘Mad Men’ Is Ending. What’s Next For The Cast?](http://fivethirtyeight.com/datalab/mad-men-is-ending-whats-next-for-the-cast/)
 
 The primary file `show-data.csv` contains data of actors who appeared on at least half the episodes of television shows that were nominated for an Emmy for Outstanding Drama since the year 2000. It contains the following variables:
 

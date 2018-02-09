@@ -5,7 +5,7 @@ files:
 ---
 # Trump Approval Ratings
 
-This file contains links to the data behind [How Popular is Donald Trump?](https://projects.fivethirtyeight.com/trump-approval-ratings/).
+This file contains links to the data behind [How Popular is Donald Trump?](https://projects.fivethirtyeight.com/trump-approval-ratings/)
 
 `approval_polllist.csv` contain President Trump's job approval ratings.
 

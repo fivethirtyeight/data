@@ -1,6 +1,6 @@
 # NFL Ticket Prices
 
-This directory contains the data behind the story [Who Goes To Meaningless NFL Games And Why?](http://fivethirtyeight.com/datalab/who-goes-to-meaningless-nfl-games-and-why/).
+This directory contains the data behind the story [Who Goes To Meaningless NFL Games And Why?](http://fivethirtyeight.com/datalab/who-goes-to-meaningless-nfl-games-and-why/)
 
 There are three data files:
 
