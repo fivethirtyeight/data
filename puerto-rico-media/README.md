@@ -1,5 +1,9 @@
 # Puerto Rico Media
 
+This folder contains data behind the stories:
+* [The Media Really Has Neglected Puerto Rico](https://fivethirtyeight.com/features/the-media-really-has-neglected-puerto-rico/)
+* [The Media Really Started Paying Attention To Puerto Rico When Trump Did](https://fivethirtyeight.com/features/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did/)
+
 ### Online News Data
 
 Data about Online News was collected using the [Media Cloud](https://mediacloud.org/) dashboard, an open source suite of tools for analyzing a database of online news.

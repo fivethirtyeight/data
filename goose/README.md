@@ -1,6 +1,6 @@
 # Goose
 
-The data behind the stories:
+This folder contains data behind the stories:
 * [The Save Ruined Relief Pitching. The Goose Egg Can Fix It](https://fivethirtyeight.com/features/goose-egg-new-save-stat-relief-pitchers/)
 * [Kenley Jansen Is The Model Of A Modern Reliever](https://fivethirtyeight.com/features/kenley-jansen-is-the-model-of-a-modern-reliever/)
 
