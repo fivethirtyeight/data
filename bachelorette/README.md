@@ -1,6 +1,6 @@
 # Bachelorette / Bachelor
 
-The raw data behind the stories:
+This folder contains the data behind the stories:
 
 - [How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette’](https://fivethirtyeight.com/features/the-bachelorette/)
 - [Rachel’s Season Is Fitting Neatly Into ‘Bachelorette’ History](https://fivethirtyeight.com/features/rachels-season-is-fitting-neatly-into-bachelorette-history/)

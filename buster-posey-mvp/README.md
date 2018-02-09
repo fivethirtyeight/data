@@ -1,6 +1,6 @@
-### Buster Posey MVP
+# Buster Posey MVP
 
-The code behind the story [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/).
+This folder contains the code behind the story [Buster Posey’s Pitch Framing Makes Him A Potential MVP](http://fivethirtyeight.com/features/buster-poseys-pitch-framing-makes-him-a-potential-mvp/).
 
 File | Description
 ---|---------

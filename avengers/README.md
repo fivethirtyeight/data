@@ -1,8 +1,8 @@
-### Avengers
+# Avengers
 
-This directory contains the data behind the story [Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building](http://fivethirtyeight.com/features/avengers-death-comics-age-of-ultron).
+This folder contains the data behind the story [Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building](http://fivethirtyeight.com/features/avengers-death-comics-age-of-ultron).
 
-It includes the dataset `avengers.csv`, which details the deaths of Marvel comic book characters between the time they joined the Avengers and April 30, 2015, the week before Secret Wars #1.
+`avengers.csv` details the deaths of Marvel comic book characters between the time they joined the Avengers and April 30, 2015, the week before Secret Wars #1.
 
 Header | Definition
 ---|---------

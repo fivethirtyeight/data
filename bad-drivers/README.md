@@ -1,10 +1,10 @@
-### Bad drivers
+# Bad drivers
 
 Data from the article [Dear Mona, Which State Has The Worst Drivers?](http://fivethirtyeight.com/datalab/which-state-has-the-worst-drivers/)
 
 Variable | Source
 ---|---------
-`State` | N/A	
+`State` | N/A
 `Number of drivers involved in fatal collisions per billion miles` | National Highway Traffic Safety Administration, 2012
 `Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding` | National Highway Traffic Safety Administration, 2009
 `Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired` | National Highway Traffic Safety Administration, 2012
