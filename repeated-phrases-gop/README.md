@@ -1,6 +1,6 @@
-### The phrases most repeated by GOP candidates
+# Repeated Phrases GOP
 
-The raw data behind the story [These Are The Phrases Each GOP Candidate Repeats Most](http://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most)
+This folder contains data behind the story [These Are The Phrases Each GOP Candidate Repeats Most](http://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most).
 
 File | Description
 ---|---------

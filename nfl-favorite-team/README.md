@@ -4,8 +4,6 @@ This folder contains data behind the story [The Rams Are Dead To Me, So I Answer
 
 `team-picking-categories.csv` contains grades for each NFL franchise in 16 categories, to be used to pick a new favorite team.
 
-Key for categories:
-
 | abbrev |                                                           category                                                            |
 |--------|-------------------------------------------------------------------------------------------------------------------------------|
 | FRL    | Fan relations - Courtesy by players, coaches and front offices toward fans, and how well a team uses technology to reach them |

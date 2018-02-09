@@ -1,6 +1,6 @@
-### Political Donations From the Scientific Community
+# Science Giving
 
-This directory contains the raw data behind [When Scientists Donate To Politicians, It’s Usually To Democrats](https://fivethirtyeight.com/features/when-scientists-donate-to-politicians-its-usually-to-democrats).
+This directory contains the data behind the story [When Scientists Donate To Politicians, It’s Usually To Democrats](https://fivethirtyeight.com/features/when-scientists-donate-to-politicians-its-usually-to-democrats).
 
 The data in `science_federal_giving.csv` is from the Federal Election Commission, filtered to donations form the following occupations from 2007 to 2016: 
 * computer and information scientists

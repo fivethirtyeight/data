@@ -1,7 +1,8 @@
 ### Earthquake data
 
-This directory contains the data behind the story [The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’](http://fivethirtyeight.com/datalab/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one). The data file `earthquake_data.csv` contains the following variables:
-	
+This directory contains the data behind the story [The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’](http://fivethirtyeight.com/datalab/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one).
+
+`earthquake_data.csv` contains the following variables:
 
 Header | Definition
 ---|---------

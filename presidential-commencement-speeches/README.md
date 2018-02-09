@@ -1,6 +1,8 @@
-### Presidential commencement speeches
+# Presidential Commencement Speeches
 
-The data behind the story [Sitting Presidents Give Way More Commencement Speeches Than They Used To](http://fivethirtyeight.com/features/sitting-presidents-give-way-more-commencement-speeches-than-they-used-to/), not including commencement speeches by President Obama in 2016
+This folder contains data behind the story [Sitting Presidents Give Way More Commencement Speeches Than They Used To](http://fivethirtyeight.com/features/sitting-presidents-give-way-more-commencement-speeches-than-they-used-to/)
+
+Data does not include commencement speeches by President Obama in 2016.
 
 Header | Definition
 ---|---------

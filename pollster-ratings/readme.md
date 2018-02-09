@@ -1,4 +1,4 @@
-## Pollster ratings
+# Pollster Ratings
 
 The data and calculations behind FiveThirtyEight's pollster ratings.
 

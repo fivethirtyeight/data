@@ -1,6 +1,6 @@
-### Presidential campaign trail data
+# Presidential Campaign Trail
 
-The raw data behind the story [The Last 10 Weeks Of 2016 Campaign Stops In One Handy Gif](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/)
+This folder contains data behind the story [The Last 10 Weeks Of 2016 Campaign Stops In One Handy Gif](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/).
 
 Header | Definition
 ---|---------
@@ -9,6 +9,6 @@ Header | Definition
 `lat` | Latitude of the event location
 `lng` | Longitude of the event location
 
-Sources: 
+Sources:
 * [hillaryspeeches.com](https://hillaryspeeches.com/)
 * [conservativedailynews.com](http://www.conservativedailynews.com/)

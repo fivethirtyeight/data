@@ -23,5 +23,3 @@ TV News Data was collected from the [Internet TV News Archive](https://archive.o
 Google search data was collected using the [Google Trends](https://trends.google.com/trends/) dashboard.
 
 * `google_trends.csv` - Contains data on google trend searches for Hurricanes Harvey, Irma, Jose, and Maria.
-
-

@@ -1,6 +1,6 @@
-### Scrabble tournament games data
+# Scrabble Games
 
-The raw data behind the story [How 'Qi' And 'Za' Changed Scrabble](https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/)
+This folder contains data behind the story [How 'Qi' And 'Za' Changed Scrabble](https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/).
 
 Header | Definition
 ---|---------
