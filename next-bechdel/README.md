@@ -2,30 +2,32 @@
 
 This folder contains data behind the story [The Next Bechdel Test](https://projects.fivethirtyeight.com/next-bechdel/).
 
-`nextBechal_allTests.csv` and shows the high-level breakdown of which movies passed and failed
-    - Each row is one of the 50 top-grossing movies from 2016.
-    - Each column is one of the tests. A `0` means the movie failed that test, a `1` means it passed.
+A series of tests were conducted to determine if movies' casts and/or grews had a gender imbalance. `nextBechal_allTests.csv` shows which movies passed and failed the tests. Each row represents one of the 50 top-grossing movies from 2016. Each column represents one test; a `0` means that a movie failed a test and a `1` means that a movie passed a test.
 
-`nextBechal_castGender.csv` contains the estimated gender for the entire cast for every movie, including whether a role was supporting or main. Data was obtained from [The Numbers](http://the-numbers.com).
+`nextBechal_castGender.csv` contains data about movies' casts. The data includes actors' first and last names and the characters that actors portrayed. The data was obtained from [The Numbers](http://the-numbers.com).
 
-	Variable | Definition
-	---|---------
-	`MOVIE` | Title of the film
-	`ACTOR` | Full name of the actor
-	`CHARACTER` | All characters played by the actor in that movie
-	`TYPE` | Leading, Supporting, Cameo or Lead Ensemble Member
-	`BILLING` | Billing number
-	`GENDER` | Estimated gender of the actor
+The following table provides a definition for each header in `nextBechal_castGender.csv`:
+
+Header | Definition
+---|---------
+`MOVIE` | The title of the movie that an actor is in
+`ACTOR` | The actor's first and last name
+`CHARACTER` | The characters that the actor portrayed in the movie
+`TYPE` | Indicates if the actor was a "Leading", "Supporting", "Cameo", or "Lead Ensemble" actor
+`BILLING` | The billing number
+`GENDER` | A _guess_ for the actor's gender
 
 
-`nextBechal_crewGender.csv` contains data for the crew for every movie, by probablity that a give first name is male.
+`nextBechal_crewGender.csv` contains data about movies' crews. The data includes crew members' first and last names and crew members' departments.
 
-	Variable | Definition
-	---|---------
-	`MOVIE` | Title of the film
-	`DEPARTMENT` | Full name of the actor
-	`FULL_NAME` | Actor's first and last name
-	`FIRST_NAME` | Just first name of actor
-	`IMDB` | Actor's IMDB page
-	`GENDER_PROB` | Percent chance that a given name is male
-	`GENDER_GUESS` | Based on the probablity, guess if the name is male or female
+The following table provides a definition for each header in `nextBechal_crewGender.csv`:
+
+Header | Definition
+---|---------
+`MOVIE` | The title of the movie that the crew member worked on
+`DEPARTMENT` | The crew member's department
+`FULL_NAME` | The crew member's first and last name
+`FIRST_NAME` | The crew member's first name
+`IMDB` | The crew member's IMDB page
+`GENDER_PROB` | The percent chance that the crew member's name is male
+`GENDER_GUESS` | A _guess_ for the crew member's gender which is based on `GENDER_PROB`
