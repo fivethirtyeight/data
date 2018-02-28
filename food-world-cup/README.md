@@ -1,10 +1,10 @@
 # Food World Cup
 
-This folder contains data behind the stories:
+This folder contains the data behind the following stories:
 * [The FiveThirtyEight International Food Association’s 2014 World Cup](https://fivethirtyeight.com/features/the-fivethirtyeight-international-food-associations-2014-world-cup/)
 * [What is Americans’ Favorite Global Cuisine?](https://fivethirtyeight.com/features/what-is-americans-favorite-global-cuisine/)
 
-Anwser key for the responses to the "Please rate how much you like the traditional cuisine of X:" questions.
+Here is the legend which defines the responses to the "Please rate how much you like the traditional cuisine of X:" questions. Participants responded to these questions using a scale from 1 to 5.
 
 Value | Description
 ------|--------------
