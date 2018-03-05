@@ -1,6 +1,6 @@
 # Rare Pepes
 
-This folder contains data behind the story [PEPEHEDTK](PEPELINKTK). There are four data files, described below. You can also find further information about individual Rare Pepe assets at [Rare Pepe Wallet](https://rarepepewallet.com/feed).
+This folder contains data behind the story [Can The Blockchain Turn Pepe The Frog Into Modern Art?](https://fivethirtyeight.com/features/pepe-the-frog-symbolism-cryptoart-blockchain/). There are four data files, described below. You can also find further information about individual Rare Pepe assets at [Rare Pepe Wallet](https://rarepepewallet.com/feed).
 
 `ordermatches_all.csv` contains all Rare Pepe order matches from the beginning of the project, in late 2016, until Feb. 3. All order matches include a pair of assets (a “forward asset” and a “backward asset”) one of which is a Rare Pepe and the other of which is either XCP, the native [Counterparty](https://counterparty.io/) token, or Pepe Cash. The time of the order match can be determined by the block.
 
