@@ -10,9 +10,12 @@ Files in this directory contain data from a SurveyMonkey News Survey conducted i
 
 file | survey dates
 -----|-------------
-`august_survey_responses.xlsx` | August 18 - 21, 2017
-`may_survey_responses.xlsx` | May 26 - June 4, 2017
-`may_survey_questionnaire.pdf` |
-`april_survey_responses.xlsx` | April 18 - 23, 2017
-`march_survey_responses.xlsx` | March 31 - April 7, 2017
+`february_2018_responses.xlsx` | February 12 - 19, 2018
+`february_2018_questionnaire.pdf` | 
+`february_2018_rawdata.dta` | 
+`august_2017_responses.xlsx` | August 18 - 21, 2017
+`may_2017_responses.xlsx` | May 26 - June 4, 2017
+`may_2017_questionnaire.pdf` |
+`april_2017_responses.xlsx` | April 18 - 23, 2017
+`march_2017_responses.xlsx` | March 31 - April 7, 2017
 
