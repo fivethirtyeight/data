@@ -12,7 +12,7 @@ file | survey dates
 -----|-------------
 `february_2018_responses.xlsx` | February 12 - 19, 2018
 `february_2018_questionnaire.pdf` | 
-`february_2018_rawdata.dta` | 
+`february_2018_rawdata.csv` | 
 `august_2017_responses.xlsx` | August 18 - 21, 2017
 `may_2017_responses.xlsx` | May 26 - June 4, 2017
 `may_2017_questionnaire.pdf` |
