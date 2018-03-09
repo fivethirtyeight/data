@@ -1,4 +1,4 @@
-# Poll Quiz: Guns
+# Poll Quiz - Guns
 
 This folder contains the data behind the quiz [Do You Know Where America Stands On Guns?](https://projects.fivethirtyeight.com/guns-parkland-polling-quiz/)
 
