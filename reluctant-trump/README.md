@@ -5,6 +5,7 @@ This directory contains data behind the stories:
 * [Trump’s Reluctant Voters Are Getting More Reluctant](https://fivethirtyeight.com/features/trumps-reluctant-voters-are-getting-more-reluctant/)
 * [How Trump’s Least Enthusiastic Voters Feel About Him Now](https://fivethirtyeight.com/features/how-trumps-least-enthusiastic-voters-feel-about-him-now/)
 * [‘Reluctant’ Trump Voters Swung The Election. Here’s How They Think He’s Doing](https://fivethirtyeight.com/features/reluctant-trump-voters-swung-the-election-heres-how-they-think-hes-doing/)
+* [The Economy Is Keeping ‘Reluctant’ Trump Voters With Him](https://fivethirtyeight.com/features/the-economy-is-keeping-reluctant-trump-voters-with-him/)
 
 Files in this directory contain data from a SurveyMonkey News Survey conducted in partnership with FiveThirtyEight and include crosstabs of Trump voters who were excited to vote for Trump versus those who were not.
 
