@@ -1,7 +1,6 @@
 # Special Elections
 
-This folder contains the data behind the story [Be Skeptical Of Anyone Who Tells You They Know How Democrats Can Win In November
-](https://fivethirtyeight.com/features/be-skeptical-of-anyone-who-tells-you-they-know-how-democrats-can-win-in-november/).
+This folder contains the data behind the story [Be Skeptical Of Anyone Who Tells You They Know How Democrats Can Win In November](https://fivethirtyeight.com/features/be-skeptical-of-anyone-who-tells-you-they-know-how-democrats-can-win-in-november/).
 
 `special-elections.csv` contains data on all elections pitting at least one Democrat against at least one Republican between Jan. 20, 2017, and Mar. 27, 2018, including both state and federal special elections as well as regularly scheduled 2017 elections in New Jersey and Virginia (except for New Jersey General Assembly).
 
