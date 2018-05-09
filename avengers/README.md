@@ -12,7 +12,7 @@ Header | Definition
 `Current?` | Is the member currently active on an avengers affiliated team?
 `Gender` | The recorded gender of the character
 `Probationary` | Sometimes the character was given probationary status as an Avenger, this is the date that happened
-`Full/Reserve` | The month and year the character was introduced as a full or reserve member of the Avnegers
+`Full/Reserve` | The month and year the character was introduced as a full or reserve member of the Avengers
 `Year` | The year the character was introduced as a full or reserve member of the Avengers
 `Years since joining` | 2015 minus the year
 `Honorary` | The status of the avenger, if they were given "Honorary" Avenger status, if they are simply in the "Academy," or "Full" otherwise
