@@ -25,4 +25,4 @@ JOIN (SELECT subreddit, author, COUNT(1) as cnt
      GROUP BY subreddit, author HAVING cnt > 10) t2
 ON t1.author=t2.author
 WHERE t1.subreddit!=t2.subreddit
-GROUP BY t1.subreddit, t2.subreddit
+GROUP BY t1_subreddit, t2_subreddit
