@@ -1,0 +1,373 @@
+ID,Pollster,Polls,Live Caller With Cellphones,Internet,NCPP/AAPOR/Roper,Polls,Simple Average Error,Races Called Correctly,Advanced Plus-Minus,Predictive Plus-Minus,538 Grade,Banned by 538,Mean-Reverted Bias
+1,Monmouth University,71,yes,no,yes,41,5.488592,0.8521127,-1.452013,-1.200763,A+,no,0.5892957
+2,Field Research Corporation (Field Poll),25,yes,no,yes,17,3.8568,1,-2.54074,-1.142149,A+,no,-1.095745
+3,Selzer & Company,37,yes,no,yes,24,4.620541,0.8378378,-1.624378,-1.119856,A+,no,-0.0074074
+4,Elway Research,18,yes,no,yes,16,3.987778,0.8888889,-2.306804,-0.98125,A+,no,0.481087
+5,Ciruli Associates,17,yes,no,yes,16,3.604118,0.9411765,-2.002258,-0.9534631,A+,no,-0.7176087
+6,ABC News/Washington Post,51,yes,no,yes,46,3.021961,0.7843137,-1.041506,-0.8607013,A+,no,0.5755263
+7,Grove Insight,29,yes,no,no,29,3.140344,0.8965517,-2.512963,-0.8169233,A,no,0.4808475
+8,Marist College,146,yes,no,yes,85,5.395822,0.880137,-0.8353609,-0.8118232,A,no,-0.6708696
+9,Muhlenberg College,22,yes,no,yes,21,3.493636,0.9090909,-1.327424,-0.7950342,A,no,-0.4982353
+10,National Journal,12,yes,no,yes,12,2.596667,1,-2.609999,-0.7897959,A,no,-0.1785714
+11,Public Policy Institute of California,12,yes,no,yes,8,4.065,1,-1.992754,-0.7877255,A,no,-0.7092106
+12,SurveyUSA,763,no,no,yes,597,4.62772,0.9017038,-0.975466,-0.756749,A,no,0.090319
+13,University of Cincinnati (Ohio Poll),38,yes,no,yes,29,3.729211,0.9342105,-0.9062568,-0.7280639,A,no,-1.453051
+14,Siena College,42,yes,no,yes,38,5.331666,0.8452381,-0.8431964,-0.7085312,A,no,-0.2779412
+15,Fairleigh Dickinson University (PublicMind),18,yes,no,yes,17,4.077778,0.9444444,-1.250776,-0.700291,A,no,0.0451064
+16,"Research & Polling, Inc.",26,yes,no,no,25,4.136154,0.8461539,-1.693069,-0.6159658,A,no,-0.6661818
+17,Fox News/Anderson Robbins Research/Shaw & Company Research,24,yes,no,yes,9,6.39625,0.6458333,-0.7573535,-0.5699349,A,no,0.4471795
+18,Marquette University,7,yes,no,yes,4,2.594286,1,-3.762563,-0.569905,A,no,-0.0594118
+19,Behavior Research Center (Rocky Mountain),7,yes,no,yes,5,3.46,0.7142857,-2.487332,-0.569905,A,no,0.088
+20,Blum & Weprin Associates,18,yes,no,no,16,4.557777,0.9444444,-2.592506,-0.563125,A,no,-1.034565
+21,NBC News/Wall Street Journal,25,yes,no,yes,20,4.182001,0.74,-0.607908,-0.5093797,A-,no,0.4582
+22,University of Connecticut,7,yes,no,yes,7,3.64,0.9285714,-1.555947,-0.4858951,A-,no,-0.3637838
+23,Time/Abt SRBI,7,yes,no,yes,6,3.172857,1,-1.545493,-0.4839172,A-,no,0.4425
+24,Angus Reid Global,29,no,yes,no,29,3.269655,0.9310345,-1.996648,-0.4183522,A-,no,-1.337627
+25,Ipsos,49,no,yes,yes,43,4.254286,0.7755102,-0.9168712,-0.4141193,A-,no,0.1450685
+26,Quinnipiac University,169,yes,no,yes,117,4.664438,0.872781,-0.3431102,-0.3986399,A-,no,-0.6578912
+27,University of Arkansas,4,yes,no,yes,4,2.4325,1,-5.493968,-0.3982699,A-,no,0.2861765
+28,IBD/TIPP,17,yes,no,no,17,2.307059,0.7647059,-1.555318,-0.3726976,A-,no,-0.7468085
+29,CBS News/New York Times,55,yes,no,yes,45,4.729818,0.7545455,-0.2623802,-0.3694986,A-,no,0.6442667
+30,CNN/Opinion Research Corp.,89,yes,no,yes,61,5.464831,0.758427,-0.2757123,-0.3671682,A-,no,-0.1073626
+31,Los Angeles Times,40,yes,no,yes,24,5.23775,0.8625,-0.2377604,-0.3550468,A-,no,-0.6116667
+32,MassINC Polling Group,11,yes,no,no,7,3.081819,1,-2.434031,-0.3221356,A-,no,-0.1775676
+33,St. Norbert College,12,yes,no,no,11,3.868333,0.875,-1.838594,-0.3159249,A-,no,0.2531707
+34,EPIC-MRA,43,yes,no,no,38,5.080698,0.8372093,-0.7529311,-0.2872285,A-,no,-0.3530883
+35,Western New England University,11,yes,no,yes,10,5.827272,0.8636364,-0.2534983,-0.2825269,A-,no,-1.152
+36,University of North Florida,4,yes,no,yes,2,4.490001,0.5,-0.9633091,-0.2763063,B+,no,0.31625
+37,University of New Hampshire,93,yes,no,yes,77,5.252903,0.8763441,-0.1389312,-0.2622139,B+,no,1.658318
+38,High Point University,2,yes,no,yes,2,0.9499989,1,-5.644591,-0.2609375,B+,no,0.005625
+39,Indiana University,2,yes,no,yes,2,0.8549995,1,-4.171918,-0.2609375,B+,no,0.0534375
+40,GfK Group,19,no,yes,yes,19,3.398947,0.9210526,-1.114287,-0.2479431,B+,no,-0.0914286
+41,Castleton University,3,yes,no,yes,0,9.933333,1,-1.000844,-0.241399,B+,no,
+42,Lake Research Partners,9,yes,no,no,9,3.845555,0.8333333,-2.325385,-0.2354438,B+,no,0.4976923
+43,Princeton Survey Research Associates International,32,yes,no,yes,31,4.63125,0.6875,0.0001773,-0.2281083,B+,no,0.2577049
+44,Garin-Hart-Yang Research Group,22,yes,no,no,22,5.312727,0.8636364,-0.8991593,-0.2032834,B+,no,1.289231
+45,Franklin & Marshall College,18,yes,no,yes,15,5.743888,0.9444444,0.0993153,-0.1940068,B+,no,-0.3782222
+46,"RKM Research and Communications, Inc.",26,yes,no,no,18,5.593077,0.8653846,-0.7785377,-0.1913619,B+,no,-0.20625
+47,University of South Alabama,8,yes,no,no,8,2.75125,1,-3.00668,-0.1882548,B+,no,-0.4060526
+48,University of Florida,1,yes,no,yes,1,1.07,0.5,-2.230408,-0.1837669,B+,no,0.0345161
+49,"Mason-Dixon Polling & Research, Inc.",415,yes,no,no,355,5.212409,0.8614458,-0.3800204,-0.1782705,B+,no,-0.9653247
+50,Pew Research Center,20,yes,no,yes,20,3.4155,0.575,0.145644,-0.1745424,B+,no,0.5542
+51,"National Research, Inc.",8,yes,no,no,6,5.0575,0.8125,-1.922492,-0.1719374,B+,no,-0.4511111
+52,Market Shares Corp.,26,yes,no,yes,22,6.78423,0.8461539,0.1869822,-0.1458399,B+,no,-1.730577
+53,Fleming & Associates,15,yes,no,no,13,5.078,1,-1.01001,-0.1400032,B+,no,-0.2902325
+54,Market Research Insight,7,yes,no,no,5,1.784285,1,-4.398869,-0.1381958,B+,no,0.1891429
+55,Montana State University Billings,7,yes,no,no,7,3.607142,0.5714286,-3.66488,-0.1381958,B+,no,0.5591892
+56,Riley Research Associates,7,yes,no,no,7,2.657143,1,-2.378693,-0.1381958,B+,no,-0.1189189
+57,Vanderbilt University,1,yes,no,yes,0,8.9,1,0.4947172,-0.1032922,B+,no,
+58,Elon University,4,yes,no,yes,4,3.960001,0.5,0.7268667,-0.0774621,B+,no,0.3794118
+59,RT Strategies,42,yes,no,yes,42,5.762381,0.7142857,0.2686314,-0.059965,B+,no,1.091944
+60,Public Policy Polling,383,no,no,no,263,4.918433,0.8237598,-0.496451,-0.054239,B+,no,-0.2037543
+61,Greenberg Quinlan Rosner/American Viewpoint,5,yes,no,no,4,4.444001,1,-2.78075,-0.0283673,B+,no,-0.5597059
+62,Ward Research (Honolulu Star-Advertiser),14,yes,no,no,14,6.003572,0.75,-0.7039244,-0.0234388,B+,no,-0.5524999
+63,"Harstad Strategic Research, Inc.",9,yes,no,no,9,3.806667,0.7222222,-1.039461,-0.0137811,B+,no,0.7753847
+64,Temple University,6,no,no,yes,5,3.66,1,-1.505706,-0.0026177,B+,no,-0.3531428
+65,Suffolk University,67,yes,no,no,36,5.202538,0.8208955,-0.2230502,-0.0007645,B+,no,0.7319697
+66,Pan Atlantic SMS Group,17,yes,no,no,15,6.778235,0.9117647,-0.5243747,0.0001968,B+,no,0.9171111
+67,University of Washington,10,yes,no,no,10,3.988999,1,-0.871708,0.002073,B,no,0.22975
+68,Clemson University,5,yes,no,no,1,10.296,1,-1.740682,0.0086781,B,no,-0.5387097
+69,American Viewpoint,6,yes,no,no,6,3.958333,0.6666667,-1.350454,0.0232577,B,no,-0.6297222
+70,Strategies 360,4,yes,no,no,4,2.035001,0.625,-3.152815,0.0320415,B,no,-0.0664706
+71,"Davis, Hibbitts & Midghall, Inc.",12,yes,no,no,10,4.274167,0.8333333,-0.5770275,0.0445228,B,no,-0.04625
+72,Pharos Research Group,31,yes,no,no,31,4.044839,0.9193549,-0.2087144,0.0578906,F,yes,0.8706558
+73,Google Consumer Surveys,12,no,yes,no,12,2.224998,0.8333333,-1.944728,0.0815063,B,no,-0.6290476
+74,University of Massachusetts Amherst,11,yes,no,no,2,6.527272,1,-0.4717854,0.0878732,B,no,-0.4478125
+75,Philadelphia Inquirer,4,yes,no,no,4,2.98,1,-1.472829,0.0940616,B,no,-0.3141177
+76,"Keating Research, Inc.",3,yes,no,no,3,2.220001,0.6666667,-3.04524,0.0966116,B,no,-0.0236364
+77,Missouri State University,3,yes,no,no,3,4.366669,0.6666667,-2.393266,0.0966116,B,no,0.3727273
+78,Mellman Group,21,yes,no,no,21,4.853333,0.7857143,-0.1846877,0.1032255,B,no,1.640784
+79,Cole Hargrave Snodgrass & Associates,4,yes,no,no,3,6.345,0.75,-1.27962,0.1167922,B,no,0.3130303
+80,University of Massachusetts Lowell,14,yes,no,no,6,5.262144,0.9285714,-0.2432433,0.1231416,B,no,-0.1452778
+81,YouGov,707,no,yes,no,652,6.679067,0.927157,-0.2802982,0.1257655,B,no,1.598431
+82,Voter/Consumer Research,6,yes,no,no,5,5.523332,1,-0.7016245,0.1313959,B,no,-0.208
+83,SoonerPoll.com,16,yes,no,yes,12,8.496251,0.8125,1.036585,0.132007,B,no,1.817381
+84,Richmond Times-Dispatch,4,yes,no,no,4,3.3025,1,-1.094253,0.1386,B,no,0.3414706
+85,The Polling Company Inc.,3,yes,no,no,3,3.66,1,-1.482646,0.1436438,B,no,-0.0339394
+86,Tarrance Group,24,yes,no,no,20,6.156667,0.8333333,-0.0477479,0.152112,B,no,-0.6604
+87,Public Opinion Strategies,53,yes,no,no,51,5.884529,0.6603774,-0.0024708,0.1523213,B,no,-1.914321
+88,Market Decisions,4,yes,no,no,4,5.164999,1,-0.9643474,0.153883,B,no,-0.0535294
+89,McKeon & Associates,2,yes,no,no,1,0.9050007,1,-6.63812,0.1657812,B,no,-0.0277419
+90,RBI Strategies & Research,2,yes,no,no,1,0.7049999,1,-6.571612,0.1657812,B,no,-0.0219355
+91,Frederick Polls,2,yes,no,no,1,2.384998,0.75,-4.91725,0.1657812,B,no,-0.0187097
+92,APC Research,2,yes,no,no,2,2.530001,1,-3.475548,0.1657812,B,no,0.158125
+93,Tulchin Research,2,yes,no,no,2,3.450001,1,-3.162069,0.1657812,B,no,-0.215625
+94,GBA Strategies,2,yes,no,no,2,3.689999,1,-2.702554,0.1657812,B,no,-0.230625
+95,Stockton College,5,yes,no,no,5,4.468001,1,-0.6040429,0.1710551,B,no,0.5291429
+96,Knowledge Networks,3,no,yes,yes,1,4.093333,1,-1.137104,0.1750567,B,no,-0.0083871
+97,Kiley & Company,2,yes,no,no,2,5.1,1,-1.715313,0.1835742,B,no,0.2125
+98,New England College,15,no,no,no,15,3.016667,0.7666667,-1.28471,0.1917635,B,no,-0.618
+99,Moore Information,6,yes,no,no,6,6.453334,0.6666667,-0.3234115,0.1944314,B,no,-0.4694445
+100,Landmark Communications,24,no,no,no,18,4.905416,0.875,-0.8656572,0.1952635,B,no,0.520625
+101,"Market Research Institute, Inc.",9,no,no,no,9,2.932221,1,-2.360387,0.1953846,B,no,-0.3264102
+102,"Glengariff Group, Inc.",7,yes,no,no,6,4.742857,0.7142857,-0.2333356,0.1960381,B,no,-0.0844445
+103,Wilson Perkins Allen Opinion Research,3,yes,no,no,3,6.046667,0.6666667,-0.8394504,0.2021161,B,no,-0.26
+104,Tel Opinion Research,12,yes,no,no,10,4.71,0.9583333,-0.0232964,0.2027316,B,no,-0.033
+105,"Strategic Vision, LLC",129,no,no,no,106,3.977597,0.875969,-0.2980322,0.2061248,F,yes,-1.875662
+106,Fox News/Opinion Dynamics Corp.,34,no,no,yes,28,3.916764,0.7205882,0.0941152,0.2112878,B,no,-0.4736207
+107,Louisville Courier-Journal,10,no,no,no,10,3.298,0.8,-1.749224,0.212694,B,no,-0.3155
+108,Vox Populi Communications,11,no,no,no,9,4.053637,0.7727273,-1.557624,0.2255154,B,no,-0.045641
+109,University of Houston,1,yes,no,no,0,2.009998,1,-6.56673,0.240052,B,no,
+110,Florida International University/Univision,1,yes,no,no,1,1.800003,1,-5.67379,0.240052,B,no,0.0580645
+111,QEV Analytics,1,yes,no,no,0,7.299999,0,-1.930019,0.2423095,B,no,
+112,Merrill Poll,2,yes,no,no,0,8.719999,1,-0.7337289,0.2449232,B,no,
+113,Hampton University,1,yes,no,no,1,3.48,1,-1.758506,0.2478422,B,no,0.1122581
+114,Hill Research Consultants,4,yes,no,no,4,5.445002,0.5,-0.1437343,0.2504257,B,no,-0.3717647
+115,Clarity Campaign Labs,4,yes,no,no,4,3.222499,0.625,-0.1181453,0.2534362,B,no,0.3761765
+116,University of Wisconsin (Badger Poll),6,no,no,yes,5,6.928335,0.8333333,0.0432181,0.2555363,B,no,0.1785714
+117,Financial Dynamics,15,no,no,no,15,2.767334,1,-1.082405,0.2591983,B,no,-0.6588889
+118,George Washington University (Battleground),32,yes,no,no,32,3.4775,0.5625,0.1884734,0.2602735,B,no,-1.000323
+119,Emerson College,34,no,no,yes,7,7.877353,0.8382353,0.1891719,0.2617866,B,no,-1.336216
+120,"Fabrizio, Lee & Associates",2,yes,no,no,2,5.914999,0.5,-0.3674788,0.2678138,B,no,0.3621875
+121,Dartmouth College,2,yes,no,no,0,9.000001,1,-0.3594726,0.2683142,B,no,
+122,Old Dominion University,1,yes,no,no,1,4.48,1,-0.9814692,0.2729079,B,no,0.1445161
+123,Schoen Consulting,1,yes,no,no,1,2.269997,1,-0.7317172,0.2809644,B-,no,-0.0732258
+124,Dittman Research,9,yes,no,no,6,5.900001,1,0.2394205,0.2813456,B-,no,1.011111
+125,Baruch College,2,yes,no,no,0,5.664999,1,-0.1153156,0.283574,B-,no,
+126,Gallup,80,yes,no,yes,65,4.26975,0.7125,0.6398347,0.2952517,B-,no,-0.8367368
+127,Greenberg Quinlan Rosner (Democracy Corps),48,yes,no,no,47,4.389375,0.4895833,0.2283793,0.295334,B-,no,2.381169
+128,"Yankelovich Partners, Inc.",6,no,no,yes,3,6.990001,0.4166667,0.2964946,0.2977491,B-,no,-0.1090909
+129,Belden Russonello,2,yes,no,no,2,4.734999,1,0.1887329,0.302577,B-,no,0.2078125
+130,Probolsky Research,1,yes,no,no,1,4.860001,0,0.3057219,0.3144301,B-,no,-0.1567742
+131,"Susquehanna Polling & Research, Inc.",29,yes,no,no,24,5.260345,0.7931035,0.3159967,0.3214479,B-,no,0.062037
+132,NPR,3,yes,no,no,3,4.98,0.1666667,0.4934877,0.3232923,B-,no,0.0878788
+133,University of Nevada Las Vegas,1,yes,no,no,0,8.999998,1,0.855173,0.3321544,B-,no,
+134,CallFire,4,yes,no,no,4,3.932501,0.75,0.5555269,0.3326918,B-,no,-0.4626471
+135,DFM Research,5,yes,no,no,5,6.262,0.8,0.5289689,0.3329139,B-,no,0.8945714
+136,Victoria Research & Consulting,1,yes,no,no,1,8.050003,0.5,1.038904,0.3380812,B-,no,0.2596774
+137,Christopher Newport University,3,yes,no,no,3,6.789999,1,0.7369769,0.3454276,B-,no,0.6172727
+138,"Ethridge & Associates, LLC",6,no,no,no,6,2.671668,0.8333333,-2.362378,0.3466667,B-,no,-0.1202778
+139,Clarus Research Group,3,yes,no,no,2,6.753332,1,0.812274,0.3522728,B-,no,0.505625
+140,Virginia Commonwealth University,5,yes,no,no,5,4.898,1,0.7520552,0.3647834,B-,no,-0.2768571
+141,Benenson Strategy Group,9,yes,no,no,9,6.210001,0.5,0.6173753,0.3685659,B-,no,0.6566666
+142,Southern Media & Opinion Research,4,yes,no,no,2,6.4275,1,0.8638199,0.3689615,B-,no,0.003125
+143,Middle Tennessee State University,4,yes,no,no,3,8.01,1,0.8646795,0.3690626,B-,no,0.1169697
+144,Capital Survey Research Center,11,no,no,no,4,7.756364,0.3636364,-1.020068,0.3697377,B-,no,0.0670588
+145,Val Smith,1,yes,no,no,1,8.519997,1,2.047489,0.3706162,B-,no,-0.2748387
+146,Hoffman Research Group,1,yes,no,no,1,7.09,1,2.152493,0.3740034,B-,no,-0.2287097
+147,Potomac Incorporated,8,no,no,no,6,4.5475,0.875,-1.350889,0.3798128,B-,no,-0.5227778
+148,Harper Polling,9,no,no,no,5,4.128889,1,-1.147167,0.3921922,B-,no,0.254
+149,Crawford Johnson & Northcott Inc.,5,no,no,no,1,4.649999,1,-2.97579,0.4028572,B-,no,0.1048387
+150,"Fairbank, Maslin, Maullin, Metz & Associates",7,yes,no,no,7,5.868571,0.7857143,0.8757483,0.4058647,B-,no,1.048108
+151,OpinionWorks,6,yes,no,no,6,7.3,0.9166667,0.9682027,0.4097005,B-,no,-0.5077778
+152,Rutgers University,13,yes,no,yes,13,5.684615,0.8461539,2.125943,0.4210937,B-,no,0.0981395
+153,Feldman Group,1,yes,no,no,1,10.8,0,3.679445,0.4232599,B-,no,0.3483871
+154,"Schroth, Eldon & Associates",8,no,no,no,6,3.151251,0.875,-1.118056,0.4288304,B-,no,0.5586111
+155,Overtime Politics,12,yes,no,no,0,9.816668,0.6666667,0.8134353,0.4417978,F,yes,
+156,"North Star Opinion Research/Ayres, McHenry & Associates",2,yes,no,no,2,7.030001,0.5,2.597078,0.4530987,B-,no,-0.439375
+157,"International Communications Research, Inc.",5,no,no,no,5,3.128002,0.2,-1.632694,0.4553295,B-,no,-0.0714286
+158,Wilson Research Strategies,10,yes,no,no,9,6.941,0.65,0.9508294,0.4577073,B-,no,-0.1258975
+159,University of Texas,4,no,yes,no,4,1.202499,1,-5.019946,0.462353,B-,no,0.1285294
+160,Orion Strategies,4,no,no,no,3,3.065,1,-3.625905,0.462353,B-,no,0.1175758
+161,Alabama State University,4,no,no,no,0,6.400001,0.5,-3.430982,0.462353,B-,no,
+162,Northern Arizona University,4,no,no,no,4,3.5825,1,-3.265447,0.462353,B-,no,-0.3908823
+163,Marshall Marketing & Communications,4,no,no,no,3,2.785,1,-2.196468,0.462353,B-,no,-0.2
+164,IVR Polls,4,no,no,no,0,4.049999,1,-2.178545,0.462353,B-,no,
+165,"Gonzales Research & Marketing Strategies, Inc.",9,yes,no,no,8,6.387777,0.7777778,1.026439,0.4629651,B-,no,-0.4463158
+166,SocialSphere,2,yes,no,no,2,6.139999,1,2.892591,0.4715682,B-,no,-0.38375
+167,Howey Politics/DePauw University,7,yes,no,no,6,6.798572,0.5714286,1.241041,0.4749742,B-,no,0.0952778
+168,OnPoint,4,no,no,no,4,1.652499,1,-1.880882,0.4763669,B-,no,0.1926471
+169,Scripps Howard,4,no,no,no,4,3.785,1,-1.85246,0.4797106,B-,no,-0.0652941
+170,Loras College,10,yes,no,no,6,9.705,0.7,1.042769,0.4806923,B-,no,1.060833
+171,KRC/Communications Research,22,no,no,no,11,6.891364,0.9090909,-0.2466019,0.4833607,B-,no,0.1941463
+172,"Richard Day Research, Inc.",11,no,no,no,11,5.504546,1,-0.5917472,0.4846532,B-,no,-0.7704878
+173,"Frank N. Magid Associates, Inc.",4,no,no,no,4,4.634998,1,-1.810037,0.4847015,B-,no,0.5452942
+174,Franklin Pierce University,21,yes,no,no,12,6.636666,0.8333333,0.7721329,0.4972104,B-,no,1.279762
+175,Penn Schoen Berland,18,no,yes,yes,18,7.587778,0.6666667,0.8800772,0.5169039,B-,no,2.52875
+176,US News & World Report,3,no,no,no,3,1.916667,1,-4.68424,0.5254546,B-,no,-0.0766667
+177,Iowa State University,3,no,no,no,0,6.286667,0.6666667,-3.536943,0.5254546,B-,no,
+178,RAND (American Life Panel),3,no,yes,no,3,1.236666,1,-3.393079,0.5254546,B-,no,-0.0390909
+179,MSR Group,3,no,no,no,3,3.466666,1,-2.792488,0.5254546,B-,no,0.3151515
+180,Personal Marketing Research,3,no,no,no,0,6.176666,0.6666667,-2.216456,0.5254546,B-,no,
+181,Gravis Marketing,55,no,no,no,29,5.804545,0.7909091,0.0352,0.5298353,B-,no,-1.05983
+182,Lauer Johnson Research,1,yes,no,no,1,13.82,0,7.17943,0.5361627,B-,no,0.4458064
+183,University of Illinois at Chicago,1,no,no,yes,1,14.09,1,7.184,0.5363101,B-,no,-0.4545161
+184,"Political Marketing International, Inc./Red Racing Horses",4,no,no,no,4,4.31,0.625,-1.237512,0.5520574,B-,no,0.1341176
+185,Purple Strategies,4,no,yes,no,4,3.02,0.875,-1.233342,0.552548,B-,no,-0.3552941
+186,Research 2000,279,no,no,no,247,5.539391,0.8781362,0.1581388,0.557737,F,yes,1.389458
+187,"Baselice & Associates, Inc.",2,yes,no,no,1,9.98,1,4.345331,0.5623645,C+,no,0.2241935
+188,Marketing Resource Group (MRG),6,yes,no,no,3,11.045,0.1666667,1.893977,0.5639963,C+,no,-0.2712121
+189,University of Wisconsin Milwaukee,3,no,no,no,3,5.283331,1,-1.472478,0.5734111,C+,no,-0.480303
+190,Braun Research,3,yes,no,no,3,9.113332,1,3.254724,0.5743138,C+,no,0.8284848
+191,Market Solutions Group,4,no,no,no,2,4.347498,1,-1.018784,0.5777901,C+,no,-0.0078125
+192,CVOTER International,3,no,yes,no,3,2.859997,1,-1.264761,0.5922945,C+,no,-0.26
+193,M4 Strategies,2,no,yes,no,2,3.09,1,-6.183712,0.5925,C+,no,-0.193125
+194,Louis Harris & Associates,2,no,no,no,2,0.8999977,1,-4.460755,0.5925,C+,no,0.05625
+195,Master Image,2,no,no,no,0,1.170002,1,-4.144325,0.5925,C+,no,
+196,Douglas Fulmer & Associates,2,no,no,no,0,5.07,1,-2.879431,0.5925,C+,no,
+197,Forward Strategies,2,no,no,no,2,1.305,1,-2.716085,0.5925,C+,no,0.0815625
+198,Lincoln Institute,2,no,no,no,2,4.129999,0.75,-2.671461,0.5925,C+,no,-0.258125
+199,Crosswind Media & Public Relations,2,no,no,no,0,6.504997,1,-1.965679,0.594645,C+,no,
+200,Texas Credit Union League,2,no,no,no,0,6.950001,1,-1.931398,0.5967876,C+,no,
+201,Wirthlin Worldwide,4,no,no,no,4,4.559999,0.75,-0.8325889,0.5996954,C+,no,-0.46
+202,"Talmey-Drake Research & Strategy, Inc.",9,yes,no,no,9,7.676666,0.5,1.634799,0.6033561,C+,no,-0.4079487
+203,Dixie Strategies,3,no,no,no,0,7.883335,0.8333333,-0.9210004,0.6235454,C+,no,
+204,Manhattanville College,3,no,no,no,2,6.546667,1,-0.9161616,0.6239854,C+,no,-0.51375
+205,Midwest Survey and Research,3,no,no,no,3,7.273332,1,-0.8757078,0.627663,C+,no,-0.0951515
+206,Florida Atlantic University,2,no,no,no,0,3.740002,1,-1.344293,0.6334817,C+,no,
+207,Hendrix College,9,no,no,no,9,6.692223,0.8888889,-0.0456696,0.6463839,C+,no,1.544359
+208,StPetePolls.org,2,no,no,no,2,1.975,0.25,-1.032915,0.6529428,C+,no,0.1234375
+209,Canisius College,1,no,no,no,0,0.0999985,1,-5.780735,0.663871,C+,no,
+210,University of Tennessee,1,no,no,no,1,2.73,1,-5.637769,0.663871,C+,no,-0.0880645
+211,Market Strategies International,1,no,no,no,1,1.100002,1,-5.619658,0.663871,C+,no,-0.0354839
+212,RMS Research,1,no,no,no,1,0.9199982,1,-5.405038,0.663871,C+,no,-0.0296774
+213,"Dynamic Marketing, Inc.",1,no,no,no,1,3.010002,1,-4.096936,0.663871,C+,no,0.0970968
+214,Cranford & Associates,1,no,yes,no,1,2.459999,1,-3.865096,0.663871,C+,no,0.0793548
+215,Wood Communications Group,1,no,no,no,1,0.8400002,1,-3.795208,0.663871,C+,no,0.0270968
+216,"Lauer Lalley Victoria, Inc.",1,no,no,no,1,1.700001,1,-3.600807,0.663871,C+,no,-0.0548387
+217,BIGresearch,1,no,yes,no,0,1.99,1,-3.573571,0.663871,C+,no,
+218,Cooper & Secrest,1,no,no,no,1,2.639999,0,-3.531607,0.663871,C+,no,-0.0851613
+219,"Central Surveys, Inc.",1,no,no,no,1,1.670002,0,-3.300999,0.663871,C+,no,0.053871
+220,University of North Carolina,1,no,no,no,1,1.600002,1,-3.027152,0.663871,C+,no,0.0516129
+221,Multi-Quest International,1,no,no,no,0,4.110001,0,-3.026632,0.663871,C+,no,
+222,MBQF,1,no,no,no,0,4.34,1,-2.899745,0.663871,C+,no,
+223,Multi Quest International Inc,1,no,no,no,1,1.870003,1,-2.808818,0.663871,C+,no,0.0603226
+224,Aspen Media & Market Research,1,no,no,no,1,3.470001,1,-2.662441,0.663871,C+,no,-0.1119355
+225,New Mexico State University,1,no,no,no,0,6.799999,0,-2.540729,0.663871,C+,no,
+226,Red Sea Communications,1,no,no,no,1,4.369999,1,-2.386578,0.663871,C+,no,-0.1409677
+227,Winston Group,1,no,no,no,1,6.34,1,-2.354104,0.663871,C+,no,0.2045161
+228,Diamond State Consulting Group,1,no,no,no,1,4.18,1,-2.223317,0.663871,C+,no,0.1348387
+229,Neighborhood Research Corporation,1,no,no,no,1,3.43,1,-2.079472,0.663871,C+,no,-0.1106452
+230,Diversified Research Inc,1,no,no,no,1,4.989998,1,-2.045131,0.663871,C+,no,-0.1609677
+231,Jim Meader (KELOLAND-TV),4,no,no,no,4,4.58,1,-0.2506716,0.6681563,C+,no,0.5388235
+232,Rivercity Polling,1,no,no,no,1,6.700001,1,-1.669694,0.674526,C+,no,-0.216129
+233,War Room Logistics,1,no,no,no,0,4.500002,1,-1.593909,0.6769707,C+,no,
+234,Constituent Dynamics,7,no,no,no,1,7.371428,0.8571429,0.0396937,0.6794015,C+,no,-0.0419355
+235,Forman Center,1,no,no,no,1,2.599998,1,-1.235136,0.688544,C+,no,0.083871
+236,Triumph Campaigns,1,no,no,no,1,4.220001,1,-1.226124,0.6888347,C+,no,-0.136129
+237,OnMessage Inc.,6,yes,no,no,6,9.120001,0.6666667,2.650935,0.6901558,C+,no,-1.097778
+238,Iona College,1,no,no,no,1,4.400002,1,-1.141264,0.6915721,C+,no,0.1419355
+239,Analytical Group,1,no,no,no,1,4,1,-1.064257,0.6940563,C+,no,0.1290323
+240,Arizona State University,8,yes,no,no,6,7.95625,1,2.194991,0.6949012,C+,no,0.9141667
+241,McCulloch Research & Polling,3,no,no,no,3,4.94,0.6666667,-0.1353298,0.69497,C+,no,-0.2624242
+242,Rhode Island College,5,no,no,no,4,6.070001,1,0.0467906,0.6952558,C+,no,-0.18
+243,NRECA Market Research,1,no,no,no,1,6.27,1,-0.9800321,0.6967732,C+,no,0.2022581
+244,Wick Communications,1,no,no,no,1,2.84,1,-0.8113414,0.7022148,C+,no,0.0916129
+245,West Chester University,7,no,no,no,7,5.19,1,0.1639337,0.7029064,C+,no,0.1856757
+246,Ohio State University,1,no,no,no,1,3.670002,1,-0.7093974,0.7055033,C+,no,-0.1183871
+247,Gordon S. Black Corp.,2,no,no,no,2,6.335001,1,-0.1263715,0.7096018,C+,no,-0.3959375
+248,Market Trends Pacific,1,no,no,no,1,4.599998,0.5,-0.5150147,0.7117738,C+,no,0.1483871
+249,Y2 Analytics,1,yes,no,no,0,28.37,1,12.64241,0.7123879,C+,no,
+250,Western Kentucky University,3,yes,no,no,2,13.71,0.6666667,4.774007,0.7124304,C+,no,0.79625
+251,ASA Marketing Group,1,no,no,no,1,5.540001,1,-0.3800113,0.7161287,C+,no,0.1787097
+252,RABA Research,1,no,no,no,0,3.75,1,-0.3664897,0.7165648,C+,no,
+253,Rice University,2,no,no,no,2,5.884998,1,0.1010012,0.7238126,C+,no,0.3678125
+254,St. Cloud State University,9,yes,no,no,9,6.49,0.6666667,2.171572,0.7272267,C+,no,0.4382052
+255,"Wiese Research Associates, Inc.",7,yes,no,no,7,8.801428,1,2.577878,0.7278892,C+,no,1.296486
+256,University of Iowa,3,yes,no,no,1,15.86667,0.6666667,5.026736,0.7354057,C+,no,-0.2132258
+257,Saint Leo University,1,no,no,no,1,4.07,0,0.237868,0.7360603,C+,no,0.1312903
+258,Hellenthal & Associates,5,yes,no,no,3,8.169998,0.4,3.352582,0.7362872,C+,no,0.3978788
+259,Hays Research Group,7,yes,no,no,3,7.678571,0.7142857,2.625287,0.7368585,C+,no,1.083333
+260,American Research Group,260,yes,no,no,76,7.580269,0.7538462,0.632772,0.7373723,C+,no,-0.1307547
+261,Cromer Group,1,no,no,no,1,3.899998,1,0.4417268,0.7426364,C+,no,-0.1258065
+262,Liberty Opinion Research,1,no,no,no,0,5.73,1,0.4906219,0.7442136,C+,no,
+263,Strategic Services,1,no,no,no,1,5.490002,0,0.4943201,0.7443329,C+,no,0.1770968
+264,Rasmussen Reports/Pulse Opinion Research,657,no,no,no,516,5.29653,0.7876712,0.3687695,0.7483866,C+,no,-1.990934
+265,Rossman Group,1,no,no,no,1,4.209999,1,0.6295655,0.7486957,C+,no,0.1358065
+266,MarblePort,2,no,no,no,1,5.550001,1,0.5414361,0.7513398,C+,no,-0.2006451
+267,University of South Florida,1,no,no,no,1,3.850002,1,0.7547381,0.7527335,C+,no,-0.1241935
+268,Basswood Research,2,no,no,no,1,10.715,1,0.6128843,0.7558053,C+,no,-0.4209678
+269,Zimmerman & Associates/Marketing Intelligence,3,no,no,no,3,4.673334,1,0.6069778,0.7624525,C+,no,0.2939394
+270,ResearchNow,2,no,no,no,0,9.370001,1,0.7796888,0.7662306,C+,no,
+271,R.L. Repass & Partners,1,no,no,no,0,11.15,1,1.196166,0.7669731,C+,no,
+272,Harvard University,1,no,no,no,1,6.899998,0,1.198296,0.7670418,C+,no,0.2225806
+273,Dan Jones & Associates,34,no,no,no,30,7.885588,0.9705882,0.41151,0.7673647,C+,no,0.9113333
+274,West Virginia Research Center,2,no,no,no,2,6.450001,0.5,0.9225496,0.7751594,C+,no,0.403125
+275,Global Strategy Group,21,yes,no,no,21,7.070952,0.6666667,1.452393,0.7773176,C+,no,1.945686
+276,Becker Institute,3,no,no,no,3,7.606665,0.6666667,0.8376979,0.7834271,C+,no,0.6915151
+277,Hamilton Campaigns,8,yes,no,no,8,7.02375,0.5625,2.637648,0.788092,C+,no,1.478684
+278,TeleResearch Corporation,1,no,no,no,0,8.599998,1,2.165789,0.7982513,C+,no,
+279,Roanoke College,12,yes,no,yes,9,9.015833,0.75,3.579617,0.8043804,C+,no,0.2964102
+280,"Normington, Petts & Associates",10,no,no,no,10,6.419999,0.6,0.618274,0.8045685,C+,no,0.668
+281,Research America Inc.,2,yes,no,no,0,20.74,1,8.235606,0.8055066,C+,no,
+282,Opinion Consultants,2,no,no,no,2,6.470001,1,1.44259,0.8076619,C+,no,-0.404375
+283,Kimball Political Consulting,4,yes,no,no,4,8.1,0.75,4.656388,0.815146,C+,no,-0.9529412
+284,CrossTarget,2,no,no,no,2,7.699997,1,1.592398,0.8170249,C+,no,-0.48125
+285,Great Lakes Strategies Group,1,no,no,no,1,7.599998,0,2.755818,0.8172845,C+,no,-0.2451613
+286,"Public Strategies, Inc.",6,no,no,no,0,7.883333,1,0.8238751,0.8173125,C+,no,
+287,Columbus Dispatch,18,no,no,no,15,4.929444,0.9722222,0.5711799,0.8191925,C+,no,1.148889
+288,Independent Market Research,2,no,no,no,2,5.73,1,1.710033,0.8243771,C+,no,0.333125
+289,University of Georgia,1,no,no,no,1,9.780003,1,3.03191,0.8261907,C+,no,-0.3154839
+290,Lycoming College,3,no,no,no,3,7.283331,0.6666667,1.310083,0.8263713,C+,no,0.6621212
+291,Star Tribune,13,yes,no,no,11,6.32077,0.4615385,2.071645,0.8310761,C+,no,1.476341
+292,Illinois Wesleyan University,3,no,no,no,3,8.166668,1,1.371075,0.8319159,C+,no,-0.7424242
+293,Ron Lester and Associates,1,no,no,no,0,18.9,1,3.27501,0.8340326,C+,no,
+294,JMC Enterprises,5,no,no,no,4,7.836,1,1.04711,0.8381585,C,no,-0.8964705
+295,TMR Research,2,no,no,no,2,7.844999,0,2.01332,0.8433325,C,no,0.4903125
+296,Ed Renwick,5,no,no,no,2,6.478001,0.8,1.109414,0.8470592,C,no,0.08125
+297,A&A Research,1,no,no,no,1,10.1,0,3.735664,0.8488924,C,no,-0.3258065
+298,Southern Opinion Research,1,no,no,no,1,9.399998,1,3.745023,0.8491943,C,no,0.3032258
+299,Decision Forecasting,3,no,no,no,3,8.09,1,1.603736,0.8530669,C,no,-0.1287879
+300,"California State University, Bakersfield",1,no,no,no,1,9.849998,0,3.872054,0.8532921,C,no,-0.317742
+301,New Frontier Strategy,1,no,no,no,0,21.6,0,3.944951,0.8556436,C,no,
+302,Magellan Strategies,13,no,no,no,7,7.706924,0.9230769,0.757229,0.8600925,C,no,-0.5818919
+303,Cherry Communications,2,no,no,no,1,9.215001,0.75,2.533788,0.8758618,C,no,-0.1267742
+304,Marketing Research Institute,1,no,no,no,1,7.400002,0,4.585329,0.8763009,C,no,-0.2387097
+305,Polling Company/Global Strategy Group (Hotline Bullseye),3,no,no,no,3,4.560001,0.3333333,1.951185,0.8846532,C,no,-0.4145454
+306,Glascock Group,1,no,no,no,0,12.06,0,4.845338,0.8846883,C,no,
+307,Target Insyght,1,no,no,no,0,15.38,1,4.940274,0.8877508,C,no,
+308,Glover Park Group,1,no,no,no,1,11.36,0,4.942946,0.887837,C,no,-0.3664516
+309,Inside Michigan Politics,1,no,no,no,0,13.2,0,5.020034,0.8903237,C,no,
+310,Zata3,2,no,no,no,2,10.15,1,2.801866,0.8926166,C,no,-0.246875
+311,Tulsa Surveys,1,no,no,no,1,11.9,1,5.20729,0.8963642,C,no,-0.383871
+312,Momentum Analysis,3,yes,no,no,3,13.67,0.3333333,6.81823,0.8982689,C,no,0.5221212
+313,Ivan Moore Research,5,yes,no,no,5,9.431999,0.4,4.504037,0.9007809,C,no,1.347429
+314,Arthur J. Finkelstein & Associates,1,no,no,no,1,13.67,0,5.452302,0.9042678,C,no,-0.4409677
+315,GaPundit.com,2,no,no,no,2,8.254999,0.25,3.024149,0.9065093,C,no,0.5159375
+316,"SMS Research & Marketing Services, Inc.",1,no,no,no,1,9.75,0,5.729865,0.9132215,C,no,-0.3145161
+317,GCR & Associates,1,no,no,no,0,18.3,1,6.056962,0.923773,C,no,
+318,Minnesota State University Moorhead,4,no,no,no,3,9.25,1,2.02575,0.9359707,C,no,0.5363637
+319,PSI,3,no,no,no,1,12.45,0.6666667,2.518881,0.936262,C,no,-0.1070968
+320,"MarketAide Services, Inc.",1,no,no,no,1,11.2,1,6.915292,0.9514611,C,no,0.3612903
+321,ccAdvertising,30,yes,no,no,28,7.067333,0.8833333,1.596811,0.9634057,C,no,-2.575172
+322,Bannon Communications,2,no,no,no,2,10.37,1,4.003689,0.9677306,C,no,0.648125
+323,Anzalone Liszt Grove Research,11,yes,no,no,11,7.632727,0.5454546,2.843413,0.9773166,C,no,1.36
+324,Anderson Group,1,no,no,no,1,10.9,0,7.780523,0.9793717,C,no,-0.3516129
+325,Big Ten,10,no,no,no,10,4.799,1,1.359216,0.989804,C,no,1.12325
+326,University of New Orleans,9,no,no,no,6,6.653334,0.7777778,1.473626,0.9969907,C,no,0.2897222
+327,Abacus Associates,2,no,no,no,2,12.065,0.5,4.874902,1.022181,C,no,-0.0290625
+328,Maine People's Resource Center,7,no,no,no,6,7.539999,0.8571429,1.861134,1.023998,C,no,0.2541667
+329,Datamar,8,no,no,no,5,6.289999,0.6875,1.743874,1.031342,C,no,-0.4097143
+330,Schapiro Group,2,no,no,no,0,20,1,5.036587,1.032287,C,no,
+331,Critical Insights,17,yes,no,no,15,8.617059,0.8823529,2.374904,1.048872,C,no,0.298
+332,Greg Smith and Associates,5,no,no,no,5,8.530001,0.6,2.576494,1.056642,C,no,1.218572
+333,TargetPoint,3,no,no,no,0,13.97,0.8333333,3.905684,1.062335,C,no,
+334,Jeffrey Stonecash,1,no,no,no,1,17.33,0,10.73795,1.074773,C,no,-0.5590323
+335,Trafalgar Group,12,no,no,no,0,9.118333,0.9166667,1.586916,1.090547,C,no,
+336,We Ask America,52,no,no,no,33,6.951539,0.8269231,0.9202591,1.095286,C,no,-0.9166667
+337,Merriman River Group,21,yes,no,no,19,7.683808,0.8095238,2.281184,1.118584,C-,no,-2.371837
+338,Opinion Savvy/InsiderAdvantage,105,no,no,no,29,7.794381,0.7142857,0.8523786,1.122961,C-,no,0.7289831
+339,Rainmaker Media Group,1,no,no,no,1,12.72,1,12.481,1.131,C-,no,0.4103226
+340,Consumer Logic,4,no,no,no,4,8.777499,0.5,3.783531,1.142768,C-,no,0.6385294
+341,University of Alabama,2,no,no,no,2,12.025,1,6.971654,1.153228,C-,no,-0.7515625
+342,McLaughlin & Associates,19,no,yes,no,19,5.68,0.8421053,1.461089,1.166953,C-,no,-0.4555102
+343,Neighbor,1,no,no,no,1,17.09,1,13.6828,1.169768,C-,no,-0.5512903
+344,Zogby Interactive/JZ Analytics,465,no,yes,no,364,5.623549,0.7827957,0.8213917,1.173429,C-,no,-0.7988071
+345,Southeastern Louisiana University,8,no,no,no,5,6.627501,0.875,2.423924,1.17451,C-,no,0.0431428
+346,Harris Interactive,135,no,yes,yes,135,5.485185,0.8592592,1.241745,1.176056,C-,no,-1.521576
+347,Ohio University,2,no,no,no,2,8.790001,0.5,7.669087,1.196818,C-,no,0.549375
+348,20/20 Insight,5,no,no,no,2,16.6,0.4,3.611532,1.204505,C-,no,0.0125
+349,Indiana University-Purdue University Fort Wayne,3,yes,no,no,0,23.5,0,10.31226,1.215908,C-,no,
+350,Opinion Research Associates,12,yes,no,no,12,7.93,0.7083333,3.68492,1.262222,C-,no,1.748571
+351,Optimus,4,no,no,no,2,13.3175,0.5,4.963184,1.281551,C-,no,-0.833125
+352,SurveyMonkey,11,no,yes,no,0,11.22182,0.9090909,2.487321,1.310745,C-,no,
+353,Loyola University (New Orleans),2,no,no,no,2,12.12,1,9.550997,1.314437,C-,no,0.7575
+354,Clout Research/Wenzel Strategies,9,yes,no,no,8,8.955556,0.3333333,4.722919,1.315999,C-,no,-1.733684
+355,Data West Polling,3,no,no,no,3,14.56667,0.3333333,7.033769,1.346706,C-,no,1.324242
+356,Baydoun Consulting,6,no,no,no,4,6.831667,0.8333333,4.000275,1.346713,C-,no,-1.029118
+357,Fort Hays State University,4,yes,no,no,0,23.7975,0.5,9.269634,1.357881,C-,no,
+358,Brown University,12,yes,no,no,7,11.39083,0.8333333,4.035566,1.362407,C-,no,-0.4075676
+359,Nielson Brothers Polling,6,no,no,no,6,8.509999,0.8333333,4.136522,1.36942,C-,no,1.418333
+360,WCIA-TV,2,no,no,no,2,18.295,1,10.73353,1.388345,C-,no,-1.143438
+361,CPEC LLC,3,no,no,no,0,16.16333,1,7.698291,1.407117,D+,no,
+362,Marketing Workshop,7,no,no,no,7,9.738572,0.5714286,4.001523,1.428937,D+,no,0.2970271
+363,Riggs Research Services,1,no,no,no,1,33.7,0,24.00029,1.50259,D+,no,1.087097
+364,Dane & Associates,2,no,no,no,2,21.2,0.5,13.06037,1.533773,D+,no,-1.325
+365,Brigham Young University,4,no,no,no,4,16.52,0.75,7.166168,1.540726,D+,no,1.943529
+366,Massie & Associates,2,no,no,no,2,23.9,0,14.35812,1.614882,D+,no,-1.49375
+367,Valley Research,6,no,no,no,6,11.485,0.8333333,5.722838,1.633806,D+,no,0.4002777
+368,Millersville University,5,no,no,no,5,14.062,0.8,7.160359,1.71148,D,no,-1.494571
+369,Jayhawk Consulting,1,no,no,no,1,42.94,0,31.77465,1.753376,D,no,1.385161
+370,Mitchell Research & Communications,47,no,no,no,25,8.176383,0.7021276,2.150604,1.832966,D,no,-0.1001818
+371,Humphrey Institute,10,no,no,no,8,13.065,0.4,6.779624,2.344906,D-,no,0.7981579
+372,TCJ Research,133,no,no,no,125,6.446767,0.5864662,3.160468,3.025044,F,yes,-4.510129
