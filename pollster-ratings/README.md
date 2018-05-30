@@ -16,7 +16,7 @@ Past data:
 
 `pollster-stats-full.xlsx` contains a spreadsheet with all of the summary data and calculations involved in determining the pollster ratings as well as descriptions for each column.
 
-`pollster-ratings.csv` has ratings and calculations for each pollster. A copy of this data and descriptions for each column can also be found in `pollster-stats-full.xlsx` or on the [interactive table](http://projects.fivethirtyeight.com/pollster-ratings) on our website.
+`pollster-ratings.csv` has ratings and calculations for each pollster. A copy of this data and descriptions for each column can also be found in `pollster-stats-full.xlsx`.
 
 `raw-polls.csv` contains all of the polls analyzed to give each pollster a grade. Descriptions for each column are in the table below.
 
