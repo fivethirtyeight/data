@@ -356,7 +356,7 @@ Datamar,8,no,no,IVR,no,1.5,1,C,R +0.4,69%,38%,6.3,5.6,0.7,1.5,0.3,1,5,R +2.9,R +
 University of New Orleans,10,no,no,IVR,no,1.4,1,C,R +0.3,80%,30%,6.8,5.5,1.3,1.4,0.3,1,9,R +1.2,R +0.3,R +0.2
 Southeastern Louisiana University,8,no,no,Live*,no,1.7,1,C,D +0.3,88%,38%,6.6,5.2,1.4,1.7,0.3,1,8,D +1.4,D +0.3,R +0.7
 Schapiro Group,2,no,no,Live*,no,4.9,1,C,,100%,50%,20,8.3,11.7,4.9,0.3,1,0,,,
-Google Consumer Surveys,24,yes,no,Online,no,1.9,1,C,R +0.1,92%,38%,5.3,3.9,1.5,1.9,0.9,1,24,R +0.2,R +0.1,R +0.7
+Google Surveys,24,yes,no,Online,no,1.9,1,C,R +0.1,92%,38%,5.3,3.9,1.5,1.9,0.9,1,24,R +0.2,R +0.1,R +0.7
 Greg Smith and Associates,5,no,no,Live*,no,2.4,1,C,D +1.2,60%,40%,8.5,5.7,2.8,2.4,0.3,1,5,D +8.5,D +1.2,D +3.7
 Abacus Associates,2,no,no,Live*,no,5.1,1,C,R +0.0,50%,100%,12.1,6.1,5.9,5.1,0.3,1,2,R +0.5,R +0.0,D +6.5
 TargetPoint,3,no,no,IVR/Live,no,3.8,1,C,,83%,67%,14,8,6,3.8,0.3,1,0,,,
