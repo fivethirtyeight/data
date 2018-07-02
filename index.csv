@@ -1,4 +1,5 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/data/tree/master/lebron,https://fivethirtyeight.com/features/the-lebron-james-decision-making-machine/,
 https://github.com/fivethirtyeight/data/tree/master/world-cup-comparisons,https://projects.fivethirtyeight.com/world-cup-comparisons/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/masculinity-survey,https://fivethirtyeight.com/features/what-do-men-think-it-means-to-be-a-man/,
 https://github.com/fivethirtyeight/data/tree/master/world-cup-2018,https://projects.fivethirtyeight.com/2018-world-cup-predictions/,TRUE
