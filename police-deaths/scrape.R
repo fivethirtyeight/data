@@ -1,41 +1,27 @@
+#-------------------------------------------------------------------------------
 # Dallas shooting scraping
+#-------------------------------------------------------------------------------
 
-library(dplyr)
+library(tidyverse)
 library(rvest)
-library(readr)
-library(tidyr)
-library(lubridate)
-library(stringr)
-library(ggplot2)
-
-yearly_url <- 'https://www.odmp.org/search/year/'
-
-years <- seq(1791, 2016)
-
-all_data <- data.frame()
 
 # Scrape data
+df <- paste0("https://www.odmp.org/search/year/", seq(1791, 2016)) %>% 
+  as_tibble() %>% 
+  set_names("url") %>% 
+  mutate(
+    data = map(url, read_html),
+    nodes = map(data, html_nodes, '[class="officer-short-details"]'),
+    text = map(nodes, html_text),
+    clean_text = map(text, str_trim),
+    clean_text = map(clean_text, str_replace_all, "\n", " separator"),
+    clean_data = map(clean_text, as.data.frame),
+    clean_data = map(clean_data, set_names, "string"),
+    clean_data = map(clean_data, separate, string, c("person", "dept", "eow", "cause"), "separator")
+  ) %>% 
+  select(clean_data) %>% 
+  unnest() %>% 
+  mutate_all(str_squish)
 
-for (year in years){
-
-  new_url <- paste0(yearly_url, year)
-
-  selector_yearly <- 'p , p a'
-
-  raw_data <- read_html(new_url) %>%
-    html_nodes(selector_yearly) %>%
-    html_text() %>%
-    as.data.frame()
-
-  names(raw_data) <- c("incident")
-
-  clean_data <- raw_data %>%
-    separate(incident, sep = '\n\t\t\t\t\t\t\t\t\t',
-             into = c("person", "dept","eow", "cause")) %>%
-    filter(!is.na(dept))
-
-  all_data <- rbind(all_data, clean_data)
-
-}
-
-write_csv(all_data, "all_data_fallen_officers.csv")
+# Write to CSV
+write_csv(df, "all_data_fallen_officers.csv")
