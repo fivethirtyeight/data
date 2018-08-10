@@ -1,7 +1,6 @@
 # Primary Candidates 2018
 
-This folder contains the data behind the story [What’s A Winning Profile For A Democrat In 2018?
-](https://fivethirtyeight.com/features/democrats-primaries-candidates-demographics/)
+This folder contains the data behind the story [We Researched Hundreds Of Races. Here’s Who Democrats Are Nominating.](https://fivethirtyeight.com/features/democrats-primaries-candidates-demographics/)
 
 This project looks at patterns in open Democratic primary elections for the U.S. Senate, U.S. House and governor through August 7, 2018. 
 
