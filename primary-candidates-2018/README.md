@@ -1,10 +1,14 @@
 # Primary Candidates 2018
 
-This folder contains the data behind the story [We Researched Hundreds Of Races. Here’s Who Democrats Are Nominating.](https://fivethirtyeight.com/features/democrats-primaries-candidates-demographics/)
+This folder contains the data behind the stories: 
 
-This project looks at patterns in open Democratic primary elections for the U.S. Senate, U.S. House and governor through August 13, 2018. 
+* [We Researched Hundreds Of Races. Here’s Who Democrats Are Nominating.](https://fivethirtyeight.com/features/democrats-primaries-candidates-demographics/)
+* [How’s The Progressive Wing Doing In Democratic Primaries So Far?](https://fivethirtyeight.com/features/the-establishment-is-beating-the-progressive-wing-in-democratic-primaries-so-far/)
 
-`dem_candidates.csv` contains information about the 811 candidates who have appeared on the ballot this year in Democratic primaries for Senate, House and governor, not counting races featuring a Democratic incumbent, as of August 13, 2018. Here is a description and source for each column in the accompanying dataset.
+
+This project looks at patterns in open Democratic primary elections for the U.S. Senate, U.S. House and governor through Aug 7, 2018. 
+
+`dem_candidates.csv` contains information about the 811 candidates who have appeared on the ballot this year in Democratic primaries for Senate, House and governor, not counting races featuring a Democratic incumbent, as of Aug 7, 2018. Here is a description and source for each column in the accompanying dataset.
 
 Column | Description 
 -------|--------------
