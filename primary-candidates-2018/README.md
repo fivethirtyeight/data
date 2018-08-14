@@ -41,3 +41,8 @@ Column | Description
 `WFP Endorsed?` | “Yes” if the candidate was endorsed by the Working Families Party before the primary, according to the WFP website, candidate website or news reports. “No” if the candidate is running against a WFP-endorsed candidate or if the WFP specifically anti-endorsed or spent money to attack the candidate. If the WFP simply did not weigh in on the race, we left the cell blank.
 `VoteVets Endorsed?` | “Yes” if the candidate was endorsed by VoteVets before the primary, according to the VoteVets website, candidate website or news reports. “No” if the candidate is running against a VoteVets-endorsed candidate or if VoteVets specifically anti-endorsed or spent money to attack the candidate. If VoteVets simply did not weigh in on the race, we left the cell blank.
 `No Labels Support?` | “Yes” if a No Labels-affiliated group (Citizens for a Strong America Inc., Forward Not Back, Govern or Go Home, United for Progress Inc. or United Together) spent money in support of the candidate in the primary. “No” if the candidate is running against an candidate supported by a No Labels-affiliated group or if a No Labels-affiliated group specifically anti-endorsed or spent money to attack the candidate. If No Labels simply did not weigh in on the race, we left the cell blank.
+
+#### Updates
+* Post data for elections through Aug 7, 2018. [[commit](https://github.com/fivethirtyeight/private-data/commit/36007c25c5a975f37958ae6d72aabadfcdd273a8)]
+* Fix record for David Trone. [[commit](https://github.com/fivethirtyeight/private-data/commit/d43ed51823b71966ce1de330684ecbc0e520cc56)]
+* Add new columns and update for elections through Aug 13. [[commit](https://github.com/fivethirtyeight/data/commit/27166710f84ade6a59d9b7cec4cd9d31cf0ead03)]
