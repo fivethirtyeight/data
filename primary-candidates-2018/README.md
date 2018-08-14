@@ -6,9 +6,9 @@ This folder contains the data behind the stories:
 * [How’s The Progressive Wing Doing In Democratic Primaries So Far?](https://fivethirtyeight.com/features/the-establishment-is-beating-the-progressive-wing-in-democratic-primaries-so-far/)
 
 
-This project looks at patterns in open Democratic primary elections for the U.S. Senate, U.S. House and governor through Aug 7, 2018. 
+This project looks at patterns in open Democratic primary elections for the U.S. Senate, U.S. House and governor through August 7, 2018. 
 
-`dem_candidates.csv` contains information about the 811 candidates who have appeared on the ballot this year in Democratic primaries for Senate, House and governor, not counting races featuring a Democratic incumbent, as of Aug 7, 2018. Here is a description and source for each column in the accompanying dataset.
+`dem_candidates.csv` contains information about the 811 candidates who have appeared on the ballot this year in Democratic primaries for Senate, House and governor, not counting races featuring a Democratic incumbent, as of August 7, 2018. Here is a description and source for each column in the accompanying dataset.
 
 Column | Description 
 -------|--------------
