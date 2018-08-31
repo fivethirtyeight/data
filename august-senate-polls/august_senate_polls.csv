@@ -1,4 +1,4 @@
-cycle,state,class,start_date,end_date,DEM_poll,REP_poll,DEM_result,REP_result,error,absolute_error
+cycle,state,senate_class,start_date,end_date,DEM_poll,REP_poll,DEM_result,REP_result,error,absolute_error
 2016,IA,3,2016-08-30,2016-08-31,43.0,49.0,35.66,60.09,-18.430000000000007,18.430000000000007
 2016,PA,3,2016-08-30,2016-08-31,44.0,41.0,47.34,48.77,-4.43,4.43
 2016,NH,3,2016-08-30,2016-08-31,47.0,44.0,47.98,47.84,-2.8600000000000065,2.8600000000000065
