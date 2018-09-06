@@ -2,6 +2,7 @@
 files:
   - https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv
   - https://projects.fivethirtyeight.com/soccer-api/club/spi_global_rankings.csv
+  - https://projects.fivethirtyeight.com/soccer-api/international/spi_global_rankings_intl.csv
 ---
 # SPI Ratings
 
@@ -10,3 +11,5 @@ This file contains links to the data behind our [Club Soccer Predictions](https:
 `spi_matches.csv` contains match-by-match SPI ratings and forecasts back to 2016.
 
 `spi_global_rankings.csv` contains current SPI ratings and rankings for men's club teams.
+
+`spi_global_rankings_intl.csv` contains current SPI ratings and rankings for men's international teams.
