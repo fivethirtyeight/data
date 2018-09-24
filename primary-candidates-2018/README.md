@@ -81,3 +81,4 @@ Column | Description
 * Post data for elections through Aug 7, 2018. [[commit](https://github.com/fivethirtyeight/private-data/commit/36007c25c5a975f37958ae6d72aabadfcdd273a8)]
 * Fix record for David Trone. [[commit](https://github.com/fivethirtyeight/private-data/commit/d43ed51823b71966ce1de330684ecbc0e520cc56)]
 * Add new columns and update and added the result in Washington's 8th Congressional District (called Aug. 13). [[commit](https://github.com/fivethirtyeight/data/commit/27166710f84ade6a59d9b7cec4cd9d31cf0ead03)]
+* Add Republican Candidates. [[commit](https://github.com/fivethirtyeight/data/commit/8d6995e6785a2c912101f5f9c18022530f3783d6)]
