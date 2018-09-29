@@ -1,8 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import random
-import numpy
 import math
 import string
 import operator
@@ -74,9 +72,7 @@ def corpus_list_from_file(filename):
     words = open(filename).read().split()
     
     # initialize the list of corpora
-    corpus_list = []
-    for candidate in candidates:
-        corpus_list += [[]]
+    corpus_list = [[] for i in xrange(len(candidates))]
     
     # iterate through words, putting them in the correct corpus
     speaker_index = -1
@@ -100,7 +96,7 @@ def corpus_list_from_file(filename):
             corpus_list[speaker_index] += ["<BR>"]
         
         # regular word
-        elif word[0] is not "(" and word[-1] is not ")":
+        elif (word[0] != "(") and (word[-1] != ")"):
             
             # remove punctuation and convert to lowercase
             word = word.translate(string.maketrans("",""), string.punctuation).lower()
@@ -177,9 +173,9 @@ def prune_substrings(tfidf_dicts, prune_thru=1000):
                     #print list(ngram[0])
                     
                     pruned[candidate][ngram[0]] = 0
-            # not contained, so add to so_far to prevent future subphrases
-            else:
-                so_far += [list(ngram[0])]
+                # not contained, so add to so_far to prevent future subphrases
+                else:
+                    so_far += [list(ngram[0])]
     
     return pruned 
 
@@ -204,4 +200,3 @@ def main():
     
 if __name__ == '__main__':
     main()
-    

@@ -7,7 +7,7 @@ See http://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bo
 """
 
 import numpy as np
-from scipy.cluster.vq import vq, kmeans, whiten
+from scipy.cluster.vq import kmeans, whiten
 import math
 import csv
 
