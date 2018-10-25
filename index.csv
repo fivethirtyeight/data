@@ -1,4 +1,5 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/actblue-analysis,https://fivethirtyeight.com/features/how-actblue-is-trying-to-turn-small-donations-into-a-blue-wave,
 https://github.com/fivethirtyeight/data/tree/master/house-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/senate-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/governors-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/,TRUE
