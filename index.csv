@@ -1,8 +1,11 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/private-data/tree/master/partisan-lean,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/,
+https://github.com/fivethirtyeight/private-data/tree/master/partisan-lean,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/,
+https://github.com/fivethirtyeight/private-data/tree/master/partisan-lean,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/,
 https://github.com/fivethirtyeight/actblue-analysis,https://fivethirtyeight.com/features/how-actblue-is-trying-to-turn-small-donations-into-a-blue-wave,
-https://github.com/fivethirtyeight/data/tree/master/house-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/,TRUE
-https://github.com/fivethirtyeight/data/tree/master/senate-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/,TRUE
-https://github.com/fivethirtyeight/data/tree/master/governors-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/,TRUE
+https://github.com/fivethirtyeight/data/tree/master/house-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/,
+https://github.com/fivethirtyeight/data/tree/master/senate-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/,
+https://github.com/fivethirtyeight/data/tree/master/governors-forecast-2018,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/,
 https://github.com/fivethirtyeight/data/tree/master/primary-candidates-2018,https://fivethirtyeight.com/features/we-looked-at-hundreds-of-endorsements-heres-who-republicans-are-listening-to/,
 https://github.com/fivethirtyeight/data/tree/master/political-elasticity-scores,https://fivethirtyeight.com/features/election-update-the-house-districts-that-swing-the-most-and-least-with-the-national-mood/,
 https://github.com/fivethirtyeight/data/tree/master/august-senate-polls,https://fivethirtyeight.com/features/how-much-trouble-is-ted-cruz-really-in/,
