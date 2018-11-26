@@ -1,6 +1,6 @@
 # Trump Lawsuits
 
-This folder contains the data behind the story [What Trump's Legal Battles Tell Us About Presidential Power]().
+This folder contains the data behind the story [What Trump's Legal Battles Tell Us About Presidential Power](https://fivethirtyeight.com/features/what-trumps-legal-battles-tell-us-about-presidential-power/).
 
 Variable	| Description | Values
 ---|---|----

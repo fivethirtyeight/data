@@ -1,4 +1,5 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/data/tree/master/trump-lawsuits,https://fivethirtyeight.com/features/what-trumps-legal-battles-tell-us-about-presidential-power/,
 https://github.com/fivethirtyeight/data/tree/master/partisan-lean,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/,
 https://github.com/fivethirtyeight/data/tree/master/partisan-lean,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/,
 https://github.com/fivethirtyeight/data/tree/master/partisan-lean,https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/,
