@@ -1,4 +1,4 @@
-cycle,branch,district,forecastdate,version,Democrat_WinProbability,Republican_WinProbability,category,Democrat_Won,Republican_Won,uncalled
+cycle,branch,race,forecastdate,version,Democrat_WinProbability,Republican_WinProbability,category,Democrat_Won,Republican_Won,uncalled
 2018,Governor,AK-G1,11/6/18,classic,.31095999,.68904001,Lean R,0,1,0
 2018,Governor,AL-G1,11/6/18,classic,.01692,.98308003,Safe R,0,1,0
 2018,Governor,AR-G1,11/6/18,classic,.00062000001,.99937999,Safe R,0,1,0
