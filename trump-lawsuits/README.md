@@ -1,6 +1,9 @@
 # Trump Lawsuits
 
-This folder contains the data behind the story [What Trump's Legal Battles Tell Us About Presidential Power](https://fivethirtyeight.com/features/what-trumps-legal-battles-tell-us-about-presidential-power/).
+This folder contains the data behind the stories: 
+
+- [What Trump's Legal Battles Tell Us About Presidential Power](https://fivethirtyeight.com/features/what-trumps-legal-battles-tell-us-about-presidential-power/)
+- [Why It Might Be Impossible To Overturn A Presidential Pardon](https://fivethirtyeight.com/features/why-it-might-be-impossible-to-overturn-a-presidential-pardon/)
 
 Variable	| Description | Values
 ---|---|----
