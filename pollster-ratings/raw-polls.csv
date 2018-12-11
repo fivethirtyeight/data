@@ -6634,7 +6634,6 @@ pollno,race,year,location,type_simple,type_detail,pollster,partisan,polldate,sam
 15380048,2014_Gov-G_FL,2014,FL,Gov-G,Gov-G,St. Pete Polls,,10/17/14,1855,Democrat,45,Republican,44,8,1,11/4/14,47.07,48.14,-1.07,2.07,2.07,0,previously listed as StPetePolls.org
 15380049,2014_Gov-G_MA,2014,MA,Gov-G,Gov-G,MassINC Polling Group,,10/17/14,501,Democrat,42,Republican,43,2,-1,11/4/14,46.54,48.4,-1.86,0.86,0.86,1,
 15380050,2014_House-G_MA-6,2014,MA-6,House-G,House-G,Garin-Hart-Yang Research Group,,10/17/14,406,Democrat,47,Republican,36,9,11,11/4/14,54.97,41.14,13.83,2.83,-2.83,1,
-15380051,2014_House-G_US,2014,US,House-G,House-G,Rasmussen Reports/Pulse Opinion Research,,10/17/14,3500,Democrat,41,Republican,41,,0,11/4/14,45.7,51.42,-5.72,5.72,5.72,0.5,
 15380058,2014_Sen-GS_SC,2014,SC,Sen-G,Sen-GS,"Susquehanna Polling & Research, Inc.",,10/17/14,917,Democrat,31,Republican,58,,-27,11/4/14,37.09,61.12,-24.03,2.97,-2.97,1,
 15380052,2014_Sen-G_CO,2014,CO,Sen-G,Sen-G,Ipsos,,10/17/14,1099,Democrat,45,Republican,47,,-2,11/4/14,46.26,48.2,-1.94,0.06,-0.06,1,
 15380053,2014_Sen-G_KY,2014,KY,Sen-G,Sen-G,SurveyUSA,,10/17/14,655,Democrat,43,Republican,44,,-1,11/4/14,40.72,56.19,-15.47,14.47,14.47,1,
