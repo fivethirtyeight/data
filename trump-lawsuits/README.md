@@ -4,6 +4,7 @@ This folder contains the data behind the stories:
 
 - [What Trump's Legal Battles Tell Us About Presidential Power](https://fivethirtyeight.com/features/what-trumps-legal-battles-tell-us-about-presidential-power/)
 - [Why It Might Be Impossible To Overturn A Presidential Pardon](https://fivethirtyeight.com/features/why-it-might-be-impossible-to-overturn-a-presidential-pardon/)
+- [Will The Supreme Court Fast-Track Cases Involving Trump?](https://fivethirtyeight.com/features/will-the-supreme-court-fast-track-cases-involving-trump/)
 
 Variable	| Description | Values
 ---|---|----
