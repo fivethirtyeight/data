@@ -1,0 +1,313 @@
+President,Position,Appointee,Start Date,End Date,Length of Tenure,Day of Admin of Departure
+Carter,OMB Director,Bert Lance,1/21/1977,9/23/1977,245,247
+Carter,Secretary of Transportation,Brock Adams,1/23/1977,7/20/1979,908,912
+Carter,"Secretary of Health, Education & Welfare",Joseph Califano Jr.,1/25/1977,8/3/1979,920,926
+Carter,Secretary of Housing & Urban Development,Patricia Harris,1/23/1977,8/3/1979,922,926
+Carter,Secretary of the Treasury,W. Michael Blumenthal,1/23/1977,8/4/1979,923,927
+Carter,Attorney General,Griffin Bell,1/26/1977,8/16/1979,932,939
+Carter,U.S. Trade Representative,Robert Strauss,3/30/1977,8/17/1979,870,940
+Carter,Secretary of Energy,James Schlesinger,8/6/1977,8/23/1979,747,946
+Carter,UN Ambassador,Andrew Young,1/30/1977,9/23/1979,966,977
+Carter,Secretary of Commerce,Juanita Kreps,1/23/1977,10/31/1979,1011,1015
+Carter,Secretary of State,Cyrus Vance,1/23/1977,4/28/1980,1191,1195
+Carter,Chief of Staff,Hamilton Jordan,7/18/1979,6/11/1980,329,1239
+Carter,U.S. Trade Representative,Reubin Askew,10/1/1979,12/31/1980,457,1442
+Carter,Secretary of State,Ed Muskie,5/8/1980,1/18/1981,255,1460
+Carter,Attorney General,Ben Civiletti,8/16/1979,1/19/1981,522,1461
+Carter,Secretary of Commerce,Philip Klutznick,1/9/1980,1/19/1981,376,1461
+Carter,Chief of Staff,Jack Watson,6/11/1980,1/20/1981,223,1462
+Carter,Director of Central Intelligence,Stansfield Turner,3/9/1977,1/20/1981,1413,1462
+Carter,EPA Administrator,Douglas Costle,3/7/1977,1/20/1981,1415,1462
+Carter,OMB Director,Jim McIntyre,9/24/1977,1/20/1981,1214,1462
+Carter,SBA Administrator,A. Vernon Weaver,4/1/1977,1/20/1981,1390,1462
+Carter,Secretary of Agriculture,Robert Bergland,1/23/1977,1/20/1981,1458,1462
+Carter,Secretary of Defense,Harold Brown,1/21/1977,1/20/1981,1460,1462
+Carter,Secretary of Education,Shirley Hufstedler,12/6/1979,1/20/1981,411,1462
+Carter,Secretary of Energy,Charles Duncan,8/24/1979,1/20/1981,515,1462
+Carter,"Secretary of Health, Education & Welfare/Secretary of Health & Human Services",Patricia Harris,8/3/1979,1/20/1981,536,1462
+Carter,Secretary of Housing & Urban Development,Moon Landrieu,9/24/1979,1/20/1981,484,1462
+Carter,Secretary of Labor,Ray Marshall,1/27/1977,1/20/1981,1454,1462
+Carter,Secretary of the Interior,Cecil Andrus,1/23/1977,1/20/1981,1458,1462
+Carter,Secretary of the Treasury,G. William Miller,8/6/1979,1/20/1981,533,1462
+Carter,Secretary of Transportation,Neil Goldschmidt,8/15/1979,1/20/1981,524,1462
+Carter,UN Ambassador,Donald McHenry,9/23/1979,1/20/1981,485,1462
+Carter,Vice President,Walter Mondale,1/20/1977,1/20/1981,1461,1462
+Reagan,SBA Administrator,Michael Cardenas,3/30/1981,2/3/1982,310,380
+Reagan,Secretary of State,Alexander Haig,1/22/1981,7/5/1982,529,532
+Reagan,Secretary of Energy,James Edwards,1/23/1981,11/5/1982,651,655
+Reagan,Secretary of Transportation,Drew Lewis,1/23/1981,2/1/1983,739,743
+Reagan,Secretary of Health & Human Services,Richard Schweiker,1/22/1981,2/3/1983,742,745
+Reagan,EPA Administrator,Anne Gorsuch,5/20/1981,3/9/1983,658,779
+Reagan,Secretary of the Interior,James Watt,1/23/1981,11/8/1983,1019,1023
+Reagan,Secretary of Education,T.H. Bell,1/23/1981,12/31/1984,1438,1442
+Reagan,EPA Administrator,William Ruckelshaus,5/18/1983,1/4/1985,597,1446
+Reagan,Secretary of the Treasury,Don Regan,1/22/1981,2/2/1985,1472,1475
+Reagan,Chief of Staff,James Baker,1/20/1981,2/3/1985,1475,1476
+Reagan,Secretary of Energy,Donald Hodel,11/5/1982,2/7/1985,825,1480
+Reagan,Secretary of the Interior,William Clark,11/18/1983,2/7/1985,447,1480
+Reagan,Attorney General,William French Smith,1/23/1981,2/25/1985,1494,1498
+Reagan,Secretary of Labor,Ray Donovan,2/4/1981,3/15/1985,1500,1516
+Reagan,UN Ambassador,Jeane Kirkpatrick,2/4/1981,4/1/1985,1517,1533
+Reagan,U.S. Trade Representative,Bill Brock,1/23/1981,4/29/1985,1557,1561
+Reagan,OMB Director,David Stockman,1/21/1981,8/1/1985,1653,1655
+Reagan,Secretary of Health & Human Services,Margaret Heckler,3/9/1983,12/13/1985,1010,1789
+Reagan,Secretary of Agriculture,John Block,1/23/1981,2/14/1986,1848,1852
+Reagan,SBA Administrator,James Sanders,3/29/1982,3/31/1986,1463,1897
+Reagan,Director of Central Intelligence,William Casey,1/28/1981,1/29/1987,2192,2201
+Reagan,Chief of Staff,Don Regan,2/4/1985,2/27/1987,753,2230
+Reagan,Secretary of Commerce,Mac Baldrige,1/20/1981,7/25/1987,2377,2378
+Reagan,Secretary of Transportation,Elizabeth Dole,2/7/1983,9/30/1987,1696,2445
+Reagan,Secretary of Labor,Bill Brock,4/29/1985,10/31/1987,915,2476
+Reagan,Secretary of Defense,Caspar Weinberger,1/21/1981,11/23/1987,2497,2499
+Reagan,Chief of Staff,Howard Baker,3/2/1987,7/1/1988,487,2720
+Reagan,Attorney General,Ed Meese,2/25/1985,8/12/1988,1264,2762
+Reagan,Secretary of the Treasury,James Baker,2/3/1985,8/17/1988,1291,2767
+Reagan,Secretary of Education,Bill Bennett,2/6/1985,9/20/1988,1322,2801
+Reagan,OMB Director,Jim Miller,10/8/1985,10/15/1988,1103,2826
+Reagan,Chief of Staff,Kenneth Duberstein,7/1/1988,1/20/1989,203,2923
+Reagan,EPA Administrator,Lee Thomas,2/8/1985,1/20/1989,1442,2923
+Reagan,OMB Director,Joseph Wright Jr.,11/8/1988,1/20/1989,73,2923
+Reagan,Secretary of Agriculture,Richard Edmund Lyng,3/7/1986,1/20/1989,1050,2923
+Reagan,Secretary of Defense,Frank Carlucci,11/23/1987,1/20/1989,424,2923
+Reagan,Secretary of Energy,John Herrington,2/7/1985,1/20/1989,1443,2923
+Reagan,Secretary of Health & Human Services,Otis Bowen,12/13/1985,1/20/1989,1134,2923
+Reagan,Secretary of Housing & Urban Development,Samuel Pierce Jr.,1/23/1981,1/20/1989,2919,2923
+Reagan,Secretary of Labor,Ann McLaughlin,12/14/1987,1/20/1989,403,2923
+Reagan,Secretary of State,George Shultz,7/16/1982,1/20/1989,2380,2923
+Reagan,Secretary of the Interior,Donald Hodel,2/8/1985,1/20/1989,1442,2923
+Reagan,Secretary of Transportation,James Burnley IV,12/3/1987,1/20/1989,414,2923
+Reagan,U.S. Trade Representative,Clayton Yeutter,7/1/1985,1/20/1989,1299,2923
+Reagan,Vice President,George H.W. Bush,1/20/1981,1/20/1989,2922,2923
+Reagan,Secretary of Commerce,William Verity Jr.,10/19/1987,1/30/1989,469,2933
+Reagan,UN Ambassador,Vernon Walters,5/22/1985,3/15/1989,1393,2977
+Reagan,SBA Administrator,James Abdnor,3/23/1987,4/20/1989,759,3013
+Reagan,Attorney General,Dick Thornburgh,8/12/1988,Bush admin,1098 combined,#VALUE!
+Reagan,Director of Central Intelligence,Bill Webster,5/26/1987,Bush admin,1558 combined,#VALUE!
+Reagan,Secretary of Education,Lauro Cavazos,9/20/1988,Bush admin,816 combined,#VALUE!
+Reagan,Secretary of the Treasury,Nicholas Brady,9/16/1988,Bush admin,1584 combined,#VALUE!
+Bush 41,Secretary of Labor,Elizabeth Dole,1/25/1989,11/23/1990,667,673
+Bush 41,Secretary of Education,Lauro Cavazos,Reagan admin,12/15/1990,816 combined,695
+Bush 41,Secretary of Agriculture,Clayton Yeutter,2/16/1989,3/1/1991,743,771
+Bush 41,SBA Administrator,Susan Engeleiter,4/20/1989,3/27/1991,706,797
+Bush 41,Attorney General,Dick Thornburgh,Reagan admin,8/15/1991,1098 combined,938
+Bush 41,Director of Central Intelligence,Bill Webster,Reagan admin,8/31/1991,1558 combined,954
+Bush 41,Secretary of Transportation,Sam Skinner,2/6/1989,12/13/1991,1040,1058
+Bush 41,Chief of Staff,John Sununu,1/20/1989,12/15/1991,1059,1060
+Bush 41,Secretary of Commerce,Robert Mosbacher,1/31/1989,1/15/1992,1079,1091
+Bush 41,UN Ambassador,Tom Pickering,3/20/1989,5/7/1992,1144,1204
+Bush 41,Chief of Staff,Sam Skinner,12/16/1991,8/23/1992,251,1312
+Bush 41,Secretary of State,James Baker,1/25/1989,8/23/1992,1306,1312
+Bush 41,Secretary of Veterans Affairs,Ed Derwinski,3/15/1989,9/26/1992,1291,1346
+Bush 41,Attorney General,William Barr,11/26/1991,1/15/1993,416,1457
+Bush 41,Secretary of the Treasury,Nicholas Brady,Reagan admin,1/17/1993,1584 combined,1459
+Bush 41,Secretary of Housing & Urban Development,Jack Kemp,2/13/1989,1/19/1993,1436,1461
+Bush 41,Secretary of State,Lawrence Eagleburger,12/8/1992,1/19/1993,42,1461
+Bush 41,Chief of Staff,James Baker,8/23/1992,1/20/1993,150,1462
+Bush 41,Director of Central Intelligence,Bob Gates,11/6/1991,1/20/1993,441,1462
+Bush 41,EPA Administrator,William Reilly,2/6/1989,1/20/1993,1444,1462
+Bush 41,OMB Director,Dick Darman,1/25/1989,1/20/1993,1456,1462
+Bush 41,SBA Administrator,Pat Saiki,3/27/1991,1/20/1993,665,1462
+Bush 41,Secretary of Agriculture,Ed Madigan,3/12/1991,1/20/1993,680,1462
+Bush 41,Secretary of Commerce,Barbara Franklin,2/27/1992,1/20/1993,328,1462
+Bush 41,Secretary of Defense,Dick Cheney,3/21/1989,1/20/1993,1401,1462
+Bush 41,Secretary of Education,Lamar Alexander,3/18/1991,1/20/1993,674,1462
+Bush 41,Secretary of Energy,James Watkins,3/1/1989,1/20/1993,1421,1462
+Bush 41,Secretary of Health & Human Services,Louis Sullivan,3/1/1989,1/20/1993,1421,1462
+Bush 41,Secretary of Labor,Lynn Morley Martin,2/7/1991,1/20/1993,713,1462
+Bush 41,Secretary of the Interior,Manuel Luján Jr.,2/3/1989,1/20/1993,1447,1462
+Bush 41,Secretary of Transportation,Andy Card,3/11/1992,1/20/1993,315,1462
+Bush 41,U.S. Trade Representative,Carla Hills,2/6/1989,1/20/1993,1444,1462
+Bush 41,Vice President,Dan Quayle,1/20/1989,1/20/1993,1461,1462
+Bush 41,UN Ambassador,Edward Perkins,5/12/1992,1/27/1993,260,1469
+Clinton,Secretary of Defense,Les Aspin,1/21/1993,2/3/1994,378,380
+Clinton,Chief of Staff,Mack McLarty,1/20/1993,7/17/1994,543,544
+Clinton,OMB Director,Leon Panetta,1/21/1993,7/17/1994,542,544
+Clinton,SBA Administrator,Erskine Bowles,5/12/1993,10/6/1994,512,625
+Clinton,Secretary of the Treasury,Lloyd Bentsen,1/22/1993,12/22/1994,699,702
+Clinton,Secretary of Agriculture,Mike Espy,1/22/1993,12/31/1994,708,711
+Clinton,Director of Central Intelligence,Jim Woolsey,2/5/1993,1/10/1995,704,721
+Clinton,Secretary of Commerce,Ron Brown,1/22/1993,4/3/1996,1167,1170
+Clinton,U.S. Trade Representative,Mickey Kantor,1/22/1993,4/12/1996,1176,1179
+Clinton,OMB Director,Alice Rivlin,10/17/1994,4/26/1996,557,1193
+Clinton,Director of Central Intelligence,John Deutch,5/10/1995,12/15/1996,585,1426
+Clinton,Secretary of Labor,Robert Reich,1/22/1993,1/10/1997,1449,1452
+Clinton,Secretary of State,Warren Christopher,1/20/1993,1/17/1997,1458,1459
+Clinton,Secretary of Housing & Urban Development,Henry Cisneros,1/22/1993,1/19/1997,1458,1461
+Clinton,Chief of Staff,Leon Panetta,7/17/1994,1/20/1997,918,1462
+Clinton,Secretary of Energy,Hazel O'Leary,1/22/1993,1/20/1997,1459,1462
+Clinton,Secretary of Commerce,Mickey Kantor,4/12/1996,1/21/1997,284,1463
+Clinton,UN Ambassador,Madeleine Albright,1/27/1993,1/21/1997,1455,1463
+Clinton,Secretary of Defense,William Perry,2/3/1994,1/23/1997,1085,1465
+Clinton,SBA Administrator,Philip Lader,10/8/1994,2/11/1997,857,1484
+Clinton,Secretary of Transportation,Federico Peña,1/21/1993,2/14/1997,1485,1487
+Clinton,Secretary of Veterans Affairs,Jesse Brown,1/23/1993,7/3/1997,1622,1626
+Clinton,OMB Director,Frank Raines,9/13/1996,5/21/1998,615,1948
+Clinton,Secretary of Energy,Federico Peña,3/12/1997,6/30/1998,475,1988
+Clinton,UN Ambassador,Bill Richardson,2/18/1997,8/18/1998,546,2037
+Clinton,Chief of Staff,Erskine Bowles,1/20/1997,10/20/1998,638,2100
+Clinton,Secretary of the Treasury,Bob Rubin,1/10/1995,7/2/1999,1634,2355
+Clinton,Secretary of Commerce,Bill Daley,1/30/1997,7/19/2000,1266,2738
+Clinton,Secretary of Veterans Affairs,Togo West Jr.,5/5/1998,7/25/2000,812,2744
+Clinton,Secretary of the Interior,Bruce Babbitt,1/22/1993,1/2/2001,2902,2905
+Clinton,EPA Administrator,Carol Browner,1/22/1993,1/19/2001,2919,2922
+Clinton,OMB Director,Jack Lew,5/21/1998,1/19/2001,974,2922
+Clinton,Secretary of Agriculture,Dan Glickman,3/30/1995,1/19/2001,2122,2922
+Clinton,Secretary of Commerce,Norman Mineta,7/21/2000,1/19/2001,182,2922
+Clinton,Secretary of State,Madeleine Albright,1/23/1997,1/19/2001,1457,2922
+Clinton,UN Ambassador,Richard Holbrooke,9/7/1999,1/19/2001,500,2922
+Clinton,Attorney General,Janet Reno,3/12/1993,1/20/2001,2871,2923
+Clinton,Chief of Staff,John Podesta,10/20/1998,1/20/2001,823,2923
+Clinton,SBA Administrator,Aida Alvarez,3/7/1997,1/20/2001,1415,2923
+Clinton,Secretary of Defense,William Cohen,1/24/1997,1/20/2001,1457,2923
+Clinton,Secretary of Education,Dick Riley,1/21/1993,1/20/2001,2921,2923
+Clinton,Secretary of Energy,Bill Richardson,8/18/1998,1/20/2001,886,2923
+Clinton,Secretary of Health & Human Services,Donna Shalala,1/22/1993,1/20/2001,2920,2923
+Clinton,Secretary of Housing & Urban Development,Andrew Cuomo,1/29/1997,1/20/2001,1452,2923
+Clinton,Secretary of Labor,Alexis Herman,5/1/1997,1/20/2001,1360,2923
+Clinton,Secretary of the Treasury,Larry Summers,7/2/1999,1/20/2001,568,2923
+Clinton,Secretary of Transportation,Rodney Slater,2/14/1997,1/20/2001,1436,2923
+Clinton,U.S. Trade Representative,Charlene Barshefsky,3/18/1997,1/20/2001,1404,2923
+Clinton,Vice President,Al Gore,1/20/1993,1/20/2001,2922,2923
+Clinton,Director of Central Intelligence,George Tenet,7/11/1997,Bush admin,2557 combined,#VALUE!
+Bush 43,Secretary of the Treasury,Paul O'Neill,1/30/2001,12/31/2002,700,711
+Bush 43,OMB Director,Mitch Daniels,1/23/2001,6/6/2003,864,868
+Bush 43,EPA Administrator,Christine Todd Whitman,1/31/2001,6/27/2003,877,889
+Bush 43,Secretary of Housing & Urban Development,Mel Martinez,1/24/2001,12/12/2003,1052,1057
+Bush 43,UN Ambassador,John Negroponte,9/19/2001,6/23/2004,1008,1251
+Bush 43,Director of Central Intelligence,George Tenet,Clinton admin,7/11/2004,2557 combined,1269
+Bush 43,Secretary of Agriculture,Ann Veneman,1/20/2001,1/20/2005,1461,1462
+Bush 43,Secretary of Education,Rod Paige,1/24/2001,1/20/2005,1457,1462
+Bush 43,UN Ambassador,John Danforth,7/23/2004,1/20/2005,181,1462
+Bush 43,EPA Administrator,Mike Leavitt,11/6/2003,1/25/2005,446,1467
+Bush 43,Secretary of State,Colin Powell,1/20/2001,1/25/2005,1466,1467
+Bush 43,Secretary of Health & Human Services,Tommy Thompson,2/2/2001,1/26/2005,1454,1468
+Bush 43,Secretary of Veterans Affairs,Anthony Principi,1/23/2001,1/26/2005,1464,1468
+Bush 43,Secretary of Energy,Spencer Abraham,1/20/2001,1/31/2005,1472,1473
+Bush 43,Secretary of Homeland Security,Tom Ridge,1/24/2003,2/1/2005,739,1474
+Bush 43,Attorney General,John Ashcroft,2/2/2001,2/3/2005,1462,1476
+Bush 43,Secretary of Commerce,Donald Evans,1/20/2001,2/3/2005,1475,1476
+Bush 43,U.S. Trade Representative,Robert Zoellick,2/7/2001,2/22/2005,1476,1495
+Bush 43,Secretary of the Interior,Gale Norton,1/31/2001,3/31/2006,1885,1897
+Bush 43,Chief of Staff,Andy Card,1/20/2001,4/14/2006,1910,1911
+Bush 43,OMB Director,Josh Bolten,6/26/2003,4/14/2006,1023,1911
+Bush 43,Director of Central Intelligence/CIA Director,Porter Goss,9/24/2004,5/5/2006,588,1932
+Bush 43,U.S. Trade Representative,Rob Portman,5/17/2005,5/26/2006,374,1953
+Bush 43,Secretary of the Treasury,John Snow,2/3/2003,6/29/2006,1242,1987
+Bush 43,SBA Administrator,Hector Barreto,7/25/2001,7/2/2006,1803,1990
+Bush 43,Secretary of Transportation,Norman Mineta,1/25/2001,7/7/2006,1989,1995
+Bush 43,Secretary of Defense,Donald Rumsfeld,1/20/2001,12/18/2006,2158,2159
+Bush 43,UN Ambassador,John Bolton,8/2/2005,12/31/2006,516,2172
+Bush 43,Director of National Intelligence,John Negroponte,4/21/2005,2/13/2007,663,2216
+Bush 43,OMB Director,Rob Portman,5/26/2006,8/3/2007,434,2387
+Bush 43,Attorney General,Alberto Gonzales,2/3/2005,9/17/2007,956,2432
+Bush 43,Secretary of Agriculture,Mike Johanns,1/21/2005,9/20/2007,972,2435
+Bush 43,Secretary of Veterans Affairs,Jim Nicholson,2/1/2005,10/1/2007,972,2446
+Bush 43,Secretary of Housing & Urban Development,Alphonso Jackson,3/31/2004,4/18/2008,1479,2646
+Bush 43,SBA Administrator,Steve Preston,7/10/2006,6/5/2008,696,2694
+Bush 43,OMB Director,Jim Nussle,9/4/2007,1/19/2009,503,2922
+Bush 43,Secretary of Commerce,Carlos Gutierrez,2/7/2005,1/19/2009,1442,2922
+Bush 43,Secretary of the Interior,Dirk Kempthorne,5/29/2006,1/19/2009,966,2922
+Bush 43,Attorney General,Michael Mukasey,11/9/2007,1/20/2009,438,2923
+Bush 43,Chief of Staff,Josh Bolten,4/14/2006,1/20/2009,1012,2923
+Bush 43,EPA Administrator,Stephen Johnson,5/2/2005,1/20/2009,1359,2923
+Bush 43,Secretary of Agriculture,Ed Schafer,1/28/2008,1/20/2009,358,2923
+Bush 43,Secretary of Education,Margaret Spellings,1/24/2005,1/20/2009,1457,2923
+Bush 43,Secretary of Energy,Samuel Bodman,2/1/2005,1/20/2009,1449,2923
+Bush 43,Secretary of Health & Human Services,Mike Leavitt,1/26/2005,1/20/2009,1455,2923
+Bush 43,Secretary of Housing & Urban Development,Steve Preston,6/5/2008,1/20/2009,229,2923
+Bush 43,Secretary of Labor,Elaine Chao,1/29/2001,1/20/2009,2913,2923
+Bush 43,Secretary of State,Condoleezza Rice,1/26/2005,1/20/2009,1455,2923
+Bush 43,Secretary of the Treasury,Hank Paulson,7/10/2006,1/20/2009,925,2923
+Bush 43,Secretary of Transportation,Mary Peters,10/17/2006,1/20/2009,826,2923
+Bush 43,Secretary of Veterans Affairs,James Peake,12/20/2007,1/20/2009,397,2923
+Bush 43,U.S. Trade Representative,Susan Schwab,6/8/2006,1/20/2009,957,2923
+Bush 43,Vice President,Dick Cheney,1/20/2001,1/20/2009,2922,2923
+Bush 43,Secretary of Homeland Security,Michael Chertoff,2/15/2005,1/21/2009,1436,2924
+Bush 43,UN Ambassador,Zalmay Khalilzad,4/30/2007,1/22/2009,633,2925
+Bush 43,Director of National Intelligence,Mike McConnell,2/13/2007,1/27/2009,714,2930
+Bush 43,CIA Director,Michael Hayden,5/30/2006,2/12/2009,989,2946
+Bush 43,Secretary of Defense,Bob Gates,12/18/2006,Obama admin,1655 combined,#VALUE!
+Obama,Director of National Intelligence,Dennis Blair,1/29/2009,5/28/2010,484,494
+Obama,OMB Director,Peter Orszag,1/20/2009,7/30/2010,556,557
+Obama,Chief of Staff,Rahm Emanuel,1/20/2009,10/1/2010,619,620
+Obama,CIA Director,Leon Panetta,2/13/2009,6/30/2011,867,892
+Obama,Secretary of Defense,Bob Gates,Bush admin,6/30/2011,1655 combined,892
+Obama,Secretary of Commerce,Gary Locke,3/26/2009,8/1/2011,858,924
+Obama,OMB Director,Jack Lew,11/18/2010,1/26/2012,434,1102
+Obama,Chief of Staff,Bill Daley,1/13/2011,1/27/2012,379,1103
+Obama,Secretary of Commerce,John Bryson,10/21/2011,6/21/2012,244,1249
+Obama,CIA Director,David Petraeus,9/6/2011,11/9/2012,430,1390
+Obama,Secretary of Labor,Hilda Solis,2/24/2009,1/22/2013,1428,1464
+Obama,Secretary of the Treasury,Tim Geithner,1/26/2009,1/25/2013,1460,1467
+Obama,Chief of Staff,Jack Lew,1/30/2012,1/25/2013,361,1467
+Obama,Secretary of State,Hillary Clinton,1/21/2009,2/1/2013,1472,1474
+Obama,EPA Administrator,Lisa Jackson,1/26/2009,2/14/2013,1480,1487
+Obama,Secretary of Defense,Leon Panetta,7/1/2011,2/26/2013,606,1499
+Obama,U.S. Trade Representative,Ron Kirk,3/20/2009,3/15/2013,1456,1516
+Obama,Secretary of the Interior,Ken Salazar,1/20/2009,4/12/2013,1543,1544
+Obama,Secretary of Energy,Steven Chu,1/21/2009,4/22/2013,1552,1554
+Obama,UN Ambassador,Susan Rice,1/26/2009,6/30/2013,1616,1623
+Obama,Secretary of Transportation,Ray LaHood,1/23/2009,7/2/2013,1621,1625
+Obama,SBA Administrator,Karen Mills,4/6/2009,9/1/2013,1609,1686
+Obama,Secretary of Homeland Security,Janet Napolitano,1/21/2009,9/6/2013,1689,1691
+Obama,Secretary of Veterans Affairs,Eric Shinseki,1/21/2009,5/30/2014,1955,1957
+Obama,Secretary of Health & Human Services,Kathleen Sebelius,4/28/2009,6/6/2014,1865,1964
+Obama,OMB Director,Sylvia Burwell,4/26/2013,6/8/2014,408,1966
+Obama,Secretary of Housing & Urban Development,Shaun Donovan,1/26/2009,7/28/2014,2009,2016
+Obama,Secretary of Defense,Chuck Hagel,2/27/2013,2/17/2015,720,2220
+Obama,Attorney General,Eric Holder,2/3/2009,4/24/2015,2271,2286
+Obama,Secretary of Education,Arne Duncan,1/20/2009,12/31/2015,2536,2537
+Obama,Secretary of Agriculture,Tom Vilsack,1/20/2009,1/13/2017,2915,2916
+Obama,Secretary of Defense,Ash Carter,2/17/2015,1/19/2017,702,2922
+Obama,Vice President,Joe Biden,1/20/2009,1/20/2017,2922,2923
+Obama,Director of National Intelligence,James Clapper,8/9/2010,1/20/2017,2356,2923
+Obama,Chief of Staff,Denis McDonough,1/25/2013,1/20/2017,1456,2923
+Obama,Secretary of State,John Kerry,2/1/2013,1/20/2017,1449,2923
+Obama,Secretary of the Treasury,Jack Lew,2/28/2013,1/20/2017,1422,2923
+Obama,CIA Director,John Brennan,3/8/2013,1/20/2017,1414,2923
+Obama,Secretary of the Interior,Sally Jewell,4/12/2013,1/20/2017,1379,2923
+Obama,Secretary of Energy,Ernest Moniz,5/21/2013,1/20/2017,1340,2923
+Obama,U.S. Trade Representative,Michael Froman,6/21/2013,1/20/2017,1309,2923
+Obama,Secretary of Commerce,Penny Pritzker,6/26/2013,1/20/2017,1304,2923
+Obama,Secretary of Transportation,Anthony Foxx,7/2/2013,1/20/2017,1298,2923
+Obama,EPA Administrator,Gina McCarthy,7/19/2013,1/20/2017,1281,2923
+Obama,Secretary of Labor,Tom Perez,7/23/2013,1/20/2017,1277,2923
+Obama,Secretary of Homeland Security,Jeh Johnson,12/23/2013,1/20/2017,1124,2923
+Obama,SBA Administrator,Maria Contreras-Sweet,4/7/2014,1/20/2017,1019,2923
+Obama,Secretary of Health & Human Services,Sylvia Burwell,6/9/2014,1/20/2017,956,2923
+Obama,OMB Director,Shaun Donovan,7/28/2014,1/20/2017,907,2923
+Obama,Secretary of Housing & Urban Development,Julián Castro,7/28/2014,1/20/2017,907,2923
+Obama,Secretary of Veterans Affairs,Bob McDonald,7/30/2014,1/20/2017,905,2923
+Obama,Attorney General,Loretta Lynch,4/27/2015,1/20/2017,634,2923
+Obama,Secretary of Education,John King Jr.,3/14/2016,1/20/2017,312,2923
+Obama,UN Ambassador,Samantha Power,8/5/2013,1/21/2017,1265,2924
+Trump,Chief of Staff,Reince Priebus,1/20/2017,7/28/2017,189,190
+Trump,Secretary of Homeland Security,John Kelly,1/20/2017,7/28/2017,189,190
+Trump,Secretary of Health & Human Services,Tom Price,2/10/2017,9/29/2017,231,253
+Trump,Secretary of Veterans Affairs,David Shulkin,2/14/2017,3/28/2018,407,433
+Trump,Secretary of State,Rex Tillerson,2/1/2017,3/31/2018,423,436
+Trump,CIA Director,Mike Pompeo,1/23/2017,4/26/2018,458,462
+Trump,EPA Administrator,Scott Pruitt,2/17/2017,7/6/2018,504,533
+Trump,Attorney General,Jeff Sessions,2/9/2017,11/7/2018,636,657
+Trump,Secretary of Defense,Jim Mattis,1/20/2017,12/31/2018,710,711
+Trump,UN Ambassador,Nikki Haley,1/27/2017,12/31/2018,703,711
+Trump,Chief of Staff,John Kelly,7/31/2017,12/31/2018,518,711
+Trump,Secretary of the Interior,Ryan Zinke,3/1/2017,1/2/2019,672,713
+Trump,Vice President,Mike Pence,1/20/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Transportation,Elaine Chao,1/31/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Education,Betsy DeVos,2/7/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of the Treasury,Steve Mnuchin,2/13/2017,Still in office,#VALUE!,#VALUE!
+Trump,SBA Administrator,Linda McMahon,2/14/2017,Still in office,#VALUE!,#VALUE!
+Trump,OMB Director,Mick Mulvaney,2/16/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Commerce,Wilbur Ross,2/28/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Energy,Rick Perry,3/2/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Housing & Urban Development,Ben Carson,3/2/2017,Still in office,#VALUE!,#VALUE!
+Trump,Director of National Intelligence,Dan Coats,3/16/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Agriculture,Sonny Perdue,4/25/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Labor,Alexander Acosta,4/28/2017,Still in office,#VALUE!,#VALUE!
+Trump,U.S. Trade Representative,Robert Lighthizer,5/15/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Homeland Security,Kirstjen Nielsen,12/6/2017,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Health & Human Services,Alex Azar,1/29/2018,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of State,Mike Pompeo,4/26/2018,Still in office,#VALUE!,#VALUE!
+Trump,CIA Director,Gina Haspel,5/21/2018,Still in office,#VALUE!,#VALUE!
+Trump,Secretary of Veterans Affairs,Robert Wilkie,7/30/2018,Still in office,#VALUE!,#VALUE!
