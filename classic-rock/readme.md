@@ -2,6 +2,8 @@
 
 This folder contains the data behind the story [Why Classic Rock Isn’t What It Used To Be](https://fivethirtyeight.com/features/why-classic-rock-isnt-what-it-used-to-be/).
 
+You can see a [live demo](http://34.230.43.239:3000/).
+
 Each line represents a play of a song on a radio station.
 - The first element, RAW_SONG, is the song text scraped from the radio station
 - The second element, Song Clean, is the song's title. It's been made so that all versions
