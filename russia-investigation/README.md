@@ -2,6 +2,8 @@
 
 This folder contains data behind the story [Is The Russia Investigation Really Another Watergate?](https://projects.fivethirtyeight.com/russia-investigation/).
 
+`russia-investigation.csv` contains every special investigation since the Watergate probe began in 1973 and who was charged in them.
+
 Header | Definition
 ---|---------
 `investigation` | Unique id for each investigation
