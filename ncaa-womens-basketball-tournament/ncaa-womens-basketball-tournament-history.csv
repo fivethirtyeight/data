@@ -1,0 +1,2093 @@
+﻿Year,School,Seed,Conference,Conf. W,Conf. L,Conf. %,Conf. place,Reg. W,Reg. L,Reg. %,How qual,1st game at home?,Tourney W,Tourney L,Tourney finish,Full W,Full L,Full %
+1982,Arizona St.,4,Western Collegiate,-,-,-,-,23,6,79.3,at-large,Y,1,1,RSF,24,7,77.4
+1982,Auburn,7,Southeastern,-,-,-,-,24,4,85.7,at-large,N,0,1,1st,24,5,82.8
+1982,Cheyney,2,Independent,-,-,-,-,24,2,92.3,at-large,Y,4,1,N2nd,28,3,90.3
+1982,Clemson,5,Atlantic Coast,6,3,66.7,4th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+1982,Drake,4,Missouri Valley,-,-,-,-,26,6,81.3,auto,Y,2,1,RF,28,7,80
+1982,East Carolina,6,Independent,-,-,-,-,19,7,73.1,at-large,N,0,1,1st,19,8,70.4
+1982,Georgia,5,Southeastern,-,-,-,-,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1982,Howard,8,Mid-Eastern,-,-,-,-,14,10,58.3,auto,N,0,1,1st,14,11,56
+1982,Illinois,7,Big Ten,-,-,-,-,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1982,Jackson St.,7,Southwestern,-,-,-,-,28,7,80,auto,N,0,1,1st,28,8,77.8
+1982,Kansas St.,4,Big Eight,-,-,-,-,24,5,82.8,auto,Y,2,1,RF,26,6,81.3
+1982,Kent St.,8,Mid-American,-,-,-,-,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+1982,Kentucky,2,Southeastern,-,-,-,-,22,7,75.9,auto,Y,2,1,RF,24,8,75
+1982,Long Beach St.,1,Western Collegiate,-,-,-,-,22,5,81.5,auto,Y,1,1,RSF,23,6,79.3
+1982,Louisiana Tech,1,Independent,-,-,-,-,30,1,96.8,at-large,Y,5,0,Champ,35,1,97.2
+1982,Maryland,2,Atlantic Coast,6,1,85.7,1st,22,6,78.6,auto,Y,3,1,NSF,25,7,78.1
+1982,Memphis,3,Metro,-,-,-,-,25,4,86.2,auto,Y,1,1,RSF,26,5,83.9
+1982,Missouri,6,Big Eight,-,-,-,-,23,8,74.2,at-large,N,1,1,RSF,24,9,72.7
+1982,NC State,3,Atlantic Coast,11,2,84.6,2nd,23,5,82.1,at-large,Y,1,1,RSF,24,6,80
+1982,Northwestern,6,Big Ten,-,-,-,-,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1982,Ohio St.,5,Big Ten,-,-,-,-,19,6,76,auto,N,0,1,1st,19,7,73.1
+1982,Old Dominion,1,Independent,-,-,-,-,21,5,80.8,at-large,Y,1,1,RSF,22,6,78.6
+1982,Ole Miss,6,Southeastern,-,-,-,-,27,4,87.1,at-large,N,0,1,1st,27,5,84.4
+1982,Oregon,3,Independent,-,-,-,-,20,4,83.3,at-large,Y,0,1,1st,20,5,80
+1982,Penn St.,4,Independent,-,-,-,-,23,5,82.1,at-large,Y,1,1,RSF,24,6,80
+1982,Saint Peter's,8,Metro Atlantic,5,0,100,1st,25,4,86.2,auto,N,0,1,1st,25,5,83.3
+1982,SFA,5,Independent,-,-,-,-,15,8,65.2,at-large,N,0,1,1st,15,9,62.5
+1982,South Carolina,3,Independent,-,-,-,-,21,7,75,at-large,Y,1,1,RSF,22,8,73.3
+1982,Southern California,1,Western Collegiate,-,-,-,-,20,3,87,at-large,Y,2,1,RF,22,4,84.6
+1982,Stanford,7,Northern California,9,3,75,2nd,19,7,73.1,auto,N,0,1,1st,19,8,70.4
+1982,Tennessee,2,Southeastern,-,-,-,-,19,9,67.9,at-large,Y,3,1,NSF,22,10,68.8
+1982,Tennessee Tech,8,Ohio Valley,10,2,83.3,1st,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+1983,Arizona St.,4,Western Collegiate,9,5,64.3,3rd,22,6,78.6,at-large,Y,1,1,RSF,23,7,76.7
+1983,Auburn,5,Southeastern,6,2,75,T1st W,23,7,76.7,at-large,Y,1,1,RSF,24,8,75
+1983,Central Mich.,6,Mid-American,-,-,-,-,20,8,71.4,auto,N,0,1,1st,20,9,69
+1983,Cheyney,1,Independent,-,-,-,-,26,2,92.9,at-large,Y,1,1,RSF,27,3,90
+1983,Dartmouth,(OR),Ivy,11,1,91.7,1st,18,7,72,at-large,Y,0,1,OR,18,8,69.2
+1983,Florida St.,5,Metro,-,-,-,-,24,5,82.8,at-large,N,0,1,1st,24,6,80
+1983,Georgia,2,Southeastern,4,4,50,3rd E,24,6,80,auto,Y,3,1,NSF,27,7,79.4
+1983,Illinois St.,6,Missouri Valley,-,-,-,-,20,9,69,auto,N,0,1,1st,20,10,66.7
+1983,Indiana,6,Big Ten,-,-,-,-,18,10,64.3,at-large,N,1,1,RSF,19,11,63.3
+1983,Jackson St.,(OR),Southwestern,-,-,-,-,21,7,75,at-large,Y,0,1,OR,21,8,72.4
+1983,Kansas St.,3,Big Eight,-,-,-,-,24,5,82.8,at-large,Y,1,1,RSF,25,6,80.6
+1983,Kentucky,3,Southeastern,6,2,75,2nd E,23,4,85.2,at-large,Y,0,1,1st,23,5,82.1
+1983,La Salle,(OR),East Coast,-,-,-,-,16,12,57.1,at-large,Y,0,1,OR,16,13,55.2
+1983,La.-Monroe,(OR),Southland,-,-,-,-,21,5,80.8,at-large,Y,1,1,1st,22,6,78.6
+1983,Long Beach St.,2,Independent,-,-,-,-,22,6,78.6,at-large,Y,2,1,RF,24,7,77.4
+1983,Louisiana Tech,1,Independent,-,-,-,-,27,1,96.4,at-large,Y,4,1,N2nd,31,2,93.9
+1983,Louisville,7,Metro,-,-,-,-,20,9,69,auto,N,0,1,1st,20,10,66.7
+1983,Maryland,3,Atlantic Coast,10,3,76.9,T2nd,25,4,86.2,auto,Y,1,1,RSF,26,5,83.9
+1983,Middle Tenn.,(OR),Ohio Valley,10,0,100,1st,25,4,86.2,at-large,N,1,1,1st,26,5,83.9
+1983,Missouri,4,Big Eight,-,-,-,-,23,5,82.1,auto,N,0,1,1st,23,6,79.3
+1983,Monmouth,(OR),Cosmopolitan,-,-,-,-,14,14,50,at-large,N,1,1,1st,15,15,50
+1983,Montana,(OR),Mountain West Athl.,-,-,-,-,26,3,89.7,at-large,N,0,1,OR,26,4,86.7
+1983,NC State,4,Atlantic Coast,12,1,92.3,1st,22,7,75.9,at-large,Y,0,1,1st,22,8,73.3
+1983,North Carolina,7,Atlantic Coast,10,3,76.9,T2nd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+1983,Old Dominion,2,Sun Belt,-,-,-,-,26,5,83.9,auto,Y,3,1,NSF,29,6,82.9
+1983,Ole Miss,4,Southeastern,6,2,75,T1st W,25,5,83.3,at-large,Y,1,1,RSF,26,6,81.3
+1983,Oregon St.,3,Northern Pacific,-,-,-,-,23,5,82.1,auto,Y,1,1,RSF,24,6,80
+1983,Penn St.,5,Atlantic 10,-,-,-,-,24,6,80,auto,N,2,1,RF,26,7,78.8
+1983,SFA,7,Southland,-,-,-,-,18,6,75,at-large,N,0,1,1st,18,7,72
+1983,South Carolina St.,(OR),Mid-Eastern,-,-,-,-,16,7,69.6,at-large,N,1,1,1st,17,8,68
+1983,Southern California,1,Western Collegiate,-,-,-,-,25,2,92.6,auto,Y,5,0,Champ,30,2,93.8
+1983,St. John's (NY),7,Big East,-,-,-,-,23,5,82.1,auto,N,0,1,1st,23,6,79.3
+1983,Tennessee,1,Southeastern,7,1,87.5,1st E,23,7,76.7,at-large,Y,2,1,RF,25,8,75.8
+1983,Texas,2,Southwest,-,-,-,-,28,2,93.3,auto,Y,2,1,RF,30,3,90.9
+1983,UCLA,6,Western Collegiate,-,-,-,-,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+1983,Utah,5,High Country,-,-,-,-,22,6,78.6,auto,N,0,1,1st,22,7,75.9
+1984,Alabama,2,Southeastern,5,3,62.5,T2nd W,22,8,73.3,at-large,N,1,1,RSF,23,9,71.9
+1984,BYU,8,High Country,9,1,90,1st,18,7,72,auto,N,0,1,1st,18,8,69.2
+1984,Central Mich.,7,Mid-American,18,0,100,1st,27,2,93.1,auto,Y,0,1,1st,27,3,90
+1984,Cheyney,3,Independent,-,-,-,-,22,4,84.6,at-large,Y,3,1,NSF,25,5,83.3
+1984,Drake,7,Missouri Valley,16,2,88.9,1st,22,6,78.6,auto,N,0,1,1st,22,7,75.9
+1984,Georgia,1,Southeastern,7,1,87.5,T1st E,28,2,93.3,auto,Y,2,1,RF,30,3,90.9
+1984,Kansas St.,3,Big Eight,12,2,85.7,T1st,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+1984,La.-Monroe,6,Southland,12,0,100,1st,22,3,88,auto,Y,1,1,RSF,23,4,85.2
+1984,Long Beach St.,2,Western Collegiate,13,1,92.9,T1st,23,5,82.1,at-large,Y,2,1,RF,25,6,80.6
+1984,Louisiana Tech,1,Independent,-,-,-,-,27,2,93.1,at-large,Y,3,1,NSF,30,3,90.9
+1984,Louisville,5,Metro,7,3,70,T1st N,16,15,51.6,auto,N,1,1,1st,17,16,51.5
+1984,LSU,5,Southeastern,5,3,62.5,T2nd W,22,6,78.6,at-large,Y,1,1,RSF,23,7,76.7
+1984,Maryland,6,Atlantic Coast,10,4,71.4,2nd,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+1984,Middle Tenn.,6,Ohio Valley,12,2,85.7,1st,19,9,67.9,auto,N,0,1,1st,19,10,65.5
+1984,Missouri,4,Big Eight,12,2,85.7,T1st,25,5,83.3,at-large,N,0,1,1st,25,6,80.6
+1984,Montana,4,Mountain West Athl.,14,0,100,1st,25,3,89.3,auto,Y,1,1,RSF,26,4,86.7
+1984,NC State,4,Atlantic Coast,9,5,64.3,T3rd,22,8,73.3,at-large,Y,1,1,RSF,23,9,71.9
+1984,North Carolina,2,Atlantic Coast,9,5,64.3,T3rd,23,7,76.7,auto,Y,1,1,RSF,24,8,75
+1984,Ohio St.,5,Big Ten,17,1,94.4,1st,22,6,78.6,auto,Y,0,1,1st,22,7,75.9
+1984,Old Dominion,1,Sun Belt,-,-,-,-,22,4,84.6,auto,Y,2,1,RF,24,5,82.8
+1984,Ole Miss,4,Southeastern,6,2,75,1st W,23,5,82.1,at-large,N,1,1,RSF,24,6,80
+1984,Oregon,3,Northern Pacific,10,2,83.3,1st,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+1984,Oregon St.,5,Northern Pacific,9,3,75,2nd,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1984,Penn St.,8,Atlantic 10,6,2,75,T2nd,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+1984,San Diego St.,6,Western Collegiate,9,5,64.3,3rd,23,5,82.1,at-large,Y,1,1,RSF,24,6,80
+1984,Southern California,1,Western Collegiate,13,1,92.9,T1st,24,4,85.7,auto,Y,5,0,Champ,29,4,87.9
+1984,St. John's (NY),7,Big East,5,3,62.5,T2nd,24,5,82.8,auto,N,0,1,1st,24,6,80
+1984,Tennessee,3,Southeastern,7,1,87.5,T1st E,19,9,67.9,at-large,Y,4,1,N2nd,23,10,69.7
+1984,Texas,2,Southwest,16,0,100,1st,30,2,93.8,auto,Y,2,1,RF,32,3,91.4
+1984,Texas Tech,8,Southwest,13,3,81.3,2nd,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+1984,UNLV,7,Independent,-,-,-,-,24,6,80,at-large,N,0,1,1st,24,7,77.4
+1984,Virginia,5,Atlantic Coast,11,3,78.6,1st,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+1985,Auburn,3,Southeastern,5,3,62.5,2nd W,24,5,82.8,at-large,Y,1,1,RSF,25,6,80.6
+1985,BYU,8,High Country,11,1,91.7,1st,19,8,70.4,auto,N,0,1,1st,19,9,67.9
+1985,Georgia,2,Southeastern,7,1,87.5,1st E,25,4,86.2,at-large,Y,4,1,N2nd,29,5,85.3
+1985,Holy Cross,7,Metro Atlantic,9,3,75,T2nd,21,6,77.8,auto,N,0,1,1st,21,7,75
+1985,Idaho,5,Mountain West Athl.,13,1,92.9,1st,28,1,96.6,auto,N,0,1,1st,28,2,93.3
+1985,Illinois St.,8,Missouri Valley,17,1,94.4,1st,23,5,82.1,auto,N,0,1,1st,23,6,79.3
+1985,La.-Monroe,2,Southland,12,0,100,1st,27,1,96.4,auto,Y,3,1,NSF,30,2,93.8
+1985,Long Beach St.,1,Western Collegiate,13,1,92.9,1st,26,2,92.9,auto,Y,2,1,RF,28,3,90.3
+1985,Louisiana Tech,1,Independent,-,-,-,-,27,3,90,at-large,Y,2,1,RF,29,4,87.9
+1985,Memphis,6,Metro,9,1,90,1st S,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1985,Middle Tenn.,5,Ohio Valley,13,1,92.9,1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1985,Missouri,7,Big Eight,12,2,85.7,1st,22,8,73.3,auto,N,0,1,1st,22,9,71
+1985,NC State,4,Atlantic Coast,13,1,92.9,1st,24,5,82.8,auto,Y,1,1,RSF,25,6,80.6
+1985,North Carolina,6,Atlantic Coast,11,3,78.6,2nd,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+1985,Ohio St.,2,Big Ten,18,0,100,1st,26,2,92.9,auto,Y,2,1,RF,28,3,90.3
+1985,Old Dominion,1,Sun Belt,6,0,100,1st,26,3,89.7,auto,Y,5,0,Champ,31,3,91.2
+1985,Ole Miss,2,Southeastern,8,0,100,1st W,27,2,93.1,at-large,Y,2,1,RF,29,3,90.6
+1985,Penn St.,3,Atlantic 10,7,1,87.5,T1st,27,4,87.1,auto,Y,1,1,RSF,28,5,84.8
+1985,Saint Joseph's,5,Atlantic 10,7,1,87.5,T1st,25,4,86.2,at-large,N,0,1,1st,25,5,83.3
+1985,San Diego St.,5,Western Collegiate,9,5,64.3,4th,20,8,71.4,at-large,N,1,1,RSF,21,9,70
+1985,Southern California,4,Western Collegiate,10,4,71.4,T2nd,19,8,70.4,at-large,Y,1,1,RSF,20,9,69
+1985,Southern Miss.,7,Metro,8,2,80,2nd S,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1985,Syracuse,8,Big East,10,6,62.5,T4th,18,12,60,auto,N,0,1,1st,18,13,58.1
+1985,Tennessee,3,Southeastern,4,4,50,T2nd E,21,9,70,auto,Y,1,1,RSF,22,10,68.8
+1985,Tennessee Tech,7,Ohio Valley,12,2,85.7,2nd,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1985,Texas,1,Southwest,16,0,100,1st,27,2,93.1,auto,Y,1,1,RSF,28,3,90.3
+1985,UCLA,6,Western Collegiate,10,4,71.4,T2nd,19,9,67.9,at-large,N,1,1,RSF,20,10,66.7
+1985,UNLV,4,Pacific Coast,8,0,100,1st,25,4,86.2,at-large,Y,0,1,1st,25,5,83.3
+1985,Virginia,6,Atlantic Coast,9,5,64.3,3rd,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1985,Washington,3,Northern Pacific,11,0,100,1st,26,1,96.3,auto,Y,0,1,1st,26,2,92.9
+1985,Western Ky.,4,Sun Belt,5,1,83.3,2nd,26,5,83.9,at-large,Y,3,1,NSF,29,6,82.9
+1985,Western Mich.,8,Mid-American,14,4,77.8,2nd,19,9,67.9,auto,N,0,1,1st,19,10,65.5
+1986,Arkansas,8,Southwest,13,3,81.3,T2nd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+1986,Auburn,3,Southeastern,6,3,66.7,T2nd,23,5,82.1,at-large,Y,1,1,RSF,24,6,80
+1986,Drake,10,Missouri Valley,16,2,88.9,2nd,21,7,75,at-large,Y,1,1,2nd,22,8,73.3
+1986,Georgia,1,Southeastern,9,0,100,1st,29,1,96.7,auto,Y,1,1,RSF,30,2,93.8
+1986,Illinois,8,Big Ten,12,6,66.7,3rd,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+1986,Iowa,5,Big Ten,15,3,83.3,2nd,22,6,78.6,at-large,N,0,1,2nd,22,7,75.9
+1986,James Madison,8,Colonial,11,1,91.7,T1st,26,3,89.7,at-large,N,2,1,RSF,28,4,87.5
+1986,Kentucky,7,Southeastern,4,5,44.4,T6th,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+1986,La Salle,10,Metro Atlantic,10,2,83.3,2nd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1986,Long Beach St.,3,Pacific Coast,14,0,100,1st,28,4,87.5,at-large,Y,1,1,RSF,29,5,85.3
+1986,Louisiana Tech,2,Independent,-,-,-,-,25,4,86.2,at-large,Y,2,1,RF,27,5,84.4
+1986,LSU,2,Southeastern,6,3,66.7,T2nd,25,5,83.3,at-large,Y,2,1,RF,27,6,81.8
+1986,Maryland,6,Atlantic Coast,6,8,42.9,5th,17,12,58.6,auto,N,0,1,2nd,17,13,56.7
+1986,Middle Tenn.,10,Ohio Valley,13,1,92.9,1st,19,9,67.9,auto,N,1,1,2nd,20,10,66.7
+1986,Missouri,9,Big Eight,8,6,57.1,T4th,19,11,63.3,auto,Y,1,1,2nd,20,12,62.5
+1986,Montana,8,Mountain West Athl.,13,1,92.9,1st,26,8,76.5,auto,Y,1,1,2nd,27,9,75
+1986,NC State,6,Atlantic Coast,9,5,64.3,T3rd,18,10,64.3,at-large,N,0,1,2nd,18,11,62.1
+1986,North Carolina,4,Atlantic Coast,10,4,71.4,2nd,22,8,73.3,at-large,Y,1,1,RSF,23,9,71.9
+1986,North Texas,10,Southland,7,3,70,T1st,20,9,69,auto,N,0,1,1st,20,10,66.7
+1986,Ohio,9,Mid-American,16,2,88.9,1st,26,2,92.9,auto,Y,0,1,1st,26,3,89.7
+1986,Ohio St.,3,Big Ten,16,2,88.9,1st,22,6,78.6,auto,Y,1,1,RSF,23,7,76.7
+1986,Oklahoma,4,Big Eight,10,4,71.4,1st,23,6,79.3,at-large,Y,1,1,RSF,24,7,77.4
+1986,Ole Miss,2,Southeastern,6,3,66.7,T2nd,22,7,75.9,at-large,Y,2,1,RF,24,8,75
+1986,Penn St.,3,Atlantic 10,12,4,75,T2nd,23,7,76.7,auto,Y,1,1,RSF,24,8,75
+1986,Providence,9,Big East,14,2,87.5,1st,24,5,82.8,at-large,Y,0,1,1st,24,6,80
+1986,Rutgers,2,Atlantic 10,16,0,100,1st,27,3,90,at-large,Y,2,1,RF,29,4,87.9
+1986,Saint Joseph's,5,Atlantic 10,12,4,75,T2nd,22,6,78.6,at-large,N,0,1,2nd,22,7,75.9
+1986,South Carolina,7,Metro,9,1,90,T1st,19,10,65.5,auto,Y,0,1,1st,19,11,63.3
+1986,Southern California,1,Pacific West,8,0,100,1st,27,4,87.1,at-large,Y,4,1,N2nd,31,5,86.1
+1986,Southern Ill.,6,Missouri Valley,18,0,100,1st,25,3,89.3,auto,N,0,1,2nd,25,4,86.2
+1986,Tennessee,4,Southeastern,5,4,55.6,5th,21,9,70,at-large,Y,3,1,NSF,24,10,70.6
+1986,Texas,1,Southwest,16,0,100,1st,29,0,100,auto,Y,5,0,Champ,34,0,100
+1986,Texas Tech,6,Southwest,13,3,81.3,T2nd,21,8,72.4,at-large,N,0,1,2nd,21,9,70
+1986,UNLV,5,Western Athletic,11,3,78.6,2nd,22,8,73.3,auto,N,0,1,2nd,22,9,71
+1986,Utah,9,High Country,11,1,91.7,1st,21,7,75,auto,N,0,1,1st,21,8,72.4
+1986,Vanderbilt,5,Southeastern,4,5,44.4,T6th,22,8,73.3,at-large,N,0,1,2nd,22,9,71
+1986,Villanova,7,Big East,12,4,75,T2nd,21,7,75,auto,N,1,1,2nd,22,8,73.3
+1986,Virginia,1,Atlantic Coast,13,1,92.9,1st,26,2,92.9,at-large,Y,0,1,2nd,26,3,89.7
+1986,Washington,7,Northern Pacific,10,2,83.3,T1st,23,5,82.1,auto,Y,1,1,2nd,24,6,80
+1986,Western Ky.,4,Sun Belt,6,0,100,1st,29,3,90.6,auto,Y,3,1,NSF,32,4,88.9
+1987,Auburn,1,Southeastern,8,1,88.9,1st,29,1,96.7,auto,Y,2,1,RF,31,2,93.9
+1987,Bowling Green,9,Mid-American,16,0,100,1st,27,2,93.1,auto,N,0,1,1st,27,3,90
+1987,Duke,7,Atlantic Coast,7,7,50,4th,18,9,66.7,at-large,Y,1,1,2nd,19,10,65.5
+1987,Eastern Wash.,10,Mountain West Athl.,8,4,66.7,2nd,18,11,62.1,auto,N,0,1,1st,18,12,60
+1987,Georgia,2,Southeastern,7,2,77.8,T2nd,26,4,86.7,at-large,Y,1,1,RSF,27,5,84.4
+1987,Illinois,8,Big Ten,11,7,61.1,4th,18,9,66.7,at-large,Y,1,1,2nd,19,10,65.5
+1987,Iowa,3,Big Ten,17,1,94.4,T1st,24,4,85.7,at-large,Y,2,1,RF,26,5,83.9
+1987,James Madison,4,Colonial,12,0,100,1st,26,3,89.7,auto,Y,1,1,RSF,27,4,87.1
+1987,Kansas,7,Big Eight,9,5,64.3,T1st,19,12,61.3,auto,N,1,1,2nd,20,13,60.6
+1987,Kansas St.,8,Big Eight,9,5,64.3,T1st,22,8,73.3,at-large,N,0,1,1st,22,9,71
+1987,Long Beach St.,1,Pacific Coast,17,1,94.4,1st,30,2,93.8,at-large,Y,3,1,NSF,33,3,91.7
+1987,Louisiana Tech,1,Independent,-,-,-,-,26,2,92.9,at-large,Y,4,1,N2nd,30,3,90.9
+1987,LSU,4,Southeastern,6,3,66.7,T4th,20,7,74.1,at-large,Y,0,1,2nd,20,8,71.4
+1987,Manhattan,10,Metro Atlantic,6,6,50,5th,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+1987,Memphis,6,Metro,10,2,83.3,1st,20,8,71.4,at-large,N,0,1,2nd,20,9,69
+1987,NC State,3,Atlantic Coast,11,3,78.6,2nd,23,6,79.3,auto,N,1,1,RSF,24,7,77.4
+1987,New Mexico St.,9,High Country,10,2,83.3,T1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1987,New Orleans,6,Independent,-,-,-,-,25,6,80.6,at-large,N,0,1,2nd,25,7,78.1
+1987,North Carolina,4,Atlantic Coast,9,5,64.3,3rd,19,9,67.9,at-large,Y,0,1,2nd,19,10,65.5
+1987,Northwestern,9,Big Ten,12,6,66.7,3rd,19,9,67.9,at-large,Y,1,1,2nd,20,10,66.7
+1987,Northwestern St.,10,Gulf Star,9,1,90,T1st,14,9,60.9,auto,Y,0,1,1st,14,10,58.3
+1987,Ohio St.,2,Big Ten,17,1,94.4,T1st,24,4,85.7,auto,N,2,1,RF,26,5,83.9
+1987,Old Dominion,5,Sun Belt,5,1,83.3,T1st,17,12,58.6,auto,N,1,1,RSF,18,13,58.1
+1987,Ole Miss,4,Southeastern,7,2,77.8,T2nd,24,4,85.7,at-large,Y,1,1,RSF,25,5,83.3
+1987,Oregon,7,Pacific-10,14,4,77.8,T2nd,22,6,78.6,at-large,Y,1,1,2nd,23,7,76.7
+1987,Penn St.,5,Atlantic 10,16,2,88.9,2nd,23,6,79.3,at-large,N,0,1,2nd,23,7,76.7
+1987,Rutgers,2,Atlantic 10,17,1,94.4,1st,28,2,93.3,auto,Y,2,1,RF,30,3,90.9
+1987,Saint Joseph's,9,Atlantic 10,14,4,77.8,3rd,22,8,73.3,at-large,Y,1,1,2nd,23,9,71.9
+1987,South Alabama,8,Sun Belt,5,1,83.3,T1st,24,5,82.8,at-large,N,0,1,1st,24,6,80
+1987,Southern California,3,Pacific-10,15,3,83.3,1st,21,7,75,auto,Y,1,1,RSF,22,8,73.3
+1987,Southern Ill.,5,Missouri Valley,18,0,100,1st,27,2,93.1,auto,N,1,1,RSF,28,3,90.3
+1987,Southern Miss.,10,Metro,6,6,50,4th,21,8,72.4,auto,N,0,1,1st,21,9,70
+1987,Tennessee,2,Southeastern,6,3,66.7,T4th,23,6,79.3,at-large,Y,5,0,Champ,28,6,82.4
+1987,Tennessee Tech,7,Ohio Valley,12,2,85.7,T1st,23,6,79.3,auto,Y,1,1,2nd,24,7,77.4
+1987,Texas,1,Southwest,16,0,100,1st,28,1,96.6,auto,Y,3,1,NSF,31,2,93.9
+1987,Vanderbilt,5,Southeastern,4,5,44.4,6th,23,9,71.9,at-large,N,0,1,2nd,23,10,69.7
+1987,Villanova,6,Big East,15,1,93.8,1st,27,3,90,auto,Y,0,1,2nd,27,4,87.1
+1987,Virginia,3,Atlantic Coast,12,2,85.7,1st,25,4,86.2,at-large,Y,1,1,RSF,26,5,83.9
+1987,Washington,8,Pacific-10,14,4,77.8,T2nd,22,6,78.6,at-large,Y,1,1,2nd,23,7,76.7
+1987,Western Ky.,6,Sun Belt,4,2,66.7,T3rd,24,8,75,at-large,N,0,1,2nd,24,9,72.7
+1988,Alabama,9,Southeastern,5,4,55.6,T4th,18,9,66.7,at-large,N,0,1,1st,18,10,64.3
+1988,Auburn,1,Southeastern,9,0,100,1st,28,2,93.3,at-large,Y,4,1,N2nd,32,3,91.4
+1988,Bowling Green,10,Mid-American,14,2,87.5,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1988,Clemson,5,Atlantic Coast,8,6,57.1,4th,21,8,72.4,at-large,N,0,1,2nd,21,9,70
+1988,Colorado,7,Big Eight,8,6,57.1,T3rd,20,10,66.7,at-large,N,1,1,2nd,21,11,65.6
+1988,Eastern Ill.,10,Missouri Valley,14,4,77.8,T1st,22,7,75.9,auto,Y,0,1,1st,22,8,73.3
+1988,Fairfield,10,Metro Atlantic,8,4,66.7,3rd,19,9,67.9,auto,N,0,1,1st,19,10,65.5
+1988,Georgia,4,Southeastern,5,4,55.6,T4th,20,9,69,at-large,Y,1,1,RSF,21,10,67.7
+1988,Houston,6,Southwest,11,5,68.8,2nd,22,6,78.6,at-large,N,0,1,2nd,22,7,75.9
+1988,Iowa,1,Big Ten,17,1,94.4,1st,27,1,96.4,auto,Y,2,1,RF,29,2,93.5
+1988,James Madison,4,Colonial,12,0,100,1st,26,3,89.7,auto,Y,1,1,RSF,27,4,87.1
+1988,Kansas,7,Big Eight,8,6,57.1,T3rd,21,9,70,auto,Y,1,1,2nd,22,10,68.8
+1988,La Salle,8,Metro Atlantic,11,1,91.7,1st,25,4,86.2,at-large,N,0,1,1st,25,5,83.3
+1988,Long Beach St.,2,Big West,18,0,100,1st,25,5,83.3,auto,Y,3,1,NSF,28,6,82.4
+1988,Louisiana Tech,2,American South,9,0,100,1st,27,2,93.1,at-large,Y,5,0,Champ,32,2,94.1
+1988,LSU,9,Southeastern,6,3,66.7,3rd,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+1988,Maryland,2,Atlantic Coast,12,2,85.7,T1st,24,5,82.8,auto,Y,2,1,RF,26,6,81.3
+1988,Middle Tenn.,10,Ohio Valley,12,2,85.7,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1988,Montana,4,Mountain West Athl.,16,0,100,1st,28,1,96.6,auto,Y,0,1,2nd,28,2,93.3
+1988,Nebraska,5,Big Eight,11,3,78.6,1st,22,6,78.6,at-large,N,0,1,2nd,22,7,75.9
+1988,New Mexico St.,6,High Country,10,0,100,1st,26,2,92.9,auto,N,0,1,2nd,26,3,89.7
+1988,Ohio St.,3,Big Ten,16,2,88.9,2nd,24,4,85.7,at-large,Y,1,1,RSF,25,5,83.3
+1988,Old Dominion,6,Sun Belt,6,0,100,1st,17,11,60.7,at-large,N,0,1,2nd,17,12,58.6
+1988,Ole Miss,3,Southeastern,5,4,55.6,T4th,23,6,79.3,at-large,Y,1,1,RSF,24,7,77.4
+1988,Penn St.,9,Atlantic 10,11,7,61.1,4th,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+1988,Rutgers,3,Atlantic 10,17,1,94.4,1st,26,4,86.7,auto,Y,1,1,RSF,27,5,84.4
+1988,Saint Joseph's,7,Atlantic 10,16,2,88.9,2nd,23,7,76.7,at-large,Y,1,1,2nd,24,8,75
+1988,SFA,8,Southland,13,1,92.9,1st,28,4,87.5,at-large,Y,1,1,2nd,29,5,85.3
+1988,South Carolina,8,Metro,10,2,83.3,1st,22,10,68.8,auto,Y,1,1,2nd,23,11,67.6
+1988,Southern California,4,Pacific-10,15,3,83.3,2nd,21,7,75,at-large,Y,1,1,RSF,22,8,73.3
+1988,St. John's (NY),7,Big East,10,6,62.5,T3rd,21,9,70,auto,Y,1,1,2nd,22,10,68.8
+1988,Stanford,5,Pacific-10,14,4,77.8,3rd,26,4,86.7,at-large,N,1,1,RSF,27,5,84.4
+1988,Syracuse,6,Big East,13,3,81.3,1st,22,8,73.3,at-large,N,0,1,2nd,22,9,71
+1988,Tennessee,1,Southeastern,8,1,88.9,2nd,28,2,93.3,auto,Y,3,1,NSF,31,3,91.2
+1988,Texas,1,Southwest,16,0,100,1st,30,2,93.8,auto,Y,2,1,RF,32,3,91.4
+1988,Villanova,8,Big East,11,5,68.8,2nd,20,8,71.4,at-large,Y,0,1,1st,20,9,69
+1988,Virginia,2,Atlantic Coast,12,2,85.7,T1st,25,4,86.2,at-large,Y,2,1,RF,27,5,84.4
+1988,Wake Forest,9,Atlantic Coast,9,5,64.3,3rd,22,7,75.9,at-large,N,1,1,2nd,23,8,74.2
+1988,Washington,3,Pacific-10,16,2,88.9,1st,24,4,85.7,auto,Y,1,1,RSF,25,5,83.3
+1988,Western Ky.,5,Sun Belt,4,2,66.7,3rd,26,7,78.8,auto,N,0,1,2nd,26,8,76.5
+1989,Arkansas,12,Southwest,13,3,81.3,2nd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+1989,Auburn,1,Southeastern,9,0,100,1st,28,1,96.6,at-large,Y,4,1,N2nd,32,2,94.1
+1989,Bowling Green,9,Mid-American,16,0,100,1st,25,3,89.3,auto,Y,1,1,2nd,26,4,86.7
+1989,Cal St. Fullerton,7,Big West,12,6,66.7,T4th,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1989,Chattanooga,12,Southern,5,5,50,3rd,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+1989,Cincinnati,8,Metro,6,6,50,5th,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1989,Clemson,4,Atlantic Coast,9,5,64.3,3rd,19,10,65.5,at-large,Y,1,1,RSF,20,11,64.5
+1989,Colorado,3,Big Eight,14,0,100,1st,27,3,90,auto,Y,0,1,2nd,27,4,87.1
+1989,Georgia,5,Southeastern,6,3,66.7,3rd,22,6,78.6,at-large,Y,1,1,2nd,23,7,76.7
+1989,Hawaii,12,Big West,13,3,81.3,T2nd,18,9,66.7,at-large,N,0,1,1st,18,10,64.3
+1989,Holy Cross,9,Metro Atlantic,10,2,83.3,2nd,21,9,70,auto,N,0,1,1st,21,10,67.7
+1989,Illinois St.,7,Missouri Valley,16,2,88.9,1st,22,7,75.9,auto,Y,1,1,2nd,23,8,74.2
+1989,Iowa,3,Big Ten,16,2,88.9,T1st,26,4,86.7,at-large,Y,1,1,RSF,27,5,84.4
+1989,James Madison,6,Colonial,12,0,100,1st,25,3,89.3,auto,Y,1,1,2nd,26,4,86.7
+1989,La Salle,9,Metro Atlantic,11,1,91.7,1st,27,2,93.1,at-large,N,1,1,2nd,28,3,90.3
+1989,Long Beach St.,2,Big West,18,0,100,1st,28,4,87.5,auto,Y,2,1,RF,30,5,85.7
+1989,Louisiana Tech,1,American South,10,0,100,1st,29,3,90.6,at-large,Y,3,1,NSF,32,4,88.9
+1989,LSU,4,Southeastern,5,4,55.6,T4th,18,10,64.3,at-large,Y,1,1,RSF,19,11,63.3
+1989,Maryland,1,Atlantic Coast,13,1,92.9,1st,26,2,92.9,auto,Y,3,1,NSF,29,3,90.6
+1989,Miami (FL),8,Independent,-,-,-,-,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1989,Montana,10,Big Sky,16,0,100,1st,26,3,89.7,auto,Y,1,1,2nd,27,4,87.1
+1989,NC State,2,Atlantic Coast,12,2,85.7,2nd,23,6,79.3,at-large,Y,1,1,RSF,24,7,77.4
+1989,Northwestern St.,10,Southland,11,3,78.6,T2nd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+1989,Ohio St.,3,Big Ten,16,2,88.9,T1st,23,5,82.1,auto,Y,1,1,RSF,24,6,80
+1989,Oklahoma St.,9,Big Eight,8,6,57.1,2nd,19,11,63.3,at-large,Y,1,1,2nd,20,12,62.5
+1989,Old Dominion,6,Sun Belt,5,1,83.3,T1st,22,8,73.3,at-large,Y,1,1,2nd,23,9,71.9
+1989,Ole Miss,3,Southeastern,4,5,44.4,6th,21,7,75,at-large,Y,2,1,RF,23,8,74.2
+1989,Providence,11,Big East,10,6,62.5,3rd,22,10,68.8,at-large,N,0,1,1st,22,11,66.7
+1989,Purdue,5,Big Ten,14,4,77.8,3rd,23,5,82.1,at-large,Y,1,1,2nd,24,6,80
+1989,Rutgers,7,Atlantic 10,16,2,88.9,T1st,23,6,79.3,at-large,Y,1,1,2nd,24,7,77.4
+1989,Saint Joseph's,10,Atlantic 10,16,2,88.9,T1st,22,7,75.9,at-large,Y,1,1,2nd,23,8,74.2
+1989,SFA,4,Southland,13,1,92.9,1st,29,3,90.6,at-large,Y,1,1,RSF,30,4,88.2
+1989,South Carolina,6,Metro,10,2,83.3,T1st,23,6,79.3,auto,Y,0,1,1st,23,7,76.7
+1989,Southern Miss.,10,Metro,10,2,83.3,T1st,26,4,86.7,at-large,N,0,1,1st,26,5,83.9
+1989,Stanford,2,Pacific-10,18,0,100,1st,26,2,92.9,auto,Y,2,1,RF,28,3,90.3
+1989,Temple,8,Atlantic 10,14,4,77.8,3rd,21,9,70,at-large,Y,1,1,2nd,22,10,68.8
+1989,Tennessee,1,Southeastern,8,1,88.9,2nd,30,2,93.8,auto,Y,5,0,Champ,35,2,94.6
+1989,Tennessee Tech,11,Ohio Valley,9,3,75,2nd,21,7,75,auto,N,1,1,2nd,22,8,73.3
+1989,Texas,2,Southwest,16,0,100,1st,25,4,86.2,auto,Y,2,1,RF,27,5,84.4
+1989,UConn,8,Big East,13,2,86.7,1st,24,5,82.8,auto,Y,0,1,1st,24,6,80
+1989,UNLV,6,Big West,13,5,72.2,T2nd,25,6,80.6,at-large,Y,2,1,RSF,27,7,79.4
+1989,Utah,11,High Country,9,1,90,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1989,Vanderbilt,7,Southeastern,5,4,55.6,T4th,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1989,Villanova,11,Big East,11,5,68.8,2nd,18,11,62.1,at-large,N,0,1,1st,18,12,60
+1989,Virginia,4,Atlantic Coast,8,6,57.1,4th,20,9,69,at-large,Y,1,1,RSF,21,10,67.7
+1989,Washington,5,Pacific-10,15,3,83.3,2nd,22,9,71,at-large,Y,1,1,2nd,23,10,69.7
+1989,West Virginia,12,Atlantic 10,12,6,66.7,T4th,23,7,76.7,auto,N,1,1,2nd,24,8,75
+1989,Western Ky.,5,Sun Belt,5,1,83.3,T1st,22,8,73.3,auto,Y,0,1,1st,22,9,71
+1990,Appalachian St.,11,Southern,7,3,70,2nd,20,8,71.4,auto,N,0,1,1st,20,9,69
+1990,Arkansas,7,Southwest,15,1,93.8,T1st,22,4,84.6,at-large,Y,3,1,RF,25,5,83.3
+1990,Auburn,2,Southeastern,7,2,77.8,T2nd,24,6,80,auto,Y,4,1,N2nd,28,7,80
+1990,Bowling Green,12,Mid-American,12,4,75,3rd,22,8,73.3,auto,N,0,1,1st,22,9,71
+1990,California,11,Pacific-10,9,9,50,T4th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+1990,Clemson,5,Atlantic Coast,10,4,71.4,3rd,20,9,69,at-large,Y,2,1,RSF,22,10,68.8
+1990,DePaul,8,North Star,10,2,83.3,2nd,21,9,70,at-large,Y,1,1,2nd,22,10,68.8
+1990,Florida St.,10,Metro,11,3,78.6,T2nd,21,8,72.4,at-large,Y,0,1,1st,21,9,70
+1990,Georgia,2,Southeastern,6,3,66.7,4th,25,4,86.2,at-large,Y,0,1,2nd,25,5,83.3
+1990,Hawaii,9,Big West,16,2,88.9,2nd,25,3,89.3,at-large,N,1,1,2nd,26,4,86.7
+1990,Iowa,3,Big Ten,15,3,83.3,T1st,23,5,82.1,auto,Y,0,1,2nd,23,6,79.3
+1990,Long Beach St.,6,Pacific Coast,14,4,77.8,3rd,24,7,77.4,at-large,Y,1,1,2nd,25,8,75.8
+1990,Louisiana Tech,1,American South,10,0,100,1st,29,0,100,auto,Y,3,1,NSF,32,1,97
+1990,LSU,9,Southeastern,4,5,44.4,T6th,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1990,Manhattan,12,Metro Atlantic,8,2,80,T1st,18,12,60,auto,N,0,1,1st,18,13,58.1
+1990,Maryland,6,Atlantic Coast,7,7,50,4th,18,10,64.3,at-large,Y,1,1,2nd,19,11,63.3
+1990,Michigan,10,Big Ten,11,7,61.1,T4th,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+1990,Montana,8,Big Sky,16,0,100,1st,27,2,93.1,auto,Y,0,1,1st,27,3,90
+1990,NC State,2,Atlantic Coast,12,2,85.7,1st,24,5,82.8,at-large,Y,1,1,RSF,25,6,80.6
+1990,Northern Ill.,5,North Star,12,0,100,1st,25,4,86.2,at-large,Y,1,1,2nd,26,5,83.9
+1990,Northwestern,4,Big Ten,15,3,83.3,T1st,24,4,85.7,at-large,Y,0,1,2nd,24,5,82.8
+1990,Ohio St.,6,Big Ten,11,7,61.1,T4th,17,11,60.7,at-large,Y,1,1,2nd,18,12,60
+1990,Oklahoma St.,7,Big Eight,9,5,64.3,T4th,20,10,66.7,auto,Y,0,1,1st,20,11,64.5
+1990,Old Dominion,8,Sun Belt,4,2,66.7,T1st,20,9,69,auto,Y,1,1,2nd,21,10,67.7
+1990,Ole Miss,5,Southeastern,7,2,77.8,T2nd,20,9,69,at-large,Y,2,1,RSF,22,10,68.8
+1990,Penn St.,7,Atlantic 10,15,3,83.3,3rd,24,6,80,auto,N,1,1,2nd,25,7,78.1
+1990,Providence,3,Big East,14,2,87.5,T1st,26,4,86.7,auto,Y,1,1,RSF,27,5,84.4
+1990,Purdue,4,Big Ten,14,4,77.8,3rd,22,6,78.6,at-large,Y,1,1,RSF,23,7,76.7
+1990,Richmond,10,Colonial,11,1,91.7,1st,25,4,86.2,auto,N,0,1,1st,25,5,83.3
+1990,Rutgers,11,Big East,16,2,88.9,T1st,20,9,69,at-large,N,0,1,1st,20,10,66.7
+1990,Saint Joseph's,9,Atlantic 10,16,2,88.9,T1st,24,6,80,at-large,N,0,1,1st,24,7,77.4
+1990,SFA,3,Southland,14,0,100,1st,27,2,93.1,auto,Y,1,1,RSF,28,3,90.3
+1990,South Carolina,5,Metro,13,1,92.9,1st,22,8,73.3,at-large,Y,2,1,RSF,24,9,72.7
+1990,Southern Ill.,11,Missouri Valley,16,2,88.9,1st,21,9,70,auto,N,0,1,1st,21,10,67.7
+1990,Southern Miss.,8,Metro,11,3,78.6,T2nd,26,4,86.7,auto,Y,1,1,2nd,27,5,84.4
+1990,Stanford,1,Pacific-10,17,1,94.4,T1st,27,1,96.4,auto,Y,5,0,Champ,32,1,97
+1990,Tennessee,1,Southeastern,8,1,88.9,1st,25,5,83.3,at-large,Y,2,1,RF,27,6,81.8
+1990,Tennessee Tech,7,Ohio Valley,12,0,100,1st,25,4,86.2,auto,Y,1,1,2nd,26,5,83.9
+1990,Texas,3,Southwest,15,1,93.8,T1st,25,4,86.2,auto,Y,2,1,RF,27,5,84.4
+1990,Texas Tech,12,Southwest,11,5,68.8,3rd,19,10,65.5,at-large,N,0,1,1st,19,11,63.3
+1990,UCLA,10,Pacific-10,12,6,66.7,3rd,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+1990,UConn,4,Big East,14,2,87.5,T1st,25,5,83.3,at-large,Y,0,1,2nd,25,6,80.6
+1990,UNLV,4,Big West,17,1,94.4,1st,27,2,93.1,auto,Y,0,1,2nd,27,3,90
+1990,Utah,12,Western Athletic,6,4,60,3rd,20,9,69,auto,N,0,1,1st,20,10,66.7
+1990,Vanderbilt,6,Southeastern,5,4,55.6,5th,21,10,67.7,at-large,Y,2,1,RSF,23,11,67.6
+1990,Virginia,2,Atlantic Coast,11,3,78.6,2nd,26,5,83.9,auto,Y,3,1,NSF,29,6,82.9
+1990,Washington,1,Pacific-10,17,1,94.4,T1st,26,2,92.9,at-large,Y,2,1,RF,28,3,90.3
+1990,Western Ky.,9,Sun Belt,4,2,66.7,T1st,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+1991,Appalachian St.,12,Southern,5,5,50,4th,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+1991,Arkansas,3,Southwest,15,1,93.8,1st,27,3,90,auto,Y,1,1,RSF,28,4,87.5
+1991,Auburn,3,Southeastern,7,2,77.8,2nd,24,5,82.8,at-large,Y,2,1,RF,26,6,81.3
+1991,Cal St. Fullerton,7,Big West,14,4,77.8,3rd,24,7,77.4,at-large,Y,1,1,2nd,25,8,75.8
+1991,Clemson,4,Atlantic Coast,8,6,57.1,4th,20,10,66.7,at-large,Y,2,1,RF,22,11,66.7
+1991,DePaul,12,North Star,11,3,78.6,3rd,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+1991,Fairfield,12,Metro Atlantic,15,1,93.8,1st,25,5,83.3,at-large,N,0,1,1st,25,6,80.6
+1991,Florida St.,5,Metro,12,2,85.7,T1st,24,6,80,auto,Y,1,1,2nd,25,7,78.1
+1991,George Washington,10,Atlantic 10,15,3,83.3,T2nd,22,6,78.6,at-large,N,1,1,2nd,23,7,76.7
+1991,Georgia,1,Southeastern,9,0,100,1st,26,3,89.7,at-large,Y,2,1,RF,28,4,87.5
+1991,Holy Cross,11,Patriot,12,0,100,1st,24,5,82.8,at-large,Y,1,1,2nd,25,6,80.6
+1991,Iowa,6,Big Ten,13,5,72.2,T2nd,20,8,71.4,at-large,N,1,1,2nd,21,9,70
+1991,James Madison,8,Colonial,11,1,91.7,T1st,24,4,85.7,at-large,Y,2,1,RSF,26,5,83.9
+1991,Kentucky,9,Southeastern,4,5,44.4,T5th,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1991,Lamar,10,American South,12,0,100,1st,26,3,89.7,at-large,N,3,1,RF,29,4,87.9
+1991,Long Beach St.,4,Big West,15,3,83.3,T1st,23,7,76.7,auto,Y,1,1,RSF,24,8,75
+1991,Louisiana Tech,10,American South,9,3,75,2nd,18,11,62.1,auto,N,0,1,1st,18,12,60
+1991,LSU,2,Southeastern,5,4,55.6,4th,24,6,80,auto,N,0,1,2nd,24,7,77.4
+1991,Maryland,6,Atlantic Coast,9,5,64.3,T2nd,17,12,58.6,at-large,N,0,1,1st,17,13,56.7
+1991,Michigan St.,4,Big Ten,13,5,72.2,T2nd,21,7,75,at-large,N,0,1,2nd,21,8,72.4
+1991,Missouri St.,8,Missouri Valley,16,2,88.9,1st,25,4,86.2,auto,Y,1,1,2nd,26,5,83.9
+1991,Montana,11,Big Sky,16,0,100,1st,26,3,89.7,auto,Y,0,1,1st,26,4,86.7
+1991,NC State,2,Atlantic Coast,9,5,64.3,T2nd,26,5,83.9,auto,Y,1,1,RSF,27,6,81.8
+1991,Northwestern,6,Big Ten,12,6,66.7,4th,20,8,71.4,at-large,Y,1,1,2nd,21,9,70
+1991,Oklahoma St.,5,Big Eight,11,3,78.6,1st,25,5,83.3,auto,Y,2,1,RSF,27,6,81.8
+1991,Ole Miss,9,Southeastern,4,5,44.4,T5th,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1991,Penn St.,1,Atlantic 10,17,1,94.4,1st,29,1,96.7,auto,Y,0,1,2nd,29,2,93.5
+1991,Providence,5,Big East,13,3,81.3,2nd,25,5,83.3,at-large,Y,1,1,2nd,26,6,81.3
+1991,Purdue,2,Big Ten,17,1,94.4,1st,26,2,92.9,auto,Y,0,1,2nd,26,3,89.7
+1991,Richmond,7,Colonial,11,1,91.7,T1st,26,4,86.7,auto,Y,0,1,1st,26,5,83.9
+1991,Rutgers,6,Atlantic 10,15,3,83.3,T2nd,23,6,79.3,at-large,Y,0,1,1st,23,7,76.7
+1991,SFA,8,Southland,14,0,100,1st,25,4,86.2,auto,Y,1,1,2nd,26,5,83.9
+1991,South Carolina,7,Metro,12,2,85.7,T1st,22,8,73.3,at-large,N,0,1,1st,22,9,71
+1991,Southern California,5,Pacific-10,11,7,61.1,3rd,17,11,60.7,at-large,Y,1,1,2nd,18,12,60
+1991,Stanford,2,Pacific-10,16,2,88.9,1st,23,5,82.1,auto,Y,3,1,NSF,26,6,81.3
+1991,Tennessee,1,Southeastern,6,3,66.7,3rd,25,5,83.3,at-large,Y,5,0,Champ,30,5,85.7
+1991,Tennessee Tech,9,Ohio Valley,11,1,91.7,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1991,Texas,7,Southwest,14,2,87.5,2nd,21,8,72.4,at-large,Y,0,1,1st,21,9,70
+1991,Texas Tech,9,Southwest,12,4,75,3rd,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+1991,Toledo,11,Mid-American,13,3,81.3,1st,23,6,79.3,auto,N,1,1,2nd,24,7,77.4
+1991,UConn,3,Big East,14,2,87.5,1st,26,4,86.7,auto,Y,3,1,NSF,29,5,85.3
+1991,UNLV,8,Big West,15,3,83.3,T1st,24,6,80,at-large,Y,1,1,2nd,25,7,78.1
+1991,Utah,12,Western Athletic,9,3,75,2nd,20,9,69,auto,N,0,1,1st,20,10,66.7
+1991,Vanderbilt,10,Southeastern,4,5,44.4,T5th,17,11,60.7,at-large,Y,2,1,RSF,19,12,61.3
+1991,Virginia,1,Atlantic Coast,14,0,100,1st,27,2,93.1,at-large,Y,4,1,N2nd,31,3,91.2
+1991,Washington,3,Pacific-10,15,3,83.3,2nd,23,4,85.2,at-large,Y,1,1,RSF,24,5,82.8
+1991,Washington St.,11,Pacific-10,10,8,55.6,T4th,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+1991,Western Ky.,4,Sun Belt,6,0,100,T1st,28,2,93.3,auto,Y,1,1,RSF,29,3,90.6
+1992,Alabama,5,Southeastern,7,4,63.6,3rd,22,6,78.6,at-large,Y,1,1,2nd,23,7,76.7
+1992,Arizona St.,6,Pacific-10,11,7,61.1,5th,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1992,California,5,Pacific-10,12,6,66.7,T3rd,20,8,71.4,at-large,Y,0,1,1st,20,9,69
+1992,Chattanooga,12,Southern,8,2,80,T1st,18,11,62.1,auto,N,0,1,1st,18,12,60
+1992,Clemson,5,Atlantic Coast,9,7,56.3,T3rd,20,9,69,at-large,Y,1,1,2nd,21,10,67.7
+1992,Colorado,7,Big Eight,11,3,78.6,2nd,22,8,73.3,auto,Y,0,1,1st,22,9,71
+1992,Creighton,7,Western Athletic,13,1,92.9,1st,27,3,90,auto,Y,1,1,2nd,28,4,87.5
+1992,DePaul,11,Great Midwest,8,2,80,T1st,20,9,69,at-large,Y,1,1,2nd,21,10,67.7
+1992,George Washington,8,Atlantic 10,11,5,68.8,T2nd,24,6,80,auto,Y,1,1,2nd,25,7,78.1
+1992,Houston,8,Southwest,10,4,71.4,3rd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+1992,Iowa,1,Big Ten,16,2,88.9,1st,25,3,89.3,auto,Y,0,1,2nd,25,4,86.2
+1992,Kansas,9,Big Eight,12,2,85.7,1st,25,5,83.3,at-large,N,0,1,1st,25,6,80.6
+1992,Long Beach St.,10,Big West,13,5,72.2,T2nd,21,9,70,at-large,N,0,1,1st,21,10,67.7
+1992,Louisiana Tech,6,Sun Belt,12,4,75,T3rd,20,9,69,at-large,N,0,1,1st,20,10,66.7
+1992,Maryland,2,Atlantic Coast,13,3,81.3,2nd,23,5,82.1,at-large,Y,2,1,RF,25,6,80.6
+1992,Miami (FL),2,Big East,18,0,100,1st,29,1,96.7,at-large,Y,1,1,RSF,30,2,93.8
+1992,Missouri St.,8,Missouri Valley,17,1,94.4,1st,27,2,93.1,auto,Y,4,1,NSF,31,3,91.2
+1992,Montana,11,Big Sky,13,3,81.3,2nd,22,6,78.6,auto,N,1,1,2nd,23,7,76.7
+1992,North Carolina,7,Atlantic Coast,9,7,56.3,T3rd,21,8,72.4,at-large,Y,1,1,2nd,22,9,71
+1992,Northern Ill.,11,North Star,8,4,66.7,T2nd,17,13,56.7,auto,Y,1,1,2nd,18,14,56.3
+1992,Notre Dame,12,Midwestern,8,4,66.7,2nd,14,16,46.7,auto,N,0,1,1st,14,17,45.2
+1992,Old Dominion,10,Colonial,9,5,64.3,3rd,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+1992,Ole Miss,2,Southeastern,11,0,100,1st,27,2,93.1,at-large,Y,2,1,RF,29,3,90.6
+1992,Penn St.,3,Independent,-,-,-,-,23,6,79.3,at-large,Y,1,1,RSF,24,7,77.4
+1992,Providence,7,Big East,13,5,72.2,T2nd,21,8,72.4,at-large,Y,0,1,1st,21,9,70
+1992,Purdue,3,Big Ten,14,4,77.8,2nd,22,6,78.6,at-large,Y,1,1,RSF,23,7,76.7
+1992,Rutgers,8,Atlantic 10,11,5,68.8,T2nd,20,10,66.7,at-large,Y,1,1,2nd,21,11,65.6
+1992,Saint Peter's,11,Metro Atlantic,13,3,81.3,2nd,24,6,80,auto,N,0,1,1st,24,7,77.4
+1992,Santa Clara,12,West Coast,10,4,71.4,T1st,20,9,69,auto,N,1,1,2nd,21,10,67.7
+1992,SFA,2,Southland,17,1,94.4,1st,27,2,93.1,auto,Y,1,1,RSF,28,3,90.3
+1992,Southern California,3,Pacific-10,14,4,77.8,2nd,21,7,75,at-large,Y,2,1,RF,23,8,74.2
+1992,Southern Ill.,10,Missouri Valley,15,3,83.3,2nd,22,7,75.9,at-large,N,1,1,2nd,23,8,74.2
+1992,Southern Miss.,9,Metro,9,3,75,2nd,21,9,70,auto,N,0,1,1st,21,10,67.7
+1992,Stanford,1,Pacific-10,15,3,83.3,1st,25,3,89.3,auto,Y,5,0,Champ,30,3,90.9
+1992,Tennessee,1,Southeastern,10,1,90.9,2nd,27,2,93.1,auto,Y,1,1,RSF,28,3,90.3
+1992,Tennessee Tech,12,Ohio Valley,13,1,92.9,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+1992,Texas,4,Southwest,11,3,78.6,2nd,21,9,70,at-large,Y,0,1,2nd,21,10,67.7
+1992,Texas Tech,4,Southwest,13,1,92.9,1st,26,4,86.7,auto,Y,1,1,RSF,27,5,84.4
+1992,Toledo,10,Mid-American,15,1,93.8,1st,25,5,83.3,auto,N,1,1,2nd,26,6,81.3
+1992,UC Santa Barbara,9,Big West,16,2,88.9,1st,26,4,86.7,auto,Y,1,1,2nd,27,5,84.4
+1992,UCLA,5,Pacific-10,12,6,66.7,T3rd,19,9,67.9,at-large,Y,2,1,RSF,21,10,67.7
+1992,UConn,6,Big East,13,5,72.2,T2nd,22,10,68.8,at-large,Y,1,1,2nd,23,11,67.6
+1992,Vanderbilt,3,Southeastern,6,5,54.5,T4th,20,8,71.4,at-large,Y,2,1,RF,22,9,71
+1992,Vermont,9,North Atlantic,14,0,100,1st,29,0,100,at-large,N,0,1,1st,29,1,96.7
+1992,Virginia,1,Atlantic Coast,15,1,93.8,1st,29,1,96.7,auto,Y,3,1,NSF,32,2,94.1
+1992,West Virginia,4,Atlantic 10,16,0,100,1st,25,3,89.3,at-large,Y,1,1,RSF,26,4,86.7
+1992,Western Ky.,4,Sun Belt,13,3,81.3,T1st,23,7,76.7,auto,Y,4,1,N2nd,27,8,77.1
+1992,Wisconsin,6,Big Ten,13,5,72.2,3rd,20,8,71.4,at-large,Y,0,1,1st,20,9,69
+1993,Alabama,5,Southeastern,8,6,57.1,4th,21,8,72.4,at-large,Y,1,1,2nd,22,9,71
+1993,Auburn,3,Southeastern,9,2,81.8,T2nd,24,3,88.9,at-large,Y,1,1,RSF,25,4,86.2
+1993,Bowling Green,10,Mid-American,17,1,94.4,1st,25,4,86.2,auto,Y,0,1,1st,25,5,83.3
+1993,BYU,12,Western Athletic,13,1,92.9,1st,24,4,85.7,auto,N,0,1,1st,24,5,82.8
+1993,California,9,Pacific-10,10,8,55.6,T4th,18,9,66.7,at-large,N,1,1,2nd,19,10,65.5
+1993,Clemson,5,Atlantic Coast,8,8,50,T4th,18,10,64.3,at-large,Y,1,1,2nd,19,11,63.3
+1993,Colorado,4,Big Eight,12,2,85.7,1st,25,3,89.3,at-large,Y,2,1,RF,27,4,87.1
+1993,DePaul,11,Great Midwest,8,2,80,2nd,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1993,Florida,7,Southeastern,6,5,54.5,5th,18,9,66.7,at-large,N,1,1,2nd,19,10,65.5
+1993,Ga. Southern,12,Southern,9,3,75,T2nd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1993,Georgetown,6,Big East,15,3,83.3,T1st,21,6,77.8,at-large,Y,2,1,RSF,23,7,76.7
+1993,Georgia,8,Southeastern,4,7,36.4,T8th,20,12,62.5,at-large,Y,1,1,2nd,21,13,61.8
+1993,Georgia Tech,9,Atlantic Coast,8,8,50,T4th,16,10,61.5,at-large,N,0,1,1st,16,11,59.3
+1993,Iowa,2,Big Ten,16,2,88.9,T1st,24,3,88.9,at-large,N,3,1,NSF,27,4,87.1
+1993,Kansas,8,Big Eight,9,5,64.3,T3rd,21,8,72.4,auto,Y,0,1,1st,21,9,70
+1993,Louisiana Tech,6,Sun Belt,13,1,92.9,T1st,23,5,82.1,at-large,Y,3,1,RF,26,6,81.3
+1993,Louisville,11,Metro,7,5,58.3,3rd,18,11,62.1,auto,N,1,1,2nd,19,12,61.3
+1993,Maryland,2,Atlantic Coast,11,5,68.8,T2nd,22,7,75.9,at-large,Y,0,1,2nd,22,8,73.3
+1993,Miami (FL),5,Big East,15,3,83.3,T1st,23,6,79.3,auto,Y,1,1,2nd,24,7,77.4
+1993,Missouri St.,10,Missouri Valley,14,2,87.5,1st,21,8,72.4,auto,Y,2,1,RSF,23,9,71.9
+1993,Montana St.,7,Big Sky,13,1,92.9,T1st,22,6,78.6,auto,N,0,1,1st,22,7,75.9
+1993,Nebraska,6,Big Eight,10,4,71.4,2nd,22,7,75.9,at-large,Y,1,1,2nd,23,8,74.2
+1993,North Carolina,4,Atlantic Coast,11,5,68.8,T2nd,22,6,78.6,at-large,Y,1,1,RSF,23,7,76.7
+1993,Northern Ill.,11,Mid-Continent,15,1,93.8,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1993,Northwestern,8,Big Ten,13,5,72.2,4th,18,9,66.7,at-large,Y,1,1,2nd,19,10,65.5
+1993,Ohio St.,1,Big Ten,16,2,88.9,T1st,24,3,88.9,auto,Y,4,1,N2nd,28,4,87.5
+1993,Oklahoma St.,7,Big Eight,9,5,64.3,T3rd,23,8,74.2,at-large,N,0,1,1st,23,9,71.9
+1993,Old Dominion,10,Colonial,14,0,100,1st,21,7,75,auto,Y,1,1,2nd,22,8,73.3
+1993,Penn St.,3,Big Ten,14,4,77.8,3rd,22,5,81.5,at-large,Y,0,1,2nd,22,6,78.6
+1993,Rutgers,9,Atlantic 10,12,2,85.7,1st,21,8,72.4,auto,N,1,1,2nd,22,9,71
+1993,Saint Peter's,12,Metro Atlantic,9,5,64.3,T1st,18,10,64.3,auto,N,0,1,1st,18,11,62.1
+1993,San Diego,11,West Coast,8,6,57.1,2nd,16,11,59.3,auto,N,0,1,1st,16,12,57.1
+1993,San Diego St.,9,Western Athletic,9,5,64.3,T2nd,19,8,70.4,at-large,N,0,1,1st,19,9,67.9
+1993,SFA,4,Southland,17,1,94.4,1st,27,4,87.1,auto,Y,1,1,RSF,28,5,84.8
+1993,Southern California,3,Pacific-10,14,4,77.8,2nd,21,6,77.8,at-large,Y,1,1,RSF,22,7,75.9
+1993,Stanford,1,Pacific-10,15,3,83.3,1st,25,5,83.3,auto,Y,1,1,RSF,26,6,81.3
+1993,Tennessee,1,Southeastern,11,0,100,1st,27,2,93.1,at-large,Y,2,1,RF,29,3,90.6
+1993,Tennessee Tech,7,Ohio Valley,14,2,87.5,1st,22,6,78.6,auto,N,0,1,1st,22,7,75.9
+1993,Texas,3,Southwest,13,1,92.9,T1st,22,7,75.9,at-large,Y,0,1,2nd,22,8,73.3
+1993,Texas Tech,2,Southwest,13,1,92.9,T1st,26,3,89.7,auto,Y,5,0,Champ,31,3,91.2
+1993,UC Santa Barbara,5,Big West,13,5,72.2,3rd,18,11,62.1,auto,Y,1,1,2nd,19,12,61.3
+1993,UConn,6,Big East,12,6,66.7,3rd,18,10,64.3,at-large,Y,0,1,1st,18,11,62.1
+1993,Vanderbilt,1,Southeastern,9,2,81.8,T2nd,27,2,93.1,auto,Y,3,1,NSF,30,3,90.9
+1993,Vermont,8,North Atlantic,14,0,100,1st,28,0,100,at-large,Y,0,1,1st,28,1,96.6
+1993,Virginia,2,Atlantic Coast,13,3,81.3,1st,24,5,82.8,auto,Y,2,1,RF,26,6,81.3
+1993,Washington,10,Pacific-10,11,7,61.1,3rd,16,11,59.3,at-large,Y,1,1,2nd,17,12,58.6
+1993,Western Ky.,4,Sun Belt,13,1,92.9,T1st,23,6,79.3,auto,Y,1,1,RSF,24,7,77.4
+1993,Xavier,12,Midwestern,11,5,68.8,T2nd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1994,Alabama,6,Southeastern,7,4,63.6,T4th,22,6,78.6,at-large,Y,4,1,NSF,26,7,78.8
+1994,Auburn,9,Southeastern,6,5,54.5,6th,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+1994,Boise St.,9,Big Sky,12,2,85.7,T1st,23,5,82.1,at-large,N,0,1,1st,23,6,79.3
+1994,Bowling Green,7,Mid-American,17,1,94.4,1st,26,3,89.7,auto,Y,0,1,1st,26,4,86.7
+1994,Brown,16,Ivy,11,3,78.6,T1st,18,9,66.7,auto,N,0,1,1st,18,10,64.3
+1994,Clemson,9,Atlantic Coast,11,5,68.8,3rd,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+1994,Colorado,3,Big Eight,12,2,85.7,1st,25,4,86.2,at-large,Y,2,1,RSF,27,5,84.4
+1994,Creighton,10,Missouri Valley,14,2,87.5,2nd,23,6,79.3,at-large,N,1,1,2nd,24,7,77.4
+1994,FIU,8,Trans America,11,1,91.7,1st,25,3,89.3,auto,Y,0,1,1st,25,4,86.2
+1994,Florida,4,Southeastern,8,3,72.7,3rd,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+1994,Fordham,16,Patriot,11,3,78.6,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+1994,Ga. Southern,14,Southern,11,2,84.6,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+1994,George Washington,7,Atlantic 10,13,3,81.3,T1st,22,7,75.9,at-large,Y,1,1,2nd,23,8,74.2
+1994,Grambling,15,Southwestern,11,3,78.6,T2nd,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1994,Green Bay,15,Mid-Continent,13,5,72.2,2nd,18,10,64.3,auto,N,0,1,1st,18,11,62.1
+1994,Hawaii,12,Big West,16,2,88.9,1st,25,4,86.2,at-large,N,0,1,1st,25,5,83.3
+1994,Indiana,12,Big Ten,10,8,55.6,T4th,19,8,70.4,at-large,N,0,1,1st,19,9,67.9
+1994,Iowa,3,Big Ten,13,5,72.2,3rd,20,6,76.9,at-large,Y,1,1,2nd,21,7,75
+1994,Kansas,9,Big Eight,11,3,78.6,2nd,21,5,80.8,at-large,N,1,1,2nd,22,6,78.6
+1994,Louisiana Tech,4,Sun Belt,14,0,100,1st,26,3,89.7,auto,Y,5,1,N2nd,31,4,88.6
+1994,Loyola (MD),14,Metro Atlantic,12,2,85.7,2nd,18,10,64.3,auto,N,0,1,1st,18,11,62.1
+1994,Marquette,14,Great Midwest,10,2,83.3,2nd,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+1994,Minnesota,10,Big Ten,10,8,55.6,T4th,17,10,63,at-large,N,1,1,2nd,18,11,62.1
+1994,Missouri,15,Big Eight,3,11,21.4,T7th,12,17,41.4,auto,N,0,1,1st,12,18,40
+1994,Missouri St.,6,Missouri Valley,15,1,93.8,1st,23,5,82.1,auto,Y,1,1,2nd,24,6,80
+1994,Montana,7,Big Sky,12,2,85.7,T1st,24,4,85.7,auto,Y,1,1,2nd,25,5,83.3
+1994,Mt. St. Mary's,14,Northeast,18,0,100,1st,25,3,89.3,auto,N,0,1,1st,25,4,86.2
+1994,N.C. A&T,16,Mid-Eastern,11,5,68.8,T3rd,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+1994,North Carolina,3,Atlantic Coast,14,2,87.5,2nd,27,2,93.1,auto,Y,6,0,Champ,33,2,94.3
+1994,Northern Ill.,11,Mid-Continent,18,0,100,1st,24,5,82.8,at-large,N,0,1,1st,24,6,80
+1994,Notre Dame,7,Midwestern,10,2,83.3,1st,22,6,78.6,auto,Y,0,1,1st,22,7,75.9
+1994,Oklahoma St.,12,Big Eight,9,5,64.3,3rd,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1994,Old Dominion,6,Colonial,14,0,100,1st,24,5,82.8,auto,Y,1,1,2nd,25,6,80.6
+1994,Ole Miss,5,Southeastern,7,4,63.6,T4th,23,8,74.2,at-large,Y,1,1,2nd,24,9,72.7
+1994,Oregon,6,Pacific-10,13,5,72.2,3rd,19,8,70.4,at-large,Y,1,1,2nd,20,9,69
+1994,Oregon St.,11,Pacific-10,9,9,50,6th,17,10,63,at-large,N,0,1,1st,17,11,60.7
+1994,Penn St.,1,Big Ten,16,2,88.9,T1st,25,2,92.6,auto,Y,3,1,RF,28,3,90.3
+1994,Portland,15,West Coast,7,7,50,4th,17,11,60.7,auto,N,0,1,1st,17,12,58.6
+1994,Purdue,1,Big Ten,16,2,88.9,T1st,25,4,86.2,at-large,Y,4,1,NSF,29,5,85.3
+1994,Radford,16,Big South,12,6,66.7,T2nd,18,11,62.1,auto,N,0,1,1st,18,12,60
+1994,Rutgers,5,Atlantic 10,13,3,81.3,T1st,22,7,75.9,auto,Y,0,1,1st,22,8,73.3
+1994,Saint Joseph's,11,Atlantic 10,11,5,68.8,3rd,19,8,70.4,at-large,N,0,1,1st,19,9,67.9
+1994,San Diego St.,5,Western Athletic,13,1,92.9,1st,25,4,86.2,auto,Y,1,1,2nd,26,5,83.9
+1994,Santa Clara,11,West Coast,11,3,78.6,1st,21,6,77.8,at-large,N,0,1,1st,21,7,75
+1994,Seton Hall,4,Big East,16,2,88.9,2nd,25,4,86.2,at-large,Y,2,1,RSF,27,5,84.4
+1994,SFA,8,Southland,16,2,88.9,1st,23,6,79.3,auto,Y,0,1,1st,23,7,76.7
+1994,SMU,13,Southwest,8,6,57.1,4th,18,8,69.2,at-large,N,0,1,1st,18,9,66.7
+1994,Southern California,2,Pacific-10,16,2,88.9,1st,23,3,88.5,auto,Y,3,1,RF,26,4,86.7
+1994,Southern Miss.,4,Metro,10,2,83.3,1st,24,4,85.7,at-large,Y,2,1,RSF,26,5,83.9
+1994,Stanford,2,Pacific-10,15,3,83.3,2nd,22,5,81.5,at-large,Y,3,1,RF,25,6,80.6
+1994,Tennessee,1,Southeastern,11,0,100,1st,29,1,96.7,auto,Y,2,1,RSF,31,2,93.9
+1994,Tennessee St.,13,Ohio Valley,13,3,81.3,1st,20,8,71.4,auto,N,0,1,1st,20,9,69
+1994,Texas,5,Southwest,10,4,71.4,3rd,21,8,72.4,auto,Y,1,1,2nd,22,9,71
+1994,Texas A&M,13,Southwest,11,3,78.6,2nd,21,7,75,at-large,Y,2,1,RSF,23,8,74.2
+1994,Texas Tech,2,Southwest,12,2,85.7,1st,26,4,86.7,at-large,Y,2,1,RSF,28,5,84.8
+1994,UAB,10,Great Midwest,12,0,100,1st,23,5,82.1,auto,N,0,1,1st,23,6,79.3
+1994,UConn,1,Big East,17,1,94.4,1st,27,2,93.1,auto,Y,3,1,RF,30,3,90.9
+1994,UNLV,10,Big West,14,4,77.8,T2nd,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1994,Vanderbilt,2,Southeastern,9,2,81.8,2nd,23,7,76.7,at-large,Y,2,1,RSF,25,8,75.8
+1994,Vermont,13,North Atlantic,9,5,64.3,3rd,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+1994,Virginia,3,Atlantic Coast,15,1,93.8,1st,25,4,86.2,at-large,Y,2,1,RSF,27,5,84.4
+1994,Virginia Tech,8,Metro,9,3,75,2nd,24,5,82.8,auto,Y,0,1,1st,24,6,80
+1994,Washington,8,Pacific-10,12,6,66.7,4th,20,7,74.1,at-large,Y,1,1,2nd,21,8,72.4
+1994,Western Ky.,12,Sun Belt,11,3,78.6,2nd,23,9,71.9,at-large,N,1,1,2nd,24,10,70.6\
+1995,Alabama,4,Southeastern,7,4,63.6,T4th,20,8,71.4,at-large,Y,2,1,RSF,22,9,71
+1995,Arkansas,6,Southeastern,7,4,63.6,T4th,22,6,78.6,at-large,N,1,1,2nd,23,7,76.7
+1995,Colorado,1,Big Eight,14,0,100,1st,27,2,93.1,auto,Y,3,1,RF,30,3,90.9
+1995,Dartmouth,14,Ivy,12,2,85.7,1st,16,10,61.5,auto,N,0,1,1st,16,11,59.3
+1995,DePaul,13,Great Midwest,9,3,75,T2nd,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1995,Drake,5,Missouri Valley,13,5,72.2,T2nd,24,5,82.8,auto,N,1,1,2nd,25,6,80.6
+1995,Duke,5,Atlantic Coast,10,6,62.5,4th,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+1995,FIU,9,Sun Belt,15,1,93.8,1st,26,4,86.7,auto,N,1,1,2nd,27,5,84.4
+1995,Florida,6,Southeastern,7,4,63.6,T4th,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+1995,Florida A&M,16,Mid-Eastern,14,2,87.5,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1995,Furman,15,Southern,10,4,71.4,T2nd,18,11,62.1,auto,N,0,1,1st,18,12,60
+1995,George Washington,4,Atlantic 10,14,2,87.5,1st,24,5,82.8,auto,N,2,1,RSF,26,6,81.3
+1995,Georgia,3,Southeastern,8,3,72.7,T2nd,24,4,85.7,at-large,Y,4,1,NSF,28,5,84.8
+1995,Holy Cross,16,Patriot,12,2,85.7,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+1995,Indiana,14,Big Ten,8,8,50,T5th,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+1995,Jackson St.,15,Southwestern,12,2,85.7,T1st,22,5,81.5,auto,N,0,1,1st,22,6,78.6
+1995,Kansas,7,Big Eight,8,6,57.1,3rd,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+1995,Louisiana Tech,2,Sun Belt,13,1,92.9,1st,26,4,86.7,at-large,Y,2,1,RSF,28,5,84.8
+1995,Louisville,11,Metro,7,5,58.3,T3rd,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+1995,Loyola (MD),10,Metro Atlantic,7,6,53.8,4th,20,8,71.4,auto,N,0,1,1st,20,9,69
+1995,Maine,16,North Atlantic,14,2,87.5,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1995,Marquette,10,Great Midwest,9,3,75,T2nd,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+1995,Memphis,8,Great Midwest,10,2,83.3,1st,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+1995,Missouri St.,9,Missouri Valley,14,4,77.8,1st,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+1995,Montana,12,Big Sky,12,2,85.7,1st,25,6,80.6,auto,N,1,1,2nd,26,7,78.8
+1995,Mt. St. Mary's,13,Northeast,17,1,94.4,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1995,NC State,7,Atlantic Coast,11,5,68.8,3rd,19,9,67.9,at-large,N,2,1,RSF,21,10,67.7
+1995,North Carolina,3,Atlantic Coast,12,4,75,2nd,28,4,87.5,auto,Y,2,1,RSF,30,5,85.7
+1995,Northern Ill.,16,Midwestern,10,6,62.5,T4th,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+1995,Ohio,14,Mid-American,15,3,83.3,T1st,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+1995,Oklahoma,7,Big Eight,11,3,78.6,2nd,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+1995,Oklahoma St.,12,Big Eight,7,7,50,4th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+1995,Old Dominion,8,Colonial,13,1,92.9,T1st,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+1995,Ole Miss,12,Southeastern,6,5,54.5,7th,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1995,Oregon,6,Pacific-10,11,7,61.1,4th,18,9,66.7,at-large,N,0,1,1st,18,10,64.3
+1995,Oregon St.,5,Pacific-10,12,6,66.7,3rd,20,7,74.1,at-large,N,1,1,2nd,21,8,72.4
+1995,Penn St.,2,Big Ten,13,3,81.3,T1st,25,4,86.2,auto,Y,1,1,2nd,26,5,83.9
+1995,Portland,13,West Coast,12,2,85.7,2nd,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+1995,Purdue,4,Big Ten,13,3,81.3,T1st,21,7,75,at-large,N,3,1,RF,24,8,75
+1995,Radford,11,Big South,10,6,62.5,3rd,15,14,51.7,auto,N,0,1,1st,15,15,50
+1995,Saint Joseph's,9,Atlantic 10,11,5,68.8,T3rd,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1995,San Diego St.,5,Western Athletic,14,0,100,1st,24,5,82.8,at-large,Y,0,1,1st,24,6,80
+1995,San Francisco,11,West Coast,13,1,92.9,1st,24,4,85.7,auto,N,0,1,1st,24,5,82.8
+1995,Seton Hall,6,Big East,12,6,66.7,3rd,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+1995,SFA,11,Southland,15,3,83.3,2nd,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1995,SMU,10,Southwest,9,5,64.3,T2nd,20,9,69,at-large,N,1,1,2nd,21,10,67.7
+1995,Southern California,9,Pacific-10,10,8,55.6,5th,18,9,66.7,at-large,N,0,1,1st,18,10,64.3
+1995,Southern Miss.,7,Metro,7,5,58.3,T3rd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1995,Stanford,2,Pacific-10,17,1,94.4,1st,26,2,92.9,auto,Y,4,1,NSF,30,3,90.9
+1995,Tennessee,1,Southeastern,11,0,100,1st,29,2,93.5,at-large,Y,5,1,N2nd,34,3,91.9
+1995,Tennessee St.,12,Ohio Valley,12,4,75,T1st,22,6,78.6,auto,N,0,1,1st,22,7,75.9
+1995,Texas Tech,2,Southwest,13,1,92.9,1st,30,3,90.9,auto,Y,3,1,RF,33,4,89.2
+1995,Toledo,13,Mid-American,15,3,83.3,T1st,24,6,80,auto,N,0,1,1st,24,7,77.4
+1995,Tulane,15,Metro,9,3,75,2nd,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+1995,UC Irvine,15,Big West,12,6,66.7,3rd,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+1995,UConn,1,Big East,18,0,100,1st,29,0,100,auto,Y,6,0,Champ,35,0,100
+1995,Utah,8,Western Athletic,12,2,85.7,2nd,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1995,Vanderbilt,1,Southeastern,8,3,72.7,T2nd,26,6,81.3,auto,Y,2,1,RSF,28,7,80
+1995,Virginia,3,Atlantic Coast,16,0,100,1st,24,4,85.7,at-large,Y,3,1,RF,27,5,84.4
+1995,Virginia Tech,8,Metro,10,2,83.3,1st,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+1995,Washington,3,Pacific-10,13,5,72.2,2nd,23,8,74.2,at-large,Y,2,1,RSF,25,9,73.5
+1995,Western Ill.,14,Mid-Continent,14,4,77.8,T1st,17,11,60.7,auto,N,0,1,1st,17,12,58.6
+1995,Western Ky.,4,Sun Belt,12,2,85.7,2nd,26,3,89.7,auto,Y,2,1,RSF,28,4,87.5
+1995,Wisconsin,10,Big Ten,11,5,68.8,3rd,19,8,70.4,at-large,N,1,1,2nd,20,9,69
+1996,Alabama,4,Southeastern,7,4,63.6,T3rd,22,7,75.9,at-large,Y,2,1,RSF,24,8,75
+1996,Appalachian St.,13,Southern,14,0,100,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1996,Auburn,6,Southeastern,6,5,54.5,T5th,20,8,71.4,at-large,N,3,1,RF,23,9,71.9
+1996,Austin Peay,14,Ohio Valley,13,3,81.3,T1st,21,7,75,auto,N,0,1,1st,21,8,72.4
+1996,Butler,15,Midwestern,13,3,81.3,T2nd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1996,Clemson,3,Atlantic Coast,9,7,56.3,4th,22,7,75.9,auto,Y,1,1,2nd,23,8,74.2
+1996,Colorado,3,Big Eight,9,5,64.3,2nd,25,8,75.8,auto,Y,1,1,2nd,26,9,74.3
+1996,Colorado St.,8,Western Athletic,12,2,85.7,T1st,25,4,86.2,auto,N,1,1,2nd,26,5,83.9
+1996,DePaul,7,Conference USA,13,1,92.9,1st-B,20,9,69,at-large,N,1,1,2nd,21,10,67.7
+1996,Duke,4,Atlantic Coast,12,4,75,2nd,25,6,80.6,at-large,Y,1,1,2nd,26,7,78.8
+1996,Florida,5,Southeastern,6,5,54.5,T5th,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1996,George Washington,6,Atlantic 10,14,2,87.5,1st-W,25,6,80.6,at-large,N,1,1,2nd,26,7,78.8
+1996,Georgia,2,Southeastern,10,1,90.9,1st,23,4,85.2,at-large,Y,5,1,N2nd,28,5,84.8
+1996,Grambling,16,Southwestern,13,1,92.9,1st,21,6,77.8,auto,N,0,1,1st,21,7,75
+1996,Harvard,14,Ivy,13,1,92.9,1st,20,6,76.9,auto,N,0,1,1st,20,7,74.1
+1996,Hawaii,11,Big West,15,3,83.3,2nd,23,5,82.1,auto,N,0,1,1st,23,6,79.3
+1996,Holy Cross,15,Patriot,9,3,75,2nd,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+1996,Howard,16,Mid-Eastern,13,3,81.3,2nd,20,9,69,auto,N,0,1,1st,20,10,66.7
+1996,Iowa,2,Big Ten,15,1,93.8,1st,25,3,89.3,at-large,Y,2,1,RSF,27,4,87.1
+1996,James Madison,13,Colonial,12,4,75,2nd,21,8,72.4,at-large,N,0,1,1st,21,9,70
+1996,Kansas,4,Big Eight,11,3,78.6,1st,20,9,69,at-large,Y,2,1,RSF,22,10,68.8
+1996,Kent St.,10,Mid-American,16,2,88.9,1st,23,6,79.3,at-large,N,1,1,2nd,24,7,77.4
+1996,Louisiana Tech,1,Sun Belt,14,0,100,1st,28,1,96.6,auto,Y,3,1,RF,31,2,93.9
+1996,Maine,11,North Atlantic,18,0,100,1st,27,4,87.1,auto,N,0,1,1st,27,5,84.4
+1996,Manhattan,14,Metro Atlantic,11,3,78.6,2nd,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+1996,Massachusetts,8,Atlantic 10,11,5,68.8,2nd-E,20,9,69,at-large,N,0,1,1st,20,10,66.7
+1996,Memphis,8,Conference USA,10,4,71.4,1st-W,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+1996,Michigan St.,9,Big Ten,9,7,56.3,5th,17,10,63,at-large,N,1,1,2nd,18,11,62.1
+1996,Middle Tenn.,13,Ohio Valley,13,3,81.3,T1st,24,5,82.8,at-large,N,0,1,1st,24,6,80
+1996,Missouri St.,12,Missouri Valley,16,2,88.9,1st,25,4,86.2,auto,N,0,1,1st,25,5,83.3
+1996,Montana,12,Big Sky,13,1,92.9,1st,24,4,85.7,auto,N,0,1,1st,24,5,82.8
+1996,NC State,5,Atlantic Coast,10,6,62.5,3rd,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+1996,Nebraska,9,Big Eight,8,6,57.1,T3rd,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+1996,Notre Dame,12,Big East,15,3,83.3,2nd-6,22,7,75.9,at-large,N,1,1,2nd,23,8,74.2
+1996,Ohio St.,9,Big Ten,8,8,50,T6th,20,12,62.5,at-large,N,1,1,2nd,21,13,61.8
+1996,Oklahoma St.,7,Big Eight,8,6,57.1,T3rd,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+1996,Old Dominion,2,Colonial,16,0,100,1st,27,2,93.1,auto,Y,2,1,RSF,29,3,90.6
+1996,Ole Miss,7,Southeastern,6,5,54.5,T5th,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+1996,Oregon,11,Pacific-10,10,8,55.6,T3rd,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+1996,Oregon St.,6,Pacific-10,11,7,61.1,2nd,19,10,65.5,at-large,N,0,1,1st,19,11,63.3
+1996,Penn St.,2,Big Ten,13,3,81.3,2nd,25,6,80.6,auto,Y,2,1,RSF,27,7,79.4
+1996,Portland,13,West Coast,12,2,85.7,T1st,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+1996,Purdue,5,Big Ten,11,5,68.8,4th,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+1996,Radford,16,Big South,10,4,71.4,2nd,17,11,60.7,auto,N,0,1,1st,17,12,58.6
+1996,Rhode Island,10,Atlantic 10,13,3,81.3,1st-E,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1996,San Francisco,12,West Coast,12,2,85.7,T1st,22,7,75.9,auto,N,2,1,RSF,24,8,75
+1996,SFA,11,Southland,18,0,100,1st,25,3,89.3,auto,N,2,1,RSF,27,4,87.1
+1996,SMU,10,Southwest,9,5,64.3,3rd,19,10,65.5,at-large,N,0,1,1st,19,11,63.3
+1996,Southern Miss.,9,Conference USA,11,3,78.6,1st-R,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+1996,St. Francis (PA),15,Northeast,13,5,72.2,2nd,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+1996,Stanford,1,Pacific-10,18,0,100,1st,25,2,92.6,auto,Y,4,1,NSF,29,3,90.6
+1996,Tennessee,1,Southeastern,9,2,81.8,2nd,26,4,86.7,auto,Y,6,0,Champ,32,4,88.9
+1996,Texas,5,Southwest,13,1,92.9,T1st,20,8,71.4,at-large,N,1,1,2nd,21,9,70
+1996,Texas A&M,7,Southwest,8,6,57.1,4th,20,11,64.5,auto,N,0,1,1st,20,12,62.5
+1996,Texas Tech,4,Southwest,13,1,92.9,T1st,25,4,86.2,at-large,Y,2,1,RSF,27,5,84.4
+1996,Toledo,10,Mid-American,15,3,83.3,2nd,24,5,82.8,auto,N,1,1,2nd,25,6,80.6
+1996,Tulane,14,Conference USA,9,5,64.3,T2nd-W,21,9,70,at-large,N,0,1,1st,21,10,67.7
+1996,UCF,16,Trans-America,7,8,46.7,6th,15,13,53.6,auto,N,0,1,1st,15,14,51.7
+1996,UConn,1,Big East,17,1,94.4,1st-6,30,3,90.9,auto,Y,4,1,NSF,34,4,89.5
+1996,Utah,8,Western Athletic,12,2,85.7,T1st,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1996,Vanderbilt,3,Southeastern,7,4,63.6,T3rd,20,7,74.1,at-large,Y,3,1,RF,23,8,74.2
+1996,Virginia,3,Atlantic Coast,13,3,81.3,1st,23,6,79.3,at-large,Y,3,1,RF,26,7,78.8
+1996,Wisconsin,6,Big Ten,12,4,75,3rd,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+1996,Youngstown St.,15,Mid-Continent,14,4,77.8,1st,20,8,71.4,auto,N,0,1,1st,20,9,69
+1997,Alabama,2,Southeastern,10,2,83.3,2nd,23,6,79.3,at-large,Y,2,1,RSF,25,7,78.1
+1997,Arizona,7,Pacific-10,12,6,66.7,T4th,22,7,75.9,at-large,N,1,1,2nd,23,8,74.2
+1997,Auburn,7,Southeastern,5,7,41.7,T7th,21,9,70,auto,N,1,1,2nd,22,10,68.8
+1997,Clemson,5,Atlantic Coast,8,8,50,6th,19,10,65.5,at-large,N,0,1,1st,19,11,63.3
+1997,Colorado,2,Big 12,12,4,75,T2nd,21,8,72.4,auto,Y,2,1,RSF,23,9,71.9
+1997,DePaul,12,Conference USA,10,4,71.4,T1st-B,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1997,Detroit Mercy,14,Midwestern,14,2,87.5,1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1997,Drake,13,Missouri Valley,14,4,77.8,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+1997,Duke,5,Atlantic Coast,9,7,56.3,T3rd,18,10,64.3,at-large,N,1,1,2nd,19,11,63.3
+1997,Eastern Ky.,15,Ohio Valley,16,2,88.9,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1997,FIU,14,Trans America,12,4,75,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+1997,Florida,3,Southeastern,9,3,75,T3rd,21,8,72.4,at-large,Y,3,1,RF,24,9,72.7
+1997,George Washington,5,Atlantic 10,16,0,100,1st-W,25,5,83.3,at-large,Y,3,1,RF,28,6,82.4
+1997,Georgia,2,Southeastern,11,1,91.7,1st,22,5,81.5,at-large,Y,3,1,RF,25,6,80.6
+1997,Grambling,14,Southwestern,14,0,100,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1997,Harvard,16,Ivy,14,0,100,1st,20,6,76.9,auto,N,0,1,1st,20,7,74.1
+1997,Howard,16,Mid-Eastern,18,0,100,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1997,Illinois,4,Big Ten,12,4,75,T1st,22,7,75.9,at-large,Y,2,1,RSF,24,8,75
+1997,Iowa,9,Big Ten,9,7,56.3,T4th,17,11,60.7,auto,N,1,1,2nd,18,12,60
+1997,Iowa St.,12,Big 12,9,7,56.3,T5th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+1997,Kansas,3,Big 12,14,2,87.5,1st,24,5,82.8,at-large,Y,1,1,2nd,25,6,80.6
+1997,Kansas St.,10,Big 12,9,7,56.3,T5th,19,11,63.3,at-large,N,0,1,1st,19,12,61.3
+1997,Lehigh,16,Patriot,7,5,58.3,3rd,15,14,51.7,auto,N,0,1,1st,15,15,50
+1997,Liberty,16,Big South,9,5,64.3,2nd,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1997,Louisiana Tech,2,Sun Belt,12,2,85.7,T1st,29,3,90.6,auto,Y,2,1,RSF,31,4,88.6
+1997,Louisville,10,Conference USA,12,2,85.7,T1st-W,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1997,LSU,4,Southeastern,9,3,75,T3rd,23,4,85.2,at-large,Y,2,1,RSF,25,5,83.3
+1997,Maine,13,America East,17,1,94.4,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1997,Marquette,12,Conference USA,10,4,71.4,T1st-B,20,9,69,at-large,N,1,1,2nd,21,10,67.7
+1997,Marshall,15,Southern,9,5,64.3,2nd,18,11,62.1,auto,N,0,1,1st,18,12,60
+1997,Maryland,9,Atlantic Coast,9,7,56.3,T3rd,18,9,66.7,at-large,N,0,1,1st,18,10,64.3
+1997,Memphis,11,Conference USA,12,2,85.7,T1st-W,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+1997,Michigan St.,8,Big Ten,12,4,75,T1st,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+1997,Montana,9,Big Sky,16,0,100,1st,25,3,89.3,auto,N,0,1,1st,25,4,86.2
+1997,NC State,8,Atlantic Coast,9,7,56.3,T3rd,19,11,63.3,at-large,N,0,1,1st,19,12,61.3
+1997,North Carolina,1,Atlantic Coast,15,1,93.8,1st,27,2,93.1,auto,Y,2,1,RSF,29,3,90.6
+1997,Northwestern,12,Big Ten,9,7,56.3,T4th,17,10,63,at-large,N,0,1,1st,17,11,60.7
+1997,Notre Dame,6,Big East,17,1,94.4,2nd-6,27,6,81.8,at-large,N,4,1,NSF,31,7,81.6
+1997,Old Dominion,1,Colonial,16,0,100,1st,29,1,96.7,auto,Y,5,1,N2nd,34,2,94.4
+1997,Oregon,6,Pacific-10,14,4,77.8,2nd,21,6,77.8,at-large,N,1,1,2nd,22,7,75.9
+1997,Portland,9,West Coast,14,0,100,1st,27,2,93.1,at-large,N,0,1,1st,27,3,90
+1997,Purdue,8,Big Ten,12,4,75,T1st,16,10,61.5,at-large,N,1,1,2nd,17,11,60.7
+1997,Saint Joseph's,7,Atlantic 10,15,1,93.8,1st-E,25,4,86.2,auto,N,1,1,2nd,26,5,83.9
+1997,Saint Peter's,15,Metro Atlantic,14,0,100,1st,25,3,89.3,auto,N,0,1,1st,25,4,86.2
+1997,San Diego St.,11,Western Athletic,15,1,93.8,1st-P,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1997,San Francisco,11,West Coast,11,3,78.6,2nd,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+1997,SFA,7,Southland,16,0,100,1st,27,4,87.1,at-large,N,1,1,2nd,28,5,84.8
+1997,Southern California,6,Pacific-10,13,5,72.2,3rd,18,9,66.7,at-large,N,1,1,2nd,19,10,65.5
+1997,St. Francis (PA),15,Northeast,16,2,88.9,1st,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+1997,Stanford,1,Pacific-10,18,0,100,1st,30,1,96.8,auto,Y,4,1,NSF,34,2,94.4
+1997,Tennessee,3,Southeastern,8,4,66.7,5th,23,10,69.7,at-large,Y,6,0,Champ,29,10,74.4
+1997,Texas,3,Big 12,12,4,75,T2nd,21,7,75,at-large,Y,1,1,2nd,22,8,73.3
+1997,Texas St.,14,Southland,11,5,68.8,T2nd,17,11,60.7,auto,N,0,1,1st,17,12,58.6
+1997,Texas Tech,8,Big 12,11,5,68.8,4th,19,8,70.4,at-large,N,1,1,2nd,20,9,69
+1997,Toledo,10,Mid-American,16,2,88.9,1st,27,3,90,auto,N,0,1,1st,27,4,87.1
+1997,Troy,13,Mid-Continent,13,3,81.3,T1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1997,Tulane,4,Conference USA,12,2,85.7,1st-R,26,4,86.7,auto,N,1,1,2nd,27,5,84.4
+1997,UC Santa Barbara,13,Big West,14,1,93.3,1st-W,24,5,82.8,auto,N,0,1,1st,24,6,80
+1997,UConn,1,Big East,18,0,100,1st-6,30,0,100,auto,Y,3,1,RF,33,1,97.1
+1997,Utah,5,Western Athletic,15,1,93.8,1st-M,24,5,82.8,at-large,N,1,1,2nd,25,6,80.6
+1997,Vanderbilt,6,Southeastern,6,6,50,6th,18,10,64.3,at-large,N,2,1,RSF,20,11,64.5
+1997,Virginia,4,Atlantic Coast,12,4,75,2nd,21,7,75,at-large,Y,2,1,RSF,23,8,74.2
+1997,Washington,11,Pacific-10,12,6,66.7,T4th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+1997,Western Ky.,10,Sun Belt,12,2,85.7,T1st,22,8,73.3,at-large,N,0,1,1st,22,9,71
+1998,Alabama,2,Southeastern,10,4,71.4,T2nd,22,9,71,at-large,Y,2,1,RSF,24,10,70.6
+1998,Arizona,3,Pacific-10,14,4,77.8,T2nd,21,6,77.8,at-large,Y,2,1,RSF,23,7,76.7
+1998,Arkansas,9,Southeastern,7,7,50,T6th,18,10,64.3,at-large,N,4,1,NSF,22,11,66.7
+1998,Clemson,6,Atlantic Coast,12,4,75,T2nd,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+1998,Colorado St.,12,Western Athletic,11,3,78.6,T1st-M,23,5,82.1,at-large,N,1,1,2nd,24,6,80
+1998,Drake,5,Missouri Valley,17,1,94.4,1st,25,4,86.2,auto,N,0,1,1st,25,5,83.3
+1998,Duke,2,Atlantic Coast,13,3,81.3,1st,21,7,75,at-large,Y,3,1,RF,24,8,75
+1998,Fairfield,15,Metro Atlantic,14,4,77.8,2nd,20,9,69,auto,N,0,1,1st,20,10,66.7
+1998,FIU,7,Trans America,15,1,93.8,1st,28,1,96.6,auto,N,1,1,2nd,29,2,93.5
+1998,Florida,3,Southeastern,10,4,71.4,T2nd,21,8,72.4,at-large,Y,2,1,RSF,23,9,71.9
+1998,George Washington,10,Atlantic 10,12,4,75,1st-W,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+1998,Georgia,7,Southeastern,8,6,57.1,5th,17,10,63,at-large,N,0,1,1st,17,11,60.7
+1998,Grambling,16,Southwestern,14,2,87.5,1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1998,Green Bay,14,Horizon,11,3,78.6,2nd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1998,Harvard,16,Ivy,12,2,85.7,1st,22,4,84.6,auto,N,1,1,2nd,23,5,82.1
+1998,Hawaii,8,Western Athletic,13,1,92.9,1st-P,24,3,88.9,at-large,N,0,1,1st,24,4,85.7
+1998,Holy Cross,14,Patriot,10,2,83.3,T1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+1998,Howard,15,Mid-Eastern,16,2,88.9,T1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1998,Illinois,3,Big Ten,12,4,75,2nd,18,9,66.7,at-large,Y,2,1,RSF,20,10,66.7
+1998,Iowa,4,Big Ten,13,3,81.3,1st,17,10,63,at-large,Y,1,1,2nd,18,11,62.1
+1998,Iowa St.,4,Big 12,12,4,75,2nd,24,7,77.4,at-large,Y,1,1,2nd,25,8,75.8
+1998,Kansas,5,Big 12,11,5,68.8,T3rd,21,8,72.4,at-large,N,2,1,RSF,23,9,71.9
+1998,Kent St.,13,Mid-American,18,0,100,1st-E,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+1998,Liberty,16,Big South,12,0,100,1st,28,0,100,auto,N,0,1,1st,28,1,96.6
+1998,Louisiana Tech,3,Sun Belt,13,1,92.9,1st,26,3,89.7,auto,Y,5,1,N2nd,31,4,88.6
+1998,Louisville,10,Conference USA,12,4,75,2nd-A,19,11,63.3,at-large,N,1,1,2nd,20,12,62.5
+1998,Maine,13,America East,13,5,72.2,2nd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1998,Marquette,10,Conference USA,13,3,81.3,1st-A,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+1998,Massachusetts,13,Atlantic 10,11,5,68.8,1st-E,19,10,65.5,at-large,N,0,1,1st,19,11,63.3
+1998,Memphis,5,Conference USA,14,2,87.5,1st-N,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1998,Miami (FL),11,Big East,13,5,72.2,2nd-7,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+1998,Michigan,10,Big Ten,10,6,62.5,T3rd,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+1998,Middle Tenn.,15,Ohio Valley,11,7,61.1,4th,18,11,62.1,auto,N,0,1,1st,18,12,60
+1998,Missouri St.,8,Missouri Valley,14,4,77.8,2nd,24,5,82.8,at-large,N,0,1,1st,24,6,80
+1998,Montana,14,Big Sky,15,1,93.8,T1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+1998,NC State,4,Atlantic Coast,12,4,75,T2nd,21,6,77.8,at-large,Y,4,1,NSF,25,7,78.1
+1998,Nebraska,9,Big 12,11,5,68.8,T3rd,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+1998,New Mexico,8,Western Athletic,10,4,71.4,T3rd-M,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+1998,North Carolina,2,Atlantic Coast,11,5,68.8,4th,24,6,80,auto,Y,3,1,RF,27,7,79.4
+1998,Notre Dame,9,Big East,12,6,66.7,T2nd-6,20,9,69,at-large,N,2,1,RSF,22,10,68.8
+1998,Old Dominion,1,Colonial,16,0,100,1st,27,2,93.1,auto,Y,2,1,RSF,29,3,90.6
+1998,Oregon,12,Pacific-10,13,5,72.2,4th,17,9,65.4,at-large,N,0,1,1st,17,10,63
+1998,Purdue,4,Big Ten,10,6,62.5,T3rd,20,9,69,auto,Y,3,1,RF,23,10,69.7
+1998,Rutgers,5,Big East,14,4,77.8,1st-7,20,9,69,at-large,N,2,1,RSF,22,10,68.8
+1998,Saint Francis (PA),16,Northeast,14,2,87.5,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1998,Santa Clara,14,West Coast,11,3,78.6,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+1998,SFA,9,Southland,15,1,93.8,1st,25,3,89.3,auto,N,0,1,1st,25,4,86.2
+1998,SMU,11,Western Athletic,11,3,78.6,T2nd-P,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1998,Stanford,1,Pacific-10,17,1,94.4,1st,21,5,80.8,auto,Y,0,1,1st,21,6,77.8
+1998,Tennessee,1,Southeastern,14,0,100,1st,33,10,76.7,auto,Y,6,0,Champ,39,10,79.6
+1998,Texas Tech,1,Big 12,15,1,93.8,1st,25,4,86.2,auto,Y,1,1,2nd,26,5,83.9
+1998,Tulane,12,Conference USA,12,4,75,2nd-N,21,6,77.8,at-large,N,0,1,1st,21,7,75
+1998,UC Santa Barbara,11,Big West,14,1,93.3,1st-W,26,5,83.9,auto,N,1,1,2nd,27,6,81.8
+1998,UCLA,7,Pacific-10,14,4,77.8,T2nd,19,8,70.4,at-large,N,1,1,2nd,20,9,69
+1998,UConn,2,Big East,17,1,94.4,1st-6,31,2,93.9,auto,Y,3,1,RF,34,3,91.9
+1998,UNC Greensboro,15,Southern,12,4,75,T2nd,21,8,72.4,auto,N,0,1,1st,21,9,70
+1998,Utah,7,Western Athletic,11,3,78.6,T1st-M,21,5,80.8,at-large,N,0,1,1st,21,6,77.8
+1998,Vanderbilt,6,Southeastern,9,5,64.3,4th,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1998,Virginia,6,Atlantic Coast,9,7,56.3,5th,18,9,66.7,at-large,N,1,1,2nd,19,10,65.5
+1998,Virginia Tech,11,Atlantic 10,11,5,68.8,2nd-W,21,9,70,auto,N,1,1,2nd,22,10,68.8
+1998,Washington,13,Pacific-10,9,9,50,5th,18,9,66.7,at-large,N,0,1,1st,18,10,64.3
+1998,Western Ky.,8,Sun Belt,12,2,85.7,2nd,25,8,75.8,at-large,N,1,1,2nd,26,9,74.3
+1998,Wisconsin,6,Big Ten,9,7,56.3,6th,21,9,70,at-large,N,0,1,1st,21,10,67.7
+1998,Youngstown St.,12,Mid-Continent,15,1,93.8,1st,27,2,93.1,auto,N,1,1,2nd,28,3,90.3
+1999,Alabama,5,Southeastern,7,7,50,T5th,19,10,65.5,at-large,N,1,1,2nd,20,11,64.5
+1999,Appalachian St.,16,Southern,7,10,41.2,8th,14,14,50,auto,N,0,1,1st,14,15,48.3
+1999,Arizona,6,Pacific-10,12,6,66.7,4th,17,10,63,at-large,N,1,1,2nd,18,11,62.1
+1999,Auburn,5,Southeastern,8,6,57.1,4th,19,8,70.4,at-large,N,1,1,2nd,20,9,69
+1999,Boston College,8,Big East,12,6,66.7,4th,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+1999,Cincinnati,12,Conference USA,12,4,75,T1st-A,22,8,73.3,at-large,N,0,1,1st,22,9,71
+1999,Clemson,2,Atlantic Coast,11,5,68.8,T3rd,24,5,82.8,auto,Y,2,1,RSF,26,6,81.3
+1999,Colorado St.,2,Mountain West,14,0,100,1st-M,31,2,93.9,auto,Y,2,1,RSF,33,3,91.7
+1999,CSUN,15,Big Sky,13,3,81.3,1st,21,7,75,auto,N,0,1,1st,21,8,72.4
+1999,Dartmouth,14,Ivy,11,3,78.6,T1st,19,8,70.4,auto,N,0,1,1st,19,9,67.9
+1999,Duke,3,Atlantic Coast,15,1,93.8,1st,24,6,80,at-large,Y,5,1,N2nd,29,7,80.6
+1999,Evansville,13,Missouri Valley,11,7,61.1,4th,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+1999,FIU,9,Sun Belt,9,3,75,2nd,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+1999,Florida,11,Southeastern,6,8,42.9,T8th,19,13,59.4,at-large,N,0,1,1st,19,14,57.6
+1999,Florida A&M,15,Mid-Eastern,14,4,77.8,T1st,18,11,62.1,auto,N,0,1,1st,18,12,60
+1999,Georgia,3,Southeastern,9,5,64.3,3rd,23,6,79.3,at-large,Y,4,1,NSF,27,7,79.4
+1999,Grambling,12,Southwestern,16,0,100,1st,25,4,86.2,auto,N,0,1,1st,25,5,83.3
+1999,Green Bay,14,Midwestern,13,1,92.9,1st,19,9,67.9,auto,N,0,1,1st,19,10,65.5
+1999,Holy Cross,14,Patriot,11,1,91.7,1st,21,7,75,auto,N,0,1,1st,21,8,72.4
+1999,Illinois,7,Big Ten,10,6,62.5,3rd,18,11,62.1,at-large,N,1,1,2nd,19,12,61.3
+1999,Iowa St.,4,Big 12,12,4,75,2nd,22,7,75.9,at-large,Y,3,1,RF,25,8,75.8
+1999,Kansas,9,Big 12,11,5,68.8,3rd,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+1999,Kentucky,6,Southeastern,7,7,50,T5th,20,10,66.7,at-large,N,1,1,2nd,21,11,65.6
+1999,Liberty,14,Big South,9,1,90,1st,21,7,75,auto,N,0,1,1st,21,8,72.4
+1999,Louisiana Tech,1,Sun Belt,12,0,100,1st,26,2,92.9,auto,Y,4,1,NSF,30,3,90.9
+1999,Louisville,10,Conference USA,12,4,75,T1st-A,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+1999,LSU,4,Southeastern,10,4,71.4,2nd,20,7,74.1,at-large,Y,2,1,RSF,22,8,73.3
+1999,Maine,10,America East,17,1,94.4,1st,23,6,79.3,at-large,N,1,1,2nd,24,7,77.4
+1999,Marquette,8,Conference USA,12,4,75,T1st-A,21,7,75,at-large,N,0,1,1st,21,8,72.4
+1999,Mississippi St.,7,Southeastern,7,7,50,T5th,17,10,63,at-large,N,0,1,1st,17,11,60.7
+1999,Missouri St.,7,Missouri Valley,15,3,83.3,1st,24,6,80,at-large,N,1,1,2nd,25,7,78.1
+1999,NC State,10,Atlantic Coast,9,7,56.3,5th,16,11,59.3,at-large,N,1,1,2nd,17,12,58.6
+1999,Nebraska,11,Big 12,8,8,50,T5th,21,11,65.6,at-large,N,0,1,1st,21,12,63.6
+1999,North Carolina,4,Atlantic Coast,11,5,68.8,T3rd,26,7,78.8,at-large,Y,2,1,RSF,28,8,77.8
+1999,Northeastern,13,America East,13,5,72.2,T2nd,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+1999,Notre Dame,5,Big East,15,3,83.3,3rd,25,4,86.2,at-large,N,1,1,2nd,26,5,83.9
+1999,Ohio St.,9,Big Ten,9,7,56.3,T4th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+1999,Old Dominion,2,Colonial,16,0,100,1st,26,3,89.7,auto,Y,2,1,RSF,28,4,87.5
+1999,Oral Roberts,16,Mid-Continent,8,6,57.1,T3rd,17,12,58.6,auto,N,0,1,1st,17,13,56.7
+1999,Oregon,5,Pacific-10,15,3,83.3,T1st,24,5,82.8,at-large,N,1,1,2nd,25,6,80.6
+1999,Penn St.,8,Big Ten,12,4,75,2nd,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+1999,Purdue,1,Big Ten,16,0,100,1st,28,1,96.6,auto,Y,6,0,Champ,34,1,97.1
+1999,Rutgers,3,Big East,17,1,94.4,T1st,26,5,83.9,at-large,Y,3,1,RF,29,6,82.9
+1999,Saint Francis (PA),16,Northeast,14,6,70,2nd,18,11,62.1,auto,N,0,1,1st,18,12,60
+1999,Saint Joseph's,11,Atlantic 10,14,2,87.5,1st-E,29,7,80.6,auto,N,1,1,2nd,30,8,78.9
+1999,Saint Peter's,13,Metro Atlantic,15,3,83.3,2nd,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+1999,Santa Clara,13,West Coast,11,3,78.6,T1st,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+1999,SFA,15,Southland,12,6,66.7,T2nd,17,11,60.7,auto,N,0,1,1st,17,12,58.6
+1999,SMU,11,Western Athletic,11,3,78.6,2nd-M,19,10,65.5,auto,N,1,1,2nd,20,11,64.5
+1999,St. Mary's (CA),12,West Coast,10,4,71.4,3rd,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+1999,Stanford,7,Pacific-10,14,4,77.8,3rd,18,11,62.1,at-large,N,0,1,1st,18,12,60
+1999,Tennessee,1,Southeastern,13,1,92.9,1st,28,3,90.3,auto,Y,3,1,RF,31,4,88.6
+1999,Tennessee Tech,15,Ohio Valley,14,4,77.8,T1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+1999,Texas,12,Big 12,10,6,62.5,4th,16,11,59.3,at-large,N,0,1,1st,16,12,57.1
+1999,Texas Tech,2,Big 12,14,2,87.5,1st,28,3,90.3,auto,Y,2,1,RSF,30,4,88.2
+1999,Toledo,6,Mid-American,14,2,87.5,T1st-W,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+1999,Tulane,6,Conference USA,12,4,75,1st-N,24,5,82.8,auto,N,0,1,1st,24,6,80
+1999,UC Santa Barbara,10,Big West,15,0,100,1st-W,26,3,89.7,auto,N,0,1,1st,26,4,86.7
+1999,UCF,16,Trans America,13,3,81.3,1st,20,9,69,auto,N,0,1,1st,20,10,66.7
+1999,UCLA,3,Pacific-10,15,3,83.3,T1st,23,7,76.7,auto,Y,3,1,RF,26,8,76.5
+1999,UConn,1,Big East,17,1,94.4,T1st,27,4,87.1,auto,Y,2,1,RSF,29,5,85.3
+1999,Virginia,9,Atlantic Coast,12,4,75,2nd,20,8,71.4,at-large,N,0,1,1st,20,9,69
+1999,Virginia Tech,4,Atlantic 10,15,1,93.8,1st-W,26,2,92.9,at-large,Y,2,1,RSF,28,3,90.3
+1999,Xavier,8,Atlantic 10,11,5,68.8,3rd-W,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+2000,Alcorn St.,16,Southwestern,15,3,83.3,2nd,22,8,73.3,auto,N,0,1,1st,22,9,71
+2000,Arizona,8,Pacific-10,13,5,72.2,T2nd,24,6,80,at-large,N,1,1,2nd,25,7,78.1
+2000,Auburn,7,Southeastern,9,5,64.3,4th,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+2000,Boston College,5,Big East,12,4,75,T3rd,25,8,75.8,at-large,N,1,1,2nd,26,9,74.3
+2000,BYU,12,Mountain West,10,4,71.4,2nd,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2000,Campbell,15,Trans America,14,4,77.8,2nd,22,8,73.3,auto,N,0,1,1st,22,9,71
+2000,Clemson,9,Atlantic Coast,9,7,56.3,4th,18,11,62.1,at-large,N,1,1,2nd,19,12,61.3
+2000,Dartmouth,13,Ivy,12,2,85.7,1st,20,7,74.1,auto,N,0,1,1st,20,8,71.4
+2000,Drake,8,Missouri Valley,15,3,83.3,1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+2000,Duke,2,Atlantic Coast,12,4,75,2nd,26,5,83.9,auto,Y,2,1,RSF,28,6,82.4
+2000,Furman,16,Southern,13,5,72.2,2nd,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2000,George Washington,7,Atlantic 10,14,2,87.5,1st-W,25,5,83.3,at-large,N,1,1,2nd,26,6,81.3
+2000,Georgia,1,Southeastern,13,1,92.9,T1st,29,3,90.6,at-large,Y,3,1,RF,32,4,88.9
+2000,Green Bay,13,Horizon,12,2,85.7,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+2000,Hampton,16,Mid-Eastern,11,7,61.1,T4th,16,14,53.3,auto,N,0,1,1st,16,15,51.6
+2000,Holy Cross,15,Patriot,11,1,91.7,1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+2000,Illinois,6,Big Ten,11,5,68.8,T3rd,22,10,68.8,at-large,N,1,1,2nd,23,11,67.6
+2000,Iowa St.,3,Big 12,13,3,81.3,T1st,25,5,83.3,auto,Y,2,1,RSF,27,6,81.8
+2000,Kansas,8,Big 12,11,5,68.8,4th,20,9,69,at-large,N,0,1,1st,20,10,66.7
+2000,Kent St.,9,Mid-American,15,1,93.8,1st-E,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+2000,Liberty,14,Big South,12,2,85.7,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2000,Louisiana Tech,1,Sun Belt,16,0,100,1st,28,2,93.3,auto,Y,3,1,RF,31,3,91.2
+2000,LSU,3,Southeastern,11,3,78.6,3rd,22,6,78.6,at-large,Y,3,1,RF,25,7,78.1
+2000,Maine,12,America East,14,4,77.8,2nd,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+2000,Marquette,7,Conference USA,14,2,87.5,1st-A,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+2000,Michigan,8,Big Ten,13,3,81.3,2nd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+2000,Mississippi St.,3,Southeastern,8,6,57.1,5th,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2000,Missouri St.,10,Missouri Valley,14,4,77.8,T2nd,23,8,74.2,at-large,N,0,1,1st,23,9,71.9
+2000,Montana,16,Big Sky,13,3,81.3,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+2000,NC State,5,Atlantic Coast,11,5,68.8,3rd,20,8,71.4,at-large,N,0,1,1st,20,9,69
+2000,Nebraska,12,Big 12,10,6,62.5,5th,18,12,60,at-large,N,0,1,1st,18,13,58.1
+2000,North Carolina,5,Atlantic Coast,8,8,50,5th,18,12,60,at-large,N,2,1,RSF,20,13,60.6
+2000,Notre Dame,2,Big East,15,1,93.8,2nd,25,4,86.2,at-large,Y,2,1,RSF,27,5,84.4
+2000,Oklahoma,5,Big 12,13,3,81.3,T1st,23,7,76.7,at-large,N,2,1,RSF,25,8,75.8
+2000,Old Dominion,4,Colonial,16,0,100,1st,21,8,72.4,auto,Y,2,1,RSF,23,9,71.9
+2000,Oregon,6,Pacific-10,14,4,77.8,1st,23,7,76.7,auto,Y,0,1,1st,23,8,74.2
+2000,Penn St.,2,Big Ten,15,1,93.8,1st,26,4,86.7,at-large,Y,4,1,NSF,30,5,85.7
+2000,Pepperdine,13,West Coast,12,2,85.7,1st,21,9,70,at-large,N,0,1,1st,21,10,67.7
+2000,Purdue,4,Big Ten,11,5,68.8,T3rd,22,7,75.9,auto,Y,1,1,2nd,23,8,74.2
+2000,Rice,13,Western Athletic,10,4,71.4,3rd,21,9,70,auto,N,1,1,2nd,22,10,68.8
+2000,Rutgers,2,Big East,12,4,75,T3rd,22,7,75.9,at-large,Y,4,1,NSF,26,8,76.5
+2000,Saint Francis (PA),14,Northeast,15,3,83.3,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2000,Saint Joseph's,10,Atlantic 10,14,2,87.5,1st-E,24,5,82.8,at-large,N,1,1,2nd,25,6,80.6
+2000,Saint Peter's,14,Northeast,14,4,77.8,2nd,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2000,San Diego,15,West Coast,7,7,50,4th,17,12,58.6,auto,N,0,1,1st,17,13,56.7
+2000,SFA,11,Southland,17,1,94.4,1st,27,3,90,auto,N,1,1,2nd,28,4,87.5
+2000,SMU,12,Western Athletic,12,2,85.7,1st,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2000,Stanford,9,Pacific-10,13,5,72.2,T2nd,20,8,71.4,at-large,N,1,1,2nd,21,9,70
+2000,Tennessee,1,Southeastern,13,1,92.9,T1st,28,3,90.3,auto,Y,5,1,N2nd,33,4,89.2
+2000,Tennessee Tech,14,Ohio Valley,16,2,88.9,1st,25,8,75.8,auto,N,0,1,1st,25,9,73.5
+2000,Texas,7,Big 12,9,7,56.3,6th,21,12,63.6,at-large,N,0,1,1st,21,13,61.8
+2000,Texas Tech,3,Big 12,13,3,81.3,T1st,25,4,86.2,at-large,Y,3,1,RF,28,5,84.8
+2000,Tulane,6,Conference USA,12,4,75,1st-N,26,4,86.7,auto,N,1,1,2nd,27,5,84.4
+2000,UAB,11,Conference USA,8,8,50,4th-N,19,12,61.3,at-large,N,2,1,RSF,21,13,61.8
+2000,UC Santa Barbara,4,Big West,15,0,100,1st-W,30,3,90.9,auto,Y,0,1,1st,30,4,88.2
+2000,UCLA,10,Pacific-10,12,6,66.7,4th,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+2000,UConn,1,Big East,16,0,100,1st,30,1,96.8,auto,Y,6,0,Champ,36,1,97.3
+2000,Utah,11,Mountain West,11,3,78.6,1st,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+2000,Vanderbilt,9,Southeastern,6,8,42.9,T6th,20,12,62.5,at-large,N,1,1,2nd,21,13,61.8
+2000,Vermont,11,America East,15,3,83.3,1st,25,2,92.6,auto,N,0,1,1st,25,3,89.3
+2000,Virginia,4,Atlantic Coast,13,3,81.3,1st,23,8,74.2,at-large,Y,2,1,RSF,25,9,73.5
+2000,Western Ky.,10,Sun Belt,13,3,81.3,2nd,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2000,Xavier,6,Atlantic 10,13,3,81.3,2nd-W,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2000,Youngstown St.,15,Mid-Continent,12,4,75,2nd,22,8,73.3,auto,N,0,1,1st,22,9,71
+2001,Alcorn St.,16,Southwestern,15,3,83.3,1st,21,10,67.7,auto,N,0,1,1st,21,11,65.6
+2001,Arizona St.,11,Pacific-10,12,6,66.7,T1st,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+2001,Arkansas,9,Southeastern,6,8,42.9,T6th,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+2001,Austin Peay,16,Ohio Valley,10,6,62.5,3rd,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+2001,Baylor,8,Big 12,9,7,56.3,6th,21,8,72.4,at-large,N,0,1,1st,21,9,70
+2001,Chattanooga,12,Southern,15,3,83.3,T1st,24,6,80,auto,N,0,1,1st,24,7,77.4
+2001,Clemson,5,Atlantic Coast,10,6,62.5,2nd,20,9,69,at-large,N,1,1,2nd,21,10,67.7
+2001,Colorado,6,Big 12,11,5,68.8,4th,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2001,Colorado St.,9,Mountain West,10,4,71.4,2nd,24,6,80,auto,N,1,1,2nd,25,7,78.1
+2001,Delaware,13,America East,17,1,94.4,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2001,Denver,10,Sun Belt,14,2,87.5,T1st-W,24,6,80,at-large,N,0,1,1st,24,7,77.4
+2001,Drake,12,Missouri Valley,16,2,88.9,T1st,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+2001,Duke,1,Atlantic Coast,13,3,81.3,1st,28,3,90.3,auto,Y,2,1,RSF,30,4,88.2
+2001,Fairfield,12,Metro Atlantic,16,2,88.9,2nd,25,5,83.3,at-large,N,0,1,1st,25,6,80.6
+2001,Florida,3,Southeastern,11,3,78.6,T2nd,23,5,82.1,at-large,Y,1,1,2nd,24,6,80
+2001,Florida St.,7,Atlantic Coast,9,7,56.3,T3rd,18,11,62.1,at-large,N,1,1,2nd,19,12,61.3
+2001,George Washington,7,Atlantic 10,14,2,87.5,2nd,22,9,71,at-large,N,0,1,1st,22,10,68.8
+2001,Georgia,2,Southeastern,11,3,78.6,T2nd,25,5,83.3,auto,Y,1,1,2nd,26,6,81.3
+2001,Georgia St.,14,Trans America,15,3,83.3,2nd,24,6,80,auto,N,0,1,1st,24,7,77.4
+2001,Holy Cross,14,Patriot,11,1,91.7,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+2001,Howard,15,Mid-Eastern,15,3,83.3,1st,21,9,70,auto,N,0,1,1st,21,10,67.7
+2001,Idaho St.,14,Big Sky,16,0,100,1st,25,4,86.2,auto,N,0,1,1st,25,5,83.3
+2001,Iowa,4,Big Ten,12,4,75,T2nd,20,9,69,auto,N,1,1,2nd,21,10,67.7
+2001,Iowa St.,2,Big 12,12,4,75,3rd,25,5,83.3,auto,Y,2,1,RSF,27,6,81.8
+2001,Liberty,15,Big South,12,2,85.7,1st,18,11,62.1,auto,N,0,1,1st,18,12,60
+2001,Long Island,16,Northeast,11,7,61.1,T3rd,16,14,53.3,auto,N,0,1,1st,16,15,51.6
+2001,Louisiana Tech,3,Sun Belt,16,0,100,1st,28,4,87.5,auto,Y,3,1,RF,31,5,86.1
+2001,Louisville,13,Conference USA,14,2,87.5,1st-A,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+2001,LSU,6,Southeastern,8,6,57.1,T4th,19,10,65.5,at-large,N,1,1,2nd,20,11,64.5
+2001,Maryland,8,Atlantic Coast,8,8,50,T5th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+2001,Michigan,8,Big Ten,10,6,62.5,5th,18,11,62.1,at-large,N,1,1,2nd,19,12,61.3
+2001,Milwaukee,16,Horizon,12,2,85.7,1st,19,10,65.5,auto,N,0,1,1st,19,11,63.3
+2001,Missouri,10,Big 12,10,6,62.5,5th,20,9,69,at-large,N,2,1,RSF,22,10,68.8
+2001,Missouri St.,5,Missouri Valley,16,2,88.9,T1st,25,5,83.3,auto,N,4,1,NSF,29,6,82.9
+2001,NC State,4,Atlantic Coast,9,7,56.3,T3rd,20,10,66.7,at-large,Y,2,1,RSF,22,11,66.7
+2001,Notre Dame,1,Big East,15,1,93.8,T1st,28,2,93.3,at-large,Y,6,0,Champ,34,2,94.4
+2001,Oklahoma,2,Big 12,15,1,93.8,1st,26,5,83.9,at-large,Y,2,1,RSF,28,6,82.4
+2001,Old Dominion,11,Colonial,15,1,93.8,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+2001,Oral Roberts,15,Mid-Continent,11,5,68.8,T2nd,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2001,Oregon,13,Pacific-10,10,8,55.6,4th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+2001,Penn,15,Ivy,14,0,100,1st,23,5,82.1,auto,N,0,1,1st,23,6,79.3
+2001,Penn St.,6,Big Ten,11,5,68.8,4th,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+2001,Purdue,3,Big Ten,14,2,87.5,1st,26,6,81.3,at-large,Y,5,1,N2nd,31,7,81.6
+2001,Rutgers,4,Big East,13,3,81.3,3rd,22,7,75.9,at-large,Y,1,1,2nd,23,8,74.2
+2001,SFA,13,Southland,18,2,90,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2001,Siena,11,Metro Atlantic,17,1,94.4,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+2001,St. Mary's (CA),9,West Coast,11,3,78.6,T1st,25,5,83.3,auto,N,1,1,2nd,26,6,81.3
+2001,Stanford,10,Pacific-10,12,6,66.7,T1st,18,10,64.3,auto,N,1,1,2nd,19,11,63.3
+2001,TCU,11,Western Athletic,13,3,81.3,1st,24,7,77.4,auto,N,1,1,2nd,25,8,75.8
+2001,Tennessee,1,Southeastern,14,0,100,1st,29,2,93.5,at-large,Y,2,1,RSF,31,3,91.2
+2001,Texas,8,Big 12,7,9,43.8,7th,20,12,62.5,at-large,N,0,1,1st,20,13,60.6
+2001,Texas Tech,2,Big 12,13,3,81.3,2nd,23,6,79.3,at-large,Y,2,1,RSF,25,7,78.1
+2001,Toledo,12,Mid-American,15,1,93.8,T1st-W,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+2001,Tulane,10,Conference USA,12,4,75,1st-N,22,9,71,auto,N,0,1,1st,22,10,68.8
+2001,UC Santa Barbara,14,Big West,12,2,85.7,1st,22,8,73.3,auto,N,0,1,1st,22,9,71
+2001,UConn,1,Big East,15,1,93.8,T1st,28,2,93.3,auto,Y,4,1,NSF,32,3,91.4
+2001,Utah,5,Mountain West,14,0,100,1st,26,3,89.7,at-large,Y,2,1,RSF,28,4,87.5
+2001,Vanderbilt,3,Southeastern,8,6,57.1,T4th,21,9,70,at-large,Y,3,1,RF,24,10,70.6
+2001,Villanova,5,Big East,11,5,68.8,T4th,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2001,Virginia,9,Atlantic Coast,8,8,50,T5th,18,13,58.1,at-large,N,0,1,1st,18,14,56.3
+2001,Virginia Tech,7,Big East,11,5,68.8,T4th,23,6,79.3,at-large,N,1,1,2nd,24,7,77.4
+2001,Washington,6,Pacific-10,12,6,66.7,T1st,19,9,67.9,at-large,N,3,1,RF,22,10,68.8
+2001,Wisconsin,7,Big Ten,12,4,75,T2nd,18,9,66.7,at-large,N,0,1,1st,18,10,64.3
+2001,Xavier,4,Atlantic 10,15,1,93.8,1st,28,2,93.3,auto,Y,3,1,RF,31,3,91.2
+2002,Arizona St.,9,Pacific-10,12,6,66.7,T2nd,24,8,75,auto,N,1,1,2nd,25,9,73.5
+2002,Arkansas,6,Southeastern,7,7,50,T7th,19,11,63.3,at-large,N,1,1,2nd,20,12,62.5
+2002,Austin Peay,15,Ohio Valley,9,7,56.3,4th,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+2002,Baylor,2,Big 12,12,4,75,2nd,26,5,83.9,at-large,Y,1,1,2nd,27,6,81.8
+2002,Boston College,5,Big East,12,4,75,T3rd,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+2002,Bucknell,15,Patriot,11,3,78.6,2nd,21,9,70,auto,N,0,1,1st,21,10,67.7
+2002,BYU,11,Mountain West,10,4,71.4,T2nd,22,8,73.3,auto,N,2,1,RSF,24,9,72.7
+2002,Chattanooga,13,Southern,14,4,77.8,T1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2002,Cincinnati,6,Conference USA,11,3,78.6,T2nd,26,4,86.7,auto,N,1,1,2nd,27,5,84.4
+2002,Clemson,11,Atlantic Coast,9,7,56.3,T3rd,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+2002,Colorado,3,Big 12,11,5,68.8,T3rd,21,9,70,at-large,Y,3,1,RF,24,10,70.6
+2002,Colorado St.,7,Mountain West,12,2,85.7,1st,24,6,80,at-large,N,0,1,1st,24,7,77.4
+2002,Creighton,12,Missouri Valley,16,2,88.9,1st,24,6,80,auto,N,0,1,1st,24,7,77.4
+2002,Drake,7,Missouri Valley,15,3,83.3,2nd,23,7,76.7,at-large,N,2,1,RSF,25,8,75.8
+2002,Duke,1,Atlantic Coast,16,0,100,1st,27,3,90,auto,Y,4,1,NSF,31,4,88.6
+2002,FIU,5,Sun Belt,13,1,92.9,1st,26,5,83.9,auto,N,1,1,2nd,27,6,81.8
+2002,Florida,6,Southeastern,8,6,57.1,T4th,18,10,64.3,at-large,N,0,1,1st,18,11,62.1
+2002,Georgia,10,Southeastern,6,8,42.9,9th,19,10,65.5,at-large,N,0,1,1st,19,11,63.3
+2002,Georgia St.,15,Atlantic Sun,14,6,70,1st,21,9,70,auto,N,0,1,1st,21,10,67.7
+2002,Green Bay,13,Horizon,15,1,93.8,1st,24,6,80,auto,N,0,1,1st,24,7,77.4
+2002,Hartford,16,America East,9,7,56.3,T4th,16,14,53.3,auto,N,0,1,1st,16,15,51.6
+2002,Harvard,13,Ivy,13,1,92.9,1st,22,5,81.5,auto,N,0,1,1st,22,6,78.6
+2002,Indiana,9,Big Ten,8,8,50,T5th,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+2002,Iowa,9,Big Ten,10,6,62.5,4th,17,10,63,at-large,N,1,1,2nd,18,11,62.1
+2002,Iowa St.,3,Big 12,9,7,56.3,6th,23,8,74.2,at-large,Y,1,1,2nd,24,9,72.7
+2002,Kansas St.,3,Big 12,11,5,68.8,T3rd,24,11,68.6,at-large,Y,2,1,RSF,26,12,68.4
+2002,Kent St.,14,Mid-American,13,3,81.3,1st-E,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2002,Liberty,14,Big South,13,1,92.9,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2002,Louisiana Tech,5,Western Athletic,17,1,94.4,1st,25,4,86.2,auto,N,0,1,1st,25,5,83.3
+2002,LSU,6,Southeastern,8,6,57.1,T4th,17,11,60.7,at-large,N,1,1,2nd,18,12,60
+2002,Minnesota,5,Big Ten,11,5,68.8,T2nd,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+2002,Mississippi St.,12,Southeastern,8,6,57.1,T4th,18,11,62.1,at-large,N,1,1,2nd,19,12,61.3
+2002,New Mexico,10,Mountain West,10,4,71.4,T2nd,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2002,Norfolk St.,16,Mid-Eastern,13,5,72.2,2nd,22,8,73.3,auto,N,0,1,1st,22,9,71
+2002,North Carolina,4,Atlantic Coast,11,5,68.8,2nd,24,8,75,at-large,Y,2,1,RSF,26,9,74.3
+2002,Notre Dame,7,Big East,13,3,81.3,2nd,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+2002,Oakland,16,Mid-Continent,8,6,57.1,T2nd,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+2002,Oklahoma,1,Big 12,14,2,87.5,1st,27,3,90,auto,Y,5,1,N2nd,32,4,88.9
+2002,Old Dominion,7,Colonial,18,0,100,1st,25,5,83.3,auto,N,3,1,RF,28,6,82.4
+2002,Penn St.,4,Big Ten,11,5,68.8,T2nd,21,11,65.6,at-large,Y,2,1,RSF,23,12,65.7
+2002,Pepperdine,8,West Coast,11,3,78.6,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2002,Purdue,2,Big Ten,13,3,81.3,1st,23,5,82.1,at-large,Y,1,1,2nd,24,6,80
+2002,Saint Francis (PA),16,Northeast,14,4,77.8,1st,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+2002,Saint Peter's,12,Metro Atlantic,15,3,83.3,2nd,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+2002,Santa Clara,11,West Coast,9,5,64.3,T2nd,21,9,70,at-large,N,0,1,1st,21,10,67.7
+2002,SFA,13,Southland,19,1,95,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+2002,South Carolina,3,Southeastern,10,4,71.4,T2nd,22,6,78.6,at-large,Y,3,1,RF,25,7,78.1
+2002,Southern,14,Southwestern,17,1,94.4,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2002,Stanford,2,Pacific-10,18,0,100,1st,30,2,93.8,at-large,Y,2,1,RSF,32,3,91.4
+2002,Syracuse,10,Big East,9,7,56.3,T6th,18,12,60,at-large,N,0,1,1st,18,13,58.1
+2002,TCU,8,Conference USA,12,2,85.7,1st,23,6,79.3,at-large,N,1,1,2nd,24,7,77.4
+2002,Temple,14,Atlantic 10,12,4,75,T1st-E,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2002,Tennessee,2,Southeastern,13,1,92.9,1st,25,4,86.2,at-large,Y,4,1,NSF,29,5,85.3
+2002,Texas,4,Big 12,10,6,62.5,5th,20,9,69,at-large,Y,2,1,RSF,22,10,68.8
+2002,Texas Tech,4,Big 12,8,8,50,7th,18,11,62.1,at-large,Y,2,1,RSF,20,12,62.5
+2002,Tulane,10,Conference USA,8,6,57.1,T4th,23,10,69.7,at-large,N,1,1,2nd,24,11,68.6
+2002,UC Santa Barbara,12,Big West,16,0,100,1st,25,5,83.3,auto,N,1,1,2nd,26,6,81.3
+2002,UConn,1,Big East,16,0,100,1st,33,0,100,auto,Y,6,0,Champ,39,0,100
+2002,UNLV,12,Mountain West,9,5,64.3,4th,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+2002,Vanderbilt,1,Southeastern,10,4,71.4,T2nd,27,6,81.8,auto,Y,3,1,RF,30,7,81.1
+2002,Villanova,9,Big East,12,4,75,T3rd,19,10,65.5,at-large,N,1,1,2nd,20,11,64.5
+2002,Virginia,8,Atlantic Coast,9,7,56.3,T3rd,17,12,58.6,at-large,N,0,1,1st,17,13,56.7
+2002,Weber St.,15,Big Sky,11,3,78.6,T1st,22,8,73.3,auto,N,0,1,1st,22,9,71
+2002,Wisconsin,8,Big Ten,8,8,50,T5th,19,11,63.3,at-large,N,0,1,1st,19,12,61.3
+2003,Alabama St.,16,Southwestern,16,3,84.2,1st,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2003,Arizona,6,Pacific-10,13,5,72.2,T2nd,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2003,Arkansas,7,Southeastern,7,7,50,7th,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2003,Austin Peay,14,Ohio Valley,16,0,100,1st,27,3,90,auto,N,0,1,1st,27,4,87.1
+2003,Boston College,5,Big East,12,4,75,T3rd,20,8,71.4,at-large,N,2,1,RSF,22,9,71
+2003,Boston University,16,America East,10,6,62.5,3rd,16,14,53.3,auto,N,0,1,1st,16,15,51.6
+2003,BYU,11,Mountain West,8,6,57.1,T3rd,19,11,63.3,at-large,N,0,1,1st,19,12,61.3
+2003,Charlotte,12,Conference USA,12,2,85.7,1st,21,8,72.4,at-large,N,0,1,1st,21,9,70
+2003,Chattanooga,12,Southern,16,2,88.9,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2003,Cincinnati,10,Conference USA,11,3,78.6,2nd,23,7,76.7,at-large,Y,0,1,1st,23,8,74.2
+2003,Colorado,6,Big 12,11,5,68.8,4th,22,7,75.9,at-large,Y,2,1,RSF,24,8,75
+2003,DePaul,9,Conference USA,10,4,71.4,T3rd,22,9,71,at-large,N,0,1,1st,22,10,68.8
+2003,Duke,1,Atlantic Coast,16,0,100,1st,31,1,96.9,auto,N,4,1,NSF,35,2,94.6
+2003,George Washington,7,Atlantic 10,15,1,93.8,1st-W,24,6,80,auto,N,1,1,2nd,25,7,78.1
+2003,Georgia,5,Southeastern,10,4,71.4,T3rd,19,9,67.9,at-large,Y,2,1,RSF,21,10,67.7
+2003,Georgia St.,16,Atlantic Sun,12,4,75,1st-N,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2003,Georgia Tech,10,Atlantic Coast,8,8,50,T4th,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+2003,Green Bay,8,Horizon,15,1,93.8,1st,27,3,90,auto,N,1,1,2nd,28,4,87.5
+2003,Hampton,15,Mid-Eastern,16,1,94.1,1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2003,Harvard,14,Ivy,14,0,100,1st,22,4,84.6,auto,N,0,1,1st,22,5,81.5
+2003,Holy Cross,13,Patriot,13,1,92.9,1st,24,7,77.4,auto,N,0,1,1st,24,8,75
+2003,Illinois,9,Big Ten,9,7,56.3,6th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+2003,Kansas St.,3,Big 12,14,2,87.5,2nd,28,4,87.5,at-large,Y,1,1,2nd,29,5,85.3
+2003,Liberty,13,Big South,14,0,100,1st,26,3,89.7,auto,N,0,1,1st,26,4,86.7
+2003,Louisiana Tech,5,Western Athletic,18,0,100,1st,29,2,93.5,auto,Y,2,1,RSF,31,3,91.2
+2003,LSU,1,Southeastern,11,3,78.6,2nd,27,3,90,auto,N,3,1,RF,30,4,88.2
+2003,Manhattan,14,Metro Atlantic,15,3,83.3,T1st,20,9,69,auto,N,0,1,1st,20,10,66.7
+2003,Miami (FL),11,Big East,8,8,50,7th,18,12,60,at-large,N,0,1,1st,18,13,58.1
+2003,Michigan St.,8,Big Ten,10,6,62.5,T4th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+2003,Minnesota,6,Big Ten,12,4,75,T2nd,23,5,82.1,at-large,N,2,1,RSF,25,6,80.6
+2003,Mississippi St.,3,Southeastern,10,4,71.4,T3rd,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2003,Missouri St.,15,Missouri Valley,11,7,61.1,T4th,18,12,60,auto,N,0,1,1st,18,13,58.1
+2003,New Mexico,6,Mountain West,9,5,64.3,2nd,22,8,73.3,auto,Y,2,1,RSF,24,9,72.7
+2003,North Carolina,3,Atlantic Coast,13,3,81.3,2nd,27,5,84.4,at-large,N,1,1,2nd,28,6,82.4
+2003,Notre Dame,11,Big East,10,6,62.5,T5th,19,10,65.5,at-large,N,2,1,RSF,21,11,65.6
+2003,Ohio St.,4,Big Ten,10,6,62.5,T4th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2003,Oklahoma,10,Big 12,9,7,56.3,T5th,19,12,61.3,at-large,Y,0,1,1st,19,13,59.4
+2003,Old Dominion,12,Colonial,15,3,83.3,T1st,21,10,67.7,auto,Y,0,1,1st,21,11,65.6
+2003,Penn St.,4,Big Ten,13,3,81.3,1st,24,8,75,at-large,Y,2,1,RSF,26,9,74.3
+2003,Pepperdine,12,West Coast,12,2,85.7,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+2003,Purdue,2,Big Ten,12,4,75,T2nd,26,5,83.9,auto,Y,3,1,RF,29,6,82.9
+2003,Rutgers,4,Big East,13,3,81.3,2nd,20,7,74.1,at-large,N,1,1,2nd,21,8,72.4
+2003,Saint Francis (PA),15,Northeast,16,2,88.9,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2003,South Carolina,5,Southeastern,9,5,64.3,T5th,22,7,75.9,at-large,N,1,1,2nd,23,8,74.2
+2003,Stanford,3,Pacific-10,15,3,83.3,1st,26,4,86.7,auto,Y,1,1,2nd,27,5,84.4
+2003,TCU,9,Conference USA,8,6,57.1,T5th,19,13,59.4,auto,N,1,1,2nd,20,14,58.8
+2003,Tennessee,1,Southeastern,14,0,100,1st,28,4,87.5,at-large,Y,5,1,N2nd,33,5,86.8
+2003,Texas,2,Big 12,15,1,93.8,1st,25,5,83.3,auto,N,4,1,NSF,29,6,82.9
+2003,Texas St.,16,Southland,14,6,70,T3rd,18,13,58.1,auto,N,0,1,1st,18,14,56.3
+2003,Texas Tech,2,Big 12,13,3,81.3,3rd,26,5,83.9,at-large,Y,3,1,RF,29,6,82.9
+2003,Tulane,11,Conference USA,10,4,71.4,T3rd,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+2003,UC Santa Barbara,7,Big West,15,1,93.8,1st,26,4,86.7,auto,N,1,1,2nd,27,5,84.4
+2003,UConn,1,Big East,16,0,100,1st,31,1,96.9,at-large,Y,6,0,Champ,37,1,97.4
+2003,Utah,8, Mountain West,12,2,85.7,1st,23,6,79.3,at-large,N,1,1,2nd,24,7,77.4
+2003,Valparaiso,15,Mid-Continent,8,6,57.1,T2nd,18,12,60,auto,N,0,1,1st,18,13,58.1
+2003,Vanderbilt,4,Southeastern,9,5,64.3,T5th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2003,Villanova,2,Big East,12,4,75,T3rd,25,5,83.3,auto,N,3,1,RF,28,6,82.4
+2003,Virginia,8,Atlantic Coast,9,7,56.3,3rd,16,13,55.2,at-large,N,1,1,2nd,17,14,54.8
+2003,Virginia Tech,7,Big East,10,6,62.5,T5th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2003,Washington,9,Pacific-10,13,5,72.2,T2nd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+2003,Weber St.,13,Big Sky,11,3,78.6,T1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+2003,Western Ky.,13,Sun Belt,12,2,85.7,1st,22,8,73.3,auto,N,0,1,1st,22,9,71
+2003,Western Mich.,14,Mid-American,10,6,62.5,3rd-W,20,11,64.5,auto,N,0,1,1st,20,12,62.5
+2003,Xavier,10,Atlantic 10,11,5,68.8,2nd-W,20,9,69,at-large,N,0,1,1st,20,10,66.7
+2004,Arizona,9,Pacific-10,14,4,77.8,T1st,24,8,75,at-large,N,0,1,1st,24,9,72.7
+2004,Auburn,7,Southeastern,9,5,64.3,3rd,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2004,Austin Peay,13,Ohio Valley,14,2,87.5,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2004,Baylor,4,Big 12,10,6,62.5,T4th,24,8,75,at-large,N,2,1,RSF,26,9,74.3
+2004,Boston College,3,Big East,11,5,68.8,T4th,25,6,80.6,auto,N,2,1,RSF,27,7,79.4
+2004,Chattanooga,10,Southern,20,0,100,1st,28,2,93.3,auto,Y,1,1,2nd,29,3,90.6
+2004,Colgate,16,Patriot,10,4,71.4,1st,21,9,70,auto,N,0,1,1st,21,10,67.7
+2004,Colorado,6,Big 12,11,5,68.8,3rd,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+2004,DePaul,9,Conference USA,10,4,71.4,4th,22,6,78.6,at-large,N,1,1,2nd,23,7,76.7
+2004,Duke,1,Atlantic Coast,15,1,93.8,1st,27,3,90,auto,Y,3,1,RF,30,4,88.2
+2004,Eastern Mich.,14,Mid-American,12,4,75,1st-W,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+2004,Florida,5,Southeastern,8,6,57.1,T4th,18,10,64.3,at-large,N,1,1,2nd,19,11,63.3
+2004,George Washington,8,Atlantic 10,14,2,87.5,1st-W,22,7,75.9,at-large,N,0,1,1st,22,8,73.3
+2004,Georgia,3,Southeastern,8,6,57.1,T4th,22,9,71,at-large,N,3,1,RF,25,10,71.4
+2004,Green Bay,14,Horizon,13,3,81.3,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2004,Hampton,16,Mid-Eastern,14,4,77.8,T1st,17,10,63,auto,N,0,1,1st,17,11,60.7
+2004,Houston,3,Conference USA,13,1,92.9,1st,27,3,90,auto,N,1,1,2nd,28,4,87.5
+2004,Iowa,9,Big Ten,10,6,62.5,T4th,16,12,57.1,at-large,N,0,1,1st,16,13,55.2
+2004,Kansas St.,2,Big 12,14,2,87.5,T1st,24,5,82.8,at-large,N,1,1,2nd,25,6,80.6
+2004,Liberty,14,Big South,14,0,100,1st,25,6,80.6,auto,N,0,1,1st,25,7,78.1
+2004,Lipscomb,15,Atlantic Sun,14,6,70,T1st,20,11,64.5,auto,N,0,1,1st,20,12,62.5
+2004,Louisiana Tech,5,Western Athletic,17,1,94.4,1st,27,2,93.1,auto,N,2,1,RSF,29,3,90.6
+2004,Loyola Marymount,13,West Coast,13,1,92.9,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+2004,LSU,4,Southeastern,10,4,71.4,2nd,23,7,76.7,at-large,Y,4,1,NSF,27,8,77.1
+2004,Maine,13,America East,17,1,94.4,1st,25,6,80.6,auto,N,0,1,1st,25,7,78.1
+2004,Marist,14,Metro Atlantic,13,5,72.2,T1st,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2004,Marquette,9,Conference USA,9,5,64.3,T5th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2004,Maryland,12,Atlantic Coast,8,8,50,T3rd,17,12,58.6,at-large,N,1,1,2nd,18,13,58.1
+2004,Miami (FL),5,Big East,11,5,68.8,T4th,22,6,78.6,at-large,N,0,1,1st,22,7,75.9
+2004,Michigan St.,8,Big Ten,10,6,62.5,T4th,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2004,Middle Tenn.,13,Sun Belt,10,4,71.4,T1st-E,23,7,76.7,auto,N,1,1,2nd,24,8,75
+2004,Minnesota,7,Big Ten,9,7,56.3,6th,21,8,72.4,at-large,Y,4,1,NSF,25,9,73.5
+2004,Missouri,11,Big 12,7,9,43.8,T7th,17,12,58.6,at-large,N,0,1,1st,17,13,56.7
+2004,Missouri St.,12,Missouri Valley,16,2,88.9,1st,28,3,90.3,auto,N,0,1,1st,28,4,87.5
+2004,Montana,12,Big Sky,14,0,100,1st,27,4,87.1,auto,Y,0,1,1st,27,5,84.4
+2004,NC State,10,Atlantic Coast,8,8,50,T3rd,17,14,54.8,at-large,N,0,1,1st,17,15,53.1
+2004,New Mexico,12,Mountain West,12,2,85.7,T1st,23,7,76.7,auto,Y,0,1,1st,23,8,74.2
+2004,North Carolina,4,Atlantic Coast,12,4,75,2nd,24,6,80,at-large,N,0,1,1st,24,7,77.4
+2004,Northwestern St.,16,Southland,14,2,87.5,1st,24,6,80,auto,N,0,1,1st,24,7,77.4
+2004,Notre Dame,5,Big East,12,4,75,T2nd,19,10,65.5,at-large,Y,2,1,RSF,21,11,65.6
+2004,Ohio St.,6,Big Ten,11,5,68.8,3rd,20,9,69,at-large,Y,1,1,2nd,21,10,67.7
+2004,Oklahoma,3,Big 12,9,7,56.3,6th,23,8,74.2,auto,N,1,1,2nd,24,9,72.7
+2004,Old Dominion,8,Colonial,17,1,94.4,1st,25,6,80.6,auto,N,0,1,1st,25,7,78.1
+2004,Ole Miss,10,Southeastern,7,7,50,T7th,17,13,56.7,at-large,N,0,1,1st,17,14,54.8
+2004,Penn,15,Ivy,11,3,78.6,1st,17,10,63,auto,N,0,1,1st,17,11,60.7
+2004,Penn St.,1,Big Ten,15,1,93.8,1st,25,5,83.3,at-large,N,3,1,RF,28,6,82.4
+2004,Purdue,2,Big Ten,14,2,87.5,2nd,27,3,90,auto,N,2,1,RSF,29,4,87.9
+2004,Rutgers,7,Big East,10,6,62.5,T6th,21,11,65.6,at-large,N,0,1,1st,21,12,63.6
+2004,Saint Francis (PA),15,Northeast,18,0,100,1st,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+2004,Southern,16,Southwestern,12,6,66.7,3rd,17,12,58.6,auto,N,0,1,1st,17,13,56.7
+2004,Stanford,6,Pacific-10,14,4,77.8,T1st,24,6,80,auto,N,3,1,RF,27,7,79.4
+2004,TCU,6,Conference USA,11,3,78.6,T2nd,24,6,80,at-large,N,1,1,2nd,25,7,78.1
+2004,Temple,11,Atlantic 10,14,2,87.5,1st-E,21,9,70,auto,Y,0,1,1st,21,10,67.7
+2004,Tennessee,1,Southeastern,14,0,100,1st,26,3,89.7,at-large,N,5,1,N2nd,31,4,88.6
+2004,Texas,1,Big 12,14,2,87.5,T1st,28,4,87.5,at-large,Y,2,1,RSF,30,5,85.7
+2004,Texas Tech,4,Big 12,10,6,62.5,T4th,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+2004,UC Santa Barbara,11,Big West,17,1,94.4,1st,25,6,80.6,auto,Y,2,1,RSF,27,7,79.4
+2004,UCLA,10,Pacific-10,11,7,61.1,T3rd,17,12,58.6,at-large,N,0,1,1st,17,13,56.7
+2004,UConn,2,Big East,14,2,87.5,1st,25,4,86.2,at-large,N,6,0,Champ,31,4,88.6
+2004,Valparaiso,15,Mid-Continent,11,5,68.8,T2nd,20,11,64.5,auto,N,0,1,1st,20,12,62.5
+2004,Vanderbilt,2,Southeastern,8,6,57.1,T4th,24,7,77.4,auto,N,2,1,RSF,26,8,76.5
+2004,Villanova,7,Big East,12,4,75,T2nd,22,6,78.6,at-large,N,1,1,2nd,23,7,76.7
+2004,Virginia Tech,8,Big East,10,6,62.5,T6th,22,7,75.9,at-large,Y,1,1,2nd,23,8,74.2
+2004,West Virginia,11,Big East,10,6,62.5,T6th,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2005,Alcorn St.,16,Southwestern,14,4,77.8,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+2005,Arizona,9,Pacific-10,11,7,61.1,5th,19,11,63.3,at-large,N,1,1,2nd,20,12,62.5
+2005,Arizona St.,5,Pacific-10,12,6,66.7,T2nd,21,9,70,at-large,N,2,1,RSF,23,10,69.7
+2005,Baylor,2,Big 12,14,2,87.5,1st,27,3,90,auto,N,6,0,Champ,33,3,91.7
+2005,Boston College,7,Big East,10,6,62.5,T4th,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+2005,Bowling Green,13,Mid-American,13,3,81.3,T1st,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+2005,Canisius,15,Metro Atlantic,14,4,77.8,2nd,21,9,70,auto,N,0,1,1st,21,10,67.7
+2005,Coppin St.,16,Mid-Eastern,15,3,83.3,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2005,Dartmouth,14,Ivy,12,2,85.7,T1st,17,10,63,auto,N,0,1,1st,17,11,60.7
+2005,DePaul,5,Conference USA,13,1,92.9,1st,25,4,86.2,at-large,N,1,1,2nd,26,5,83.9
+2005,Duke,2,Atlantic Coast,12,2,85.7,T1st,28,4,87.5,at-large,N,3,1,RF,31,53,36.9
+2005,Eastern Ky.,12,Ohio Valley,15,1,93.8,1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2005,Florida St.,6,Atlantic Coast,9,5,64.3,4th,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2005,George Washington,9,Atlantic 10,13,3,81.3,1st,22,8,73.3,at-large,N,1,1,2nd,23,9,71.9
+2005,Georgia,6,Southeastern,9,5,64.3,4th,22,9,71,at-large,N,2,1,RSF,24,10,70.6
+2005,Green Bay,10,Horizon,15,1,93.8,1st,27,3,90,auto,N,0,1,1st,27,4,87.1
+2005,Hartford,14,America East,13,5,72.2,2nd,22,8,73.3,auto,N,0,1,1st,22,9,71
+2005,Holy Cross,15,Patriot,12,2,85.7,1st,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2005,Houston,10,Conference USA,10,4,71.4,T3rd,21,8,72.4,at-large,N,0,1,1st,21,9,70
+2005,Illinois St.,15,Missouri Valley,7,11,38.9,8th,13,17,43.3,auto,N,0,1,1st,13,18,41.9
+2005,Iowa St.,7,Big 12,12,4,75,T3rd,23,6,79.3,at-large,N,0,1,1st,23,7,76.7
+2005,Kansas St.,4,Big 12,12,4,75,T3rd,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2005,Liberty,13,Big South,13,1,92.9,1st,24,6,80,auto,N,2,1,RSF,26,7,78.8
+2005,Louisiana Tech,11,Western Athletic,14,4,77.8,T1st,20,9,69,at-large,N,0,1,1st,20,10,66.7
+2005,Louisville,9,Conference USA,11,3,78.6,2nd,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2005,LSU,1,Southeastern,14,0,100,1st,29,2,93.5,at-large,N,4,1,NSF,33,3,91.7
+2005,Maryland,7,Atlantic Coast,7,7,50,6th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2005,Michigan St.,1,Big Ten,14,2,87.5,T1st,28,3,90.3,auto,N,5,1,N2nd,33,4,89.2
+2005,Middle Tenn.,12,Sun Belt,11,3,78.6,3rd,23,7,76.7,auto,N,1,1,2nd,23,8,74.2
+2005,Minnesota,3,Big Ten,12,4,75,4th,24,7,77.4,at-large,Y,2,1,RSF,26,8,76.5
+2005,Montana,12,Big Sky,13,1,92.9,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+2005,NC State,5,Atlantic Coast,10,4,71.4,3rd,21,7,75,at-large,N,0,1,1st,21,8,72.4
+2005,New Mexico,8,Mountain West,12,2,85.7,T1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2005,North Carolina,1,Atlantic Coast,12,2,85.7,T1st,28,4,87.5,auto,Y,3,1,RF,30,4,88.2
+2005,Notre Dame,4,Big East,13,3,81.3,T2nd,26,5,83.9,at-large,N,1,1,2nd,27,6,81.8
+2005,Ohio St.,2,Big Ten,14,2,87.5,T1st,29,3,90.6,at-large,N,2,1,RSF,31,4,88.6
+2005,Oklahoma,8,Big 12,8,8,50,T7th,17,12,58.6,at-large,N,0,1,1st,17,13,56.7
+2005,Old Dominion,11,Colonial,15,3,83.3,2nd,22,8,73.3,auto,N,0,1,1st,22,9,71
+2005,Ole Miss,8,Southeastern,8,6,57.1,5th,19,10,65.5,at-large,N,0,1,1st,19,11,63.3
+2005,Oral Roberts,14,Mid-Continent,10,6,62.5,4th,22,8,73.3,auto,N,0,1,1st,22,9,71
+2005,Oregon,10,Pacific-10,12,6,66.7,T2nd,20,9,69,at-large,N,1,1,2nd,21,10,67.7
+2005,Penn St.,4,Big Ten,13,3,81.3,3rd,19,10,65.5,at-large,Y,0,1,1st,19,11,63.3
+2005,Purdue,9,Big Ten,9,7,56.3,5th,16,12,57.1,at-large,N,1,1,2nd,17,13,56.7
+2005,Rice,11,Western Athletic,14,4,77.8,T1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2005,Richmond,11,Atlantic 10,12,4,75,3rd,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+2005,Rutgers,3,Big East,14,2,87.5,1st,25,6,80.6,at-large,N,3,1,RF,28,7,80
+2005,Saint Francis (PA),14,Northeast,16,2,88.9,1st,21,9,70,auto,N,0,1,1st,21,10,67.7
+2005,Santa Clara,15,West Coast,8,6,57.1,3rd,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+2005,Southern California,8,Pacific-10,12,6,66.7,T2nd,19,10,65.5,at-large,N,1,1,2nd,20,11,64.5
+2005,Stanford,2,Pacific-10,17,1,94.4,1st,29,2,93.5,auto,N,3,1,RF,32,3,91.4
+2005,Stetson,16,Atlantic Sun,11,9,55,5th,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+2005,TCU,7,Conference USA,10,4,71.4,T3rd,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2005,Temple,6,Atlantic 10,16,0,100,1st,27,3,90,auto,N,1,1,2nd,28,4,87.5
+2005,Tennessee,1,Southeastern,13,1,92.9,2nd,26,4,86.7,at-large,Y,4,1,NSF,30,5,85.7
+2005,Texas,3,Big 12,13,3,81.3,2nd,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2005,Texas Tech,4,Big 12,12,4,75,4th,22,7,75.9,at-large,N,2,1,RSF,24,8,75
+2005,UC Santa Barbara,13,Big West,16,2,88.9,1st,21,8,72.4,auto,N,0,1,1st,21,9,70
+2005,UConn,3,Big East,13,3,81.3,T2nd,23,7,76.7,auto,Y,2,1,RSF,25,8,75.8
+2005,UT Arlington,13,Southland,13,3,81.3,T1st,21,9,70,auto,N,0,1,1st,21,10,67.7
+2005,Utah,10,Mountain West,12,2,85.7,T1st,25,7,78.1,at-large,N,1,1,2nd,26,8,76.5
+2005,Vanderbilt,5,Southeastern,10,4,71.4,3rd,22,7,75.9,at-large,N,2,1,RSF,24,8,75
+2005,Virginia,6,Atlantic Coast,8,6,57.1,5th,20,10,66.7,at-large,N,1,1,2nd,21,11,65.6
+2005,Virginia Tech,12,Atlantic Coast,6,8,42.9,7th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+2005,Western Carolina,16,Southern,10,10,50,T6th,18,13,58.1,auto,N,0,1,1st,18,14,56.3
+2006,Arizona St.,4,Pacific-10,14,4,77.8,2nd,24,6,80,at-large,N,1,1,2nd,25,7,78.1
+2006,Army,15,Patriot,11,3,78.6,1st,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2006,Baylor,3,Big 12,12,4,75,2nd,24,6,80,at-large,N,2,1,RSF,26,7,78.8
+2006,Boston College,8,Atlantic Coast,6,8,42.9,T5th,19,11,63.3,at-large,N,2,1,RSF,21,12,63.6
+2006,Bowling Green,12,Mid-American,16,0,100,1st,28,2,93.3,auto,N,0,1,1st,28,3,90.3
+2006,BYU,7,Mountain West,13,3,81.3,1st,25,5,83.3,at-large,N,1,1,2nd,26,6,81.3
+2006,California,10,Pacific-10,10,8,55.6,6th,18,11,62.1,at-large,N,0,1,1st,18,12,60
+2006,Chattanooga,12,Southern,18,0,100,1st,27,3,90,auto,N,0,1,1st,27,4,87.1
+2006,Coppin St.,15,Mid-Eastern,18,0,100,1st,22,8,73.3,auto,N,0,1,1st,22,9,71
+2006,Dartmouth,14,Ivy,12,2,85.7,T1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+2006,DePaul,4,Big East,11,5,68.8,T3rd,25,6,80.6,at-large,N,2,1,RSF,27,7,79.4
+2006,Duke,1,Atlantic Coast,12,2,85.7,T2nd,26,3,89.7,at-large,N,5,1,N2nd,31,4,88.6
+2006,Fla. Atlantic,16,Atlantic Sun,16,4,80,2nd,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2006,Florida,6,Southeastern,8,6,57.1,T5th,21,8,72.4,at-large,N,0,1,1st,21,9,70
+2006,Florida St.,6,Atlantic Coast,10,4,71.4,4th,19,9,67.9,at-large,N,1,1,2nd,20,10,66.7
+2006,George Washington,7,Atlantic 10,13,3,81.3,T1st,22,8,73.3,at-large,N,1,1,2nd,23,9,71.9
+2006,Georgia,3,Southeastern,10,4,71.4,3rd,21,8,72.4,at-large,N,2,1,RSF,23,9,71.9
+2006,Hartford,11,America East,15,1,93.8,1st,27,3,90,auto,N,1,1,2nd,28,4,87.5
+2006,Iowa,10,Big Ten,10,6,62.5,5th,17,11,60.7,at-large,N,0,1,1st,17,12,58.6
+2006,Kentucky,5,Southeastern,9,5,64.3,4th,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2006,Liberty,13,Big South,13,1,92.9,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+2006,Louisiana Tech,11,Western Athletic,15,1,93.8,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2006,Louisville,9,Big East,10,6,62.5,5th,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+2006,LSU,1,Southeastern,13,1,92.9,1st,27,3,90,auto,N,4,1,NSF,31,4,88.6
+2006,Marist,14,Metro Atlantic,16,2,88.9,1st,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+2006,Maryland,2,Atlantic Coast,12,2,85.7,2nd,28,4,87.5,at-large,N,6,0,Champ,34,4,89.5
+2006,Michigan St.,4,Big Ten,11,5,68.8,T3rd,22,9,71,at-large,N,2,1,RSF,23,11,67.6
+2006,Middle Tenn.,12,Sun Belt,10,4,71.4,3rd,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2006,Milwaukee,13,Horizon,14,2,87.5,T1st,21,8,72.4,auto,N,0,1,1st,22,9,71
+2006,Minnesota,8,Big Ten,11,5,68.8,T3rd,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+2006,Missouri,10,Big 12,10,6,62.5,4th,21,9,70,at-large,N,0,1,1st,21,10,67.7
+2006,Missouri St.,13,Missouri Valley,7,11,38.9,T6th,17,14,54.8,auto,N,0,1,1st,17,15,53.1
+2006,NC State,5,Atlantic Coast,7,7,50,5th,19,11,63.3,at-large,N,0,1,1st,19,12,61.3
+2006,New Mexico,11,Mountain West,11,5,68.8,T3rd,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2006,North Carolina,1,Atlantic Coast,13,1,92.9,1st,29,1,96.7,auto,N,4,1,NSF,33,2,94.3
+2006,Northern Arizona,14,Big Sky,9,5,64.3,3rd,22,10,68.8,auto,N,0,1,1st,21,11,65.6
+2006,Notre Dame,9,Big East,8,8,50,10th,18,11,62.1,at-large,N,0,1,1st,18,12,60
+2006,Oakland,16,Mid-Continent,8,8,50,T5th,15,15,50,auto,N,0,1,1st,15,16,48.4
+2006,Ohio St.,1,Big Ten,15,1,93.8,1st,28,2,93.3,auto,N,1,1,2nd,29,3,90.6
+2006,Oklahoma,2,Big 12,16,0,100,1st,29,4,87.9,auto,N,2,1,RSF,31,5,86.1
+2006,Old Dominion,10,Colonial,17,1,94.4,1st,22,8,73.3,auto,Y,0,1,1st,22,9,71
+2006,Pepperdine,15,West Coast,8,6,57.1,4th,14,16,46.7,auto,N,0,1,1st,14,17,45.2
+2006,Purdue,4,Big Ten,13,3,81.3,2nd,24,6,80,at-large,Y,2,1,RSF,26,7,78.8
+2006,Rutgers,3,Big East,16,0,100,1st,25,4,86.2,auto,N,2,1,RSF,27,5,84.4
+2006,Sacred Heart,15,Northeast,16,2,88.9,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2006,SFA,13,Southland,14,2,87.5,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2006,South Florida,9,Big East,9,7,56.3,T6th,18,11,62.1,at-large,N,0,1,1st,18,12,60
+2006,Southeast Mo. St.,14,Ohio Valley,16,4,80,T1st,20,8,71.4,auto,N,0,1,1st,20,9,69
+2006,Southern California,8,Pacific-10,11,7,61.1,T4th,18,11,62.1,at-large,N,1,1,2nd,19,12,61.3
+2006,Southern,16,Southwestern,14,4,77.8,T1st,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2006,St. John's (NY),7,Big East,11,5,68.8,T3rd,21,7,75,at-large,N,1,1,2nd,22,8,73.3
+2006,Stanford,3,Pacific-10,15,3,83.3,1st,23,7,76.7,at-large,N,3,1,RF,26,8,76.5
+2006,TCU,11,Mountain West,11,5,68.8,T3rd,18,11,62.1,at-large,N,1,1,2nd,19,12,61.3
+2006,Temple,6,Atlantic 10,12,4,75,3rd,24,7,77.4,auto,N,0,1,1st,24,8,75
+2006,Tennessee,2,Southeastern,11,3,78.6,2nd,28,4,87.5,at-large,N,3,1,RF,31,5,86.1
+2006,Texas A&M,6,Big 12,11,5,68.8,3rd,23,8,74.2,at-large,N,0,1,1st,23,9,71.9
+2006,Tulsa,12,Conference USA,14,3,82.4,1st,25,5,83.3,auto,N,1,1,2nd,26,6,81.3
+2006,UC Riverside,16,Big West,7,7,50,T3rd,16,14,53.3,auto,N,0,1,1st,16,15,51.6
+2006,UCLA,5,Pacific-10,12,6,66.7,3rd,20,10,66.7,at-large,N,1,1,2nd,21,11,65.6
+2006,UConn,2,Big East,14,2,87.5,2nd,29,4,87.9,at-large,N,3,1,RF,32,5,86.5
+2006,Utah,5,Mountain West,12,4,75,2nd,24,6,80,at-large,N,3,1,RF,26,6,81.3
+2006,Vanderbilt,8,Southeastern,8,6,57.1,T5th,20,10,66.7,at-large,Y,1,1,2nd,21,11,65.6
+2006,Virginia Tech,7,Atlantic Coast,6,8,42.9,T6th,20,9,69,at-large,N,1,1,2nd,21,10,67.7
+2006,Washington,9,Pacific-10,11,7,61.1,T4th,18,10,64.3,at-large,N,1,1,2nd,19,11,63.3
+2007,Arizona St.,3,Pacific-10,16,2,88.9,2nd,28,4,87.5,at-large,N,3,1,RF,31,5,86.1
+2007,Baylor,5,Big 12,11,5,68.8,3rd,25,7,78.1,at-large,N,1,1,2nd,26,8,76.5
+2007,Belmont,14,Atlantic Sun,16,2,88.9,1st,25,6,80.6,auto,N,0,1,1st,25,7,78.1
+2007,Boise St.,12,Western Athletic,12,4,75,T1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2007,Bowling Green,7,Mid-American,15,1,93.8,1st,29,3,90.6,auto,N,2,1,RSF,31,4,88.6
+2007,BYU,11,Mountain West,12,4,75,1st,23,9,71.9,at-large,N,0,1,1st,23,10,69.7
+2007,California,8,Pacific-10,12,6,66.7,3rd,23,8,74.2,at-large,N,0,1,1st,23,9,71.9
+2007,Chattanooga,12,Southern,15,3,83.3,T1st,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2007,Delaware,12,Colonial,16,2,88.9,T2nd,26,5,83.9,at-large,N,0,1,1st,26,6,81.3
+2007,Delaware St.,15,Mid-Eastern,12,6,66.7,T2nd,20,12,62.5,auto,N,0,1,1st,20,13,60.6
+2007,DePaul,10,Big East,8,8,50,10th,19,12,61.3,at-large,N,0,1,1st,19,13,59.4
+2007,Drake,16,Missouri Valley,5,13,27.8,8th,14,18,43.8,auto,N,0,1,1st,14,19,42.4
+2007,Duke,1,Atlantic Coast,14,0,100,1st,30,1,96.8,at-large,N,2,1,RSF,32,2,94.1
+2007,East Carolina,13,Conference USA,11,5,68.8,3rd,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2007,Florida St.,10,Atlantic Coast,10,4,71.4,T3rd,22,9,71,at-large,N,2,1,RSF,24,10,70.6
+2007,George Washington,5,Atlantic 10,14,0,100,1st,26,3,89.7,at-large,N,2,1,RSF,28,4,87.5
+2007,Georgia,3,Southeastern,11,3,78.6,2nd,25,6,80.6,at-large,N,2,1,RSF,27,7,79.4
+2007,Georgia Tech,7,Atlantic Coast,9,5,64.3,6th,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+2007,Gonzaga,12,West Coast,13,1,92.9,1st,24,9,72.7,auto,N,0,1,1st,24,10,70.6
+2007,Green Bay,9,Horizon,16,0,100,1st,28,3,90.3,auto,N,1,1,2nd,29,4,87.9
+2007,Harvard,15,Ivy,13,1,92.9,1st,15,12,55.6,auto,N,0,1,1st,15,13,53.6
+2007,Holy Cross,16,Patriot,7,7,50,3rd,15,17,46.9,auto,N,0,1,1st,15,18,45.5
+2007,Idaho St.,15,Big Sky,11,5,68.8,T2nd,17,13,56.7,auto,N,0,1,1st,17,14,54.8
+2007,Iowa St.,6,Big 12,10,6,62.5,T4th,25,8,75.8,at-large,N,1,1,2nd,26,9,74.3
+2007,James Madison,9,Colonial,16,2,88.9,T2nd,27,5,84.4,at-large,N,0,1,1st,27,6,81.8
+2007,Louisiana,11,Sun Belt,14,4,77.8,1st,25,8,75.8,at-large,N,0,1,1st,25,9,73.5
+2007,Louisville,6,Big East,10,6,62.5,T4th,26,7,78.8,at-large,N,1,1,2nd,27,8,77.1
+2007,LSU,3,Southeastern,10,4,71.4,T3rd,26,7,78.8,at-large,N,4,1,NSF,30,8,78.9
+2007,Marist,13,Metro Atlantic,17,1,94.4,1st,27,5,84.4,auto,N,2,1,RSF,29,6,82.9
+2007,Marquette,6,Big East,12,4,75,2nd,25,6,80.6,at-large,N,1,1,2nd,26,7,78.8
+2007,Maryland,2,Atlantic Coast,10,4,71.4,T3rd,27,5,84.4,at-large,N,1,1,2nd,28,6,82.4
+2007,Michigan St.,5,Big Ten,13,3,81.3,3rd,23,8,74.2,at-large,Y,1,1,2nd,24,9,72.7
+2007,Middle Tenn.,5,Sun Belt,18,0,100,1st,29,3,90.6,auto,N,1,1,2nd,30,4,88.2
+2007,NC State,4,Atlantic Coast,10,4,71.4,T3rd,23,9,71.9,at-large,Y,2,1,RSF,25,10,71.4
+2007,Nebraska,9,Big 12,10,6,62.5,T4th,22,9,71,at-large,N,0,1,1st,22,10,68.8
+2007,New Mexico,8,Mountain West,11,5,68.8,T2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2007,North Carolina,1,Atlantic Coast,11,3,78.6,2nd,30,3,90.9,auto,N,4,1,NSF,34,4,89.5
+2007,Notre Dame,9,Big East,10,6,62.5,T5th,19,11,63.3,at-large,N,1,1,2nd,20,12,62.5
+2007,Ohio St.,4,Big Ten,15,1,93.8,1st,28,3,90.3,at-large,N,0,1,1st,28,4,87.5
+2007,Oklahoma,3,Big 12,13,3,81.3,T1st,26,4,86.7,auto,N,2,1,RSF,28,5,84.8
+2007,Oklahoma St.,10,Big 12,8,8,50,6th,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+2007,Old Dominion,7,Colonial,17,1,94.4,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2007,Ole Miss,7,Southeastern,9,5,64.3,5th,21,10,67.7,at-large,N,3,1,RF,24,11,68.6
+2007,Oral Roberts,15,Mid-Continent,8,6,57.1,3rd,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2007,Pittsburgh,8,Big East,10,6,62.5,T5th,23,8,74.2,at-large,Y,1,1,2nd,24,9,72.7
+2007,Prairie View,16,Southwestern,14,4,77.8,T1st,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2007,Purdue,2,Big Ten,14,2,87.5,2nd,28,5,84.8,auto,N,3,1,RF,31,6,83.8
+2007,Robert Morris,13,Northeast,15,3,83.3,T1st,24,7,77.4,auto,N,0,1,1st,24,8,75
+2007,Rutgers,4,Big East,12,4,75,T2nd,22,8,73.3,auto,N,5,1,N2nd,27,9,75
+2007,Southeast Mo. St.,14,Ohio Valley,16,4,80,1st,24,7,77.4,auto,N,0,1,1st,24,8,75
+2007,Stanford,2,Pacific-10,17,1,94.4,1st,28,4,87.5,auto,Y,1,1,2nd,29,5,85.3
+2007,TCU,10,Mountain West,11,5,68.8,T2nd,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2007,Temple,8,Atlantic 10,13,1,92.9,2nd,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+2007,Tennessee,1,Southeastern,14,0,100,1st,28,3,90.3,at-large,N,6,0,Champ,34,3,91.9
+2007,Texas A&M,4,Big 12,13,3,81.3,T1st,24,6,80,at-large,N,1,1,2nd,25,7,78.1
+2007,UC Riverside,14,Big West,12,2,85.7,1st,21,10,67.7,auto,N,0,1,1st,21,11,65.6
+2007,UConn,1,Big East,16,0,100,1st,29,3,90.6,at-large,N,3,1,RF,32,4,88.9
+2007,UMBC,16,America East,6,10,37.5,7th,16,16,50,auto,N,0,1,1st,16,17,48.5
+2007,Asheville,14,Big South,9,5,64.3,T4th,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2007,UT Arlington,13,Southland,16,0,100,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2007,Vanderbilt,2,Southeastern,10,4,71.4,T3rd,27,5,84.4,auto,N,1,1,2nd,28,6,82.4
+2007,Washington,11,Pacific-10,11,7,61.1,4th,18,12,60,at-large,N,0,1,1st,18,13,58.1
+2007,West Virginia,11,Big East,11,5,68.8,4th,20,10,66.7,at-large,N,1,1,2nd,21,11,65.6
+2007,Xavier,6,Atlantic 10,11,3,78.6,3rd,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2008,Arizona St.,6,Pacific-10,14,4,77.8,3rd,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2008,Auburn,11,Southeastern,7,7,50,6th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2008,Baylor,3,Big 12,12,4,75,2nd,24,6,80,at-large,N,1,1,2nd,25,7,78.1
+2008,Bucknell,16,Patriot,8,6,57.1,5th,16,15,51.6,auto,N,0,1,1st,16,16,50
+2008,California,3,Pacific-10,15,3,83.3,2nd,26,6,81.3,at-large,N,1,1,2nd,27,7,79.4
+2008,Chattanooga,12,Southern,18,0,100,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2008,Cleveland St.,15,Horizon,10,8,55.6,T4th,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2008,Coppin St.,16,Mid-Eastern,13,3,81.3,2nd,22,11,66.7,auto,N,0,1,1st,22,12,64.7
+2008,Cornell,16,Ivy,11,3,78.6,T1st,20,8,71.4,auto,N,0,1,1st,20,9,69
+2008,DePaul,10,Big East,8,8,50,T8th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2008,Duke,3,Atlantic Coast,10,4,71.4,T3rd,23,9,71.9,at-large,N,2,1,RSF,25,10,71.4
+2008,ETSU,14,Atlantic Sun,14,2,87.5,1st,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2008,Florida St.,11,Atlantic Coast,7,7,50,T5th,18,13,58.1,at-large,N,1,1,2nd,19,14,57.6
+2008,Fresno St.,14,Western Athletic,14,2,87.5,T1st,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2008,George Washington,6,Atlantic 10,12,2,85.7,T1st,25,6,80.6,at-large,N,2,1,RSF,27,7,79.4
+2008,Georgia,8,Southeastern,8,6,57.1,T4th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2008,Georgia Tech,10,Atlantic Coast,7,7,50,T5th,22,9,71,at-large,N,0,1,1st,22,10,68.8
+2008,Hartford,10,America East,14,2,87.5,1st,27,5,84.4,auto,N,1,1,2nd,28,6,82.4
+2008,Illinois St.,13,Missouri Valley,13,5,72.2,T1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2008,Iowa,9,Big Ten,13,5,72.2,T1st,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2008,Iowa St.,7,Big 12,7,9,43.8,T7th,20,12,62.5,at-large,N,1,1,2nd,21,13,61.8
+2008,Jackson St.,15,Southwestern,13,5,72.2,2nd,18,13,58.1,auto,N,0,1,1st,18,14,56.3
+2008,Kansas St.,5,Big 12,13,3,81.3,1st,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2008,Liberty,12,Big South,11,1,91.7,1st,28,3,90.3,auto,N,0,1,1st,28,4,87.5
+2008,Louisville,4,Big East,10,6,62.5,T5th,24,9,72.7,at-large,N,2,1,RSF,26,10,72.2
+2008,LSU,2,Southeastern,14,0,100,1st,27,5,84.4,at-large,Y,4,1,NSF,31,6,83.8
+2008,Marist,7,Metro Atlantic,18,0,100,1st,31,2,93.9,auto,N,1,1,2nd,32,3,91.4
+2008,Maryland,1,Atlantic Coast,13,1,92.9,2nd,30,3,90.9,at-large,Y,3,1,RF,33,4,89.2
+2008,Miami (OH),13,Mid-American,12,4,75,2nd,23,10,69.7,auto,N,0,1,1st,23,11,67.6
+2008,Minnesota,9,Big Ten,11,7,61.1,T3rd,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2008,Montana,13,Big Sky,13,3,81.3,1st,25,6,80.6,auto,N,0,1,1st,25,7,78.1
+2008,Murray St.,14,Ohio Valley,15,5,75,T2nd,24,7,77.4,auto,N,0,1,1st,24,8,75
+2008,Nebraska,8,Big 12,9,7,56.3,6th,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+2008,New Mexico,12,Mountain West,9,7,56.3,4th,20,12,62.5,auto,Y,0,1,1st,20,13,60.6
+2008,North Carolina,1,Atlantic Coast,14,0,100,1st,30,2,93.8,auto,N,3,1,RF,33,3,91.7
+2008,Notre Dame,5,Big East,11,5,68.8,4th,23,8,74.2,at-large,N,2,1,RSF,25,9,73.5
+2008,Ohio St.,6,Big Ten,13,5,72.2,T1st,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2008,Oklahoma,4,Big 12,11,5,68.8,T3rd,21,8,72.4,at-large,N,1,1,2nd,22,9,71
+2008,Oklahoma St.,3,Big 12,11,5,68.8,T3rd,25,7,78.1,at-large,N,2,1,RSF,27,8,77.1
+2008,Old Dominion,5,Colonial,17,1,94.4,1st,29,4,87.9,auto,Y,2,1,RSF,31,5,86.1
+2008,Oral Roberts,16,Summit,10,8,55.6,6th,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2008,Pittsburgh,6,Big East,10,6,62.5,T5th,22,10,68.8,at-large,N,2,1,RSF,24,11,68.6
+2008,Purdue,9,Big Ten,11,7,61.1,T3rd,18,14,56.3,auto,Y,1,1,2nd,19,15,55.9
+2008,Robert Morris,15,Northeast,16,2,88.9,T1st,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2008,Rutgers,2,Big East,14,2,87.5,2nd,24,6,80,at-large,N,3,1,RF,27,7,79.4
+2008,San Diego,14,West Coast,7,7,50,T3rd,19,12,61.3,auto,N,0,1,1st,19,13,59.4
+2008,SMU,12,Conference USA,11,5,68.8,2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2008,Stanford,2,Pacific-10,16,2,88.9,1st,30,3,90.9,auto,Y,5,1,N2nd,35,4,89.7
+2008,Syracuse,7,Big East,10,6,62.5,T5th,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2008,Temple,11,Atlantic 10,12,2,85.7,T1st,21,12,63.6,at-large,N,0,1,1st,21,13,61.8
+2008,Tennessee,1,Southeastern,13,1,92.9,2nd,30,2,93.8,auto,N,6,0,Champ,36,2,94.7
+2008,Texas,8,Big 12,7,9,43.8,T7th,21,12,63.6,at-large,N,1,1,2nd,22,13,62.9
+2008,Texas A&M,2,Big 12,11,5,68.8,T3rd,26,7,78.8,auto,N,3,1,RF,29,8,78.4
+2008,UC Santa Barbara,13,Big West,15,1,93.8,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2008,UConn,1,Big East,15,1,93.8,1st,32,1,97,auto,N,4,1,NSF,36,2,94.7
+2008,Utah,8,Mountain West,16,0,100,1st,27,4,87.1,at-large,N,0,1,1st,27,5,84.4
+2008,UTEP,7,Conference USA,16,0,100,1st,27,3,90,at-large,N,1,1,2nd,28,4,87.5
+2008,UTSA,15,Southland,12,4,75,3rd,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2008,Vanderbilt,4,Southeastern,11,3,78.6,3rd,23,8,74.2,at-large,N,2,1,RSF,25,9,73.5
+2008,Virginia,4,Atlantic Coast,10,4,71.4,T3rd,23,9,71.9,at-large,N,1,1,2nd,24,10,70.6
+2008,West Virginia,5,Big East,12,4,75,3rd,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+2008,Western Ky.,10,Sun Belt,16,2,88.9,1st,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2008,Wyoming,11,Mountain West,12,4,75,3rd,24,6,80,at-large,N,0,1,1st,24,7,77.4
+2008,Xavier,9,Atlantic 10,11,3,78.6,3rd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2009,Arizona St.,6,Pacific-10,15,3,83.3,3rd,23,8,74.2,at-large,N,3,1,RF,26,9,74.3
+2009,Auburn,2,Southeastern,12,2,85.7,1st,29,3,90.6,at-large,Y,1,1,2nd,30,4,88.2
+2009,Austin Peay,16,Ohio Valley,10,8,55.6,T5th,17,15,53.1,auto,N,0,1,1st,17,16,51.5
+2009,Ball St.,12,Mid-American,14,2,87.5,1st,25,8,75.8,auto,N,1,1,2nd,26,9,74.3
+2009,Baylor,2,Big 12,12,4,75,2nd,27,5,84.4,auto,N,2,1,RSF,29,6,82.9
+2009,California,4,Pacific-10,15,3,83.3,2nd,25,6,80.6,at-large,N,2,1,RSF,27,8,77.1
+2009,Charlotte,11,Atlantic 10,13,1,92.9,T2nd,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2009,Dartmouth,16,Ivy,13,1,92.9,1st,18,10,64.3,auto,N,0,1,1st,18,11,62.1
+2009,DePaul,7,Big East,10,6,62.5,5th,23,9,71.9,at-large,N,0,1,1st,23,10,69.7
+2009,Drexel,12,Colonial,16,2,88.9,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2009,Duke,1,Atlantic Coast,11,3,78.6,3rd,26,5,83.9,at-large,N,1,1,2nd,27,6,81.8
+2009,ETSU,13,Atlantic Sun,16,4,80,2nd,20,10,66.7,auto,N,0,1,1st,20,11,64.5
+2009,Evansville,15,Missouri Valley,4,14,22.2,9th,15,18,45.5,auto,N,0,1,1st,15,19,44.1
+2009,Florida,8,Southeastern,9,5,64.3,T4th,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2009,Florida St.,3,Atlantic Coast,12,2,85.7,T1st,25,7,78.1,at-large,N,1,1,2nd,26,8,76.5
+2009,Fresno St.,13,Western Athletic,12,4,75,T1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2009,Georgia,11,Southeastern,7,7,50,7th,18,13,58.1,at-large,Y,0,1,1st,18,14,56.3
+2009,Georgia Tech,9,Atlantic Coast,8,6,57.1,6th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2009,Gonzaga,12,West Coast,12,2,85.7,1st,26,6,81.3,auto,N,1,1,2nd,27,7,79.4
+2009,Green Bay,11,Horizon,18,0,100,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2009,Iowa,8,Big Ten,13,5,72.2,T2nd,21,10,67.7,at-large,Y,0,1,1st,21,11,65.6
+2009,Iowa St.,4,Big 12,11,5,68.8,T3rd,24,8,75,at-large,N,3,1,RF,27,9,75
+2009,Kansas St.,5,Big 12,10,6,62.5,5th,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+2009,Lehigh,15,Patriot,12,2,85.7,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2009,Liberty,14,Big South,15,1,93.8,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2009,Louisville,3,Big East,14,2,87.5,2nd,29,4,87.9,at-large,N,5,1,N2nd,34,5,87.2
+2009,LSU,6,Southeastern,10,4,71.4,T2nd,18,10,64.3,at-large,Y,1,1,2nd,19,11,63.3
+2009,Marist,12,Metro Atlantic,16,2,88.9,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2009,Maryland,1,Atlantic Coast,12,2,85.7,T1st,28,4,87.5,auto,Y,3,1,RF,31,5,86.1
+2009,Michigan St.,9,Big Ten,13,5,72.2,T2nd,20,10,66.7,at-large,Y,2,1,RSF,22,11,66.7
+2009,Middle Tenn.,8,Sun Belt,17,1,94.4,1st,28,5,84.8,auto,N,0,1,1st,28,6,82.4
+2009,Minnesota,10,Big Ten,11,7,61.1,T5th,19,11,63.3,at-large,N,1,1,2nd,20,12,62.5
+2009,Mississippi St.,11,Southeastern,8,6,57.1,6th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2009,Montana,13,Big Sky,15,1,93.8,1st,28,4,87.5,auto,N,0,1,1st,28,5,84.8
+2009,NC A&T,14,Mid-Eastern,15,1,93.8,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2009,North Carolina,3,Atlantic Coast,10,4,71.4,4th,27,6,81.8,at-large,N,1,1,2nd,28,7,80
+2009,Notre Dame,7,Big East,10,6,62.5,T4th,22,8,73.3,at-large,Y,0,1,1st,22,9,71
+2009,Ohio St.,3,Big Ten,15,3,83.3,1st,27,5,84.4,auto,Y,2,1,RSF,29,6,82.9
+2009,Oklahoma,1,Big 12,15,1,93.8,1st,28,4,87.5,at-large,N,4,1,NSF,32,5,86.5
+2009,Pittsburgh,4,Big East,12,4,75,3rd,23,7,76.7,at-large,N,2,1,RSF,25,8,75.8
+2009,Prairie View,16,Southwestern,17,1,94.4,1st,23,10,69.7,auto,N,0,1,1st,23,11,67.6
+2009,Purdue,6,Big Ten,13,5,72.2,T2nd,22,10,68.8,at-large,N,3,1,RF,25,11,69.4
+2009,Rutgers,7,Big East,9,7,56.3,7th,19,12,61.3,at-large,Y,2,1,RSF,21,13,61.8
+2009,Sacred Heart,14,Northeast,18,0,100,1st,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2009,San Diego St.,10,Mountain West,13,3,81.3,T1st,23,7,76.7,at-large,Y,1,1,2nd,24,8,75
+2009,South Dakota St.,7,Summit,17,1,94.4,1st,31,2,93.9,auto,N,1,1,2nd,32,3,91.4
+2009,Stanford,2,Pacific-10,17,1,94.4,1st,29,4,87.9,auto,N,4,1,NSF,33,5,86.8
+2009,TCU,10,Mountain West,12,4,75,3rd,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+2009,Temple,9,Atlantic 10,11,3,78.6,T2nd,21,9,70,at-large,N,0,1,1st,21,10,67.7
+2009,Tennessee,5,Southeastern,9,5,64.3,T4th,22,10,68.8,at-large,N,0,1,1st,22,11,66.7
+2009,Texas,6,Big 12,8,8,50,6th,21,11,65.6,at-large,N,0,1,1st,21,12,63.6
+2009,Texas A&M,2,Big 12,11,5,68.8,T3rd,25,7,78.1,at-large,N,2,1,RSF,27,8,77.1
+2009,UC Santa Barbara,15,Big West,15,1,93.8,1st,22,9,71,auto,N,0,1,1st,22,10,68.8
+2009,UCF,14,Conference USA,11,5,68.8,T2nd,17,16,51.5,auto,N,0,1,1st,17,17,50
+2009,UConn,1,Big East,16,0,100,1st,33,0,100,auto,Y,6,0,Champ,39,0,100
+2009,Utah,9,Mountain West,13,3,81.3,T1st,22,9,71,auto,N,1,1,2nd,23,10,69.7
+2009,UTSA,15,Southland,14,2,87.5,T1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2009,Vanderbilt,4,Southeastern,10,4,71.4,T2nd,24,8,75,auto,N,2,1,RSF,26,9,74.3
+2009,VCU,10,Colonial,15,3,83.3,2nd,26,6,81.3,at-large,N,0,1,1st,26,7,78.8
+2009,Vermont,16,America East,12,4,75,3rd,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2009,Villanova,8,Big East,10,6,62.5,T4th,19,13,59.4,at-large,N,0,1,1st,19,14,57.6
+2009,Virginia,5,Atlantic Coast,8,6,57.1,T5th,23,9,71.9,at-large,N,1,1,2nd,24,10,70.6
+2009,Western Carolina,13,Southern,14,6,70,T3rd,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2009,Xavier,5,Atlantic 10,13,1,92.9,1st,25,6,80.6,at-large,N,0,1,1st,25,7,78.1
+2010,Austin Peay,16,Ohio Valley,11,7,61.1,3rd,15,17,46.9,auto,N,0,1,1st,15,18,45.5
+2010,Baylor,4,Big 12,9,7,56.3,T6th,23,9,71.9,at-large,N,4,1,NSF,27,10,73
+2010,Bowling Green,12,Mid-American,14,2,87.5,1st,27,6,81.8,auto,N,0,1,1st,27,7,79.4
+2010,Chattanooga,13,Southern,16,4,80,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2010,Cleveland St.,15,Horizon,11,7,61.1,4th,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2010,Dayton,8,Atlantic 10,11,3,78.6,T2nd,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+2010,DePaul,11,Big East,9,7,56.3,T6th,21,11,65.6,at-large,N,0,1,1st,21,12,63.6
+2010,Duke,2,Atlantic Coast,12,2,85.7,1st,27,5,84.4,auto,Y,3,1,RF,30,6,83.3
+2010,ETSU,14,Atlantic Sun,18,2,90,1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2010,Florida St.,3,Atlantic Coast,12,2,85.7,2nd,26,5,83.9,at-large,Y,3,1,RF,29,6,82.9
+2010,Fresno St.,13,Western Athletic,16,0,100,1st,27,6,81.8,at-large,N,0,1,1st,27,7,79.4
+2010,Georgetown,5,Big East,13,3,81.3,T2nd,25,6,80.6,at-large,N,1,1,2nd,26,7,78.8
+2010,Georgia,5,Southeastern,9,7,56.3,T3rd,23,8,74.2,at-large,N,2,1,RSF,25,9,73.5
+2010,Georgia Tech,6,Atlantic Coast,8,6,57.1,4th,23,9,71.9,at-large,N,0,1,1st,23,10,69.7
+2010,Gonzaga,7,West Coast,14,0,100,1st,27,4,87.1,auto,N,2,1,RSF,29,5,85.3
+2010,Green Bay,12,Horizon,15,3,83.3,1st,27,4,87.1,at-large,N,1,1,2nd,28,5,84.8
+2010,Hampton,15,Mid-Eastern,12,4,75,T2nd,20,11,64.5,auto,N,0,1,1st,20,12,62.5
+2010,Hartford,10,America East,16,0,100,1st,27,4,87.1,at-large,N,0,1,1st,27,5,84.4
+2010,Iowa,8,Big Ten,10,8,55.6,T3rd,19,13,59.4,at-large,N,1,1,2nd,20,14,58.8
+2010,Iowa St.,4,Big 12,11,5,68.8,T2nd,23,7,76.7,at-large,Y,2,1,RSF,25,8,75.8
+2010,James Madison,9,Colonial,13,5,72.2,2nd,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2010,Kentucky,4,Southeastern,11,5,68.8,2nd,25,7,78.1,at-large,N,3,1,RF,28,8,77.8
+2010,Lamar,14,Southland,13,3,81.3,1st,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2010,Lehigh,13,Patriot,13,1,92.9,T1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2010,Liberty,13,Big South,14,2,87.5,2nd,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+2010,Little Rock,11,Sun Belt,17,1,94.4,T1st,26,6,81.3,at-large,N,1,1,2nd,27,7,79.4
+2010,Louisiana Tech,14,Western Athletic,11,5,68.8,1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2010,LSU,7,Southeastern,9,7,56.3,T3rd,20,9,69,at-large,N,1,1,2nd,21,10,67.7
+2010,Marist,12,Metro Atlantic,15,3,83.3,1st,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2010,Michigan St.,5,Big Ten,12,6,66.7,2nd,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2010,Middle Tenn.,10,Sun Belt,17,1,94.4,T1st,25,5,83.3,auto,N,0,1,1st,25,6,80.6
+2010,Mississippi St.,7,Southeastern,9,7,56.3,T3rd,19,12,61.3,at-large,N,2,1,RSF,21,13,61.8
+2010,NC State,9,Atlantic Coast,7,7,50,T5th,20,13,60.6,at-large,N,0,1,1st,20,14,58.8
+2010,Nebraska,1,Big 12,16,0,100,1st,30,1,96.8,at-large,Y,2,1,RSF,32,2,94.1
+2010,North Carolina,10,Atlantic Coast,6,8,42.9,T7th,19,11,63.3,at-large,N,0,1,1st,19,12,61.3
+2010,Notre Dame,2,Big East,12,4,75,T4th,27,5,84.4,at-large,Y,2,1,RSF,29,6,82.9
+2010,Ohio St.,2,Big Ten,15,3,83.3,1st,30,4,88.2,auto,N,1,1,2nd,31,5,86.1
+2010,Oklahoma,3,Big 12,11,5,68.8,T2nd,23,10,69.7,at-large,Y,4,1,NSF,27,11,71.1
+2010,Oklahoma St.,4,Big 12,9,7,56.3,T6th,23,10,69.7,at-large,N,1,1,2nd,24,11,68.6
+2010,Portland St.,15,Big Sky,9,7,56.3,T5th,18,14,56.3,auto,N,0,1,1st,18,15,54.5
+2010,Princeton,11,Ivy,13,1,92.9,1st,26,2,92.9,auto,N,0,1,1st,26,3,89.7
+2010,Rutgers,9,Big East,9,7,56.3,T6th,19,14,57.6,at-large,N,0,1,1st,19,15,55.9
+2010,Saint Francis (PA),15,Northeast,11,7,61.1,T4th,17,14,54.8,auto,N,0,1,1st,17,15,53.1
+2010,San Diego St.,11,Mountain West,10,6,62.5,T3rd,21,10,67.7,auto,N,2,1,RSF,23,11,67.6
+2010,South Dakota St.,14,Summit,14,4,77.8,T2nd,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2010,Southern,16,Southwestern,14,4,77.8,1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2010,St. John's (NY),6,Big East,12,4,75,T4th,24,6,80,at-large,N,1,1,2nd,25,7,78.1
+2010,Stanford,1,Pacific-10,18,0,100,1st,31,1,96.9,auto,Y,5,1,N2nd,36,2,94.7
+2010,TCU,9,Mountain West,12,4,75,1st,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2010,Temple,8,Atlantic 10,11,3,78.6,T2nd,24,8,75,at-large,N,1,1,2nd,25,9,73.5
+2010,Tennessee,1,Southeastern,15,1,93.8,1st,30,2,93.8,auto,Y,2,1,RSF,32,3,91.4
+2010,Texas,6,Big 12,10,6,62.5,T4th,22,10,68.8,at-large,Y,0,1,1st,22,11,66.7
+2010,Texas A&M,2,Big 12,10,6,62.5,T4th,25,7,78.1,auto,N,1,1,2nd,26,8,76.5
+2010,Tulane,12,Conference USA,12,4,75,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2010,UC Riverside,16,Big West,11,5,68.8,T2nd,17,15,53.1,auto,N,0,1,1st,17,16,51.5
+2010,UCLA,8,Pacific-10,15,3,83.3,2nd,24,8,75,at-large,N,1,1,2nd,25,9,73.5
+2010,UConn,1,Big East,16,0,100,1st,33,0,100,auto,N,6,0,Champ,39,0,100
+2010,UNI,16,Missouri Valley,10,8,55.6,T5th,17,15,53.1,auto,N,0,1,1st,17,16,51.5
+2010,Vanderbilt,6,Southeastern,9,7,56.3,T3rd,22,10,68.8,at-large,N,1,1,2nd,23,11,67.6
+2010,Vermont,10,America East,13,3,81.3,2nd,26,6,81.3,auto,N,1,1,2nd,27,7,79.4
+2010,Virginia,5,Atlantic Coast,9,5,64.3,3rd,21,9,70,at-large,N,0,1,1st,21,10,67.7
+2010,West Virginia,3,Big East,13,3,81.3,T2nd,28,5,84.8,at-large,N,1,1,2nd,29,6,82.9
+2010,Wisconsin,7,Big Ten,10,8,55.6,T3rd,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2010,Xavier,3,Atlantic 10,14,0,100,1st,27,3,90,auto,Y,3,1,RF,30,4,88.2
+2011,Arizona St.,7,Pacific-10,11,7,61.1,3rd,20,10,66.7,at-large,N,0,1,1st,20,11,64.5
+2011,Baylor,1,Big 12,15,1,93.8,1st,31,2,93.9,auto,Y,3,1,RF,34,3,91.9
+2011,Bowling Green,12,Mid-American,13,3,81.3,1st,28,4,87.5,auto,N,0,1,1st,28,5,84.8
+2011,Dayton,11,Atlantic 10,9,5,64.3,T3rd,21,11,65.6,at-large,N,0,1,1st,21,12,63.6
+2011,DePaul,3,Big East,13,3,81.3,T2nd,27,6,81.8,at-large,N,2,1,RSF,29,7,80.6
+2011,Duke,2,Atlantic Coast,12,2,85.7,T1st,29,3,90.6,auto,Y,3,1,RF,32,4,88.9
+2011,Florida St.,3,Atlantic Coast,11,3,78.6,3rd,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2011,Fresno St.,12,Western Athletic,14,2,87.5,2nd,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2011,Gardner-Webb,14,Big South,11,5,68.8,T2nd,23,10,69.7,auto,N,0,1,1st,23,11,67.6
+2011,Georgetown,5,Big East,9,7,56.3,T8th,23,8,74.2,at-large,N,2,1,RSF,24,11,68.6
+2011,Georgia,6,Southeastern,10,6,62.5,T3rd,21,10,67.7,at-large,N,2,1,RSF,23,11,67.6
+2011,Georgia Tech,5,Atlantic Coast,9,5,64.3,T3rd,23,10,69.7,at-large,N,1,1,2nd,24,11,68.6
+2011,Gonzaga,11,West Coast,14,0,100,1st,28,4,87.5,auto,Y,3,1,RF,31,5,86.1
+2011,Green Bay,5,Horizon,18,0,100,1st,32,1,97,auto,N,2,1,RSF,34,2,94.4
+2011,Hampton,13,Mid-Eastern,15,1,93.8,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2011,Hartford,16,America East,11,5,68.8,T3rd,17,15,53.1,auto,N,0,1,1st,17,16,51.5
+2011,Houston,8,Conference USA,16,0,100,1st,26,5,83.9,at-large,N,0,1,1st,26,6,81.3
+2011,Iowa,6,Big Ten,10,6,62.5,T3rd,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2011,Iowa St.,7,Big 12,9,7,56.3,4th,22,10,68.8,at-large,N,0,1,1st,22,11,66.7
+2011,James Madison,11,Colonial,16,2,88.9,1st,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2011,Kansas St.,8,Big 12,10,6,62.5,T3rd,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2011,Kentucky,4,Southeastern,11,5,68.8,2nd,24,8,75,at-large,N,1,1,2nd,25,9,73.5
+2011,Little Rock,12,Sun Belt,14,2,87.5,1st,23,7,76.7,auto,N,0,1,1st,23,8,74.2
+2011,Louisiana Tech,10,Western Athletic,15,1,93.8,1st,24,7,77.4,at-large,N,0,1,1st,24,8,75
+2011,Louisville,7,Big East,10,6,62.5,T4th,20,12,62.5,at-large,N,2,1,RSF,22,13,62.9
+2011,Marist,10,Metro Atlantic,18,0,100,1st,30,2,93.8,auto,N,1,1,2nd,31,3,91.2
+2011,Marquette,8,Big East,10,6,62.5,T4th,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+2011,Maryland,4,Atlantic Coast,9,5,64.3,T3rd,23,7,76.7,at-large,Y,1,1,2nd,24,8,75
+2011,McNeese,15,Southland,15,1,93.8,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2011,Miami (FL),3,Atlantic Coast,12,2,85.7,T1st,27,4,87.1,at-large,N,1,1,2nd,28,5,84.8
+2011,Michigan St.,4,Big Ten,13,3,81.3,1st,26,5,83.9,at-large,N,1,1,2nd,27,6,81.8
+2011,Middle Tenn.,11,Sun Belt,14,2,87.5,1st,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+2011,Montana,14,Big Sky,10,6,62.5,3rd,18,14,56.3,auto,N,0,1,1st,18,15,54.5
+2011,Navy,3,Patriot,10,4,71.4,1st,20,11,64.5,auto,N,0,1,1st,20,12,62.5
+2011,North Carolina,5,Atlantic Coast,8,6,57.1,4th,25,8,75.8,at-large,N,2,1,RSF,27,9,75
+2011,Notre Dame,2,Big East,13,3,81.3,T2nd,26,7,78.8,at-large,N,5,1,N2nd,31,8,79.5
+2011,Ohio St.,4,Big Ten,10,6,62.5,T3rd,22,9,71,auto,Y,2,1,RSF,24,10,70.6
+2011,Oklahoma,6,Big 12,10,6,62.5,T3rd,21,11,65.6,at-large,N,2,1,RSF,23,12,65.7
+2011,Penn St.,6,Big Ten,11,5,68.8,2nd,24,9,72.7,at-large,Y,1,1,2nd,25,10,71.4
+2011,Prairie View,16,Southwestern,14,4,77.8,2nd,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2011,Princeton,12,Ivy,13,1,92.9,1st,24,4,85.7,auto,N,0,1,1st,24,5,82.8
+2011,Purdue,11,Big Ten,9,7,56.3,4th,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+2011,Rutgers,7,Big East,11,5,68.8,3rd,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+2011,Saint Francis (PA),13,Northeast,14,4,77.8,1st,22,11,66.7,auto,N,0,1,1st,22,12,64.7
+2011,Samford,14,Southern,15,5,75,1st,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2011,South Dakota St.,15,Summit,12,6,66.7,T3rd,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2011,St. John's (NY),9,Big East,9,7,56.3,T5th,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2011,Stanford,1,Pacific-10,18,0,100,1st,29,2,93.5,auto,Y,4,1,NSF,33,3,91.7
+2011,Stetson,16,Atlantic Sun,14,7,66.7,3rd,20,12,62.5,auto,N,0,1,1st,20,13,60.6
+2011,Temple,10,Atlantic 10,13,1,92.9,2nd,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+2011,Tennessee,1,Southeastern,16,0,100,1st,31,2,93.9,auto,Y,3,1,RF,34,3,91.9
+2011,Texas,9,Big 12,7,9,43.8,6th,19,13,59.4,at-large,N,0,1,1st,19,14,57.6
+2011,Texas A&M,2,Big 12,13,8,61.9,2nd,27,5,84.4,at-large,N,6,0,Champ,33,5,86.8
+2011,Texas Tech,8,Big 12,8,8,50,5th,22,10,68.8,at-large,N,0,1,1st,22,11,66.7
+2011,UC Davis,16,Big West,10,6,62.5,3rd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2011,UCF,13,Conference USA,12,4,75,2nd,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2011,UCLA,3,Pacific-10,16,2,88.9,2nd,27,4,87.1,at-large,N,1,1,2nd,28,5,84.8
+2011,UConn,1,Big East,16,0,100,1st,32,1,97,auto,Y,4,1,NSF,36,2,94.7
+2011,UNI,13,Missouri Valley,17,1,94.4,1st,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+2011,UT Martin,15,Ohio Valley,14,4,77.8,2nd,21,10,67.7,auto,N,0,1,1st,21,11,65.6
+2011,Utah,15,Mountain West,7,9,43.8,4th,18,16,52.9,auto,Y,0,1,1st,18,17,51.4
+2011,Vanderbilt,10,Southeastern,10,6,62.5,T3rd,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2011,West Virginia,9,Big East,8,8,50,6th,23,9,71.9,at-large,N,1,1,2nd,24,10,70.6
+2011,Xavier,2,Atlantic 10,14,0,100,1st,28,2,93.3,auto,Y,1,1,2nd,30,3,90.9
+2012,Albany,14,America East,14,2,87.5,2nd,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2012,Arkansas,6,Southeastern,10,6,62.5,T4th,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+2012,Baylor,1,Big 12,18,0,100,1st,34,0,100,auto,N,6,0,Champ,40,0,100
+2012,BYU,10,West Coast,12,4,75,T2nd,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2012,California,8,Pac-12,13,5,72.2,2nd,24,9,72.7,at-large,N,1,1,2nd,25,10,71.4
+2012,Creighton,14,Missouri Valley,11,7,61.1,4th,20,12,62.5,auto,N,0,1,1st,20,13,60.6
+2012,Dayton,11,Atlantic 10,12,2,85.7,3rd,23,6,79.3,auto,N,0,1,1st,23,7,76.7
+2012,Delaware,3,Colonial,18,0,100,1st,30,1,96.8,auto,N,1,1,2nd,31,2,93.9
+2012,DePaul,7,Big East,9,7,56.3,8th,22,10,68.8,at-large,N,1,1,2nd,23,11,67.6
+2012,Duke,2,Atlantic Coast,15,1,93.8,1st,24,5,82.8,at-large,N,3,1,RF,27,6,81.8
+2012,Eastern Mich.,12,Mid-American,13,3,81.3,1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2012,FGCU,12,Atlantic Sun,18,0,100,1st,29,2,93.5,auto,N,0,1,1st,29,3,90.6
+2012,Florida,9,Southeastern,8,8,50,8th,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+2012,Fresno St.,12,Western Athletic,13,1,92.9,1st,28,5,84.8,auto,N,0,1,1st,28,6,82.4
+2012,Georgetown,5,Big East,11,5,68.8,4th,22,8,73.3,at-large,N,1,1,2nd,23,9,71.9
+2012,Georgia,4,Southeastern,11,5,68.8,3rd,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2012,Georgia Tech,4,Atlantic Coast,12,4,75,T3rd,24,8,75,at-large,N,2,1,RSF,26,9,74.3
+2012,Gonzaga,11,West Coast,14,2,87.5,1st,26,5,83.9,at-large,Y,2,1,RSF,28,6,82.4
+2012,Green Bay,7,Horizon,17,1,94.4,1st,30,1,96.8,auto,N,1,1,2nd,31,2,93.9
+2012,Hampton,16,Mid-Eastern,15,1,93.8,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2012,Idaho St.,14,Big Sky,14,2,87.5,1st,24,7,77.4,auto,N,0,1,1st,24,8,75
+2012,Iowa,9,Big Ten,11,5,68.8,T2nd,19,11,63.3,at-large,N,0,1,1st,19,12,61.3
+2012,Iowa St.,10,Big 12,9,9,50,T4th,18,12,60,at-large,Y,0,1,1st,18,13,58.1
+2012,Kansas,11,Big 12,8,10,44.4,T6th,19,12,61.3,at-large,N,2,1,RSF,21,13,61.8
+2012,Kansas St.,8,Big 12,9,9,50,T4th,19,13,59.4,at-large,N,1,1,2nd,20,14,58.8
+2012,Kentucky,2,Southeastern,13,3,81.3,1st,25,6,80.6,at-large,N,3,1,RF,28,7,80
+2012,Liberty,16,Big South,16,2,88.9,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2012,Little Rock,14,Sun Belt,12,4,75,1st,20,13,60.6,auto,Y,0,1,1st,20,14,58.8
+2012,Louisville,7,Big East,10,6,62.5,T6th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2012,LSU,5,Southeastern,10,6,62.5,T4th,22,10,68.8,at-large,Y,1,1,2nd,23,11,67.6
+2012,Marist,13,Metro Atlantic,17,1,94.4,1st,25,7,78.1,auto,N,1,1,2nd,26,8,76.5
+2012,Maryland,2,Atlantic Coast,12,4,75,T3rd,28,4,87.5,auto,Y,3,1,RF,31,5,86.1
+2012,McNeese,15,Southland,13,3,81.3,2nd,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2012,Miami (FL),3,Atlantic Coast,14,2,87.5,2nd,25,5,83.3,at-large,N,1,1,2nd,26,6,81.3
+2012,Michigan,11,Big Ten,8,8,50,7th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2012,Michigan St.,10,Big Ten,11,5,68.8,T2nd,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2012,Middle Tenn.,10,Sun Belt,16,0,100,1st,26,6,81.3,at-large,N,0,1,1st,26,7,78.8
+2012,Navy,15,Patriot,8,6,57.1,T3rd,18,13,58.1,auto,N,0,1,1st,18,14,56.3
+2012,Nebraska,6,Big Ten,10,6,62.5,6th,24,8,75,at-large,N,0,1,1st,24,9,72.7
+2012,Notre Dame,1,Big East,15,1,93.8,1st,30,3,90.9,at-large,Y,5,1,N2nd,35,4,89.7
+2012,Ohio St.,8,Big Ten,11,5,68.8,T2nd,25,6,80.6,at-large,N,0,1,1st,25,7,78.1
+2012,Oklahoma,6,Big 12,11,7,61.1,T2nd,20,12,62.5,at-large,Y,1,1,2nd,21,13,61.8
+2012,Penn St.,4,Big Ten,13,3,81.3,1st,24,6,80,at-large,N,2,1,RSF,26,7,78.8
+2012,Prairie View,16,Southwestern,11,7,61.1,T4th,17,15,53.1,auto,N,0,1,1st,17,16,51.5
+2012,Princeton,9,Ivy,14,0,100,1st,24,4,85.7,auto,N,0,1,1st,24,5,82.8
+2012,Purdue,4,Big Ten,11,5,68.8,T2nd,24,8,75,auto,Y,1,1,2nd,25,9,73.5
+2012,Rutgers,6,Big East,10,6,62.5,T6th,22,9,71,at-large,N,0,1,1st,22,10,68.8
+2012,Sacred Heart,13,Northeast,15,3,83.3,1st,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2012,Samford,15,Southern,12,8,60,T4th,20,12,62.5,auto,N,0,1,1st,20,13,60.6
+2012,San Diego St.,12,Mountain West,12,2,85.7,1st,25,6,80.6,auto,N,0,1,1st,25,7,78.1
+2012,South Carolina,5,Southeastern,10,6,62.5,T4th,23,9,71.9,at-large,N,2,1,RSF,25,10,71.4
+2012,South Dakota St.,13,Summit,16,2,88.9,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2012,St. Bonaventure,5,Atlantic 10,14,0,100,1st,29,3,90.6,at-large,N,2,1,RSF,31,4,88.6
+2012,St. John's (NY),3,Big East,13,3,81.3,T2nd,22,9,71,at-large,N,2,1,RSF,24,10,70.6
+2012,Stanford,1,Pac-12,18,0,100,1st,31,1,96.9,auto,N,4,1,NSF,35,2,94.6
+2012,Tennessee,2,Southeastern,12,4,75,2nd,24,8,75,auto,N,3,1,RF,27,9,75
+2012,Texas,9,Big 12,8,10,44.4,T6th,18,13,58.1,at-large,N,0,1,1st,18,14,56.3
+2012,Texas A&M,3,Big 12,11,7,61.1,T2nd,22,10,68.8,at-large,Y,2,1,RSF,24,11,68.6
+2012,UC Santa Barbara,16,Big West,8,8,50,6th,17,15,53.1,auto,N,0,1,1st,17,16,51.5
+2012,UConn,1,Big East,13,3,81.3,1st,29,4,87.9,auto,N,4,1,NSF,33,5,86.8
+2012,UT Martin,15,Ohio Valley,15,1,93.8,1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2012,UTEP,13,Conference USA,15,1,93.8,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2012,Vanderbilt,7,Southeastern,9,7,56.3,7th,22,9,71,at-large,Y,1,1,2nd,23,10,69.7
+2012,West Virginia,8,Big East,11,5,68.8,T4th,23,9,71.9,at-large,N,1,1,2nd,24,10,70.6
+2013,Albany,14,America East,16,0,100,1st,26,4,86.7,auto,N,0,1,1st,27,4,87.1
+2013,Baylor,1,Big 12,18,0,100,1st,32,1,97,auto,Y,2,1,RSF,34,2,94.4
+2013,Cal Poly,14,Big West,13,5,72.2,2nd,21,10,67.7,auto,N,0,1,1st,23,10,69.7
+2013,California,2,Pac-12,17,1,94.4,T1st,28,3,90.3,at-large,N,4,1,NSF,32,4,88.9
+2013,Central Mich.,11,Mid-American,12,4,75,2nd,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2013,Chattanooga,11,Southern,19,1,95,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2013,Colorado,5,Pac-12,13,5,72.2,4th,25,6,80.6,at-large,Y,0,1,1st,25,7,78.1
+2013,Creighton,10,Missouri Valley,15,3,83.3,1st,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+2013,Dayton,7,Atlantic 10,14,0,100,1st,27,2,93.1,at-large,N,1,1,2nd,31,2,93.9
+2013,Delaware,6,Colonial,18,0,100,1st,30,3,90.9,auto,Y,2,1,RSF,32,4,88.9
+2013,DePaul,10,Big East,9,7,56.3,T6th,21,11,65.6,at-large,N,0,1,1st,21,12,63.6
+2013,Duke,2,Atlantic Coast,17,1,94.4,1st,30,2,93.8,auto,Y,3,1,RF,33,3,91.7
+2013,Florida St.,8,Atlantic Coast,11,7,61.1,T4th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2013,Fresno St.,15,Mountain West,13,3,81.3,2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2013,Georgia,4,Southeastern,12,4,75,3rd,25,6,80.6,at-large,N,3,1,RF,28,7,80
+2013,Gonzaga,12,West Coast,15,1,93.8,1st,27,5,84.4,auto,Y,0,1,1st,27,6,81.8
+2013,Green Bay,11,Horizon,16,0,100,1st,29,2,93.5,auto,N,0,1,1st,29,3,90.6
+2013,Hampton,15,Mid-Eastern,16,0,100,1st,28,5,84.8,auto,N,0,1,1st,28,6,82.4
+2013,Idaho,16,Western Athletic,11,7,61.1,3rd,17,15,53.1,auto,N,0,1,1st,17,16,51.5
+2013,Iowa,9,Big Ten,8,8,50,7th,20,12,62.5,at-large,Y,1,1,2nd,21,13,61.8
+2013,Iowa St.,5,Big 12,12,6,66.7,2nd,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+2013,Kansas,12,Big 12,8,10,44.4,7th,18,13,58.1,at-large,N,2,1,RSF,20,14,58.8
+2013,Kentucky,2,Southeastern,13,3,81.3,2nd,27,5,84.4,at-large,N,3,1,RF,30,6,83.3
+2013,Liberty,13,Big South,16,2,88.9,1st,27,6,81.8,auto,N,0,1,1st,27,7,79.4
+2013,Louisville,5,Big East,11,5,68.8,T3rd,24,8,75,at-large,Y,5,1,N2nd,29,9,76.3
+2013,LSU,6,Southeastern,10,6,62.5,T4th,20,11,64.5,at-large,Y,2,1,RSF,22,12,64.7
+2013,Marist,12,Metro Atlantic,18,0,100,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2013,Maryland,4,Atlantic Coast,14,4,77.8,T2nd,24,7,77.4,at-large,Y,2,1,RSF,26,8,76.5
+2013,Miami (FL),8,Atlantic Coast,11,7,61.1,T4th,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2013,Michigan,8,Big Ten,9,7,56.3,T5th,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2013,Michigan St.,5,Big Ten,10,6,62.5,T3rd,24,8,75,at-large,N,1,1,2nd,25,9,73.5
+2013,Middle Tenn.,12,Sun Belt,17,3,85,1st,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2013,Montana,13,Big Sky,16,4,80,1st,24,7,77.4,auto,N,0,1,1st,24,8,75
+2013,Navy,15,Patriot,11,3,78.6,T1st,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2013,Nebraska,6,Big Ten,12,4,75,2nd,23,8,74.2,at-large,N,2,1,RSF,25,9,73.5
+2013,North Carolina,3,Atlantic Coast,14,4,77.8,T2nd,28,6,82.4,at-large,N,1,1,2nd,29,7,80.6
+2013,Notre Dame,1,Big East,16,0,100,1st,31,1,96.9,auto,N,4,1,NSF,35,2,94.6
+2013,Oklahoma,6,Big 12,11,7,61.1,T3rd,22,10,68.8,at-large,N,2,1,RSF,24,11,68.6
+2013,Oklahoma St.,7,Big 12,9,9,50,T5th,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2013,Oral Roberts,15,Southland,13,5,72.2,1st,18,12,60,auto,N,0,1,1st,18,13,58.1
+2013,Penn St.,3,Big Ten,14,2,87.5,1st,25,5,83.3,at-large,N,1,1,2nd,26,6,81.3
+2013,Prairie View,16,Southwestern,11,7,61.1,4th,17,14,54.8,auto,N,0,1,1st,17,15,53.1
+2013,Princeton,9,Ivy,13,1,92.9,1st,22,6,78.6,auto,N,0,1,1st,22,7,75.9
+2013,Purdue,4,Big Ten,10,6,62.5,T3rd,24,8,75,at-large,N,1,1,2nd,25,9,73.5
+2013,Quinnipiac,13,Northeast,18,0,100,1st,30,2,93.8,auto,N,0,1,1st,30,3,90.9
+2013,Saint Joseph's,9,Atlantic 10,11,3,78.6,T4th,23,8,74.2,at-large,N,0,1,1st,23,9,71.9
+2013,South Carolina,4,Southeastern,11,5,68.8,T4th,24,7,77.4,at-large,N,1,1,2nd,25,8,75.8
+2013,South Dakota St.,13,Summit,14,2,87.5,1st,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2013,South Florida,10,Big East,9,7,56.3,T6th,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2013,St. John's (NY),10,Big East,11,5,68.8,T3rd,18,12,60,at-large,Y,0,1,1st,18,13,58.1
+2013,Stanford,1,Pac-12,17,1,94.4,T1st,31,2,93.9,auto,Y,2,1,RSF,33,3,91.7
+2013,Stetson,14,Atlantic Sun,14,4,77.8,2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2013,Syracuse,7,Big East,11,5,68.8,T3rd,24,7,77.4,at-large,N,0,1,1st,24,8,75
+2013,Tennessee,2,Southeastern,14,2,87.5,1st,24,7,77.4,auto,Y,3,1,RF,27,8,77.1
+2013,Texas A&M,3,Southeastern,11,5,68.8,T4th,24,9,72.7,auto,Y,1,1,2nd,25,10,71.4
+2013,Texas Tech,7,Big 12,11,7,61.1,T3rd,21,10,67.7,at-large,Y,0,1,1st,21,11,65.6
+2013,Tulsa,16,Conference USA,8,8,50,1st,17,16,51.5,auto,N,0,1,1st,17,17,50
+2013,UCLA,3,Pac-12,14,4,77.8,3rd,25,7,78.1,at-large,N,1,1,2nd,26,8,76.5
+2013,UConn,1,Big East,14,2,87.5,2nd,29,4,87.9,at-large,Y,6,0,Champ,35,4,89.7
+2013,UT Martin,16,Ohio Valley,11,5,68.8,2nd,19,14,57.6,auto,N,0,1,1st,19,15,55.9
+2013,Vanderbilt,8,Southeastern,9,7,56.3,6th,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+2013,Villanova,9,Big East,9,7,56.3,T6th,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2013,West Virginia,11,Big 12,9,9,50,T5th,17,13,56.7,at-large,N,0,1,1st,17,14,54.8
+2013,Wichita St.,14,Missouri Valley,15,3,83.3,T1st,24,9,72.7,auto,N,0,1,1st,24,10,70.6
+2014,Akron,13,Mid-American,14,4,77.8,2nd,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2014,Albany,15,America East,15,1,93.8,1st,28,4,87.5,auto,N,0,1,1st,28,5,84.8
+2014,Arizona St.,9,Pac-12,11,7,61.1,T4th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2014,Army,13,Patriot,14,4,77.8,T2nd,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2014,Baylor,2,Big 12,16,2,88.9,1st,29,4,87.9,auto,Y,3,1,RF,32,5,86.5
+2014,BYU,12,West Coast,14,4,77.8,1st,26,6,81.3,at-large,N,2,1,RSF,28,7,80
+2014,California,7,Pac-12,13,5,72.2,T2nd,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2014,Chattanooga,11,Southern,18,0,100,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2014,CSUN,16,Big West,12,4,75,1st,18,14,56.3,auto,N,0,1,1st,18,15,54.5
+2014,Dayton,7,Atlantic 10,14,2,87.5,1st,23,7,76.7,at-large,N,0,1,1st,23,8,74.2
+2014,DePaul,7,Big East,15,3,83.3,1st,27,6,81.8,auto,N,1,1,RSF,29,7,80.6
+2014,Duke,2,Atlantic Coast,12,4,75,T2nd,27,6,81.8,at-large,Y,1,1,2nd,28,7,80
+2014,FGCU,12,Atlantic Sun,17,1,94.4,1st,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2014,Florida,11,Southeastern,8,8,50,5th,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+2014,Florida St.,10,Atlantic Coast,7,9,43.8,9th,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+2014,Fordham,10,Atlantic 10,11,5,68.8,T2nd,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2014,Fresno St.,13,Mountain West,13,5,72.2,2nd,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2014,Georgia,8,Southeastern,7,9,43.8,T6th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2014,Georgia Tech,10,Atlantic Coast,9,7,56.3,7th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2014,Gonzaga,6,West Coast,16,2,88.9,1st,29,4,87.9,auto,N,0,1,1st,29,5,85.3
+2014,Hampton,12,Mid-Eastern,16,0,100,1st,28,4,87.5,auto,N,0,1,1st,28,5,84.8
+2014,Idaho,14,Western Athletic,15,1,93.8,1st,25,8,75.8,auto,N,0,1,1st,25,9,73.5
+2014,Iowa,6,Big Ten,11,5,68.8,T4th,26,8,76.5,at-large,Y,1,1,2nd,27,9,75
+2014,Iowa St.,7,Big 12,9,9,50,T4th,20,10,66.7,at-large,Y,0,1,1st,20,11,64.5
+2014,James Madison,11,Colonial,15,1,93.8,1st,28,5,84.8,auto,N,1,1,2nd,29,6,82.9
+2014,Kentucky,3,Southeastern,10,6,62.5,4th,24,8,75,at-large,Y,2,1,RSF,26,9,74.3
+2014,Louisville,3,American Atletic,16,2,88.9,2nd,30,4,88.2,at-large,Y^,3,1,RF,33,5,86.8
+2014,LSU,7,Southeastern,7,9,43.8,T6th,19,12,61.3,at-large,Y,2,1,RSF,21,13,61.8
+2014,Marist,11,Metro Atlantic,18,2,90,T1st,27,6,81.8,auto,N,0,1,1st,27,7,79.4
+2014,Maryland,4,Atlantic Coast,12,4,75,T2nd,24,6,80,at-large,Y,4,1,NSF,28,7,80
+2014,Michigan St.,5,Big Ten,13,3,81.3,T1st,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2014,Middle Tenn.,12,Conference USA,15,1,93.8,1st,29,4,87.9,auto,N,0,1,1st,29,5,85.3
+2014,NC State,5,Atlantic Coast,11,5,68.8,4th,25,7,78.1,at-large,N,0,1,1st,25,8,75.8
+2014,Nebraska,4,Big Ten,12,4,75,3rd,25,6,80.6,auto,Y^,1,1,2nd,26,7,78.8
+2014,North Carolina,4,Atlantic Coast,10,6,62.5,T5th,24,9,72.7,at-large,Y,3,1,RF,27,10,73
+2014,North Dakota,14,Big Sky,15,5,75,T1st,22,9,71,auto,N,0,1,1st,22,10,68.8
+2014,Northwestern St.,16,Southland,11,7,61.1,T4th,21,12,63.6,auto,N,0,1,1st,21,13,61.8
+2014,Notre Dame,1,Atlantic Coast,16,0,100,1st,32,0,100,auto,Y^,5,1,N2nd,37,1,97.4
+2014,Oklahoma,10,Big 12,9,9,50,T5th,18,14,56.3,at-large,N,0,1,1st,18,15,54.5
+2014,Oklahoma St.,5,Big 12,11,7,61.1,T3rd,23,8,74.2,at-large,N,2,1,RSF,25,9,73.5
+2014,Oregon St.,9,Pac-12,13,5,72.2,T2nd,23,10,69.7,at-large,N,1,1,2nd,24,11,68.6
+2014,Penn,12,Ivy,12,2,85.7,1st,22,6,78.6,auto,N,0,1,1st,22,7,75.9
+2014,Penn St.,3,Big Ten,13,3,81.3,T1st,22,7,75.9,at-large,Y,2,1,RSF,24,8,75
+2014,Prairie View,16,Southwestern,11,7,61.1,4th,14,17,45.2,auto,N,0,1,1st,14,18,43.8
+2014,Purdue,4,Big Ten,11,5,68.8,T4th,21,8,72.4,at-large,Y,1,1,2nd,22,9,71
+2014,Robert Morris,16,Northeast,14,4,77.8,1st,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2014,Saint Joseph's,9,Atlantic 10,10,6,62.5,T5th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2014,South Carolina,1,Southeastern,14,2,87.5,1st,27,4,87.1,at-large,N,2,1,RSF,29,5,85.3
+2014,South Dakota,15,Summit,7,7,50,4th,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2014,Southern California,9,Pac-12,11,7,61.1,T4th,22,12,64.7,auto,N,0,1,1st,22,13,62.9
+2014,St. John's (NY),8,Big East,13,5,72.2,2nd,22,10,68.8,at-large,N,1,1,2nd,23,11,67.6
+2014,Stanford,1,Pac-12,17,1,94.4,1st,29,3,90.6,at-large,Y^,4,1,NSF,33,4,89.2
+2014,Syracuse,6,Atlantic Coast,10,6,62.5,T5th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2014,Tennessee,1,Southeastern,13,3,81.3,T2nd,27,5,84.4,auto,Y,2,1,RSF,29,6,82.9
+2014,Texas,5,Big 12,11,7,61.1,T3rd,21,11,65.6,at-large,N,1,1,2nd,22,12,64.7
+2014,Texas A&M,3,Southeastern,13,3,81.3,T2nd,24,8,75,at-large,Y,3,1,RF,27,9,75
+2014,UConn,1,American Athletic,18,0,100,1st,34,0,100,auto,Y,6,0,Champ,40,0,100
+2014,UT Martin,16,Ohio Valley,15,1,93.8,1st,24,7,77.4,auto,N,0,1,1st,24,8,75
+2014,Vanderbilt,8,Southeastern,7,9,43.8,T6th,18,12,60,at-large,N,0,1,1st,18,13,58.1
+2014,West Virginia,2,Big 12,16,2,88.9,2nd,29,4,87.9,at-large,N,1,1,2nd,30,5,85.7
+2014,Western Ky.,15,Sun Belt,13,5,72.2,2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2014,Wichita St.,14,Missouri Valley,14,4,77.8,T1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2014,Winthrop,15,Big South,15,5,75,T2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2014,Wright St.,14,Horizon,12,4,75,2nd,26,8,76.5,auto,N,0,1,1st,26,9,74.3
+2015,Alabama St.,15,Southwestern,10,8,55.6,T3rd,17,14,54.8,auto,N,0,1,1st,17,15,53.1
+2015,Albany,13,America East,14,2,87.5,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2015,American,14,Patriot,16,2,88.9,1st,24,8,75,auto,N,0,1,1st,24,9,72.7
+2015,Arizona St.,3,Pac-12,15,3,83.3,2nd,27,5,84.4,at-large,Y,2,1,RSF,29,6,82.9
+2015,Arkansas,10,Southeastern,6,10,37.5,T9th,17,13,56.7,at-large,N,1,1,2nd,18,14,56.3
+2015,Baylor,2,Big 12,16,2,88.9,1st,30,3,90.9,auto,Y,3,1,RF,33,4,89.2
+2015,Boise St.,15,Mountain West,11,7,61.1,4th,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2015,BYU,14,West Coast,12,6,66.7,5th,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2015,California,4,Pac-12,13,5,72.2,T3rd,23,9,71.9,at-large,Y,1,1,2nd,24,10,70.6
+2015,Chattanooga,7,Southern,14,0,100,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2015,CSUN,13,Big West,11,5,68.8,2nd,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2015,Dayton,7,Atlantic 10,14,2,87.5,2nd,25,6,80.6,at-large,N,3,1,RF,28,7,80
+2015,DePaul,9,Big East,15,3,83.3,T1st,26,7,78.8,auto,N,1,1,2nd,27,8,77.1
+2015,Duke,4,Atlantic Coast,11,5,68.8,T4th,21,10,67.7,at-large,Y,2,1,RSF,23,11,67.6
+2015,FGCU,7,Atlantic Sun,14,0,100,1st,30,2,93.8,auto,N,1,1,2nd,31,3,91.2
+2015,Florida St.,2,Atlantic Coast,14,2,87.5,2nd,29,4,87.9,at-large,Y,3,1,RF,32,5,86.5
+2015,George Washington,6,Atlantic 10,15,1,93.8,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2015,Gonzaga,11,West Coast,16,2,88.9,1st,24,7,77.4,at-large,N,2,1,RSF,26,8,76.5
+2015,Green Bay,9,Horizon,15,1,93.8,1st,28,4,87.5,auto,N,0,1,1st,28,5,84.8
+2015,Iowa,3,Big Ten,14,4,77.8,2nd,24,7,77.4,at-large,Y,2,1,RSF,26,8,76.5
+2015,Iowa St.,10,Big 12,9,9,50,T3rd,18,12,60,at-large,N,0,1,1st,18,13,58.1
+2015,James Madison,12,Colonial,17,1,94.4,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2015,Kentucky,2,Southeastern,10,6,62.5,T4th,23,9,71.9,at-large,Y,1,1,2nd,24,10,70.6
+2015,Liberty,13,Big South,19,1,95,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2015,Little Rock,11,Sun Belt,18,2,90,1st,28,4,87.5,auto,N,1,1,2nd,29,5,85.3
+2015,Louisville,3,Atlantic Coast,12,4,75,3rd,25,6,80.6,at-large,N,2,1,RSF,27,7,79.4
+2015,LSU,11,Southeastern,10,6,62.5,T4th,17,13,56.7,at-large,N,0,1,1st,17,14,54.8
+2015,Maryland,1,Big Ten,18,0,100,1st,30,2,93.8,auto,Y,4,1,NSF,34,3,91.9
+2015,Miami (FL),11,Atlantic Coast,8,8,50,8th,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+2015,Minnesota,8,Big Ten,11,7,61.1,6th,23,9,71.9,at-large,N,0,1,1st,23,10,69.7
+2015,Mississippi St.,5,Southeastern,11,5,68.8,3rd,26,6,81.3,at-large,N,1,1,2nd,27,7,79.4
+2015,Montana,16,Big Sky,12,6,66.7,T4th,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2015,Nebraska,9,Big Ten,10,8,55.6,7th,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2015,New Mexico St.,16,Western Athletic,13,1,92.9,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+2015,North Carolina,4,Atlantic Coast,10,6,62.5,6th,24,8,75,at-large,Y,2,1,RSF,26,9,74.3
+2015,Northwestern,7,Big Ten,12,6,66.7,T4th,23,8,74.2,at-large,N,0,1,1st,23,9,71.9
+2015,Northwestern St.,15,Southland,10,8,55.6,T6th,19,14,57.6,auto,N,0,1,1st,19,15,55.9
+2015,Notre Dame,1,Atlantic Coast,15,1,93.8,1st,31,2,93.9,auto,Y,5,1,N2nd,36,3,92.3
+2015,Ohio,14,Mid-American,16,2,88.9,1st,27,4,87.1,auto,N,0,1,1st,27,5,84.4
+2015,Ohio St.,5,Big Ten,13,5,72.2,3rd,23,10,69.7,at-large,N,1,1,2nd,24,11,68.6
+2015,Oklahoma,5,Big 12,13,5,72.2,2nd,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+2015,Oklahoma St.,10,Big 12,9,9,50,T3rd,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2015,Oregon St.,3,Pac-12,16,2,88.9,1st,26,4,86.7,at-large,Y,1,1,2nd,27,5,84.4
+2015,Pittsburgh,10,Atlantic Coast,9,7,56.3,7th,19,11,63.3,at-large,N,1,1,2nd,20,12,62.5
+2015,Princeton,8,Ivy,14,0,100,1st,30,0,100,auto,N,1,1,2nd,31,1,96.9
+2015,Quinnipiac,12,Metro Atlantic,20,0,100,1st,31,3,91.2,auto,N,0,1,1st,31,4,88.6
+2015,Rutgers,8,Big Ten,12,6,66.7,T4th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2015,Savannah St.,16,Mid-Eastern,13,3,81.3,2nd,21,10,67.7,auto,N,0,1,1st,21,11,65.6
+2015,Seton Hall,9,Big East,15,3,83.3,T1st,28,5,84.8,at-large,N,0,1,1st,28,6,82.4
+2015,South Carolina,1,Southeastern,15,1,93.8,T1st,30,2,93.8,auto,Y,4,1,NSF,34,3,91.9
+2015,South Dakota St.,14,Summit,12,4,75,2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2015,South Florida,6,American Athletic,15,3,83.3,2nd,26,7,78.8,at-large,Y,1,1,2nd,27,8,77.1
+2015,St. Francis Brooklyn,16,Northeast,9,9,50,5th,15,18,45.5,auto,N,0,1,1st,15,19,44.1
+2015,Stanford,4,Pac-12,13,5,72.2,T3rd,24,9,72.7,auto,Y,2,1,RSF,26,10,72.2
+2015,Syracuse,8,Atlantic Coast,11,5,68.8,T4th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2015,Tennessee,2,Southeastern,15,1,93.8,T1st,27,5,84.4,at-large,Y,3,1,RF,30,6,83.3
+2015,Tennessee St.,15,Ohio Valley,12,4,75,1st,18,12,60,auto,N,0,1,1st,18,13,58.1
+2015,Texas,5,Big 12,9,9,50,T3rd,22,10,68.8,at-large,N,2,1,RSF,24,11,68.6
+2015,Texas A&M,6,Southeastern,10,6,62.5,T4th,23,9,71.9,at-large,N,0,1,1st,23,10,69.7
+2015,Tulane,12,American Athletic,11,7,61.1,T5th,22,10,68.8,at-large,N,0,1,1st,22,11,66.7
+2015,UConn,1,American Athletic,18,0,100,1st,32,1,97,auto,Y,6,0,Champ,38,1,97.4
+2015,Washington,6,Pac-12,11,7,61.1,5th,23,9,71.9,at-large,N,0,1,1st,23,10,69.7
+2015,Western Ky.,12,Conference USA,16,2,88.9,1st,30,4,88.2,auto,N,0,1,1st,30,5,85.7
+2015,Wichita St.,13,Missouri Valley,17,1,94.4,1st,29,4,87.9,auto,N,0,1,1st,29,5,85.3
+2016,Alabama St.,15,Southwestern,14,4,77.8,T1st,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+2016,Albany,12,America East,15,1,93.8,T1st,27,4,87.1,auto,N,1,1,2nd,28,5,84.8
+2016,Arizona St.,2,Pac-12,16,2,88.9,T1st,25,6,80.6,at-large,Y,1,1,2nd,26,7,78.8
+2016,Army West Point,13,Patriot,17,1,94.4,T1st,29,2,93.5,auto,N,0,1,1st,29,3,90.6
+2016,Auburn,9,Southeastern,8,8,50,T5th,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+2016,Baylor,1,Big 12,17,1,94.4,1st,33,1,97.1,auto,Y,3,1,RF,36,2,94.7
+2016,Belmont,13,Ohio Valley,13,3,81.3,1st Div.,24,8,75,auto,N,0,1,1st,24,9,72.7
+2016,Buffalo,14,Mid-American,8,10,44.4,3rd Div,20,13,60.6,auto,N,0,1,1st,20,14,58.8
+2016,BYU,7,West Coast,16,2,88.9,1st,26,6,81.3,at-large,N,0,1,1st,26,7,78.8
+2016,Central Arkansas,14,Southland,16,2,88.9,2nd,28,3,90.3,auto,N,0,1,1st,28,4,87.5
+2016,Chattanooga,12,Southern,12,2,85.7,T1st,24,7,77.4,auto,N,0,1,1st,24,8,75
+2016,Colorado St.,11,Mountain West,18,0,100,1st,31,1,96.9,auto,N,0,1,1st,31,2,93.9
+2016,DePaul,6,Big East,16,2,88.9,1st,25,8,75.8,at-large,N,2,1,RSF,27,9,75
+2016,Duquesne,9,Atlantic 10,13,3,81.3,T1st,27,5,84.4,at-large,N,1,1,2nd,28,6,82.4
+2016,Florida,5,Southeastern,10,6,62.5,T3rd,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2016,Florida St.,5,Atlantic Coast,13,3,81.3,T3rd,23,7,76.7,at-large,N,2,1,RSF,25,8,75.8
+2016,George Washington,8,Atlantic 10,13,3,81.3,T1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2016,Georgia,8,Southeastern,9,7,56.3,4th,21,9,70,at-large,N,0,1,1st,21,10,67.7
+2016,Green Bay,10,Horizon,16,2,88.9,1st,28,4,87.5,auto,N,0,1,1st,28,5,84.8
+2016,Hawaii,14,Big West,12,4,75,T2nd,21,10,67.7,auto,N,0,1,1st,21,11,65.6
+2016,Idaho,16,Big Sky,13,5,72.2,T2nd,24,9,72.7,auto,N,0,1,1st,24,10,70.6
+2016,Indiana,9,Big Ten,12,6,66.7,4th,20,11,64.5,at-large,N,1,1,2nd,21,12,63.6
+2016,Iona,15,Metro Atlantic,16,4,80,2nd,23,11,67.6,auto,N,0,1,1st,23,12,65.7
+2016,Jacksonville,16,ASUN,11,3,78.6,2nd,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2016,James Madison,11,Colonial Athletic,17,1,94.4,1st,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+2016,Kansas St.,9,Big 12,8,10,44.4,T5th,18,12,60,at-large,N,1,1,2nd,19,13,59.4
+2016,Kentucky,3,Southeastern,10,6,62.5,T3rd,23,7,76.7,at-large,Y,2,1,RSF,25,8,75.8
+2016,Louisville,3,Atlantic Coast,15,1,93.8,2nd,25,7,78.1,at-large,Y,1,1,2nd,26,8,76.5
+2016,Maryland,2,Big Ten,16,2,88.9,1st,30,3,90.9,auto,Y,1,1,2nd,31,4,88.6
+2016,Miami (FL),5,Atlantic Coast,10,6,62.5,5th,24,8,75,at-large,N,0,1,1st,24,9,72.7
+2016,Michigan St.,4,Big Ten,13,5,72.2,3rd,24,8,75,at-large,N,1,1,2nd,25,9,73.5
+2016,Middle Tenn.,12,Conference USA,15,3,83.3,T2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
+2016,Mississippi St.,5,Southeastern,11,5,68.8,T2nd,26,7,78.8,at-large,Y,2,1,RSF,28,8,77.8
+2016,Missouri,10,Southeastern,8,8,50,T5th,21,9,70,at-large,N,1,1,2nd,22,10,68.8
+2016,Missouri St.,13,Missouri Valley,14,4,77.8,T2nd,24,9,72.7,auto,N,0,1,1st,24,10,70.6
+2016,NC A&T,16,Mid-Eastern,12,4,75,T1st,19,11,63.3,auto,N,0,1,1st,19,12,61.3
+2016,New Mexico St.,15,Western Atlantic,13,1,92.9,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2016,Notre Dame,1,Atlantic Coast,16,0,100,1st,31,1,96.9,auto,Y,2,1,RSF,33,2,94.3
+2016,Ohio St.,3,Big Ten,15,3,83.3,2nd,24,7,77.4,at-large,Y,2,1,RSF,26,8,76.5
+2016,Oklahoma,6,Big 12,11,7,61.1,T4th,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2016,Oklahoma St.,7,Big 12,11,7,61.1,T4th,21,9,70,at-large,N,0,1,1st,21,10,67.7
+2016,Oregon St.,2,Pac-12,16,2,88.9,T1st,28,4,87.5,auto,Y,4,1,NSF,32,5,86.5
+2016,Penn,10,Ivy,13,1,92.9,1st,24,4,85.7,auto,N,0,1,1st,24,5,82.8
+2016,Princeton,11,Ivy,12,2,85.7,2nd,23,5,82.1,at-large,N,0,1,1st,23,6,79.3
+2016,Purdue,11,Big Ten,10,8,55.6,T5th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2016,Robert Morris,16,Northeast,11,7,61.1,T3rd,20,12,62.5,auto,N,0,1,1st,20,13,60.6
+2016,San Francisco,13,West Coast,9,9,50,6th,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2016,Seton Hall,8,Big East,12,6,66.7,T2nd,23,8,74.2,at-large,N,0,1,1st,23,9,71.9
+2016,South Carolina,1,Southeastern,16,0,100,1st,31,1,96.9,auto,Y,2,1,RSF,33,2,94.3
+2016,South Dakota St.,12,Summit,13,3,81.3,2nd,26,6,81.3,auto,N,1,1,2nd,27,7,79.4
+2016,South Florida,6,American Athletic,14,4,77.8,2nd,23,9,71.9,at-large,N,1,1,2nd,24,10,70.6
+2016,St. Bonaventure,10,Atlantic 10,12,4,75,2nd,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2016,St. John's (NY),8,Big East,11,7,61.1,4th,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2016,Stanford,4,Pac-12,14,4,77.8,T2nd,24,7,77.4,at-large,Y,3,1,RF,27,8,77.1
+2016,Syracuse,4,Atlantic Coast,13,3,81.3,T3rd,25,7,78.1,at-large,Y,5,1,N2nd,30,8,78.9
+2016,Tennessee,7,Southeastern,8,8,50,T5th,19,13,59.4,at-large,N,3,1,RF,22,14,61.1
+2016,Texas,2,Big 12,15,3,83.3,2nd,28,4,87.5,at-large,Y,3,1,RF,31,5,86.1
+2016,Texas A&M,4,Southeastern,11,5,68.8,T2nd,21,9,70,at-large,Y,1,1,2nd,22,10,68.8
+2016,Troy,15,Sun Belt,12,8,60,4th,20,12,62.5,auto,N,0,1,1st,20,13,60.6
+2016,UCLA,3,Pac-12,14,4,77.8,T2nd,24,8,75,at-large,Y,2,1,RSF,26,9,74.3
+2016,UConn,1,American Athletic,18,0,100,1st,32,0,100,auto,Y,6,0,Champ,38,0,100
+2016,UNC Asheville,14,Big South,16,4,80,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2016,Washington,7,Pac-12,11,7,61.1,3rd,22,10,68.8,at-large,N,4,1,NSF,26,11,70.3
+2016,West Virginia,6,Big 12,12,6,66.7,3rd,24,9,72.7,at-large,N,1,1,2nd,25,10,71.4
+2017,Albany,16,America East,12,4,75,2nd,21,11,65.6,auto,N,0,1,1st,21,12,63.6
+2017,Arizona St.,8,Pac-12,9,9,50,5th,19,12,61.3,at-large,N,1,1,2nd,20,13,60.6
+2017,Auburn,11,Southeastern,7,9,43.8,T7th,17,14,54.8,at-large,N,0,1,1st,17,15,53.1
+2017,Baylor,1,Big 12,17,1,94.4,1st,30,3,90.9,at-large,Y,3,1,RF,33,4,89.2
+2017,Belmont,13,Ohio Valley,16,0,100,1st Div.,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+2017,Boise St.,13,Mountain West,12,6,66.7,3rd,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2017,Bucknell,14,Patriot,16,2,88.9,1st,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+2017,California,9,Pac-12,6,12,33.3,T6th,19,13,59.4,at-large,N,1,1,2nd,20,14,58.8
+2017,Central Arkansas,14,Southland,16,2,88.9,1st,26,4,86.7,auto,N,0,1,1st,26,5,83.9
+2017,Chattanooga,13,Southern,12,2,85.7,T1st,21,10,67.7,auto,N,0,1,1st,21,11,65.6
+2017,Creighton,7,Big East,16,2,88.9,T1st,23,7,76.7,at-large,N,1,1,2nd,24,8,75
+2017,Dayton,12,Atlantic-10,13,3,81.3,T1st,22,9,71,auto,N,0,1,1st,22,10,68.8
+2017,DePaul,7,Big East,16,2,88.9,T1st,26,7,78.8,at-large,N,1,1,2nd,27,8,77.1
+2017,Drake,10,Missouri Valley,18,0,100,1st,28,4,87.5,auto,N,0,1,1st,28,5,84.8
+2017,Duke,2,Atlantic Coast,13,3,81.3,T2nd,27,5,84.4,at-large,Y,1,1,2nd,28,6,82.4
+2017,Elon,11,Colonial,16,2,88.9,1st,27,6,81.8,auto,N,0,1,1st,27,7,79.4
+2017,FGCU,13,ASUN,12,2,85.7,2nd,26,8,76.5,auto,N,0,1,1st,26,9,74.3
+2017,Florida St.,3,Atlantic Coast,13,3,81.3,T2nd,25,6,80.6,at-large,Y,3,1,RF,28,7,80
+2017,Gonzaga,11,West Coast,14,4,77.8,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2017,Green Bay,8,Horizon,15,3,83.3,T1st,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+2017,Hampton,15,Mid-Eastern,11,5,68.8,3rd,20,12,62.5,auto,N,0,1,1st,20,13,60.6
+2017,Iowa St.,9,Big 12,9,9,50,5th,18,12,60,at-large,N,0,1,1st,18,13,58.1
+2017,Kansas St.,7,Big 12,11,7,61.1,4th,22,10,68.8,at-large,Y,1,1,2nd,23,11,67.6
+2017,Kentucky,4,Southeastern,11,5,68.8,T3rd,21,10,67.7,at-large,Y,1,1,2nd,22,11,66.7
+2017,Long Beach St.,15,Big West,12,4,75,2nd,23,10,69.7,auto,N,0,1,1st,23,11,67.6
+2017,Louisville,4,Atlantic Coast,12,4,75,T3rd,27,7,79.4,at-large,Y,2,1,RSF,29,8,78.4
+2017,LSU,8,Southeastern,8,8,50,6th,20,11,64.5,at-large,N,0,1,1st,20,12,62.5
+2017,Marquette,5,Big East,13,5,72.2,2nd,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2017,Maryland,3,Big Ten,15,1,93.8,T1st,30,2,93.8,auto,Y,2,1,RSF,32,3,91.4
+2017,Miami (FL),4,Atlantic Coast,10,6,62.5,5th,23,8,74.2,at-large,Y,1,1,2nd,24,9,72.7
+2017,Michigan St.,9,Big Ten,9,7,56.3,4th,21,11,65.6,at-large,N,0,1,1st,21,12,63.6
+2017,Mississippi St.,2,Southeastern,13,3,81.3,2nd,29,4,87.9,at-large,Y,5,1,N2nd,34,5,87.2
+2017,Missouri,6,Southeastern,11,5,68.8,T3rd,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2017,Montana St.,14,Big Sky,15,3,83.3,T1st,25,6,80.6,auto,N,0,1,1st,25,7,78.1
+2017,NC State,6,Atlantic Coast,12,4,75,T3rd,22,8,73.3,at-large,N,1,1,2nd,23,9,71.9
+2017,New Mexico St.,15,Western Atlantic,14,0,100,1st,24,6,80,auto,N,0,1,1st,24,7,77.4
+2017,Notre Dame,1,Atlantic Coast,15,1,93.8,1st,30,3,90.9,auto,Y,3,1,RF,33,4,89.2
+2017,Ohio St.,5,Big Ten,15,1,93.8,T1st,26,6,81.3,at-large,N,2,1,RSF,28,7,80
+2017,Oklahoma,6,Big 12,13,5,72.2,3rd,22,9,71,at-large,N,2,1,2nd,23,10,69.7
+2017,Oregon,10,Pac-12,8,10,44.4,5th,20,13,60.6,at-large,N,3,1,RF,23,14,62.2
+2017,Oregon St.,2,Pac-12,16,2,88.9,1st,29,4,87.9,at-large,Y,2,1,RSF,31,5,86.1
+2017,Penn,12,Ivy,13,1,92.9,1st,22,7,75.9,auto,N,0,1,1st,22,8,73.3
+2017,Purdue,9,Big Ten,10,6,62.5,T3rd,22,12,64.7,at-large,N,1,1,2nd,23,13,63.9
+2017,Quinnipiac,12,Metro Atlantic,17,3,85,1st,27,6,81.8,auto,N,2,1,RSF,29,7,80.6
+2017,Robert Morris,16,Northeast,14,4,77.8,1st,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2017,South Carolina,1,Southeastern,14,2,87.5,1st,27,4,87.1,auto,Y,6,0,Champ,33,4,89.2
+2017,South Florida,11,American Athletic,11,5,68.8,3rd,24,8,75,at-large,N,0,1,1st,24,9,72.7
+2017,Stanford,2,Pac-12,15,3,83.3,T2nd,28,5,84.8,auto,Y,4,1,NSF,32,6,84.2
+2017,Syracuse,8,Atlantic Coast,11,5,68.8,4th,21,10,67.7,at-large,N,1,1,2nd,22,11,66.7
+2017,Temple,7,American Athletic,13,3,81.3,2nd,24,7,77.4,at-large,N,0,1,1st,24,8,75
+2017,Tennessee,5,Southeastern,10,6,62.5,4th,19,11,63.3,at-large,N,1,1,2nd,20,12,62.5
+2017,Texas,3,Big 12,15,3,83.3,2nd,23,8,74.2,at-large,Y,2,1,RSF,25,9,73.5
+2017,Texas A&M,5,Southeastern,9,7,56.3,5th,21,11,65.6,at-large,N,1,1,2nd,22,12,64.7
+2017,Texas Southern,16,Southwestern,14,4,77.8,T1st,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2017,Toledo,10,Mid-American,12,6,66.7,T3rd Div.,25,8,75.8,auto,N,0,1,1st,25,9,73.5
+2017,Troy,15,Sun Belt,12,6,66.7,3rd,22,10,68.8,auto,N,0,1,1st,22,11,66.7
+2017,UCLA,4,Pac-12,13,5,72.2,3rd,23,8,74.2,at-large,Y,2,1,RSF,25,9,73.5
+2017,UConn,1,American Athletic,16,0,100,1st,32,0,100,auto,Y,4,1,NSF,36,1,97.3
+2017,UNC Asheville,16,Big South,9,9,50,6th,19,15,55.9,auto,N,0,1,1st,19,15,55.9
+2017,UNI,10,Missouri Valley,15,3,83.3,2nd,24,8,75,at-large,N,0,1,1st,24,9,72.7
+2017,Washington,3,Pac-12,15,3,83.3,T2nd,27,5,84.4,at-large,Y,2,1,RSF,29,6,82.9
+2017,West Virginia,6,Big 12,8,10,44.4,6th,23,10,69.7,auto,N,1,1,2nd,24,11,68.6
+2017,Western Ill.,14,Summit,13,3,81.3,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2017,Western Ky.,12,Conference USA,16,2,88.9,1st,27,6,81.8,auto,N,0,1,1st,27,7,79.4
+2018,American,14,Patriot,16,2,88.9,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2018,Arizona St.,7,Pac-12,16,2,88.9,6th,21,12,63.6,at-large,N,1,1,2nd,22,13,62.9
+2018,Baylor,2,Big 12,18,0,100,1st,31,1,96.9,auto,Y,2,1,RSF,33,2,94.3
+2018,Belmont,12,Ohio Valley,18,0,100,1st Div.,31,3,91.2,auto,N,0,1,1st,31,4,88.6
+2018,Boise St.,16,Mountain West,14,4,77.8,T1st,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2018,Buffalo,11,Mid-American,16,2,88.9,1st Div.,27,5,84.4,auto,N,2,1,RSF,29,6,82.9
+2018,California,7,Pac-12,11,7,61.1,5th,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2018,Central Mich.,11,Mid-American,17,1,94.4,1st Div.,28,4,87.5,auto,N,2,1,RSF,30,5,85.7
+2018,Creighton,11,Big East,11,7,61.1,3rd,18,12,60,at-large,N,1,1,2nd,19,13,59.4
+2018,CSUN,16,Big West,8,8,50,5th,19,15,55.9,auto,N,0,1,1st,19,16,54.3
+2018,Dayton,9,Atlantic 10,15,1,93.8,1st,23,7,76.7,at-large,N,0,1,1st,23,7,76.7
+2018,DePaul,5,Big East,15,3,83.3,1st,26,7,78.8,auto,N,1,1,2nd,27,8,77.1
+2018,Drake,13,Missouri Valley,18,0,100,1st,26,7,78.8,auto,N,0,1,1st,26,8,76.5
+2018,Duke,5,Atlantic Coast,11,5,68.8,T4th,22,8,73.3,at-large,N,2,1,RSF,24,9,72.7
+2018,Elon,13,Colonial Athletic,14,4,77.8,2nd,25,7,78.1,auto,N,0,1,1st,25,8,75.8
+2018,FGCU,12,Atlantic Sun,13,1,92.9,1st,30,4,88.2,auto,N,1,1,2nd,31,5,86.1
+2018,Florida St.,3,Atlantic Coast,12,4,75,3rd,25,6,80.6,at-large,Y,1,1,2nd,26,7,78.8
+2018,George Washington,14,Atlantic 10,10,6,62.5,5th,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2018,Georgia,4,Southeastern,12,4,75,3rd,25,6,80.6,at-large,Y,2,1,2nd,26,7,78.8
+2018,Gonzaga,13,West Coast,17,1,94.4,1st,27,5,84.4,auto,N,0,1,1st,27,6,81.8
+2018,Grambling,15,SWAC,13,5,72.2,T2nd,19,3,86.4,auto,N,0,1,1st,19,14,57.6
+2018,Green Bay,7,Horizon,16,2,88.9,1st,29,3,90.6,auto,N,0,1,1st,29,4,87.9
+2018,Iowa,6,Big Ten,11,5,68.8,T3rd,24,7,77.4,at-large,N,0,1,1st,24,8,75
+2018,Liberty,14,Big South,16,2,88.9,1st,24,9,72.7,auto,N,0,1,1st,24,10,70.6
+2018,Little Rock,14,Sun Belt,17,1,94.4,1st,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2018,Louisville,1,Atlantic Coast,15,1,93.8,T1st,32,2,94.1,auto,Y,4,1,NSF,36,3,92.3
+2018,LSU,6,Southeastern,11,5,68.8,T3rd,19,9,67.9,at-large,N,0,1,1st,19,10,65.5
+2018,Maine,15,America East,13,3,81.3,1st,23,9,71.9,auto,N,0,1,1st,23,10,69.7
+2018,Marquette,8,Big East,15,3,83.3,T1st,23,9,71.9,at-large,N,1,1,2nd,24,10,70.6
+2018,Maryland,5,Big Ten,12,4,75,2nd,25,7,78.1,at-large,N,1,1,2nd,26,8,76.5
+2018,Mercer,13,Southern,14,0,100,1st,30,2,93.8,auto,N,0,1,1st,30,3,90.9
+2018,Miami (FL),8,Atlantic Coast,10,6,62.5,T6th,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2018,Michigan,7,Big Ten,10,6,62.5,6th,22,9,71,at-large,N,1,1,2nd,23,10,69.7
+2018,Minnesota,10,Big Ten,11,5,68.8,T3rd,23,8,74.2,at-large,N,1,1,2nd,24,9,72.7
+2018,Mississippi St.,1,Southeastern,16,0,100,1st,32,1,97,at-large,Y,5,1,N2nd,37,2,94.9
+2018,Missouri,5,Southeastern,11,5,68.8,T3rd,24,7,77.4,at-large,N,0,1,1st,24,8,75
+2018,NC A&T,15,Mid-Eastern,15,1,93.8,T1st,23,8,74.2,auto,N,0,1,1st,23,9,71.9
+2018,NC State,4,Atlantic,11,5,68.8,T4th,24,8,75,at-large,Y,2,1,RSF,26,9,74.3
+2018,Nebraska,10,Big Ten,11,5,68.8,T3rd,21,10,67.7,at-large,N,0,1,1st,21,11,65.6
+2018,Nicholls St.,16,Southland,11,7,61.1,4th,19,13,59.4,auto,N,0,1,1st,19,14,57.6
+2018,Northern Colo.,10,Big Sky,15,3,83.3,1st,26,6,81.3,auto,N,0,1,1st,26,7,78.8
+2018,Notre Dame,1,Atlantic Coast,15,1,93.8,T1st,29,3,90.6,at-large,Y,6,0,Champ,35,3,92.1
+2018,Ohio St.,3,Big Ten,13,3,81.3,1st,27,6,81.8,auto,Y,1,1,2nd,28,7,80
+2018,Oklahoma,12,Big 12,11,7,61.1,T3rd,16,14,53.3,at-large,N,0,1,1st,16,15,51.6
+2018,Oklahoma St.,9,Big 12,11,7,61.1,T3rd,20,10,66.7,at-large,N,1,1,2nd,21,11,65.6
+2018,Oregon,2,Pac-12,16,2,88.9,1st,30,4,88.2,auto,Y,3,1,RF,33,5,86.8
+2018,Oregon St.,6,Pac-12,14,4,77.8,T3rd,23,7,76.7,at-large,Y,3,1,RF,26,8,76.5
+2018,Princeton,12,Ivy,12,2,85.7,1st,24,5,82.8,auto,N,0,1,1st,24,6,80
+2018,Quinnipiac,9,Metro Atlantic,18,0,100,1st,27,5,84.4,auto,N,2,1,2nd,30,6,83.3
+2018,Saint Francis (PA),16,Northeast,16,2,88.9,2nd,24,7,77.4,auto,N,3,1,1st,24,10,70.6
+2018,Seattle,15,Western Athletic,9,5,64.3,3rd,18,14,56.3,auto,N,0,1,1st,18,15,54.5
+2018,South Carolina,2,Southeastern,12,4,75,2nd,26,6,81.3,auto,Y,3,1,RF,29,7,80.6
+2018,South Dakota St.,12,Summit,12,2,85.7,2nd,26,6,81.3,auto,N,0,1,2nd,26,7,78.8
+2018,South Florida,6,American Athletic,13,3,81.3,2nd,26,7,78.8,at-large,N,0,1,1st,26,8,76.5
+2018,Stanford,4,Pac-12,14,3,82.4,2nd,22,10,68.8,at-large,Y,2,1,RSF,24,11,68.6
+2018,Syracuse,8,Atlantic Coast,10,6,62.5,T4th,22,8,73.3,at-large,N,0,1,1st,22,9,71
+2018,Tennessee,3,Southeastern,11,5,68.8,T4th,24,7,77.4,at-large,Y,1,1,2nd,25,8,75.8
+2018,Texas,2,Big 12,15,3,83.3,2nd,26,6,81.3,at-large,Y,2,1,RSF,28,7,80
+2018,Texas A&M,4,Southeastern,11,5,68.8,T4th,24,9,72.7,at-large,Y,2,1,RSF,26,10,72.2
+2018,UCLA,3,Pac-12,14,4,77.8,3rd,24,8,75,at-large,Y,2,1,RF,27,8,77.1
+2018,UConn,1,American Athletic,16,0,100,1st,32,0,100,auto,Y,4,1,NSF,36,1,97.3
+2018,Villanova,9,Big East,12,6,66.7,3rd,22,8,73.3,at-large,N,1,1,2nd,23,9,71.9
+2018,Virginia,10,Atlantic Coast,10,6,62.5,6th,10,6,62.5,at-large,N,1,1,2nd,19,14,57.6
+2018,Western Ky.,11,Conference USA,12,4,75,2nd,24,8,75,auto,N,0,1,1st,24,9,72.7
