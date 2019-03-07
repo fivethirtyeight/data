@@ -1,0 +1,195 @@
+investigation,investigation-start,investigation-end,investigation-days,name,indictment-days ,type,cp-date,cp-days,overturned,pardoned,american,president
+watergate,1973-05-19,1977-06-19,1492,James W. McCord,-246,conviction,1973-01-30,-109,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Bernard L. Barker,-246,conviction,1973-01-15,-124,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Bernard L. Barker,292,conviction,1974-07-12,419,TRUE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Eugenio R. Martinez,-246,guilty-plea,1973-01-15,-124,FALSE,TRUE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Eugenio R. Martinez,292,conviction,1974-07-12,419,TRUE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Frank A. Sturgis,-246,guilty-plea,1973-01-15,-124,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Virgilio R. Gonzalez,-246,guilty-plea,1973-01-15,-124,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,G. Gordon Liddy,-246,conviction,1973-01-30,-109,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,G. Gordon Liddy,292,conviction,1974-07-12,419,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,E. Howard Hunt,-246,guilty-plea,1973-01-11,-128,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Robert C. Mardian,286,conviction,1975-01-01,592,TRUE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Maurice H. Stans,-9,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Maurice H. Stans,662,guilty-plea,1975-03-12,662,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Robert L. Vesco,-9,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Harry L. Sears,-9,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,George Hearing,-15,guilty-plea,1973-05-11,-8,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,John N. Mitchell,286,conviction,1975-01-01,592,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Frederick LaRue,39,guilty-plea,1973-06-28,40,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Jeb Magruder,89,guilty-plea,1973-08-16,89,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Donald Segretti,135,guilty-plea,1973-10-01,135,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Egil Krogh,145,guilty-plea,1973-11-30,195,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Harry Heltzer,151,guilty-plea,1973-10-17,151,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Russell DeYoung,151,guilty-plea,1973-10-17,151,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,John W. Dean III,153,guilty-plea,1973-10-19,153,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Dwayne O. Andreas,153,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Harding L. Lawrence,178,guilty-plea,1973-11-13,178,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,"Claude C. Wild, Jr.",178,guilty-plea,1973-11-13,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Orin E. Atkins,178,guilty-plea,1973-11-13,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Dwight Chapin,194,conviction,1974-04-05,321,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,William W. Keeler,199,guilty-plea,1973-12-04,199,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,H. Everett Olson,214,guilty-plea,1973-12-19,214,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Herbert Porter,247,guilty-plea,1974-01-28,254,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Jake Jacobsen,278,guilty-plea,1974-08-07,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Herbert Kalmbach,282,guilty-plea,1974-02-25,282,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Charles Colson,286,guilty-plea,1974-06-03,380,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,H.R. Haldeman,286,conviction,1975-01-01,592,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,John D. Ehrlichman,286,conviction,1975-01-01,592,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Gordon C. Strachan,286,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Kenneth W. Parkinson,286,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Felipe De Diego,292,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Ray Dubrowin,292,guilty-plea,1974-03-07,292,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Ed Reinecke,319,conviction,1974-07-27,434,TRUE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,George M. Steinbrenner,321,guilty-plea,1974-08-23,461,FALSE,TRUE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,John H. Melcher,327,guilty-plea,1974-04-11,327,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Richard Kleindienst,362,guilty-plea,1974-05-16,362,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,James Allen,347,guilty-plea,1974-05-01,347,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Thomas V. Jones,347,guilty-plea,1974-05-01,347,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Richard L. Allison,363,guilty-plea,1974-05-17,363,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Francis X. Carroll,374,guilty-plea,1974-05-28,374,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,David L. Parr,430,guilty-plea,1974-07-23,430,FALSE,TRUE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,John B. Connally,436,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Harold Nelson,438,guilty-plea,1974-07-31,438,FALSE,TRUE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Norman Sherman,450,guilty-plea,1974-08-12,450,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,John Valentine,450,guilty-plea,1974-08-12,450,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,"William Lyles, Sr.",486,guilty-plea,1974-09-17,486,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Raymond Abendroth,522,guilty-plea,1974-10-23,522,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Edward Morgan,538,guilty-plea,1974-11-08,538,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Jack A. Gleason,545,guilty-plea,1974-11-15,545,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Charles N. Huseman,563,guilty-plea,1974-12-03,563,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Tim M. Babcock,570,guilty-plea,1974-12-10,570,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Harry Dent,571,guilty-plea,1974-12-11,571,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Stuart Russell,579,indictment,1975-07-11,783,TRUE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Jack Chestnut,583,conviction,1975-05-08,719,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Harry Ratrie,619,conviction,1975-01-28,619,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,"Augustus Robbins, III",619,conviction,1975-01-28,619,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Wendell Wyatt,753,conviction,1975-06-11,753,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Frank DeMarco,641,indictment,,,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,Ralph Newman,641,conviction,1975-11-12,892,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1493,Armand Hammer,865,guilty-plea,1976-03-04,865,FALSE,TRUE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,James R. Jones,985,guilty-plea,1976-01-29,985,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1494,William C. Viglia,1112,guilty-plea,1976-07-02,1140,FALSE,FALSE,TRUE,Richard Nixon
+watergate,1973-05-19,1977-06-19,1492,W. Marvin Watson,1223,guilty-plea,1976-09-23,1223,FALSE,FALSE,TRUE,Richard Nixon
+hamilton-jordan,1979-11-29,1980-05-28,181,,,,,,FALSE,FALSE,TRUE,Jimmy Carter
+tim-kraft,1980-09-09,1982-01-15,493,,,,,,FALSE,FALSE,TRUE,Jimmy Carter
+raymond-donovan,1981-12-29,1982-06-25,178,,,,,,FALSE,FALSE,TRUE,Ronald Reagan
+edwin-meese,1984-04-02,1984-09-20,171,,,,,,FALSE,FALSE,TRUE,Ronald Reagan
+ted-olson,1986-04-23,1989-03-14,1056,,,,,,FALSE,FALSE,TRUE,Ronald Reagan
+deaver,1986-05-29,1989-08-16,1175,Michael Deaver,293,conviction,1987-12-16,566,FALSE,FALSE,TRUE,Ronald Reagan
+sealed-investigation-reagan,1986-12-19,1987-12-18,364,,,,,,FALSE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Carl R. Channell,131,guilty-plea,1987-04-29,131,FALSE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Richard Miller,138,guilty-plea,1987-05-06,138,FALSE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Robert McFarlane,448,guilty-plea,1988-03-11,448,FALSE,TRUE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Oliver North,453,conviction,1989-05-04,867,TRUE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,John Poindexter,453,conviction,1990-04-07,1205,TRUE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Richard Secord,453,guilty-plea,1989-11-08,1055,FALSE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Albert Hakim,453,guilty-plea,1989-11-21,1068,FALSE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Joseph Fernandez,549,indictment,,,FALSE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Thomas G. Clines,1161,conviction,1990-09-18,1369,FALSE,FALSE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Alan G. Fiers,1663,guilty-plea,1991-07-10,1664,FALSE,TRUE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Clair E. George,1722,conviction,1992-12-10,2183,FALSE,TRUE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Elliott Abrams,1753,guilty-plea,1991-10-07,1753,FALSE,TRUE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Duane Clarridge,1803,indictment,,,FALSE,TRUE,TRUE,Ronald Reagan
+iran-contra,1986-12-19,1993-08-03,2419,Caspar Weinberger,2006,indictment,,,FALSE,TRUE,TRUE,Ronald Reagan
+wedtech,1987-02-02,1988-07-08,522,Lyn Nofziger,166,conviction,1988-02-11,374,TRUE,FALSE,TRUE,Ronald Reagan
+sealed-investigation-hwbush-1,1991-04-19,1992-07-15,453,,,,,,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Leonard Briscoe,468,conviction,1993-01-05,1041,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Maurice Steier,468,conviction,1993-01-05,1041,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Samuel P. Singletary,651,guilty-plea,1992-02-20,721,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Lance H. Wilson,684,conviction,1993-01-05,1041,TRUE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Victor R. Cruse,754,indictment,,,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Deborah Gore Dean,789,conviction,1993-10-26,1335,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Thomas Demery,831,guilty-plea,1993-06-17,1204,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Phillip McCafferty,831,indictment,,,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Elaine Richardson,903,guilty-plea,1992-11-20,995,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Silvio J. DeBartolomeis,959,guilty-plea,1992-10-15,959,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Philip D. Winn,1076,guilty-plea,1993-02-09,1076,FALSE,TRUE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Robert B. Olsen,1167,guilty-plea,1993-05-12,1168,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Joseph A. Straus,1245,guilty-plea,1994-04-15,1506,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,J. Michael Queenan,1336,conviction,1994-06-23,1575,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Ronald L. Mahon,1336,conviction,1994-06-23,1575,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Carlos A. Figueroa,1357,guilty-plea,1994-08-14,1627,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,Catalina Vasquez Villalpando,1449,guilty-plea,1994-02-17,1449,FALSE,FALSE,TRUE,George H.W. Bush
+pierce,1990-03-01,1998-10-27,3162,James G. Watt,1819,guilty-plea,1996-01-02,2133,FALSE,FALSE,TRUE,George H.W. Bush
+sealed-investigation-hwbush-2,1991-04-19,1992-07-15,453,,,,,,FALSE,FALSE,TRUE,George H.W. Bush
+bush-clinton-passport,1992-12-14,1995-11-30,1081,,,,,,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,David L. Hale,-316,guilty-plea,1994-03-22,-136,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Charles Matthews,-316,guilty-plea,1994-06-23,-43,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Eugene Fitzhugh,-316,guilty-plea,1994-06-23,-43,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Robert W. Palmer,123,guilty-plea,1994-12-05,122,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Webster L. Hubbell,123,guilty-plea,1994-12-06,123,FALSE,TRUE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Neal T. Ainley,208,guilty-plea,1995-05-02,270,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Christopher Wade,228,guilty-plea,1995-03-21,228,FALSE,TRUE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Jim Guy Tucker,307,conviction,1996-05-26,660,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,John Haley,307,guilty-plea,1998-02-20,1295,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Stephen A. Smith,307,guilty-plea,1995-06-08,307,FALSE,TRUE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,William J. Marks Sr.,307,guilty-plea,1997-08-28,1119,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Larry Kuca,342,guilty-plea,1995-07-13,342,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,James McDougal,377,conviction,1996-05-26,660,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Susan McDougal,377,conviction,1996-05-26,660,FALSE,TRUE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Herbert Branscum,565,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Robert Hill,565,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Suzanna Hubbell,1364,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Michael C. Schaufele,1364,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Charles C. Owen,1364,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+whitewater,1994-08-05,2002-03-06,2770,Julie Hiatt Steele,1616,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,James Lake,409,guilty-plea,1995-10-23,409,FALSE,TRUE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,"Brooke Keith Mitchell, Sr",622,guilty-plea,1996-11-13,796,FALSE,TRUE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,"Brooke Keith Mitchell, Jr",622,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,Gary Black,630,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,Alverez Ferrouillet,670,conviction,1996-12-20,833,FALSE,TRUE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,"Henry Espy, Jr.",670,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,John Hemmingson,698,conviction,1996-12-19,832,FALSE,TRUE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,Jack L. Williams,740,conviction,1998-06-26,1386,FALSE,TRUE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,Richard Douglas,769,guilty-plea,1998-03-16,1284,FALSE,TRUE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,"Norris Faust, Jr.",803,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,Ronald H. Blackley,957,conviction,1997-12-01,1179,FALSE,FALSE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,Mike Espy,1083,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+espy,1994-09-09,2001-01-30,2335,Archibald Schaffer,1225,conviction,1998-06-26,1386,FALSE,TRUE,TRUE,Bill Clinton
+cisneros,1995-05-24,2004-08-31,3387,Linda (Medlar) Jones,843,guilty-plea,1998-01-15,967,FALSE,TRUE,TRUE,Bill Clinton
+cisneros,1995-05-24,2004-08-31,3387,Patsy Wooten,843,guilty-plea,1998-01-15,967,FALSE,FALSE,TRUE,Bill Clinton
+cisneros,1995-05-24,2004-08-31,3387,Allen Wooten,843,guilty-plea,1998-01-15,967,FALSE,FALSE,TRUE,Bill Clinton
+cisneros,1995-05-24,2004-08-31,3387,Henry Cisneros,932,guilty-plea,1999-09-07,1567,FALSE,TRUE,TRUE,Bill Clinton
+cisneros,1995-05-24,2004-08-31,3387,Sylvia Arce-Garcia,932,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+cisneros,1995-05-24,2004-08-31,3387,John D. Rosales,932,indictment,,,FALSE,FALSE,TRUE,Bill Clinton
+ron-brown,1995-07-06,1996-11-14,497,,,,,,FALSE,FALSE,TRUE,Bill Clinton
+eli-segal,1996-11-27,1997-08-21,267,,,,,,FALSE,FALSE,TRUE,Bill Clinton
+bruce-babbitt,1998-03-19,1999-12-30,651,,,,,,FALSE,FALSE,TRUE,Bill Clinton
+herman,1998-05-26,2000-04-07,682,Abdul Rahman,631,indictment,,,FALSE,FALSE,FALSE,Bill Clinton
+waco,1999-09-09,2000-04-22,226,,,,,,FALSE,FALSE,TRUE,Bill Clinton
+plame,2003-12-31,2007-03-06,1161,"I. Lewis ""Scooter"" Libby",1161,conviction,2007-03-06,1161,FALSE,TRUE,TRUE,George W. Bush
+russia,2017-05-17,,659,George Papadopolous,141,guilty-plea,2017-10-05,141,FALSE,FALSE,TRUE,Donald Trump
+russia,2017-05-17,,659,Paul Manafort,166,conviction,2018-08-21,461,FALSE,FALSE,TRUE,Donald Trump
+russia,2017-05-17,,659,Rick Gates,166,guilty-plea,2018-02-23,282,FALSE,FALSE,TRUE,Donald Trump
+russia,2017-05-17,,659,Michael Flynn,198,guilty-plea,2017-12-01,198,FALSE,FALSE,TRUE,Donald Trump
+russia,2017-05-17,,659,Russian national 1,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 2,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 3,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 4,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 5,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 6,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 7,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 8,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 9,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 10,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 11,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 12,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 13,275,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Richard Pinedo,266,guilty-plea,2018-02-12,271,FALSE,FALSE,TRUE,Donald Trump
+russia,2017-05-17,,659,Alex Van Der Zwaan,275,guilty-plea,2018-02-20,279,FALSE,FALSE,TRUE,Donald Trump
+russia,2017-05-17,,659,Konstantin Kilimnik,387,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 14,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 15,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 16,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 17,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 18,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 19,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 20,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 21,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 22,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 23,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 24,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Russian national 25,422,indictment,,,FALSE,FALSE,FALSE,Donald Trump
+russia,2017-05-17,,659,Michael Cohen,561,guilty-plea,2018-11-29,561,FALSE,FALSE,TRUE,Donald Trump
+russia,2017-05-17,,659,Roger Stone,618,indictment,,,FALSE,FALSE,TRUE,Donald Trump
