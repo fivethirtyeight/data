@@ -1,7 +1,6 @@
 # NCAA Women's Basketball Tournament
 
-This folder contains the data behind the story [The Rise And Fall Of Women’s NCAA Tournament Dynasties
-](https://fivethirtyeight.com/features/louisiana-tech-was-the-uconn-of-the-80s/).
+This folder contains the data behind the story [The Rise And Fall Of Women’s NCAA Tournament Dynasties](https://fivethirtyeight.com/features/louisiana-tech-was-the-uconn-of-the-80s/).
 
 `womens_basketball_ncaa_history.csv` contains data for every team that has participated in the NCAA Division I Women’s Basketball Tournament since it began in 1982. Every school is shown with its seed, conference record (when available), regular-season record, tournament record and full season record, including winning percentages. All data is from the NCAA. 
  
