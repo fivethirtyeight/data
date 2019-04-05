@@ -1,12 +1,14 @@
 ---
 files:
   - https://projects.fivethirtyeight.com/mlb-api/mlb_elo.csv
+  - https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv
 ---
 # MLB Elo
 
 This file contains links to the data behind [The Complete History Of MLB](https://projects.fivethirtyeight.com/complete-history-of-mlb/) and our [MLB Predictions](https://projects.fivethirtyeight.com/2018-mlb-predictions/).
 
 `mlb_elo.csv` contains game-by-game Elo ratings and forecasts back to 1871.
+`mlb_elo_latest.csv` contains game-by-game Elo ratings and forecasts for only the latest season.
 
 The data contains two separate systems for rating teams; the simpler Elo ratings, used for [The Complete History Of MLB](https://projects.fivethirtyeight.com/complete-history-of-mlb/), and the more involved — and confusingly named — "ratings" that are used in our [MLB Predictions](https://projects.fivethirtyeight.com/2018-mlb-predictions/). The main difference is that Elo ratings are reverted to the mean between seasons, while the more involved ratings use preseason team projections from several projection systems and account for starting pitchers. More information can be found in [this article](https://fivethirtyeight.com/features/how-our-mlb-predictions-work/).
 
