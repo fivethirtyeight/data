@@ -1,0 +1,3 @@
+This folder contains data behind the story [Both Parties Think The Mueller Report Was Fair. They Just Completely Disagree On What It Says.](https://fivethirtyeight.com/features/both-parties-think-the-mueller-report-was-fair-they-just-disagree-on-what-it-says/)
+
+`mueller-approval-polls.csv` contains every job approval poll of Robert Mueller that we could find from when Mueller was appointed as special council on May 17, 2017 through May 3, 2019.
