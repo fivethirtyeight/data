@@ -8,7 +8,7 @@ This folder contains the data behind the stories:
 - [Why One of Trump’s Biggest Legal Threats Is New York’s Attorney General](https://fivethirtyeight.com/features/why-one-of-trumps-biggest-legal-threats-is-new-yorks-attorney-general/)
 - [Should Judges Pay Attention To Trump’s Tweets?](https://fivethirtyeight.com/features/should-judges-pay-attention-to-trumps-tweets/)
 - [Trump Is Losing The Legal Fight Against Sanctuary Cities, But It May Still Pay Off Politically](https://fivethirtyeight.com/features/trump-is-losing-the-legal-fight-against-sanctuary-cities-but-it-may-still-pay-off-politically/)
-- [https://fivethirtyeight.com/features/will-trumps-latest-lawsuits-keep-congress-from-investigating-future-presidents/](https://fivethirtyeight.com/features/will-trumps-latest-lawsuits-keep-congress-from-investigating-future-presidents/)
+- [Will Trump’s Latest Lawsuits Keep Congress From Investigating Future Presidents?](https://fivethirtyeight.com/features/will-trumps-latest-lawsuits-keep-congress-from-investigating-future-presidents/)
 
 Variable	| Description | Values
 ---|---|----
