@@ -26,7 +26,8 @@ Data is collected using the [GDELT Television API](https://blog.gdeltproject.org
 Column | Description
 -------|------------
 `date` | Start date for the week of coverage. A week of coverage spans from Sunday through Saturday.
-`query` | Query for Media Cloud
+`name` | Candidate's name
 `matched_stories` | Number of stories that match `query`
 `all_candidate_stories` | Number of stories that match the following query ```("Amy Klobuchar" OR "Andrew Yang" OR "Bernie Sanders" OR "Beto O'Rourke" OR "Bill de Blasio" OR "Cory Booker" OR "Elizabeth Warren" OR "Eric Swalwell" OR "Jay Inslee" OR "Joe Biden" OR "John Delaney" OR "John Hickenlooper" OR "Julian Castro" OR "Julián Castro" OR "Kamala Harris" OR "Kirsten Gillibrand" OR "Marianne Williamson" OR "Michael Bennet" OR "Mike Gravel" OR "Pete Buttigieg" OR "Seth Moulton" OR "Steve Bullock" OR "Tim Ryan" OR "Tulsi Gabbard")```
 `pct_of_all_candidate_stories` | (`matched_stories ` / `all_candidate_stories `)
+`query` | Query for Media Cloud
