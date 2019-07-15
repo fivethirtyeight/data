@@ -1,4 +1,4 @@
-# foulballs
+# foul-balls
  
 This folder contains the data behind the story [We Watched 906 Foul Balls To Find Out Where The Most Dangerous Ones Land](https://fivethirtyeight.com/features/we-watched-906-foul-balls-to-find-out-where-the-most-dangerous-ones-land/).
  
