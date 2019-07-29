@@ -4,7 +4,7 @@ This folder contains the data behind a [series of stories](https://fivethirtyeig
 
 ## Cable News
 
-`cable_weekly.csv` contains the mentions of currently declared [major candidates](https://fivethirtyeight.com/features/heres-how-were-defining-a-major-presidential-candidate/) for the 2020 Democratic primary since December 30, 2018 across CNN, Fox News, and MSNBC. The TV News Archive measures coverage by splitting daily news footage into 15-second clips and finding the clips that contain a mention of our search query. Our search queries are the full names of each candidate. 
+`cable_weekly.csv` contains the mentions of currently declared [major candidates](https://fivethirtyeight.com/features/heres-how-were-defining-a-major-presidential-candidate/) for the 2020 Democratic primary since December 30, 2018 across CNN, Fox News, and MSNBC. The TV News Archive measures coverage by splitting daily news footage into 15-second clips and finding the clips that contain a mention of our search query. Our search queries are the full names of each candidate. All candidates are queried starting December 30, 2018, however candidates are removed from the query once they have dropped out from the race.
 
 
 Column | Description
@@ -21,7 +21,8 @@ Data is collected using the [GDELT Television API](https://blog.gdeltproject.org
 
 ## Online News
 
-`online_weekly.csv` contains the mentions of currently declared [major candidates](https://fivethirtyeight.com/features/heres-how-were-defining-a-major-presidential-candidate/) for the 2020 Democratic primary since December 30, 2018 across in online news stories from two collections in the [Media Cloud](https://mediacloud.org/) database ([U.S. Top Online News](https://sources.mediacloud.org/#/collections/58722749) and [U.S. Top Digital Native News](https://sources.mediacloud.org/#/collections/57078150)).
+`online_weekly.csv` contains the mentions of currently declared [major candidates](https://fivethirtyeight.com/features/heres-how-were-defining-a-major-presidential-candidate/) for the 2020 Democratic primary since December 30, 2018 across in online news stories from two collections in the [Media Cloud](https://mediacloud.org/) database ([U.S. Top Online News](https://sources.mediacloud.org/#/collections/58722749) and [U.S. Top Digital Native News](https://sources.mediacloud.org/#/collections/57078150)). All candidates are queried starting December 30, 2018, however candidates are removed from the query once they have dropped out from the race.
+
 
 Column | Description
 -------|------------
