@@ -13,8 +13,8 @@ Column   | Description
 `conference`| School college football conference
 `song_name`| Song title
 `writers`| Song author
-`year`| Year written
-`student_writer`| Was the author a student?
+`year`| Year the song written, some values are `Unknown`
+`student_writer`| Was the author a student? Some values are `Unknown`
 `official_song`| Is the song the official fight song according to the university?
 `contest`| Was the song chosen as the result of a contest?
 `bpm`| Beats per minute
