@@ -19,7 +19,6 @@ Column   | Description
 `contest`| Was the song chosen as the result of a contest?
 `bpm`| Beats per minute
 `sec_duration`| Duration of song in seconds
-`time_signature`| Time signature
 `fight`| Does the song say “fight”?
 `number_fights`| Number of times the song says “fight”?
 `victory`| Does the song say “victory”?
