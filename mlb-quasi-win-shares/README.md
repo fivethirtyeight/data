@@ -2,7 +2,7 @@
 
 This folder contains data behind the story [The Twins’ Magical Run Will Likely Go Through The Yankees. (Because Of Course.)](https://fivethirtyeight.com/features/the-yankees-always-have-the-twins-number-will-this-postseason-be-different/)
 
-`quasi_winshares.csv` contains Quasi-Win Shares (QWS), prorated to 162 team games, for every player from 1901 as of Sept. 27”
+`quasi_winshares.csv` contains Quasi-Win Shares (QWS), prorated to 162 team games, for every player from 1901 as of Sept. 27, 2019.
 
 
 Column | Description
