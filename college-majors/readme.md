@@ -45,7 +45,7 @@ Header | Description
 `Unemployed` | Number unemployed (ESR == 3)
 `Unemployment_rate` | Unemployed / (Unemployed + Employed)
 `Median` | Median earnings of full-time, year-round workers
-`P25th` | 25th percentile of earnigns
+`P25th` | 25th percentile of earnings
 `P75th` | 75th percentile of earnings
 `College_jobs` | Number with job requiring a college degree
 `Non_college_jobs` | Number with job not requiring a college degree
