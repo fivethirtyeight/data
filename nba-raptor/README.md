@@ -1,6 +1,6 @@
 # nba-raptor
 
-This folder contains data behind the story [TKTK](TKTK)
+This folder contains data behind the story [Introducing RAPTOR, Our New Metric For The Modern NBA](https://fivethirtyeight.com/features/introducing-raptor-our-new-metric-for-the-modern-nba)
 
 `modern_RAPTOR_by_player.csv` contains the RAPTOR data for every player broken out by season since 2014, when NBA player-tracking data first became available. 
 
