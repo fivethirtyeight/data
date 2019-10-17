@@ -81,10 +81,10 @@ Reagan,Vice President,George H.W. Bush,1/20/81,1/20/89,2922,2923
 Reagan,Secretary of Commerce,William Verity Jr.,10/19/87,1/30/89,469,2933
 Reagan,UN Ambassador,Vernon Walters,5/22/85,3/15/89,1393,2977
 Reagan,SBA Administrator,James Abdnor,3/23/87,4/20/89,759,3013
-Reagan,Attorney General,Dick Thornburgh,8/12/88,Bush admin,1098 combined,#VALUE!
-Reagan,Director of Central Intelligence,Bill Webster,5/26/87,Bush admin,1558 combined,#VALUE!
-Reagan,Secretary of Education,Lauro Cavazos,9/20/88,Bush admin,816 combined,#VALUE!
-Reagan,Secretary of the Treasury,Nicholas Brady,9/16/88,Bush admin,1584 combined,#VALUE!
+Reagan,Attorney General,Dick Thornburgh,8/12/88,Bush admin,1098 combined,
+Reagan,Director of Central Intelligence,Bill Webster,5/26/87,Bush admin,1558 combined,
+Reagan,Secretary of Education,Lauro Cavazos,9/20/88,Bush admin,816 combined,
+Reagan,Secretary of the Treasury,Nicholas Brady,9/16/88,Bush admin,1584 combined,
 Bush 41,Secretary of Labor,Elizabeth Dole,1/25/89,11/23/90,667,673
 Bush 41,Secretary of Education,Lauro Cavazos,Reagan admin,12/15/90,816 combined,695
 Bush 41,Secretary of Agriculture,Clayton Yeutter,2/16/89,3/1/91,743,771
@@ -168,7 +168,7 @@ Clinton,Secretary of the Treasury,Larry Summers,7/2/99,1/20/01,568,2923
 Clinton,Secretary of Transportation,Rodney Slater,2/14/97,1/20/01,1436,2923
 Clinton,U.S. Trade Representative,Charlene Barshefsky,3/18/97,1/20/01,1404,2923
 Clinton,Vice President,Al Gore,1/20/93,1/20/01,2922,2923
-Clinton,Director of Central Intelligence,George Tenet,7/11/97,Bush admin,2557 combined,#VALUE!
+Clinton,Director of Central Intelligence,George Tenet,7/11/97,Bush admin,2557 combined,
 Bush 43,Secretary of the Treasury,Paul O'Neill,1/30/01,12/31/02,700,711
 Bush 43,OMB Director,Mitch Daniels,1/23/01,6/6/03,864,868
 Bush 43,EPA Administrator,Christine Todd Whitman,1/31/01,6/27/03,877,889
@@ -226,7 +226,7 @@ Bush 43,Secretary of Homeland Security,Michael Chertoff,2/15/05,1/21/09,1436,292
 Bush 43,UN Ambassador,Zalmay Khalilzad,4/30/07,1/22/09,633,2925
 Bush 43,Director of National Intelligence,Mike McConnell,2/13/07,1/27/09,714,2930
 Bush 43,CIA Director,Michael Hayden,5/30/06,2/12/09,989,2946
-Bush 43,Secretary of Defense,Bob Gates,12/18/06,Obama admin,1655 combined,#VALUE!
+Bush 43,Secretary of Defense,Bob Gates,12/18/06,Obama admin,1655 combined,
 Obama,Director of National Intelligence,Dennis Blair,1/29/09,5/28/10,484,494
 Obama,OMB Director,Peter Orszag,1/20/09,7/30/10,556,557
 Obama,Chief of Staff,Rahm Emanuel,1/20/09,10/1/10,619,620
@@ -293,21 +293,21 @@ Trump,Secretary of Defense,Jim Mattis,1/20/17,12/31/18,710,711
 Trump,UN Ambassador,Nikki Haley,1/27/17,12/31/18,703,711
 Trump,Chief of Staff,John Kelly,7/31/17,12/31/18,518,711
 Trump,Secretary of the Interior,Ryan Zinke,3/1/17,1/2/19,672,713
-Trump,Vice President,Mike Pence,1/20/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Transportation,Elaine Chao,1/31/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Education,Betsy DeVos,2/7/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of the Treasury,Steve Mnuchin,2/13/17,Still in office,#VALUE!,#VALUE!
-Trump,SBA Administrator,Linda McMahon,2/14/17,Still in office,#VALUE!,#VALUE!
-Trump,OMB Director,Mick Mulvaney,2/16/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Commerce,Wilbur Ross,2/28/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Energy,Rick Perry,3/2/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Housing & Urban Development,Ben Carson,3/2/17,Still in office,#VALUE!,#VALUE!
-Trump,Director of National Intelligence,Dan Coats,3/16/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Agriculture,Sonny Perdue,4/25/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Labor,Alexander Acosta,4/28/17,Still in office,#VALUE!,#VALUE!
-Trump,U.S. Trade Representative,Robert Lighthizer,5/15/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Homeland Security,Kirstjen Nielsen,12/6/17,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Health & Human Services,Alex Azar,1/29/18,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of State,Mike Pompeo,4/26/18,Still in office,#VALUE!,#VALUE!
-Trump,CIA Director,Gina Haspel,5/21/18,Still in office,#VALUE!,#VALUE!
-Trump,Secretary of Veterans Affairs,Robert Wilkie,7/30/18,Still in office,#VALUE!,#VALUE!
+Trump,Vice President,Mike Pence,1/20/17,Still in office,,
+Trump,Secretary of Transportation,Elaine Chao,1/31/17,Still in office,,
+Trump,Secretary of Education,Betsy DeVos,2/7/17,Still in office,,
+Trump,Secretary of the Treasury,Steve Mnuchin,2/13/17,Still in office,,
+Trump,SBA Administrator,Linda McMahon,2/14/17,Still in office,,
+Trump,OMB Director,Mick Mulvaney,2/16/17,Still in office,,
+Trump,Secretary of Commerce,Wilbur Ross,2/28/17,Still in office,,
+Trump,Secretary of Energy,Rick Perry,3/2/17,Still in office,,
+Trump,Secretary of Housing & Urban Development,Ben Carson,3/2/17,Still in office,,
+Trump,Director of National Intelligence,Dan Coats,3/16/17,Still in office,,
+Trump,Secretary of Agriculture,Sonny Perdue,4/25/17,Still in office,,
+Trump,Secretary of Labor,Alexander Acosta,4/28/17,Still in office,,
+Trump,U.S. Trade Representative,Robert Lighthizer,5/15/17,Still in office,,
+Trump,Secretary of Homeland Security,Kirstjen Nielsen,12/6/17,Still in office,,
+Trump,Secretary of Health & Human Services,Alex Azar,1/29/18,Still in office,,
+Trump,Secretary of State,Mike Pompeo,4/26/18,Still in office,,
+Trump,CIA Director,Gina Haspel,5/21/18,Still in office,,
+Trump,Secretary of Veterans Affairs,Robert Wilkie,7/30/18,Still in office,,
