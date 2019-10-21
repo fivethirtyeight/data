@@ -32,8 +32,8 @@ qb1_value_pre | Home starting quarterbacks's raw Elo value before the game
 qb2_value_pre | Away starting quarterbacks's raw Elo value before the game
 qb1_adj | Home starting quarterbacks's Elo adjustment for the game
 qb2_adj | Away starting quarterbacks's Elo adjustment for the game
-qb_elo_prob1 | Home team's probability of winning according to quarterback-adjusted Elo
-qb_elo_prob2 | Away team's probability of winning according to quarterback-adjusted Elo
+qbelo_prob1 | Home team's probability of winning according to quarterback-adjusted Elo
+qbelo_prob2 | Away team's probability of winning according to quarterback-adjusted Elo
 qb1_game_value | Home quarterback's Elo value during this game
 qb2_game_value | Away quarterback's Elo value during this game
 qb1_value_post | Home starting quarterbacks's raw Elo value after the game
