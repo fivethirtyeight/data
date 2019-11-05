@@ -5,6 +5,7 @@ This directory contains the data behind FiveThirtyEight's pollster ratings.
 See also:
 
 * [FiveThirtyEight's Pollster Ratings](https://projects.fivethirtyeight.com/pollster-ratings/)
+* [The State Of The Polls, 2019](https://fivethirtyeight.com/features/the-state-of-the-polls-2019/)
 * [The Polls Are All Right](https://fivethirtyeight.com/features/the-polls-are-all-right/)
 * [The State Of The Polls, 2016](https://fivethirtyeight.com/features/the-state-of-the-polls-2016/)
 * [How FiveThirtyEight Calculates Pollster Ratings](https://fivethirtyeight.com/features/how-fivethirtyeight-calculates-pollster-ratings/)
@@ -13,6 +14,7 @@ Past data:
 
 * [2014](2014/)
 * [2016](2016/)
+* [2018](2018/)
 
 `pollster-stats-full.xlsx` contains a spreadsheet with all of the summary data and calculations involved in determining the pollster ratings as well as descriptions for each column.
 

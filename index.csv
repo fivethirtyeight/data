@@ -1,4 +1,5 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/data/tree/master/pollster-ratings,https://fivethirtyeight.com/features/the-state-of-the-polls-2019/,
 https://github.com/fivethirtyeight/data/tree/master/nba-raptor,https://fivethirtyeight.com/features/how-our-raptor-metric-works/,
 https://github.com/fivethirtyeight/data/tree/master/nba-raptor,https://fivethirtyeight.com/features/introducing-raptor-our-new-metric-for-the-modern-nba/,
 https://github.com/fivethirtyeight/data/tree/master/impeachment-polls,https://projects.fivethirtyeight.com/impeachment-polls/,TRUE
