@@ -1,5 +1,4 @@
 dataset_url,article_url,live
-https://github.com/fivethirtyeight/data/tree/master/pollster-ratings,https://fivethirtyeight.com/features/the-state-of-the-polls-2019/,
 https://github.com/fivethirtyeight/data/tree/master/nba-raptor,https://fivethirtyeight.com/features/how-our-raptor-metric-works/,
 https://github.com/fivethirtyeight/data/tree/master/nba-raptor,https://fivethirtyeight.com/features/introducing-raptor-our-new-metric-for-the-modern-nba/,
 https://github.com/fivethirtyeight/data/tree/master/impeachment-polls,https://projects.fivethirtyeight.com/impeachment-polls/,TRUE
@@ -92,6 +91,7 @@ https://github.com/fivethirtyeight/data/tree/master/hip-hop-candidate-lyrics,htt
 https://github.com/fivethirtyeight/data/tree/master/pollster-ratings,http://projects.fivethirtyeight.com/pollster-ratings/,
 https://github.com/fivethirtyeight/data/tree/master/pollster-ratings,https://fivethirtyeight.com/features/the-state-of-the-polls-2016/,
 https://github.com/fivethirtyeight/data/tree/master/pollster-ratings,https://fivethirtyeight.com/features/the-polls-are-all-right/,
+https://github.com/fivethirtyeight/data/tree/master/pollster-ratings,https://fivethirtyeight.com/features/the-state-of-the-polls-2019/,
 https://github.com/fivethirtyeight/data/tree/master/births,http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/,
 https://github.com/fivethirtyeight/data/tree/master/presidential-commencement-speeches,http://fivethirtyeight.com/features/sitting-presidents-give-way-more-commencement-speeches-than-they-used-to/,
 https://github.com/fivethirtyeight/data/tree/master/trump-news,http://fivethirtyeight.com/features/how-donald-trump-hacked-the-media/,
