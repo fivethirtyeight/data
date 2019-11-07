@@ -1,20 +1,34 @@
+---
+files:
+  - https://projects.fivethirtyeight.com/nba-model/2020/latest_RAPTOR_by_team.csv
+  - https://projects.fivethirtyeight.com/nba-model/2020/latest_RAPTOR_by_player.csv
+---
 # nba-raptor
 
-This folder contains data behind the story [Introducing RAPTOR, Our New Metric For The Modern NBA](https://fivethirtyeight.com/features/introducing-raptor-our-new-metric-for-the-modern-nba)
+This folder contains data behind the story [Introducing RAPTOR, Our New Metric For The Modern NBA](https://fivethirtyeight.com/features/introducing-raptor-our-new-metric-for-the-modern-nba) and the interactive [The Best NBA Players This Season, According To RAPTOR](https://projects.fivethirtyeight.com/2020-nba-player-ratings/).
 
-`modern_RAPTOR_by_player.csv` contains the RAPTOR data for every player broken out by season since 2014, when NBA player-tracking data first became available. 
+
+`modern_RAPTOR_by_player.csv` contains RAPTOR data for every player broken out by season since 2014, when NBA player-tracking data first became available.
 
 `modern_RAPTOR_by_team.csv` contains RAPTOR data for every player broken out by team, season and season_type since 2014, when NBA player-tracking data first became available.
 
 These "modern" data files contain the box score and on/off plus-minus components of RAPTOR, which are then combined into a total RAPTOR rating.
 
 
-`historical_RAPTOR_by_player.csv` contains the RAPTOR data for every player broken out by season since the 1976 ABA-NBA merger.
+`historical_RAPTOR_by_player.csv` contains RAPTOR data for every player broken out by season since the 1976 ABA-NBA merger.
 
 
-`historical_RAPTOR_by_team.csv` contains RAPTOR data for every player broken out by team, season and season_type since the 1976 ABA-NBA merger. 
+`historical_RAPTOR_by_team.csv` contains RAPTOR data for every player broken out by team, season and season_type since the 1976 ABA-NBA merger.
 
 These "historical" data files use full player-tracking RAPTOR for seasons since 2014, a version of RAPTOR that mixes box score value estimates with single-year regularized plus-minus data for seasons from 2001 through 2013, and a version of RAPTOR that only uses a box score estimate of value for the seasons from 1977 through 2000. In each era, the RAPTOR version with the highest level of detail is the version used.
+
+
+The linked file `latest_RAPTOR_by_player.csv` contains RAPTOR data for every player in the 2019-20 season.
+
+The linked file `latest_RAPTOR_by_team.csv` contains RAPTOR data for every player broken out by team, season and season_type for the 2019-20 season.
+
+These "latest" data files contain the box score and on/off plus-minus components of RAPTOR, which are then combined into a total RAPTOR rating.
+
 
 
 Column | Description
