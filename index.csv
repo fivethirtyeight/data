@@ -1,5 +1,6 @@
 dataset_url,article_url,live
 https://github.com/fivethirtyeight/data/tree/master/presidential-candidate-favorables-2019,https://fivethirtyeight.com/features/the-democratic-presidential-candidates-are-becoming-less-popular/,
+https://github.com/fivethirtyeight/data/tree/master/nba-raptor,https://projects.fivethirtyeight.com/2020-nba-player-ratings/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/nba-raptor,https://fivethirtyeight.com/features/how-our-raptor-metric-works/,
 https://github.com/fivethirtyeight/data/tree/master/nba-raptor,https://fivethirtyeight.com/features/introducing-raptor-our-new-metric-for-the-modern-nba/,
 https://github.com/fivethirtyeight/data/tree/master/impeachment-polls,https://projects.fivethirtyeight.com/impeachment-polls/,TRUE
