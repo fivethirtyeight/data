@@ -5,7 +5,7 @@ How Urban Or Rural Is Your State? And What Does That Mean For The 2020 Election?
 ](https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/)
 
 
-`urbanization-state.csv` contains FiveThirtyEight's urbanization index for every state. This number is calculated via a weighted average based on each the population of each census tract in that state.
+`urbanization-state.csv` contains FiveThirtyEight's urbanization index for every state. This number is calculated as the natural logarithm of the average number of people living within a five-mile radius of a given resident in each census tract in that state.
 
 `urbanization-census-tract.csv` contains FiveThirtyEight's urbanization index for every census tract.
 
