@@ -14,7 +14,7 @@ Column | Description
 -------|------------
 `statefips` | FIPS code for each state
 `state` | Name of state
-`gisjoin` | [Geographic Identifier](https://www.nhgis.org/user-resources/geographic-crosswalks)for the census tract from the 2010 census
+`gisjoin` | [Geographic Identifier](https://www.nhgis.org/user-resources/geographic-crosswalks) for the census tract from the 2010 census
 `lat_tract` | Latitude of the center of the census tract
 `long_tract` | Lognitude of the center of the census tract
 `population` | Number of people living in the census tract according to 5-year American Community Survey data from 2017
