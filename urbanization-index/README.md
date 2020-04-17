@@ -18,5 +18,5 @@ Column | Description
 `lat_tract` | Latitude of the center of the census tract
 `long_tract` | Longitude of the center of the census tract
 `population` | Number of people living in the census tract according to 5-year American Community Survey data from 2017
-`adj_radiuspop_5` | Estimate of the number of people within a 5-mile radius of a census tract. For a census tract that is more than 5 miles away any other census tract (centroid to centroid), this number is decreased based on the minimum distance to the nearest census tract.
+`adj_radiuspop_5` | Estimate of the number of people within a 5-mile radius of a census tract. For a census tract that is more than 5 miles away any other census tract (centroid to centroid), this number is decreased based on the minimum distance to the nearest census tract
 `urbanindex` | A calculation of how urban or rural a given area is; calculated as the natural logarithm of `adj_radiuspop_5`
