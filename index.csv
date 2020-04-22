@@ -1,4 +1,5 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/data/tree/master/covid-geography,https://fivethirtyeight.com/features/how-one-high-risk-community-in-rural-south-carolina-is-bracing-for-covid-19/,
 https://github.com/fivethirtyeight/data/tree/master/urbanization-index,https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/,
 https://github.com/fivethirtyeight/covid-19-polls,https://projects.fivethirtyeight.com/coronavirus-polls/,TRUE
 https://github.com/fivethirtyeight/nba-player-advanced-metrics,https://fivethirtyeight.com/features/luka-doncic-and-the-mavs-are-pushing-the-limits-of-offensive-efficiency/,
