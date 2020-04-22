@@ -1,6 +1,6 @@
 # covid-geography
 
-This folder contains the data behind the story TK
+This folder contains the data behind the story [How One High-Risk Community In Rural South Carolina Is Bracing For COVID-19](https://fivethirtyeight.com/features/how-one-high-risk-community-in-rural-south-carolina-is-bracing-for-covid-19/)
 
 `mmsa-icu-beds.csv` combines data from the Centers for Disease Control and Prevention’s [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/smart/smart_2017.html), a collection of health-related surveys conducted each year of more than 400,000 Americans, and the [Kaiser Family Foundation](https://khn.org/news/as-coronavirus-spreads-widely-millions-of-older-americans-live-in-counties-with-no-icu-beds/#lookup) to show the number of people who are at high risk of becoming seriously ill from COVID-19 per ICU bed in each metropolitan area, micropolitan area or metropolitan division for which we have data.
 
