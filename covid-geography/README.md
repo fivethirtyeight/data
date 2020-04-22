@@ -9,9 +9,9 @@ Being high risk is defined by a number of health conditions and behaviors. Based
 Column | Description
 -------|-------------
 `MMSA` | The name of the metropolitan area, micropolitan area or metropolitan division available in the CDC’s BRFSS
-`total_percent_at_risk` | The percent of individuals in that area that are at high risk of becoming seriously ill from COVID-19, per CDC’s BRFSS.
-`high_risk_per_icu_bed` | The number of high risk individuals per ICU bed in that area.
-`high_risk_per_hospital` |  The number of high risk individuals per hospital in that area.
+`total_percent_at_risk` | The percent of individuals in that area that are at high risk of becoming seriously ill from COVID-19, per CDC’s BRFSS
+`high_risk_per_icu_bed` | The number of high risk individuals per ICU bed in that area
+`high_risk_per_hospital` |  The number of high risk individuals per hospital in that area
 `icu_beds` | The number of ICU beds in the area, based on the Kaiser Family Foundation’s data
 `hospitals` | The number of hospitals in the area, based on the Kaiser Family Foundation’s data
 `total_at_risk` | The total number of high risk individuals in the area, per CDC’s BRFSS
