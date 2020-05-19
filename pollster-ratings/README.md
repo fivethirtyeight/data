@@ -15,6 +15,7 @@ Past data:
 * [2014](2014/)
 * [2016](2016/)
 * [2018](2018/)
+* [2019](2019/)
 
 `pollster-stats-full.xlsx` contains a spreadsheet with all of the summary data and calculations involved in determining the pollster ratings as well as descriptions for each column.
 
@@ -34,9 +35,11 @@ Header | Definition
 `partisan` | Flag for internal/partisan poll. "D" indicates Democratic poll, "R" indicates Republican poll, "I" indicates poll put out by independent candidate's campaign. Note that different sources define these categories differently and our categorization will often reflect the original source's definition. In other words, these definitions may be inconsistent and should be used carefully.
 `polldate` | Median field date of the poll
 `samplesize` | Sample size of the poll. Where missing, this is estimated from the poll's margin of error, or similar polls conducted by the same polling firm. A sample size of 600 is used if no better estimate is available.
-`cand1_name` | Name of Candidate #1. Candidates #1 and #2 are defined as the top two finishers in the election (regardless of whether or not they were the top two candidates in the poll). In races where a Democrat and a Republican were the top two finishers, Candidate #1 is the Democrat and simply listed as "Democrat".
+`cand1_name` | Name of Candidate #1. Candidates #1 and #2 are defined as the top two finishers in the election (regardless of whether or not they were the top two candidates in the poll). In races where a Democrat and a Republican were the top two finishers, Candidate #1 is the Democrat.
+`cand1_party` | Name of Candidate #1. Candidates #1 and #2 are defined as the top two finishers in the election (regardless of whether or not they were the top two candidates in the poll). In races where a Democrat and a Republican were the top two finishers, Candidate #1 is the Democrat.
 `cand1_pct` | Candidate #1's share of the vote in the poll.
-`cand2_name` | Name of Candidate #2. Candidates #1 and #2 are defined as the top two finishers in the election (regardless of whether or not they were the top two candidates in the poll). In races where a Democrat and a Republican were the top two finishers, Candidate #2 is the Republican and simply listed as "Republican"
+`cand2_name` | Name of Candidate #2. Candidates #1 and #2 are defined as the top two finishers in the election (regardless of whether or not they were the top two candidates in the poll). In races where a Democrat and a Republican were the top two finishers, Candidate #2 is the Republican.
+`cand2_party` | Party of Candidate #2.
 `cand2_pct` | Candidate #2's share of the vote in the poll.
 `cand3_pct` | Share of the vote for the top candidate listed in the poll, other than Candidate #1 and Candidate #2.
 `margin_poll` | Projected margin of victory (defeat) for Candidate #1. This is calculated as `cand1_pct - cand2_pct`. In races between a Democrat and a Republican, positive values indicate a Democratic lead; negative values a Repubican lead.
