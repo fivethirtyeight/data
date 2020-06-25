@@ -1,6 +1,6 @@
 # voter-registration
 
-This repo contains the data behind the story [TKTK]()
+This repo contains the data behind the story [Voter Registrations Are Way, Way Down During The Pandemic](https://fivethirtyeight.com/features/voter-registrations-are-way-way-down-during-the-pandemic)
 
 This data shows how many people registered to vote in early 2020 vs. early 2016 in 11 states and Washington, D.C. (As far as we could tell, this data was unavailable for other states.) We have data from January through April for all 12 of the jurisdictions, and data through May for four states and Washington D.C.
 
