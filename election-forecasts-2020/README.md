@@ -7,7 +7,7 @@ files:
 
 # election-forecasts-2020
 
-This file contains links to the data behind our [2020 General Election Forecast](https://projects.fivethirtyeight.com/2020-general-forecast/).
+This file contains links to the data behind our [2020 General Election Forecast](https://projects.fivethirtyeight.com/2020-election-forecast/).
 
 
 `presidential_national_toplines_2020.csv` contains the final national topline on each day. It includes the following columns:
