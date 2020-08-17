@@ -3,6 +3,8 @@ files:
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_national_toplines_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_state_toplines_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_ev_probabilities_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/presidential_scenario_analysis_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/economic_index.csv
 ---
 
 # election-forecasts-2020
@@ -70,3 +72,23 @@ Column | Description
 `evprob_chal` | Chance that the challenger wins `total_ev` electoral votes
 `evprob_3rd` | Chance that the third-party candidate wins `total_ev` electoral votes
 `total_ev` | Number of electoral votes in question
+
+`presidential_scenario_analysis_2020.csv` contains the forecasted chances of various possible election outcome scenarios. This sheet contains the following additional columns:
+
+Column | Description
+-------|------------
+`scenario_id` | A unique identifier for each scenario
+`probability` | The forecasted chance that the scenario will happen
+`scenario_description` | A description of the scenario in question
+
+
+`economic_index.csv` contains economic indicators that serve as inputs to the forecast. For more information on these indicators, see [this post](https://fivethirtyeight.com/features/measuring-the-effect-of-the-economy-on-elections/). The economic indexes were collected from the [Federal Reserve Bank Of St. Louis]( https://fred.stlouisfed.org/series/DSPIC96) and the stock prices data from [Yahoo Finance](https://finance.yahoo.com/). This sheet contains the following additional columns:
+
+Column | Description
+-------|------------
+`indicator` | Name of the economic indicator
+`category` | What that indicator helps measure
+`current_zscore` | Number of standard deviations from the previous 2-year average for the current value of the indicator
+`projected_zscore` | Number of standard deviations from the previous 2-year average for the projected value of the indicator on Election Day
+`projected_hi` | Upper bound of an 80% confidence interval for `projected_zscore`
+`projected_lo` | Lower bound of an 80% confidence interval for `projected_zscore`
