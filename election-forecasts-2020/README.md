@@ -94,3 +94,48 @@ Column | Description
 `projected_zscore` | Number of standard deviations from the previous 2-year average for the projected value of the indicator on Election Day
 `projected_hi` | Upper bound of an 80% confidence interval for `projected_zscore`
 `projected_lo` | Lower bound of an 80% confidence interval for `projected_zscore`
+
+
+## Senate files
+
+`senate_national_toplines_2020.csv` contains the final national Senate topline on each day. It includes the following columns:
+Column | Description
+-------|------------
+`cycle` | The election cycle (2020)
+`branch` | The kind of race this forecast pertains to (senate)
+`expression` | The model type (lite, classic, or deluxe)
+`forecastdate` | The date the model was run
+`chamber_Dparty`, `chamber_Rparty` | The forecast probability that each party (D or R) win control of the Senate
+`mean_seats_Dparty`, `mean_seats_Rparty` | The average number of seats that each party (D or R) hold in the Senate in model simulations
+`median_seats_Dparty`, `median_seats_Rparty` | The median number of seats that each party (D or R) hold in the Senate in model simulations
+`p90_seats_Dparty`,`p90_seats_Rparty`,`p10_seats_Dparty`,`p10_seats_Rparty` | The 90th and 10th percentile for the number of seats for each party (D or R) in model simulations
+`total_national_turnout`, `p90_total_national_turnout`, `p10_total_national_turnout` | The average, 90th percentile, and 10th percentile of national turnout in states with Senate races in model simulations
+`popvote_margin`, `p90_popvote_margin`, `p10_popvote_margin` | The average, 90th percentile, and 10th percentile of popular vote margin (with positive being more Democratic and negative more Republican) in Senate races in model simulations
+`simulations` | The number of simulations run
+`timestamp` | The time at which the data was extracted from the forecast model
+
+
+`senate_state_toplines_2020.csv` contains the final state-level Senate toplines on each day. This sheet contains the following columns:
+Column | Description
+-------|------------
+`cycle` | The election cycle (2020)
+`branch` | The kind of race this forecast pertains to (senate)
+`seat` | The Senate seat corresponding to this row, in the format XX-S#, where XX is the state postal code and # is the class of the seat being contested
+`forecastdate` | The date the model was run
+`expression` | The model type (lite, classic, or deluxe)
+`name_D1`, `name_D2`,`name_D3`,`name_D4`,`name_R1`, `name_R2`,`name_R3`,`name_R4` | The name of the top four Democrats (D) and Republicans (R) in contention for the seat. Blanks indicate that there are no Democrats or Republicans other than those listed in contention for the seat.
+`name_I1` | Name of the top candidate on the ballot that is neither a Democrat nor a Republican.
+`name_O1` | Placeholder for model chances for all candidates other than those named in the previous columns.
+`winner_XX`, where `XX` is one of `D1`,`D2`,`D3`,`D4`,`R1`,`R2`,`R3`,`R4`,`I1`,`O1` | The probability that the correspondingly named candidate wins the seat in model simulations
+`winner_Dparty`, `winner_Rparty` | The probability that the corresponding party, regardless of candidate, wins the seat in model simulations
+`tipping` | The chance that this seat is the tipping point for control of the Senate
+`vpi` | Voter power index: the relative likelihood that an individual vote in the state will determine control of the Senate chamber
+`mean_predicted_turnout`, `p90_simmed_turnout_gross`,`p10_simmed_turnout_gross` | The average, 90th percentile, and 10th percentile of state turnout in this Senate race is model simulations
+`voteshare_mean_XX`, where `XX` is one of `D1`,`D2`,`D3`,`D4`,`R1`,`R2`,`R3`,`R4`,`I1`,`O1` | Average voteshare for the correspondingly named candidate in model simulations
+`p90_voteshare_simmed_XX`, `p10_voteshare_simmed_XX`, where `XX` is one of `D1`,`D2`,`D3`,`D4`,`R1`,`R2`,`R3`,`R4`,`I1`,`O1` | The 90th and 10th percentile for voteshare for the correspondingly named candidate in model simulations
+`pvi_538` | The partisan voter index for the state, as calculated by 538
+`vep` | Total voting eligible population in the state
+`mean_netpartymargin`, `p90_netpartymargin`, `p10_netpartymargin` | The mean, 90th, and 10th percentiles of the margin between Democrats and Republicans in model simulations, where positive numbers are more Democratic and negative numbers are more Republican
+`won_runoff_XX`, `lost_runoff_XX`, where `XX` is one of `D1`,`D2`,`D3`,`D4`,`R1`,`R2`,`R3`,`R4`,`I1`,`O1` | Where applicable, the chance the the correspondingly named candidate wins in a runoff for the seat
+`simulations` | The number of simulations run
+`timestamp` | The time at which the data was extracted from the forecast model
