@@ -101,6 +101,7 @@ Column | Description
 ## Senate files
 
 `senate_national_toplines_2020.csv` contains the final national Senate topline on each day. This sheet contains the following additional columns:
+
 Column | Description
 -------|------------
 `branch` | Kind of race this forecast pertains to (senate)
@@ -112,9 +113,11 @@ Column | Description
 `p90_seats_Dparty`,`p90_seats_Rparty`,`p10_seats_Dparty`,`p10_seats_Rparty` | 90th and 10th percentile for the number of seats for each party (D or R)
 `total_national_turnout`, `p90_total_national_turnout`, `p10_total_national_turnout` | Average, 90th percentile, and 10th percentile of national turnout in states with Senate races
 `popvote_margin`, `p90_popvote_margin`, `p10_popvote_margin` | Average, 90th percentile, and 10th percentile of popular vote margin (with positive being more Democratic and negative more Republican) in Senate races
-
+`statesmajority_Dparty`, `statesmajority_Rparty`, `statesmajority_noparty` | Forecasted chances that each party, or no party, controls a majority of state delegations in the house
+`delegations_Dparty`, `delegations_Rparty`, `delegations_nomajority` | How many state delegations each party is expected to control in the house
 
 `senate_state_toplines_2020.csv` contains the final state-level Senate toplines on each day. This sheet contains the following additional columns:
+
 Column | Description
 -------|------------
 `seat` | Senate seat corresponding to this row, in the format XX-S#, where XX is the state postal code and # is the class of the seat being contested
