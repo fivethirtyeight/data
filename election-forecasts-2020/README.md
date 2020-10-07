@@ -7,6 +7,8 @@ files:
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_ev_probabilities_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_scenario_analysis_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/economic_index.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/house_national_toplines_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/house_district_toplines_2020.csv
 ---
 
 # election-forecasts-2020
