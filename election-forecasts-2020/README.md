@@ -2,13 +2,24 @@
 files:
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_national_toplines_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_state_toplines_2020.csv
- - https://projects.fivethirtyeight.com/2020-general-data/senate_national_toplines_2020.csv
- - https://projects.fivethirtyeight.com/2020-general-data/senate_state_toplines_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/presidential_polls_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/presidential_poll_averages_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_ev_probabilities_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/presidential_scenario_analysis_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/presidential_forecast_steps.csv
  - https://projects.fivethirtyeight.com/2020-general-data/economic_index.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/electoral_college_vs_popvote.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/senate_national_toplines_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/senate_state_toplines_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/house_national_toplines_2020.csv
  - https://projects.fivethirtyeight.com/2020-general-data/house_district_toplines_2020.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/senate_fundamentals.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/house_fundamentals.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/senate_seat_distribution.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/house_seat_distribution.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/senate_steps.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/house_steps.csv
+ - https://projects.fivethirtyeight.com/2020-general-data/joint_probabilities.csv
 ---
 
 # election-forecasts-2020
@@ -16,6 +27,7 @@ files:
 This file contains links to the data behind our [2020 General Election Forecast](https://projects.fivethirtyeight.com/2020-election-forecast/).
 
 
+## Presidential Forecast
 `presidential_national_toplines_2020.csv` contains the final national topline on each day. It includes the following columns:
 
 Column | Description
@@ -68,6 +80,32 @@ Column | Description
 `win_state_if_win_EC_chal` | Chance that the challenger will win this state if they win the Electoral College
 `state_turnout`, `state_turnout_hi`, `state_turnout_lo` | Forecasted state-level voter turnout based on past turnout, estimates of population growth, polls about whether voters are more or less enthusiastic about the election than usual and other factors in each state. Includes the upper and lower bounds of an 80% confidence interval. Turnout estimates are only available on model runs after Sept. 5, 2020.
 
+`presidential_polls_2020.csv` contains an entry for each poll, and how much the model adjusts each poll for the house and trendline adjustments. Additional poll and poling average data can be found in our [polls dataset](https://github.com/fivethirtyeight/data/tree/master/polls). This sheet contains the following additional columns:
+
+Column | Description
+-------|------------
+`candidate_name` | The candidate for this answer choice
+`startdate` | The first day interviews were conducted for this poll
+`enddate` | The last day interviews were conducted for this poll
+`pollster` | The name of the pollster
+`samplesize` | The size of the sample
+`population` | Whether the population interviewed was adults, registered voters, or likely voters
+`weight` | A relative weight that describes how much this poll factors into the forecast relative to other polls
+`influence` | A relative weight that describes how much this poll factors into today's the forecast (similar to "weight", but also takes into account how old the poll is)
+`pct` | Voteshare for this candidate in this poll
+`house_adjusted_pct` | Voteshare in this poll after applying the house adjustment
+`trend_and_house_adjusted_pct` | Voteshare in this poll after applying both house and trendline adjustments
+`tracking` | Whether or not the poll sample overlaps with other polls in our database
+`poll_id` | Unique identifier for a poll
+`question_id` | Unique identifier for a question
+
+`presidential_poll_averages_2020.csv` contains the polling averages for each day. Additional poll and poling average data can be found in our [polls dataset](https://github.com/fivethirtyeight/data/tree/master/polls). This sheet contains the following additional columns:
+
+Column | Description
+-------|------------
+pct_estimate | Polling average for the candidate listed in `candidate_name` on `modeldate`
+pct_trend_adjusted | Trendline adjusted polling average for the candidate listed in `candidate_name` on `modeldate`
+
 
 `presidential_ev_probabilities_2020.csv` contains the forecasted chances of every possible Electoral College outcome. This sheet contains the following additional columns:
 
@@ -100,7 +138,28 @@ Column | Description
 `projected_lo` | Lower bound of an 80% confidence interval for `projected_zscore`
 
 
-## Senate files
+`forecast_steps.csv` contains the every intermediate step in calculating the chance of winning from the polling average in a particular state. This sheet contains the following additional columns:
+
+Column | Description
+-------|------------
+`step_no` | A value from 1 - 10 where 1 is the starting point (Polling average) and 10 is the final step (Chance of winning).
+`value_inc`, `value_chal`, `value_3rd` | The value of that step for the incumbent, challenger, and third party candidate
+`weight` | The weight of the component when blending with either a regression or economic fundamentals
+`step_description` | A description of each step in the process of calculating the chance of winning
+
+`ec_vs_popvote.csv` contains the the probability that each candidate will win the electoral college conditional on the popular vote outcome. This sheet contains the following additional columns:
+
+Column | Description
+-------|------------
+`lower_bin_text`, `upper_bin_text` | A range of popular vote outcomes
+`total_ev_inc `, `ev_inc_lo`, `ev_inc_hi` | Forecasted number of Electoral College votes for the incumbent conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval
+`total_ev_chal `, `ev_chal_lo`, `ev_chal_hi` | Forecasted number of Electoral College votes for the challenger conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`, including the upper and lower bounds of an 80% confidence interval
+`ecwin_inc`, `ecwin_chal`, `ecwin_3rd`, `ecwin_nomajority` | Chance that the incumbent, challenger, 3rd party candidate or nobody will win a majority of electoral votes, conditional on the popular vote outcome falling between `lower_bin_text` and `upper_bin_text`
+`count` | Number of simulations in which this outcome is present
+
+
+
+## Congressional Forecasts
 
 `senate_national_toplines_2020.csv` contains the final national Senate topline on each day. This sheet contains the following additional columns:
 
@@ -142,3 +201,49 @@ Column | Description
 `vep` | Total voting eligible population in the state
 `mean_netpartymargin`, `p90_netpartymargin`, `p10_netpartymargin` | Mean, 90th, and 10th percentiles of the margin between Democrats and Republicans, where positive numbers are more Democratic and negative numbers are more Republican
 `won_runoff_XX`, `lost_runoff_XX`, where `XX` is one of `D1`,`D2`,`D3`,`D4`,`R1`,`R2`,`R3`,`R4`,`I1`,`O1` | Where applicable, chance the the correspondingly named candidate wins in a runoff for the seat
+
+`senate_seat_distribution.csv` and `house_seat_distribution.csv` contain the probablity of each distribution of seats for each day's forecast run. These sheets contain the following additional columns:
+
+Column | Description
+-------|------------
+`seatsheld` | number of seats held by each party
+`seatprob_Dparty` | probability that Democrats will hold `seatsheld` number of seats
+`seatprob_Rparty` | probability that Republicans will hold `seatsheld` number of seats
+
+
+`senate_seat_distribution.csv` also contains the following additional columns:
+
+Column | Description
+-------|------------
+`chamber_Dparty` | probability that each party will hold 50 seats and Democrats will control the Senate
+`chamber_Rparty` | probability that each party will hold 50 seats and Republicans will control the Senate 
+
+
+`senate_fundamentals.csv` and `house_fundamentals.csv` contain the fundamentals for each senate and house race. These sheets contain the following additional columns:
+
+Column | Description
+-------|------------
+`component_no` | Number from 1 to 11 corresponding with each `component_name`
+`component_name` | One of the following values `Incumbency`,`District partisanship`,`Incumbent's margin in last election`,`Generic ballot`,`Fundraising`,`Incumbent's voting record in Congress`,`Challenger experience`,`Scandals`,`Top-two primary margin`,`Number of candidates`,`Total`
+`component_impact` | The impact each component has on the chances of winning
+`component_narrative` | Narrative explanation of that component for a particular race
+`genre` | Number of Democrats and Republicans running in a race. For example, `DR` means that there are one Democrat and one Republican in the race, while `DDR` means there are two Democrats and one Republican in the race
+`candidateA`, `candidateB` | Full names of the first and second candidates in the race
+`shortnmA`, `shortnmB` | Last names of the first and second candidates in the race
+
+`senate_steps.csv` and `house_steps.csv` contain intermediate calculation steps performed in calculating the chance of winning from the polling average in a particular state. 
+
+Column | Description
+-------|------------
+`displaystep` | A value from 1-4 indicating the order in which each calculation step is performed
+`description` | A description of each step
+`margin` | Forecasted margin in this step for `candidateA` - `candidateB`
+`lite_weight`, `classic_weight`, `deluxe_weight` | Relatively how much of each forecast that is derived from each component during the calculation of this step
+ 
+`joint_probabilities.csv` contains the probabilities of each possible combination of Democratic or Republican control of the Senate, House and Presidency
+
+Column | Description
+-------|------------
+`expression` | `_lite`, `_classic` or `_deluxe`
+`DsenateDhouseDpotus`, `DsenateRhouseDpotus`, `RsenateDhouseDpotus`, `RsenateRhouseDpotus`, `DsenateDhouseRpotus` , `DsenateRhouseRpotus` , `RsenateDhouseRpotus`, `RsenateRhouseRpotus` | Probability of each possible outcome for Democratic or Republican control of the Senate, House and Presidency
+
