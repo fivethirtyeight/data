@@ -1,4 +1,5 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/superbowl-ads,https://projects.fivethirtyeight.com/super-bowl-ads/,
 https://github.com/fivethirtyeight/data/tree/master/sports-political-donations,https://fivethirtyeight.com/features/inside-the-political-donation-history-of-wealthy-sports-owners/,
 https://github.com/fivethirtyeight/data/tree/master/non-voters,https://projects.fivethirtyeight.com/non-voters-poll-2020-election/,
 https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020,https://projects.fivethirtyeight.com/2020-election-forecast/,TRUE
