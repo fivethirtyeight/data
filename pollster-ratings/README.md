@@ -33,6 +33,7 @@ Header | Definition
 `type_simple` | Type of election (5 categories)
 `type_detail` | Detailed type of election (this distinguishes between Republican and Democratic primaries, for example, whereas `type_simple` does not)
 `pollster` | Pollster name
+`methodology` | Methodology used to conduct this poll. One or more of the following values: <ul><li>`Live Phone` — Live telephone interviews, may or may not include calls to cell phones</li><li>`IVR`  — Interactive voice response, otherwise known as automated polls or "robopolls"</li><li>`Mail`— By U.S. mail or other “snail mail” service</li><li>`Online`— Poll conducted by Internet; generally this mean by web browser, or application-based polling of mobile phones</li><li>`Text` — Poll conducted by text message</li><li>`Face-to-face` — Poll conducted in person</ul> Mixed method polls list the methods involved in the poll separated by slashes.
 `partisan` | Flag for internal/partisan poll. "D" indicates Democratic poll, "R" indicates Republican poll, "I" indicates poll put out by independent candidate's campaign. Note that different sources define these categories differently and our categorization will often reflect the original source's definition. In other words, these definitions may be inconsistent and should be used carefully.
 `polldate` | Median field date of the poll
 `samplesize` | Sample size of the poll. Where missing, this is estimated from the poll's margin of error, or similar polls conducted by the same polling firm. A sample size of 600 is used if no better estimate is available.
