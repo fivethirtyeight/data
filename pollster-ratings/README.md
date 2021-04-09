@@ -5,6 +5,7 @@ This directory contains the data behind FiveThirtyEight's pollster ratings.
 See also:
 
 * [FiveThirtyEight's Pollster Ratings](https://projects.fivethirtyeight.com/pollster-ratings/)
+* [The Death Of Polling Is Greatly Exaggerated](https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/)
 * [The State Of The Polls, 2019](https://fivethirtyeight.com/features/the-state-of-the-polls-2019/)
 * [The Polls Are All Right](https://fivethirtyeight.com/features/the-polls-are-all-right/)
 * [The State Of The Polls, 2016](https://fivethirtyeight.com/features/the-state-of-the-polls-2016/)
