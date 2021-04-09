@@ -29,10 +29,10 @@ Current polls files contain data since the most recent election. Historical file
 - Senate Polls: [current](https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/senate_polls_historical.csv)
 - House Polls: [current](https://projects.fivethirtyeight.com/polls-page/data/house_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/house_polls_historical.csv)
 - Governor Polls: [current](https://projects.fivethirtyeight.com/polls-page/data/governor_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/governor_polls_historical.csv)
-- Presidential Approval Polls*: [current](https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv)
+- Presidential Approval Polls*: [current](https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls_historical.csv)
 - Generic Ballot Polls: [current](https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls_historical.csv)
 
-*Historical approval polls are not available, however [The Roper Center](https://ropercenter.cornell.edu/presidential-approval/) maintains a collection of historical approval polls.
+*Historical approval polls prior to the Trump presidency are not available, however [The Roper Center](https://ropercenter.cornell.edu/presidential-approval/) maintains a collection of historical approval polls.
 
 ## Polling Averages
 
