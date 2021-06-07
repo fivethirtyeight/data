@@ -1,13 +1,7 @@
-from PIL import ImageFile
-from PIL import ImageGrab
 from PIL import *
 import time
 import sys
-import glob
-import math
-import os
 import gc
-from multiprocessing import Process
 import win32ui
 import win32gui
 import win32con
@@ -29,7 +23,6 @@ def piccap(i, w=300, h=300):
     gc.collect()
 
 def piccapCom2(cut):
-    i = 0
     for i in range(0, cut):
         ti = time.clock()
         piccap(i)

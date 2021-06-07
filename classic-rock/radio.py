@@ -1,6 +1,5 @@
 import time
 import urllib2
-import sys
 
 """
 next step: make it create new file each time, run cleanup op
@@ -54,7 +53,6 @@ def gm_pull(x):
 		last_song = x[3]
 		response = urllib2.urlopen(url)
 		counter = 0 
-		first = True
 		new_last_song = last_song	
 		while (counter < 10000):
 			line = response.readline()
@@ -141,17 +139,14 @@ def cb_pull(x):
 		record = open(filename,"w")	
 		last_song = x[3]
 		response = urllib2.urlopen(url)
-		counter = 0 
-		first = True	
+		counter = 0 	
 		new_last_song = last_song	
 		while (counter < 10000):
 			line = response.readline()
 			if '<div class="track_title"' in line:
 				song = line[line.find('rel=')+5:line.find('">')]
 				line = response.readline()
-				line = response.readline()
 				artist = line[line.find('rel=')+5:line.find('">')]
-				line = response.readline()
 				line = response.readline()
 				album = line[line.find('rel=')+5:line.find('">')]
 				song = song.replace("&#039;","'")		
@@ -400,8 +395,3 @@ while True:
 		cb3 = cb_pull(cb3)
 		time.sleep(30)		
 	time.sleep(30)
-
-
-
-
-
