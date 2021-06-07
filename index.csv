@@ -1,4 +1,6 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/election-results,https://projects.fivethirtyeight.com/2020-election-forecast/,
+https://github.com/fivethirtyeight/election-results,https://projects.fivethirtyeight.com/2016-election-forecast/,
 https://github.com/fivethirtyeight/data/tree/master/wnba-forecasts,https://projects.fivethirtyeight.com/2021-wnba-predictions/,TRUE
 https://github.com/fivethirtyeight/negro-leagues-player-ratings,https://projects.fivethirtyeight.com/negro-leagues-mlb/,
 https://github.com/fivethirtyeight/police-settlements,https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/,
