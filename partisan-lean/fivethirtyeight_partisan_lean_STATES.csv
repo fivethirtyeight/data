@@ -1,51 +1,52 @@
-﻿state,2018,2020
-Alabama,R+27,R+27
-Alaska,R+15,R+16
-Arizona,R+9,R+8
-Arkansas,R+24,R+26
-California,D+24,D+22
-Colorado,D+1,R+0
-Connecticut,D+11,D+10
-Delaware,D+14,D+12
-Florida,R+5,R+6
-Georgia,R+12,R+13
-Hawaii,D+36,D+36
-Idaho,R+35,R+33
-Illinois,D+13,D+13
-Indiana,R+18,R+17
-Iowa,R+6,R+9
-Kansas,R+23,R+21
-Kentucky,R+23,R+24
-Louisiana,R+17,R+19
-Maine,D+5,D+3
-Maryland,D+23,D+23
-Massachusetts,D+29,D+23
-Michigan,D+1,D+6
-Minnesota,D+2,D+1
-Mississippi,R+15,R+15
-Missouri,R+19,R+21
-Montana,R+18,R+18
-Nebraska,R+24,R+25
-Nevada,R+1,R+1
-New Hampshire,R+2,R+1
-New Jersey,D+13,D+11
-New Mexico,D+7,D+8
-New York,D+22,D+22
-North Carolina,R+5,R+4
-North Dakota,R+33,R+34
-Ohio,R+7,R+6
-Oklahoma,R+34,R+33
-Oregon,D+9,D+7
-Pennsylvania,R+1,R+1
-Rhode Island,D+26,D+24
-South Carolina,R+17,R+16
-South Dakota,R+31,R+28
-Tennessee,R+28,R+28
-Texas,R+17,R+17
-Utah,R+31,R+30
-Vermont,D+24,D+24
-Virginia,D+0,D+7
-Washington,D+12,D+15
-West Virginia,R+30,R+33
-Wisconsin,R+1,R+3
-Wyoming,R+47,R+45
+﻿state,2021
+Alabama,-29.59438
+Alaska,-14.62028
+Arizona,-7.58754
+Arkansas,-31.83641
+California,25.45492
+Colorado,6.367356
+Connecticut,12.13077
+Delaware,13.7246
+District of Columbia,68.15865
+Florida,-7.603365
+Georgia,-7.432655
+Hawaii,31.64859
+Idaho,-36.9668
+Illinois,13.44461
+Indiana,-19.98048
+Iowa,-9.679443
+Kansas,-20.68411
+Kentucky,-27.10645
+Louisiana,-20.53777
+Maine,4.045471
+Maryland,25.89621
+Massachusetts,32.63558
+Michigan,-1.645566
+Minnesota,1.930285
+Mississippi,-20.30344
+Missouri,-21.22918
+Montana,-19.98505
+Nebraska,-24.83943
+Nevada,-2.54994
+New Hampshire,0.3410335
+New Jersey,11.96593
+New Mexico,7.024009
+New York,19.95745
+North Carolina,-4.803924
+North Dakota,-37.24163
+Ohio,-12.35004
+Oklahoma,-37.20762
+Oregon,10.5522
+Pennsylvania,-2.898966
+Rhode Island,24.01542
+South Carolina,-18.63975
+South Dakota,-32.23668
+Tennessee,-29.41324
+Texas,-11.98431
+Utah,-26.3219
+Vermont,27.54904
+Virginia,4.63189
+Washington,12.43642
+West Virginia,-35.53008
+Wisconsin,-4.120129
+Wyoming,-49.73126
