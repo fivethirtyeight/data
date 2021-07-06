@@ -5,6 +5,7 @@ By Walter Hickey <walter.hickey@fivethirtyeight.com>
 
 See http://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/
 """
+from __future__ import print_function
 
 import numpy as np
 from scipy.cluster.vq import vq, kmeans, whiten
@@ -35,7 +36,7 @@ def main():
     whitened = whiten(matrix)
     output = kmeans(whitened, 10)
 
-    print "episode", "distance", "cluster"
+    print("episode", "distance", "cluster")
 
     # determine distance between each of 403 vectors and each centroid, find closest neighbor
     for i, v in enumerate(whitened):
@@ -53,7 +54,7 @@ def main():
             if dist_x < closest_match[0]:
                 closest_match = (dist_x, x)
 
-        print i+1, closest_match[0], closest_match[1]
+        print(i+1, closest_match[0], closest_match[1])
 
 if __name__ == "__main__":
     main()

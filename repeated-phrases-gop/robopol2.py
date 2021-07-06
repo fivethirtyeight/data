@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from __future__ import print_function
 import random
 import numpy
 import math
@@ -196,9 +197,9 @@ def main():
     
     # print the top ngrams sorted by tfidf
     for candidate in range(len(candidates)):
-        print candidates[candidate]
+        print(candidates[candidate])
         for ngram in top_ngrams_for_candidate(tfidf_dicts, candidate, 400):
-            print ngram
+            print(ngram)
     
     
     
