@@ -16,8 +16,8 @@ Column | Definition
 -----| ---------
 season | Year of season
 date | Date of game
-playoff | Whether game was in playoffs
-neutral | Whether game was on a neutral site
+playoff | Whether game was a playoff game
+neutral | Whether game was played at a neutral site
 status | `post` if the game already happened; `pre` if it hasn't happened yet; `live` if it is being played at the time of data export
 ot | Overtime status: `OT` if the game ended in overtime, `SO` if the game ended in a shootout, blank if the game ended in regulation or if the game hasn't happened yet (will be blank for `pre` and `live` games). Games that went into multiple overtimes have the number of overtimes listed before `OT`: `2OT`, `3OT`, etc.
 home_team | Home team name
@@ -29,8 +29,8 @@ away_team_pregame_rating | Away team's Elo rating before the game
 home_team_winprob | Home team's probability of winning according to team pregame ratings
 away_team_winprob | Away team's probability of winning according to team pregame ratings
 overtime_prob | Probability that the game ends in overtime according to team pregame ratings (including shootouts)
-home_team_expected_points | Home team's expected points earned at the time the game started according to team pregame ratings (2 points for a win, 1 point for a loss in overtime)
-away_team_expected_points | Away team's expected points earned at the time the game started according to team pregame ratings (2 points for a win, 1 point for a loss in overtime or shootout)
+home_team_expected_points | Home team's expected points earned at the time the game started, according to team pregame ratings (2 points for a win, 1 point for a loss in overtime)
+away_team_expected_points | Away team's expected points earned at the time the game started, according to team pregame ratings (2 points for a win, 1 point for a loss in overtime or shootout)
 home_team_score | Home team's score (will be blank for `pre` and `live` games)
 away_team_score | Away team's score (will be blank for `pre` and `live` games)
 home_team_postgame_rating | Home team's rating after the game (will be blank for `pre` and `live` games)
