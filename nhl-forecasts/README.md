@@ -5,7 +5,7 @@ files:
 ---
 # NHL Elo
 
-This file contains links to the data behind our [NHL Predictions](https://projects.fivethirtyeight.com/2021-nhl-predictions/). More information on how our NHL Elo model works can be found in [this article](https://fivethirtyeight.com/methodology/how-our-nhl-predictions-work/).
+This file contains links to the data behind our [NHL Predictions](https://projects.fivethirtyeight.com/2022-nhl-predictions/). More information on how our NHL Elo model works can be found in [this article](https://fivethirtyeight.com/methodology/how-our-nhl-predictions-work/).
 
 `nhl_elo.csv` contains game-by-game Elo ratings and forecasts since the NHL's inaugural 1917-18 season.
 
