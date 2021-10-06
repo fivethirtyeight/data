@@ -19,7 +19,7 @@ date | Date of game
 playoff | Whether game was in playoffs
 neutral | Whether game was on a neutral site
 status | `post` if the game already happened; `pre` if it hasn't happened yet; `live` if it is being played at the time of data export
-ot | Overtime status: `OT` if the game ended in overtime, `SO` if the game ended in a shootout, blank if the game ended in regulation or if the game hasn't happened yet (will be blank for `pre` and `live` games)
+ot | Overtime status: `OT` if the game ended in overtime, `SO` if the game ended in a shootout, blank if the game ended in regulation or if the game hasn't happened yet (will be blank for `pre` and `live` games). Games that went into multiple overtimes have the number of overtimes listed before `OT`: `2OT`, `3OT`, etc.
 home_team | Home team name
 away_team | Away team name
 home_team_abbr | Home team abbreviation. Multiple team names can fall under the same team_abbr because of name changes or moves. Interactive is grouped by team_abbr.
