@@ -1,4 +1,5 @@
 dataset_url,article_url,live
+https://github.com/fivethirtyeight/data/tree/master/nhl-forecasts,https://projects.fivethirtyeight.com/2022-nhl-predictions/,TRUE
 https://github.com/fivethirtyeight/election-results,https://projects.fivethirtyeight.com/2020-election-forecast/,
 https://github.com/fivethirtyeight/data/tree/master/wnba-forecasts,https://projects.fivethirtyeight.com/2021-wnba-predictions/,TRUE
 https://github.com/fivethirtyeight/negro-leagues-player-ratings,https://projects.fivethirtyeight.com/negro-leagues-mlb/,
