@@ -2,7 +2,7 @@
 
 This directory contains data behind the story [How Baby Boomers Get High](http://fivethirtyeight.com/datalab/how-baby-boomers-get-high/). It covers 13 drugs across 17 age groups.
 
-Source: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](http://www.icpsr.umich.edu/icpsrweb/content/SAMHDA/index.html).
+Source: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](https://www.icpsr.umich.edu/web/ICPSR/studies/34933).
 
 Header | Definition
 ---|---------
