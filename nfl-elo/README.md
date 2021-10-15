@@ -42,3 +42,6 @@ qbelo1_post | Home team's quarterback-adjusted base rating after the game
 qbelo2_post | Away team's quarterback-adjusted base rating after the game
 score1 | Home team's score
 score2 | Away team's score
+quality | Rating of game's quality, based on the harmonic mean of the teams’ pregame Elo ratings, scaled from 0-100
+importance | Rating of game's importance, based on how much the result would affect the model's forecasted playoff odds, scaled from 0-100
+total_rating | The average of `quality` and `importance`
