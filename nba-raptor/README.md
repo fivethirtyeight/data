@@ -1,7 +1,7 @@
 ---
 files:
-  - https://projects.fivethirtyeight.com/nba-model/2021/latest_RAPTOR_by_team.csv
-  - https://projects.fivethirtyeight.com/nba-model/2021/latest_RAPTOR_by_player.csv
+  - https://projects.fivethirtyeight.com/nba-model/2022/latest_RAPTOR_by_team.csv
+  - https://projects.fivethirtyeight.com/nba-model/2022/latest_RAPTOR_by_player.csv
 ---
 # nba-raptor
 
