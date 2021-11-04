@@ -1,25 +1,3 @@
----
-files:
-  - https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/senate_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/house_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/house_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/governor_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/governor_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls_historical.csv
-  - https://projects.fivethirtyeight.com/2020-primary-data/pres_primary_avgs_2020.csv
-  - https://projects.fivethirtyeight.com/2020-general-data/presidential_poll_averages_2020.csv
----
-
-
-This file contains links to the polling data behind our [Latest Polls](https://projects.fivethirtyeight.com/polls/) dashboard.
-
 ## Polls
 
 Current polls files contain data since the most recent election. Historical files contain data prior to the most recent election. 
@@ -30,9 +8,15 @@ Current polls files contain data since the most recent election. Historical file
 - House Polls: [current](https://projects.fivethirtyeight.com/polls-page/data/house_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/house_polls_historical.csv)
 - Governor Polls: [current](https://projects.fivethirtyeight.com/polls-page/data/governor_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/governor_polls_historical.csv)
 - Presidential Approval Polls*: [current](https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls_historical.csv)
+- Vice Presidential Approval Polls**: [current](https://projects.fivethirtyeight.com/polls-page/data/vp_approval_polls.csv)
 - Generic Ballot Polls: [current](https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls.csv), [historical](https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls_historical.csv)
+- Favorability Polls***: [current](https://projects.fivethirtyeight.com/polls-page/data/favorability_polls.csv)
 
 *Historical approval polls prior to the Trump presidency are not available, however [The Roper Center](https://ropercenter.cornell.edu/presidential-approval/) maintains a collection of historical approval polls.
+
+**Historical vice presidential approval polls prior to the Biden presidency are not available.
+
+***At this time, we are tracking only post-2020 Trump favorability. Favorability polls prior to this time are not available.
 
 ## Polling Averages
 
