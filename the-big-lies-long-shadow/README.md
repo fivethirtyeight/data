@@ -3,9 +3,9 @@ file:
   - https://docs.google.com/spreadsheets/d/14clCLyO06aOolF_wXKiq0O9An1lMMTt6L6WNloQRaCY/edit#gid=1579791122
 ---
 
-# Story Hed
+# The Big Lie's Long Shadow
 
-This file contains the data behind the story [Story hed](https://fivethirtyeight.com/).
+This file contains the data behind the story [The Big Lie's Long Shadow](https://fivethirtyeight.com/features/the-big-lies-long-shadow/).
 
 The linked `Anti Democracy Catalog` google sheet contains a list of voter restriction bills that have been introduced in state legislatures across the country, along with third-party partisan audits conducted. This database looks at bills introduced in legislative sessions that were active in 2021 and is based on data from the Brennan Center for Justice and the Voting Rights Lab, as well as FiveThirtyEight's own research.
 
@@ -17,7 +17,6 @@ Party | --
 Category | Category of bill, detailed in [the table below](#category-data-dictionary)
 Status | --
 Status Last Updated | --
-Notes | --
 
 ### Category Data Dictionary
 Category | Definition | Example
