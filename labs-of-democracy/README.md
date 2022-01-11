@@ -19,8 +19,6 @@ Status | --
 Status Last Updated | --
 Notes | --
 
-Green highlighting indicates TKTKTK. Yellow highlighting indicates TKTKTK.
-
 ### Category Data Dictionary
 Category | Definition | Example
 --- | --- | ---
