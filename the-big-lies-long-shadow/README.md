@@ -1,22 +1,21 @@
 ---
 file:
-  - https://docs.google.com/spreadsheets/d/14clCLyO06aOolF_wXKiq0O9An1lMMTt6L6WNloQRaCY/edit#gid=1579791122
+  - hhttps://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NTd7uqup_lT3ZckfYcPPNycxGmNszcU/edit?usp=sharing
 ---
 
 # The Big Lie's Long Shadow
 
-This file contains the data behind the story [The Big Lie's Long Shadow](https://fivethirtyeight.com/features/the-big-lies-long-shadow/).
+This file contains the data used in the story [The Big Lie's Long Shadow](https://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NTd7uqup_lT3ZckfYcPPNycxGmNszcU/edit?usp=sharing).
 
-The linked `Anti Democracy Catalog` google sheet contains a list of voter restriction bills that have been introduced in state legislatures across the country, along with third-party partisan audits conducted. This database looks at bills introduced in legislative sessions that were active in 2021 and is based on data from the Brennan Center for Justice and the Voting Rights Lab, as well as FiveThirtyEight's own research.
+The [linked google sheet](https://docs.google.com/spreadsheets/d/14clCLyO06aOolF_wXKiq0O9An1lMMTt6L6WNloQRaCY/edit#gid=1579791122) contains a list of voter restriction bills that have been introduced in state legislatures across the country. This database looks at bills introduced in legislative sessions that were active in 2021 and is based on data from the [Brennan Center for Justice](https://www.brennancenter.org/) and the [Voting Rights Lab](https://votingrightslab.org/), as well as FiveThirtyEight's own research.
 
 Column | Definition
 --- | ---
 State | State where the bill was introduced.
-Bill | Name and link to [LegisScan](https://legiscan.com/) entry for this bill. Crossed out bill names indicate that they have since been renamed (and new bills are listed afterwards).
-Party | Party of the legislator(s) who introduced the bill.
+Bill | Name and link to [LegisScan](https://legiscan.com/) entry for this bill. Crossed out bill names indicate that they have since been renamed (with new bills are listed afterwards).
+Party | Party of the legislator(s) who sponsored the bill, according to LegiScan. `N/A` indicates a bill without sponsors' party listed on LegiScan (including bills listed as a "committee bill").
 Category | Category of the bill, detailed in [the table below](#category-data-dictionary). Multiple categories are separated by commas.
-Status | Most recent status of the bill in the legislature.
-Status Last Updated | The date the bill’s status was last updated in our database.
+Status | Most recent status of the bill in the legislature. May include links to relevant coverage of that bill.
 
 ### Category Data Dictionary
 Category | Definition | Example
