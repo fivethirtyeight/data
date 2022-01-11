@@ -13,7 +13,7 @@ Column | Definition
 --- | ---
 State | State where the bill was introduced.
 Bill | Name and link to [LegisScan](https://legiscan.com/) entry for this bill. Crossed out bill names indicate that they have since been renamed (with new bills are listed afterwards).
-Party | Party of the legislator(s) who sponsored the bill, according to LegiScan. `N/A` indicates a bill without sponsors' party listed on LegiScan (including bills listed as a "committee bill").
+Introducing Party | Party of the legislator(s) who sponsored the bill, according to LegiScan. `N/A` indicates a bill without sponsors' party listed on LegiScan (including bills listed as a "committee bill").
 Category | Category of the bill, detailed in [the table below](#category-data-dictionary). Multiple categories are separated by commas.
 Status | Most recent status of the bill in the legislature. May include links to relevant coverage of that bill.
 
