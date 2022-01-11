@@ -1,6 +1,6 @@
 ---
 file:
-  - hhttps://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NTd7uqup_lT3ZckfYcPPNycxGmNszcU/edit?usp=sharing
+  - https://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NTd7uqup_lT3ZckfYcPPNycxGmNszcU/edit?usp=sharing
 ---
 
 # The Big Lie's Long Shadow
