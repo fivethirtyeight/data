@@ -5,9 +5,9 @@ file:
 
 # The Big Lie's Long Shadow
 
-This file contains the data used in the story [The Big Lie's Long Shadow](https://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NTd7uqup_lT3ZckfYcPPNycxGmNszcU/edit?usp=sharing).
+This file contains the data used in the story [The Big Lie's Long Shadow](https://fivethirtyeight.com/features/the-big-lies-long-shadow/).
 
-The [linked google sheet](https://docs.google.com/spreadsheets/d/14clCLyO06aOolF_wXKiq0O9An1lMMTt6L6WNloQRaCY/edit#gid=1579791122) contains a list of voter restriction bills that have been introduced in state legislatures across the country. This database looks at bills introduced in legislative sessions that were active in 2021 and is based on data from the [Brennan Center for Justice](https://www.brennancenter.org/) and the [Voting Rights Lab](https://votingrightslab.org/), as well as FiveThirtyEight's own research.
+The [linked google sheet](https://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NTd7uqup_lT3ZckfYcPPNycxGmNszcU/edit?usp=sharing) contains a list of voter restriction bills that have been introduced in state legislatures across the country. This database looks at bills introduced in legislative sessions that were active in 2021 and is based on data from the [Brennan Center for Justice](https://www.brennancenter.org/) and the [Voting Rights Lab](https://votingrightslab.org/), as well as FiveThirtyEight's own research.
 
 Column | Definition
 --- | ---
