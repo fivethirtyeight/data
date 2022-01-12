@@ -12,10 +12,10 @@ The [linked google sheet](https://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NT
 Column | Definition
 --- | ---
 State | State where the bill was introduced.
-Bill | Name and link to [LegisScan](https://legiscan.com/) entry for this bill. Crossed out bill names indicate that they have since been renamed (with new bills are listed afterwards).
+Bill | Name and link to [LegisScan](https://legiscan.com/) entry for the bill. Crossed out bill names indicate that they have since been renamed (with new bill names listed afterwards).
 Introducing Party | Party of the legislator(s) who sponsored the bill, according to LegiScan. `N/A` indicates a bill without sponsors' party listed on LegiScan (including bills listed as a "committee bill").
 Category | Category of the bill, detailed in [the table below](#category-data-dictionary). Multiple categories are separated by commas.
-Status | Most recent status of the bill in the legislature. May include links to relevant coverage of that bill.
+Status | Most recent status of the bill in the legislature. May include links to relevant coverage of the bill.
 
 ### Category Data Dictionary
 Category | Definition | Example
