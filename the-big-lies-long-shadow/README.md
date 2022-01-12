@@ -5,7 +5,7 @@ file:
 
 # The Big Lie's Long Shadow
 
-This file contains the data used in the story [The Big Lie's Long Shadow](https://fivethirtyeight.com/features/the-big-lies-long-shadow/).
+This file contains the data used in the story [The Big Lie's Long Shadow](https://fivethirtyeight.com/features/the-big-lie-voting-laws/).
 
 The [linked google sheet](https://docs.google.com/spreadsheets/d/1kPQ9THjSTZw4NTd7uqup_lT3ZckfYcPPNycxGmNszcU/edit?usp=sharing) contains a list of voter restriction bills that have been introduced in state legislatures across the country. This database looks at bills introduced in legislative sessions that were active in 2021 and is based on data from the [Brennan Center for Justice](https://www.brennancenter.org/) and the [Voting Rights Lab](https://votingrightslab.org/), as well as FiveThirtyEight's own research.
 
