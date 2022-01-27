@@ -1,6 +1,8 @@
 # Redlining Hed TK
 
-This repo contains the data behind the story [Redlining hed tk](https://projects.fivethirtyeight.com/redlining-slug-tk/).
+This repo contains the data behind the story [Redlining hed tk](https://projects.fivethirtyeight.com/redlining-slug-tk/). There are two csv files in this repo: `metro-grades.csv` and `zone-block-matches.csv`.
+
+---
 
 `metro-grades.csv` contains 2020 population total estimates by race/ethnicity for combined zones of each redlining grade (from Home Owners' Loan Corporation [HOLC] maps originally drawn in 1935-40, downloaded from the [Mapping Inequality project](https://dsl.richmond.edu/panorama/redlining/#loc=5/37.8/-97.9&maps=0)) within micro/metropolitan areas. Also included are population estimates in the surrounding area of each metropolitan area's HOLC map (computed by adding a 10% buffer radius to the minimum bounding circle of all zones in that metro area) and location quotients (LQs) for each racial/ethnic group and HOLC grade. [LQs](https://belonging.berkeley.edu/technical-appendix#footnote34_cnxakh3) are small-area measures of segregation that specifically compare one racial/ethnic group’s proportion in a granular geography to their proportion in a larger surrounding geography. An LQ above 1 for a given racial group indicates overrepresentation in that HOLC zone compared with the broader surrounding area, and values below 1 indicate underrepresentation.
 
@@ -39,3 +41,21 @@ Header | Definition
 `surr_area_pct_hisp` | Estimate of the percentage of total population within surrounding area of a given `metro_area`'s HOLC zones that are Hispanic/Latino. Represented between 0-100. Rounded to the nearest two decimal places. Repeated for each `holc_grade` for a given `metro_area`.
 `surr_area_pct_asian` | Estimate of the percentage of total population within surrounding area of a given `metro_area`'s HOLC zones that are non-Hispanic Asian. Represented between 0-100. Rounded to the nearest two decimal places. Repeated for each `holc_grade` for a given `metro_area`.
 `surr_area_pct_other` | Estimate of the percentage of total population within surrounding area of a given `metro_area`'s HOLC zones in any other racial/ethnic group. Represented between 0-100. Rounded to the nearest two decimal places. Repeated for each `holc_grade` for a given `metro_area`.
+
+---
+
+`zone-block-matches.csv` is a crosswalk between 2020 US decennial census blocks and Home Owners' Loan Corporation (HOLC) zones (from the collective spatial data shapefile, made available for download by the [Mapping Inequality project](https://dsl.richmond.edu/panorama/redlining/#loc=5/37.8/-97.9&maps=0&text=downloads)). HOLC zones were matched to census blocks by first determining census blocks geographically intersected with each zone, then calculating the proportion of the block’s total area that intersects with that HOLC zone. This intersecting area was used to weight each block's census data, which was then summed to estimate 2020 census totals in each HOLC zone.
+
+HOLC zones do not have a unique ID column in the Mapping Inequality shapefile (across all cities and states), but each HOLC zone should have a unique combination of the five columns that begin with `holc_` below.
+
+The spatial calculations that generated this data were conducted using the Albers Equal Area Conic projection.
+
+Header | Definition
+--- | ---
+`holc_city` | City name from this zone's HOLC map. Matches to `city` column in the Mapping Inequality shapefile.
+`holc_state` | State abbreviation from this zone's HOLC map. Matches to `state` column in the Mapping Inequality shapefile.
+`holc_grade` | HOLC grade assigned to this zone (`A`, `B`, `C` or `D`). Matches to `holc_grade` column in the Mapping Inequality shapefile.
+`holc_id` | HOLC ID assigned to this zone (may be empty). Matches to `holc_id` column in the Mapping Inequality shapefile.
+`holc_neighborhood_id` | Neighborhood ID. Unique for all HOLC zones except `holc_id`s B6 and B7 in Savannah, GA; which share a `holc_neighborhood_id` of `8678`. Matches to `neighborho` column in the Mapping Inequality shapefile.
+`block_geoid20` | [`GEOID20`](https://www.census.gov/programs-surveys/geography/guidance/geo-identifiers.html) of 2020 US census block that intersects with a given HOLC zone.
+`pct_match` | Esimated percent of the 2020 US census block's total area that intersects with a given HOLC zone. Use this column to weight census data to compute aggregate 2020 US census estimates within an HOLC zone.
