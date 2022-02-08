@@ -1,6 +1,6 @@
-# Redlining Hed TK
+# The Lasting Legacy of Redlining
 
-This repo contains the data behind the story [Redlining hed tk](https://projects.fivethirtyeight.com/redlining-slug-tk/). There are two csv files in this repo: `metro-grades.csv` and `zone-block-matches.csv`.
+This repo contains the data behind the story [The Lasting Legacy of Redlining](https://projects.fivethirtyeight.com/redlining/). There are two csv files in this repo: `metro-grades.csv` and `zone-block-matches.csv`.
 
 ---
 
