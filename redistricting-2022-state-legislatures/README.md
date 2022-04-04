@@ -1,6 +1,6 @@
-# State Legislatures Hed TK
+# How Redistricting Affects The Battle For State Legislatures
 
-This repo contains the data behind the story [State Legislatures Hed TK](https://fivethirtyeight.com/features/slug-tk-tk/). `fivethirtyeight_state_legislative_district_analysis.csv` contains results of FiveThirtyEight's analysis of state legislative district lines drawn in the redistricting process to reflect the 2020 census. This file also contains the same analysis results for the previously enacted map for each state and chamber included in the analysis, to allow for comparisons in how redistricting shaped and shifted political power in state legislative chambers.
+This repo contains the data behind the story [How Redistricting Affects The Battle For State Legislatures](https://fivethirtyeight.com/features/how-redistricting-affects-the-battle-for-state-legislatures/). `fivethirtyeight_state_legislative_district_analysis.csv` contains results of FiveThirtyEight's analysis of state legislative district lines drawn in the redistricting process to reflect the 2020 census. This file also contains the same analysis results for the previously enacted map for each state and chamber included in the analysis, to allow for comparisons in how redistricting shaped and shifted political power in state legislative chambers.
 
 Header | Definition
 ---|---------
