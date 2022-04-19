@@ -31,4 +31,4 @@ home_team_score | Home team's score (will be blank for `pre` and `live` games)
 away_team_score | Away team's score (will be blank for `pre` and `live` games)
 home_team_postgame_rating | Home team's rating after the game (will be blank for `pre` and `live` games)
 away_team_postgame_rating | Away team's rating after the game (will be blank for `pre` and `live` games)
-commissioners_cup_final | Whether this game was the [WNBA Commissioner's Cup](https://en.wikipedia.org/wiki/WNBA_Commissioner%27s_Cup) Championship Game. All Championship Games shift teams' Elo ratings after they are played, but are excluded from Monte Carlo simulations as they do not count towards teams' regular season records.
+commissioners_cup_final | Whether this game was the [WNBA Commissioner's Cup](https://en.wikipedia.org/wiki/WNBA_Commissioner%27s_Cup) Championship Game. All Championship Games shift teams' Elo ratings but are excluded from Monte Carlo simulations, as they do not count towards teams' regular season records.
