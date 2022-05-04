@@ -5,7 +5,7 @@ files:
 ---
 # WNBA Elo
 
-This file contains links to the data behind our [WNBA Predictions](https://projects.fivethirtyeight.com/2021-wnba-predictions/). More information on how our WNBA Elo model works can be found in [this article](https://fivethirtyeight.com/methodology/how-our-wnba-predictions-work/).
+This file contains links to the data behind our [WNBA Predictions](https://projects.fivethirtyeight.com/2022-wnba-predictions/). More information on how our WNBA Elo model works can be found in [this article](https://fivethirtyeight.com/methodology/how-our-wnba-predictions-work/).
 
 `wnba_elo.csv` contains game-by-game Elo ratings and forecasts since 1997.
 
@@ -31,3 +31,4 @@ home_team_score | Home team's score (will be blank for `pre` and `live` games)
 away_team_score | Away team's score (will be blank for `pre` and `live` games)
 home_team_postgame_rating | Home team's rating after the game (will be blank for `pre` and `live` games)
 away_team_postgame_rating | Away team's rating after the game (will be blank for `pre` and `live` games)
+commissioners_cup_final | Whether this game was the [WNBA Commissioner's Cup](https://en.wikipedia.org/wiki/WNBA_Commissioner%27s_Cup) Championship Game. All Championship Games shift teams' Elo ratings but are excluded from Monte Carlo simulations, as they do not count towards teams' regular season records.
