@@ -5,7 +5,7 @@ files:
 ---
 # NFL Elo
 
-This file contains links to the data behind [The Complete History Of The NFL](https://projects.fivethirtyeight.com/complete-history-of-the-nfl/) and our [NFL Predictions](https://projects.fivethirtyeight.com/2019-nfl-predictions/).
+This file contains links to the data behind [The Complete History Of The NFL](https://projects.fivethirtyeight.com/complete-history-of-the-nfl/) and our [NFL Predictions](https://projects.fivethirtyeight.com/2020-nfl-predictions/).
 
 `nfl_elo.csv` contains game-by-game Elo ratings and forecasts back to 1920.
 `nfl_elo_latest.csv` contains game-by-game Elo ratings and forecasts for only the latest season.
@@ -42,3 +42,6 @@ qbelo1_post | Home team's quarterback-adjusted base rating after the game
 qbelo2_post | Away team's quarterback-adjusted base rating after the game
 score1 | Home team's score
 score2 | Away team's score
+quality | Rating of game's quality, based on the harmonic mean of the teams’ pregame Elo ratings, scaled from 0-100
+importance | Rating of game's importance, based on how much the result would affect the model's forecasted playoff odds, scaled from 0-100
+total_rating | The average of `quality` and `importance`
