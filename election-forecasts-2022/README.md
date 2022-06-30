@@ -1,4 +1,19 @@
-| Files |
+---
+files:
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/senate_national_toplines_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/house_national_toplines_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/senate_state_toplines_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/house_district_toplines_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/governor_state_toplines_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/senate_seat_distribution_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/house_seat_distribution_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/senate_steps_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/house_steps_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/governor_steps_2022.csv
+ - https://projects.fivethirtyeight.com/2022-general-election-forecast-data/joint_probabilities_2022.csv
+---
+
+| Links to Files |
 | ----------- |
 | [`senate_national_toplines_2022.csv`](https://projects.fivethirtyeight.com/2022-general-election-forecast-data/senate_national_toplines_2022.csv) | ✓
 | [`house_national_toplines_2022.csv`](https://projects.fivethirtyeight.com/2022-general-election-forecast-data/house_national_toplines_2022.csv) | ✓
