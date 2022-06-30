@@ -1,9 +1,9 @@
 dataset_url,article_url,live
-https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2022,https://projects.fivethirtyeight.com/2022-election-forecast/,
+https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2022,https://projects.fivethirtyeight.com/2022-election-forecast/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/redistricting-2022-state-legislatures, https://fivethirtyeight.com/features/how-redistricting-affects-the-battle-for-state-legislatures/,
 https://github.com/fivethirtyeight/data/tree/master/redlining, https://projects.fivethirtyeight.com/redlining/,
 https://github.com/fivethirtyeight/data/tree/master/the-big-lies-long-shadow, https://fivethirtyeight.com/features/the-big-lie-voting-laws/,
-https://github.com/fivethirtyeight/data/tree/master/nhl-forecasts,https://projects.fivethirtyeight.com/2022-nhl-predictions/,TRUE
+https://github.com/fivethirtyeight/data/tree/master/nhl-forecasts,https://projects.fivethirtyeight.com/2022-nhl-predictions/,
 https://github.com/fivethirtyeight/election-results,https://projects.fivethirtyeight.com/2020-election-forecast/,
 https://github.com/fivethirtyeight/data/tree/master/wnba-forecasts,https://projects.fivethirtyeight.com/2022-wnba-predictions/,TRUE
 https://github.com/fivethirtyeight/negro-leagues-player-ratings,https://projects.fivethirtyeight.com/negro-leagues-mlb/,
@@ -78,7 +78,7 @@ https://github.com/fivethirtyeight/data/tree/master/next-bechdel,https://project
 https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking,http://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/,
 https://github.com/fivethirtyeight/data/tree/master/nfl-elo,https://projects.fivethirtyeight.com/2021-nfl-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/mlb-elo,https://projects.fivethirtyeight.com/2022-mlb-predictions/,TRUE
-https://github.com/fivethirtyeight/data/tree/master/nba-forecasts,https://projects.fivethirtyeight.com/2022-nba-predictions/,TRUE
+https://github.com/fivethirtyeight/data/tree/master/nba-forecasts,https://projects.fivethirtyeight.com/2022-nba-predictions/,
 https://github.com/fivethirtyeight/data/tree/master/soccer-spi,https://projects.fivethirtyeight.com/soccer-predictions/,TRUE
 https://github.com/fivethirtyeight/data/tree/master/twitter-ratio,https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/,
 https://github.com/fivethirtyeight/data/tree/master/puerto-rico-media,https://fivethirtyeight.com/features/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did/,
