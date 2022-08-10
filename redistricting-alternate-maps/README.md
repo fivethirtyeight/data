@@ -1,6 +1,6 @@
-# SLANTED-MAPS HED TKTK
+# What If Democrats — Or Republicans — Had Won Every Redistricting Battle?
 
-This repo contains the data behind the story [SLANTED-MAPS HED TKTK](https://projects.fivethirtyeight.com/slanted-maps/). There is one csv file in this repo: `slanted-maps.csv`.
+This repo contains the data behind the story [What If Democrats — Or Republicans — Had Won Every Redistricting Battle?](https://projects.fivethirtyeight.com/redistricting-alternate-maps/). There is one csv file in this repo: `redistricting-alternate-maps.csv`.
 
 Header | Definition
 --- | ---
