@@ -1,3 +1,23 @@
+---
+files:
+  - https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls_historical.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/president_polls.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/president_polls_historical.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/senate_polls_historical.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/house_polls.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/house_polls_historical.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/governor_polls.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/governor_polls_historical.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls.csv
+  - https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls_historical.csv
+  - https://projects.fivethirtyeight.com/2020-primary-data/pres_primary_avgs_2020.csv
+  - https://projects.fivethirtyeight.com/2020-general-data/presidential_poll_averages_2020.csv
+---
+
+
 ## Polls
 
 Current polls files contain data since the most recent election. Historical files contain data prior to the most recent election. 
