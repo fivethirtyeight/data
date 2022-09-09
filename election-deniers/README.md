@@ -20,7 +20,7 @@ Column | Description
 `State` | The state the candidate was running in.
 `Office` | The office the candidate was running for.
 `District` | The number of the congressional district the candidate was running for, if applicable.
-`Stance` | The candidate's stance on the legimacy of the 2020 election.
+`Stance` | The candidate's stance on the legitimacy of the 2020 election.
 `Source` | The source from which FiveThirtyEight determined the candidate's stance.
 `URL` | The URL of the source website from which FiveThirtyEight determined the candidate’s stance, if available.
 `Note` | Whether the candidate changed his or her stance after their primary election.
