@@ -5,11 +5,11 @@ This directory contains data on the views of every Republican candidate for Sena
 FiveThirtyEight drew on news reports, debate footage, campaign materials and social media and reached out to every nominee in an effort to classify them into one of six categories regarding their belief in the 2020 election’s legitimacy.
 Candidates in the “Fully denied” category have explicitly said the 2020 election was illegitimate and/or took legal measures to try and overturn the election. Examples of the latter include members of Congress who voted against certifying election results or politicians who signed an amicus brief for a Texas lawsuit that challenged election results in four states President Biden won.
 
-*Candidates in the “Raised questions” category raised questions or concerns about the election but haven’t outright denied or affirmed it.
-*Candidates in the “Accepted with reservations” category have accepted Biden’s victory but have still raised questions or concerns about fraud.
-*Candidates in the “Fully accepted” category have accepted Biden’s victory without reservations.
-*Candidates in the “Avoided answering” category refused or avoided directly answering questions about the election (e.g., by changing the subject when asked about it).
-*Candidates in the “No comment” category have not made a public comment on the election (as far as we could tell) and did not respond to our inquiries on the topic.
+* Candidates in the “Raised questions” category raised questions or concerns about the election but haven’t outright denied or affirmed it.
+* Candidates in the “Accepted with reservations” category have accepted Biden’s victory but have still raised questions or concerns about fraud.
+* Candidates in the “Fully accepted” category have accepted Biden’s victory without reservations.
+* Candidates in the “Avoided answering” category refused or avoided directly answering questions about the election (e.g., by changing the subject when asked about it).
+* Candidates in the “No comment” category have not made a public comment on the election (as far as we could tell) and did not respond to our inquiries on the topic.
 
 
 
