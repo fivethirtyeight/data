@@ -1,4 +1,6 @@
-# FiveThirtyEight's Partisan Lean
+# FiveThirtyEight's Partisan Lean (2021)
+
+⚠️ The data in this folder is out of date. Please see the [toplevel folder in the `partisan-lean`](../) dataset for the most up-to-date partisan-lean numbers.
 
 This directory contains the data for FiveThirtyEight's partisan lean metric, or the average margin difference between how a state or district votes and how the country votes overall. Positive numbers mean Democratic leans, while negative numbers mean Republican leans.
 
@@ -11,4 +13,3 @@ Column | Description
 ------|-------------------------
 `state`/`district` | The state or district the partisan lean is calculated for. 
 `2021` | Partisan lean as it stands after the 2020 election, taking the 2020 results into account. For congressional districts, scores correspond to the district lines for the 117th Congress and do not reflect the results of the 2021-22 redistricting process.
-
