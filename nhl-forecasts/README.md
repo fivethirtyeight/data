@@ -37,4 +37,4 @@ home_team_postgame_rating | Home team's rating after the game (will be blank for
 away_team_postgame_rating | Away team's rating after the game (will be blank for `pre` and `live` games)
 game_quality_rating | Rating of game's quality, based on the harmonic mean of the teams’ pregame Elo ratings, scaled from 0-100
 game_importance_rating | Rating of game's importance, based on how much the result would affect the model's forecasted playoff odds, scaled from 0-100. For `post` games, this rating is as of when the game started. (will be blank for all games played prior to 2021-22 season, the year we added a NHL forecast)
-game_quality_rating | The average of `game_quality_rating` and `game_importance_rating` (will be blank for all games played prior to 2021-22 season, the year we added a NHL forecast)
+game_overall_rating | The average of `game_quality_rating` and `game_importance_rating` (will be blank for all games played prior to 2021-22 season, the year we added a NHL forecast)
