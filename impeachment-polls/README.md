@@ -1,3 +1,3 @@
 # Impeachment Polls
 
-This folder the data behind [Do Americans Support Impeaching Trump?](https://fivethirtyeight.com/features/do-americans-support-impeaching-president-trump/)
+This folder contains the data behind [Do Americans Support Impeaching Trump?](https://fivethirtyeight.com/features/do-americans-support-impeaching-president-trump/)
