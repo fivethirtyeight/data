@@ -6,6 +6,8 @@ Header | Definition
 ---|---------
 `date` | The date of the event
 `location` | The location of the event
+`city` | The city of the event
+`state` | The state of the event
 `lat` | Latitude of the event location
 `lng` | Longitude of the event location
 
