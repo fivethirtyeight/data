@@ -23,10 +23,6 @@ series<-merge(series,state,by="state_code")
 
 # Add industry info
 industry<-read.table("http://download.bls.gov/pub/time.series/sm/sm.industry", sep="\t", header=TRUE, strip.white=TRUE)
-industry$industry_name<-NULL
-industry$industry_name<-row.names(industry)
-row.names(industry)<-NULL
-names(industry)<-c("industry_name","industry_code")
 
 series<-merge(series,industry,by="industry_code")
 
