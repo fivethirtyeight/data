@@ -12,7 +12,7 @@ FROM (SELECT subreddit, SUM(1) as authors
 ORDER BY authors DESC;
 
 # Creating list of number of users who authored at least 10 posts in pairs of subreddits: 
-SELECT t1.subreddit, t2.subreddit, SUM(1) as NumOverlaps
+SELECT t1.subreddit as t1_subreddit, t2.subreddit as t2_subreddit, SUM(1) as NumOverlaps
 FROM (SELECT subreddit, author, COUNT(1) as cnt 
      FROM [fh-bigquery:reddit_comments.all_starting_201501]
      WHERE author NOT IN (SELECT author FROM [fh-bigquery:reddit_comments.bots_201505])
@@ -25,4 +25,4 @@ JOIN (SELECT subreddit, author, COUNT(1) as cnt
      GROUP BY subreddit, author HAVING cnt > 10) t2
 ON t1.author=t2.author
 WHERE t1.subreddit!=t2.subreddit
-GROUP BY t1.subreddit, t2.subreddit
+GROUP BY t1_subreddit, t2_subreddit
