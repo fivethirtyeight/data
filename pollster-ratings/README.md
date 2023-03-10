@@ -18,6 +18,7 @@ Past data:
 * [2018](2018/)
 * [2019](2019/)
 * [2020](2020/)
+* [2021](2021/)
 
 `pollster-stats-full.xlsx` contains a spreadsheet with all of the summary data and calculations involved in determining the pollster ratings as well as descriptions for each column.
 
