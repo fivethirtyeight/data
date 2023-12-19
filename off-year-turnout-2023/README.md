@@ -2,6 +2,8 @@
 
 This directory contains data used in [article hed](link to article). For more information about how this data was gathered, please consult the methodoogy section in this article.
 
+You can also read this data on [this spreadsheet](https://docs.google.com/spreadsheets/d/1ciZiaWvmEJKyGcjFampdh86bW9j0tS77-XoiE4LEUng/edit#gid=0).
+
 Data sources for each state are as follows:
 
 ### Virginia
