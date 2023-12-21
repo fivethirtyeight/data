@@ -4,7 +4,7 @@ This directory contains various demographic data about U.S. counties and county-
 
 Each CSV is broken down by state. You can also access selected data used in this analysis from all five states in the spreadsheet `off-year-turnout-2023.xlsx` in this repo, which includes county-level turnout rates in off-year elections since 2011 and 2023 turnout rates in relation to data on race, education, urbanicity and the 2020 presidential election. 
 
-Voter turnout data is included for off-year elections in which a major statewide office, a statewide ballot question or state-legislative elections were on the ballot. 
+Voter turnout data is included for off-year elections in which a major statewide office, a statewide ballot question or state legislative elections were on the ballot. 
 
 
 ## Data sources for each state are as follows:
@@ -66,7 +66,7 @@ Header | Definition
 `black_pct_18to22` | Estimated percentage of the county population identifying as Black, per the 2018-2022 ACS	
 `hisp_lat_pct_18to22` | Estimated percentage of the county population identifying as Hispanic or Latino, per the 2018-2022 ACS		
 `asian_pct_18to22` | Estimated percentage of the county population identifying as Asian American, per the 2018-2022 ACS		
-`nh_pi_pct_18to22` | Estimated percentage of the county population identifying as native Hawaiian or Pacific Islander, per the 2018-2022 ACS
+`nh_pi_pct_18to22` | Estimated percentage of the county population identifying as Native Hawaiian or Pacific Islander, per the 2018-2022 ACS
 `ai_an_pct_18to22` | Estimated percentage of the county population identifying as American Indian or Native American, per the 2018-2022 ACS
 `lessHS_25over_pct_18to22` | Estimated percentage of the county population aged 25 or older without a high school degree, per the 2018-2022 ACS
 `HSgrad_25over_pct_18to22` | Estimated percentage of the county population aged 25 or older with a high school degree	but no college, per the 2018-2022 ACS
