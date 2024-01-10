@@ -17,6 +17,6 @@ Header | Definition
 `vote_date` | Date of the GOP presidential primary or caucus in the state
 `total_delegates` | Total number of delegates to the RNC from the state
 `allocated` | Total number of delegates to the RNC that will be allocated based on the outcome of the primary or caucus in the state
-`rules` | Rules by which delgate allocation is performed in the state. See the [methodology](link to methodology) for details
+`rules` | Rules by which delegate allocation is performed in the state. See the [methodology](link to methodology) for details
 `model_date` | Date at which the model was run
 candidate | For each candidate, there is a column whose header is that candidate's last name. This column indicates the benchmark number of delegates that candidate would need to win in the state to be on track to win the nomination.
