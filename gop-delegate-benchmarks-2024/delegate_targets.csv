@@ -1,0 +1,57 @@
+state_abb,state_name,vote_date,total_delegates,allocated,rules,DeSantis,Haley,Hutchinson,Ramaswamy,Trump,model_date
+IA,Iowa,2024-01-15,40,40,Proportional,22,26,33,20,12,2024-01-10
+NH,New Hampshire,2024-01-23,22,22,Proportional,7,22,17,11,7,2024-01-10
+NV,Nevada,2024-02-08,26,26,Proportional,13,11,19,11,9,2024-01-10
+VI,Virgin Islands,2024-02-08,4,4,WTA (RCV),4,4,0,4,4,2024-01-10
+SC,South Carolina,2024-02-24,50,50,WTA,50,50,0,0,0,2024-01-10
+MI,Michigan,2024-02-27,55,55,Proportional,26,36,34,27,21,2024-01-10
+ID,Idaho,2024-03-02,32,32,Proportional (WTA trigger),32,32,32,32,10,2024-01-10
+MO,Missouri,2024-03-02,54,54,Proportional (WTA trigger) at state convention,26,26,30,27,22,2024-01-10
+DC,District of Columbia,2024-03-03,19,19,Proportional (WTA trigger),19,19,0,0,7,2024-01-10
+ND,North Dakota,2024-03-04,29,29,Proportional,13,23,29,17,10,2024-01-10
+AK,Alaska,2024-03-05,29,29,Proportional,14,16,17,14,11,2024-01-10
+AL,Alabama,2024-03-05,50,50,Proportional (WTA trigger),0,50,0,0,19,2024-01-10
+AR,Arkansas,2024-03-05,40,40,Proportional (WTM trigger),0,0,40,40,27,2024-01-10
+AS,American Samoa,2024-03-05,9,9,Convention vote,3,3,3,4,3,2024-01-10
+CA,California,2024-03-05,169,169,Proportional (WTA trigger),73,61,169,69,62,2024-01-10
+CO,Colorado,2024-03-05,37,37,Proportional,20,18,26,19,15,2024-01-10
+MA,Massachusetts,2024-03-05,40,40,Proportional (WTA trigger),40,40,40,40,15,2024-01-10
+ME,Maine,2024-03-05,20,20,Proportional (WTA trigger),20,20,20,20,7,2024-01-10
+MN,Minnesota,2024-03-05,39,39,Proportional (WTA trigger),39,39,39,39,13,2024-01-10
+NC,North Carolina,2024-03-05,74,74,Proportional,32,42,25,34,29,2024-01-10
+OK,Oklahoma,2024-03-05,43,43,Proportional (WTA trigger),43,43,43,43,15,2024-01-10
+TN,Tennessee,2024-03-05,58,58,Proportional (WTA trigger),0,0,0,58,58,2024-01-10
+TX,Texas,2024-03-05,161,161,Proportional (WTA trigger),0,0,161,161,161,2024-01-10
+UT,Utah,2024-03-05,40,40,Proportional (WTA trigger),40,40,40,40,14,2024-01-10
+VA,Virginia,2024-03-05,48,48,Proportional (WTA trigger),48,48,0,0,19,2024-01-10
+VT,Vermont,2024-03-05,17,17,Proportional (WTA trigger),0,17,17,17,6,2024-01-10
+WY,Wyoming,2024-03-10,29,29,WTA at state convention,0,29,29,29,0,2024-01-10
+GA,Georgia,2024-03-12,59,59,Proportional,31,34,0,29,22,2024-01-10
+HI,Hawaii,2024-03-12,19,19,Proportional (separate for at-large and automatic),7,6,7,8,7,2024-01-10
+MS,Mississippi,2024-03-12,40,40,Proportional (WTA trigger),0,40,0,0,15,2024-01-10
+WA,Washington,2024-03-12,43,43,Proportional (WTA trigger),43,43,0,43,17,2024-01-10
+MP,Northern Marianas,2024-03-15,9,9,WTA,0,0,0,0,9,2024-01-10
+GU,Guam,2024-03-16,9,0,NA,0,0,0,0,0,2024-01-10
+AZ,Arizona,2024-03-19,43,43,WTA,0,0,43,43,43,2024-01-10
+FL,Florida,2024-03-19,125,125,WTA,125,0,0,0,0,2024-01-10
+IL,Illinois,2024-03-19,64,64,WTA,64,64,0,0,64,2024-01-10
+KS,Kansas,2024-03-19,39,39,WTA,39,39,39,39,0,2024-01-10
+OH,Ohio,2024-03-19,79,79,WTA,0,79,79,79,79,2024-01-10
+LA,Louisiana,2024-03-23,47,47,WTA,0,47,0,0,47,2024-01-10
+CT,Connecticut,2024-04-02,28,28,Proportional (WTA trigger),28,0,0,0,11,2024-01-10
+DE,Delaware,2024-04-02,16,16,WTA,16,16,0,16,16,2024-01-10
+NY,New York,2024-04-02,91,91,Proportional (WTA trigger),91,0,0,0,35,2024-01-10
+RI,Rhode Island,2024-04-02,19,19,Proportional,10,10,9,10,7,2024-01-10
+WI,Wisconsin,2024-04-02,41,41,WTA,41,41,41,41,41,2024-01-10
+PR,Puerto Rico,2024-04-21,23,23,Proportional (WTA trigger),0,0,23,23,23,2024-01-10
+PA,Pennsylvania,2024-04-23,67,16,WTA,0,0,0,16,16,2024-01-10
+NM,New Mexico,2024-05-01,22,0,NA,0,0,0,0,0,2024-01-10
+IN,Indiana,2024-05-07,58,58,WTA,0,0,58,0,58,2024-01-10
+MD,Maryland,2024-05-14,37,37,WTA,37,0,0,0,0,2024-01-10
+NE,Nebraska,2024-05-14,36,36,WTA,36,36,36,36,36,2024-01-10
+WV,West Virginia,2024-05-14,32,32,WTA,32,0,0,0,32,2024-01-10
+MT,Montana,2024-05-18,31,0,NA,0,0,0,0,0,2024-01-10
+SD,South Dakota,2024-05-18,29,0,NA,0,0,0,0,0,2024-01-10
+KY,Kentucky,2024-05-21,46,46,Proportional,23,23,33,26,19,2024-01-10
+OR,Oregon,2024-05-25,31,31,WTA at state convention for primary winner,31,31,0,31,31,2024-01-10
+NJ,New Jersey,2024-06-04,12,12,WTA,12,0,0,0,12,2024-01-10
