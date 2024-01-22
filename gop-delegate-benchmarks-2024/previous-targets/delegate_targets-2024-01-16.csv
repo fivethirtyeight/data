@@ -1,0 +1,57 @@
+state_abb,state_name,vote_date,total_delegates,allocated,rules,DeSantis,Haley,Trump,model_date
+IA,Iowa,2024-01-15,40,40,Proportional,9,8,20,2024-01-16
+NH,New Hampshire,2024-01-23,22,22,Proportional,7,22,7,2024-01-16
+NV,Nevada,2024-02-08,26,26,Proportional,13,10,11,2024-01-16
+VI,Virgin Islands,2024-02-08,4,4,WTA (RCV),4,4,4,2024-01-16
+SC,South Carolina,2024-02-24,50,50,WTA,50,50,0,2024-01-16
+MI,Michigan,2024-02-27,55,55,Proportional,26,33,22,2024-01-16
+ID,Idaho,2024-03-02,32,32,Proportional (WTA trigger),32,32,11,2024-01-16
+MO,Missouri,2024-03-02,54,54,Proportional (WTA trigger) at state convention,28,25,22,2024-01-16
+DC,District of Columbia,2024-03-03,19,19,Proportional (WTA trigger),19,19,7,2024-01-16
+ND,North Dakota,2024-03-04,29,29,Proportional,14,20,14,2024-01-16
+AK,Alaska,2024-03-05,29,29,Proportional,16,17,11,2024-01-16
+AL,Alabama,2024-03-05,50,50,Proportional (WTA trigger),0,50,20,2024-01-16
+AR,Arkansas,2024-03-05,40,40,Proportional (WTM trigger),40,40,27,2024-01-16
+AS,American Samoa,2024-03-05,9,9,Convention vote,3,4,4,2024-01-16
+CA,California,2024-03-05,169,169,Proportional (WTA trigger),0,0,74,2024-01-16
+CO,Colorado,2024-03-05,37,37,Proportional,21,18,15,2024-01-16
+MA,Massachusetts,2024-03-05,40,40,Proportional (WTA trigger),17,40,15,2024-01-16
+ME,Maine,2024-03-05,20,20,Proportional (WTA trigger),20,20,7,2024-01-16
+MN,Minnesota,2024-03-05,39,39,Proportional (WTA trigger),39,39,13,2024-01-16
+NC,North Carolina,2024-03-05,74,74,Proportional,34,37,31,2024-01-16
+OK,Oklahoma,2024-03-05,43,43,Proportional (WTA trigger),43,43,14,2024-01-16
+TN,Tennessee,2024-03-05,58,58,Proportional (WTA trigger),0,0,26,2024-01-16
+TX,Texas,2024-03-05,161,161,Proportional (WTA trigger),161,0,70,2024-01-16
+UT,Utah,2024-03-05,40,40,Proportional (WTA trigger),40,40,13,2024-01-16
+VA,Virginia,2024-03-05,48,48,Proportional (WTA trigger),48,0,19,2024-01-16
+VT,Vermont,2024-03-05,17,17,Proportional (WTA trigger),0,17,0,2024-01-16
+WY,Wyoming,2024-03-10,29,29,WTA at state convention,29,29,0,2024-01-16
+GA,Georgia,2024-03-12,59,59,Proportional,37,30,23,2024-01-16
+HI,Hawaii,2024-03-12,19,19,Proportional (separate for at-large and automatic),7,10,8,2024-01-16
+MS,Mississippi,2024-03-12,40,40,Proportional (WTA trigger),40,40,15,2024-01-16
+WA,Washington,2024-03-12,43,43,Proportional (WTA trigger),0,43,43,2024-01-16
+MP,Northern Marianas,2024-03-15,9,9,WTA,0,9,9,2024-01-16
+GU,Guam,2024-03-16,9,0,NA,0,0,0,2024-01-16
+AZ,Arizona,2024-03-19,43,43,WTA,0,0,43,2024-01-16
+FL,Florida,2024-03-19,125,125,WTA,125,0,125,2024-01-16
+IL,Illinois,2024-03-19,64,64,WTA,64,64,64,2024-01-16
+KS,Kansas,2024-03-19,39,39,WTA,39,39,0,2024-01-16
+OH,Ohio,2024-03-19,79,79,WTA,0,79,79,2024-01-16
+LA,Louisiana,2024-03-23,47,47,WTA,47,47,47,2024-01-16
+CT,Connecticut,2024-04-02,28,28,Proportional (WTA trigger),28,28,11,2024-01-16
+DE,Delaware,2024-04-02,16,16,WTA,0,16,16,2024-01-16
+NY,New York,2024-04-02,91,91,Proportional (WTA trigger),91,0,36,2024-01-16
+RI,Rhode Island,2024-04-02,19,19,Proportional,8,11,8,2024-01-16
+WI,Wisconsin,2024-04-02,41,41,WTA,41,41,41,2024-01-16
+PR,Puerto Rico,2024-04-21,23,23,Proportional (WTA trigger),0,0,10,2024-01-16
+PA,Pennsylvania,2024-04-23,67,16,WTA,0,16,16,2024-01-16
+NM,New Mexico,2024-05-01,22,0,NA,0,0,0,2024-01-16
+IN,Indiana,2024-05-07,58,58,WTA,0,0,58,2024-01-16
+MD,Maryland,2024-05-14,37,37,WTA,37,0,37,2024-01-16
+NE,Nebraska,2024-05-14,36,36,WTA,0,36,36,2024-01-16
+WV,West Virginia,2024-05-14,32,32,WTA,0,32,32,2024-01-16
+MT,Montana,2024-05-18,31,0,NA,0,0,0,2024-01-16
+SD,South Dakota,2024-05-18,29,0,NA,0,0,0,2024-01-16
+KY,Kentucky,2024-05-21,46,46,Proportional,30,23,18,2024-01-16
+OR,Oregon,2024-05-25,31,31,WTA at state convention for primary winner,0,31,31,2024-01-16
+NJ,New Jersey,2024-06-04,12,12,WTA,12,0,12,2024-01-16
