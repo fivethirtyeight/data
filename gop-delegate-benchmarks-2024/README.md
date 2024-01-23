@@ -26,7 +26,7 @@ Header | Definition
 `model_date` | Date when the benchmark estimates were generated
 candidate | For each candidate currently in the race, there is a column whose header is that candidate's last name. For jurisdictions that have yet to vote, this column indicates the number of delegates that 538 estimates the candidate would need to win there to be on track to win the nomination. For jurisdictions that have already voted, this column indicates the number of delegates 538 estimated the candidate would need to win there at the time of its primary, caucus or convention.
 
-Previous delegate benchmarks data is available in the folder within this repository, sorted by the date those benchmarks were generated. The codebook for these files is the same as that of `delegate_targets.csv`. (Note: Files generated before Jan. 23, 2024, will include the ABC News estimate of each candidate’s number of delegates for jurisdictions that have already voted instead of the benchmark estimated by 538.)  
+Previous delegate benchmarks data is available in the folder within this repository, sorted by the date those benchmarks were generated. The codebook for these files is the same as that of `delegate_targets.csv`. (Note: Files generated before Jan. 22, 2024, will include the ABC News estimate of each candidate’s number of delegates for jurisdictions that have already voted instead of the benchmark estimated by 538.)  
 
 Sources: Polls, U.S. Census Bureau, American Community Survey, Public Religion Research Institute, Pew Research Center, ABC News, Edison Research, FrontloadingHQ, Republican National Committee
 
