@@ -1,6 +1,6 @@
 # Congress Biden Score
 
-This directory contains the data behind “[How often every member of Congress voted with Biden in 2023](https://abcnews.go.com/538/member-congress-voted-biden-2023/story?id=106718543)”.
+This directory contains the data behind “[How often every member of Congress voted with Biden in 2023](https://abcnews.go.com/538/member-congress-voted-biden-2023/story?id=106718543).”
 
 `biden_score_2023.xlsx` contains data on all House and Senate floor votes taken in 2023 for which President Joe Biden had a clear position (support or opposition) before the vote. It also includes data on each bill (and nomination) that was voted on and aggregate data on how often each member of Congress voted with Biden in 2023. For a full methodology, please see [the article](https://abcnews.go.com/538/member-congress-voted-biden-2023/story?id=106718543). 
 
@@ -54,8 +54,8 @@ Header | Definition
 `senate_dem_agree` | The percentage of Senate Democrats that voted in line with Biden’s position on the bill. Does not include independents who caucus with the Democrats.
 `senate_rep_agree` | The percentage of Senate Republicans that voted in line with Biden’s position on the bill.
 `veto_override_roll` | The House or Senate roll call number of the veto override vote, if applicable. Veto override votes occur in the chamber the bill originated in. 
-`veto_dem_agree` | The percentage of Democrats in the applicable chamber that voted in line with Biden’s position on the bill.
-`veto_rep_agree` | The percentage of Republicans in the applicable chamber that voted in line with Biden’s position on the bill.
+`veto_dem_agree` | The percentage of Democrats in the applicable chamber that voted in line with Biden’s position on the bill on the veto override vote.
+`veto_rep_agree` | The percentage of Republicans in the applicable chamber that voted in line with Biden’s position on the bill on the veto override vote.
 
 The sheet `nominations` has the following columns:
 
