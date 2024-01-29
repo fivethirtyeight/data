@@ -1,0 +1,206 @@
+tournament,surface,seconds_added_per_point,years
+Wimbledon,Grass,-2.98,1991-2014
+London Olympics,Grass,-2.62,2012
+Manchester,Grass,-2.33,1991-1994
+Eastbourne,Grass,-1.78,2009-2014
+Birmingham,Carpet,-1.63,1991
+Queen's Club,Grass,-1.50,1991-2014
+Lyon,Hard,-1.35,2009
+Las Vegas,Hard,-1.32,2006-2008
+Stockholm Masters,Carpet,-0.90,1991-1994
+Nottingham,Grass,-0.82,1995-2008
+Orlando,Hard,-0.68,1991
+Tokyo Indoor,Carpet,-0.64,1991-1995
+Halle,Grass,-0.58,1993-2014
+Bogota,Clay,-0.57,1994-2001
+s-Hertogenbosch,Grass,-0.54,2008-2014
+Beijing,Carpet,-0.54,1993-1996
+Brussels,Carpet,-0.53,1991
+Chicago,Carpet,-0.52,1991
+Wellington,Hard,-0.44,1991-1992
+Newport,Grass,-0.35,1991-2014
+US Open,Hard,-0.17,1991-2014
+Montpellier,Hard,-0.16,2010-2015
+Bolzano,Carpet,-0.14,1992-1993
+Australian Open,Hard,-0.11,1991-2015
+Memphis,Hard,-0.02,1991-2015
+Bogota,Hard,0.08,2013-2014
+Rosmalen,Grass,0.17,1991-1997
+London,Carpet,0.27,1998-1999
+San Jose,Hard,0.28,1994-2013
+Antwerp,Carpet,0.29,1992-1996
+Stuttgart Masters,Carpet,0.30,1996-1997
+Sydney Indoor,Hard,0.30,1991-1994
+Paris Masters,Carpet,0.32,1991-2006
+Auckland,Hard,0.38,1991-2015
+Johannesburg,Hard,0.38,1992-2011
+Gstaad,Clay,0.44,1991-2014
+Durban,Hard,0.45,1993
+Sydney,Hard,0.46,1999-2015
+Copenhagen,Carpet,0.50,1991-1999
+Basel,Carpet,0.51,1997-2006
+Sydney Outdoor,Hard,0.52,1991-1998
+Seoul,Hard,0.53,1991-1996
+Milan,Carpet,0.55,1991-2005
+Stuttgart Indoor,Carpet,0.57,1991-1995
+Delray Beach,Hard,0.59,2000-2015
+Philadelphia,Carpet,0.59,1991-1996
+Metz,Hard,0.63,2003-2014
+Tour Finals,Carpet,0.63,1991-1996
+Moscow,Carpet,0.64,1991-2006
+Kuala Lumpur,Carpet,0.66,1994-1995
+New Haven,Hard,0.71,1991-2010
+Basel,Hard,0.73,1991-2014
+Scottsdale,Hard,0.79,1992-2005
+Roland Garros,Clay,0.79,1991-2014
+St. Petersburg,Carpet,0.80,1995-2007
+Berlin,Carpet,0.80,1991
+Tokyo Outdoor,Hard,0.81,1991-1995
+Paris Masters,Hard,0.82,2007-2014
+Adelaide,Hard,0.85,1991-2008
+Lyon,Carpet,0.86,1991-2008
+Stockholm,Hard,0.86,1995-2014
+St Petersburg,Carpet,0.87,1999
+Zaragoza,Carpet,0.91,1993-1994
+Zagreb,Carpet,0.92,1996-2007
+Winston-Salem,Hard,0.93,2011-2014
+Ostrava,Carpet,0.93,1994-1998
+Marseille,Hard,0.97,1996-2015
+Brighton,Hard,1.00,2000
+Bangkok,Hard,1.01,2003-2013
+Zagreb,Hard,1.02,2008-2015
+Moscow,Hard,1.10,2007-2014
+Cincinnati Masters,Hard,1.14,1991-2014
+San Francisco,Carpet,1.15,1991
+Mexico City,Clay,1.15,1993-2000
+London,Hard,1.16,2000
+Stuttgart Masters,Hard,1.17,1998-2001
+New Delhi,Hard,1.21,1996
+Shanghai Masters,Hard,1.21,2009-2014
+Tokyo,Hard,1.21,1996-2014
+Osaka,Hard,1.23,1993-1994
+Long Island,Hard,1.23,1991-2004
+Essen Masters,Carpet,1.25,1995
+Rotterdam,Hard,1.25,2000-2015
+Buzios,Hard,1.26,1991-1992
+Washington,Hard,1.30,1991-2014
+Shanghai,Carpet,1.30,1996-1998
+Singapore,Carpet,1.33,1996-1998
+Los Angeles,Hard,1.38,1991-2012
+Sao Paulo,Hard,1.40,1991-1992
+Copenhagen,Hard,1.43,2000-2003
+Split,Carpet,1.46,1998
+Marseille,Carpet,1.46,1993-1995
+San Francisco,Hard,1.46,1992-1993
+Indianapolis,Hard,1.47,1991-2009
+Rotterdam,Carpet,1.47,1991-1999
+Vienna,Carpet,1.53,1991-1998
+Canada Masters,Hard,1.54,1991-2014
+St. Petersburg,Hard,1.56,2000-2013
+Tashkent,Hard,1.58,1997-2002
+Dubai,Hard,1.58,1993-2015
+Bordeaux,Hard,1.62,1991-1995
+Brisbane,Hard,1.63,1991-2015
+Valencia,Hard,1.63,2009-2014
+Stuttgart,Clay,1.65,2001-2014
+Brasilia,Carpet,1.66,1991
+Madrid Masters,Hard,1.69,2002-2008
+Philadelphia,Hard,1.70,1997-1998
+Beijing,Hard,1.71,1997-2014
+Indian Wells Masters,Hard,1.72,1991-2015
+Toulouse,Hard,1.74,1991-2000
+Santiago,Clay,1.82,1993-2013
+Hong Kong,Hard,1.83,1991-2002
+Schenectady,Hard,1.84,1991-1994
+Vienna,Hard,1.84,1999-2014
+Miami Masters,Hard,1.90,1991-2015
+Power Horse Cup,Clay,1.93,2013
+Boston,Hard,1.98,1997-1999
+Kuala Lumpur,Hard,2.03,2009-2014
+Tel Aviv,Hard,2.07,1991-1996
+Sun City,Hard,2.09,1994
+Chennai,Hard,2.09,1997-2015
+Charlotte,Clay,2.11,1991-1993
+Atlanta,Clay,2.11,1992-2001
+Shenzhen,Hard,2.17,2014
+Stuttgart Outdoor,Clay,2.19,1991-2000
+Ho Chi Minh City,Carpet,2.20,2005
+Curitiba CH,Clay,2.25,2010
+Ecuador Open Quito,Clay,2.27,2015
+Kitzbuhel,Clay,2.30,1991-2014
+Munich,Clay,2.31,1991-2014
+Tour Finals,Hard,2.33,1997-2014
+Shanghai,Hard,2.38,1999-2004
+Doha,Hard,2.39,1993-2015
+Sopot - WS,Clay,2.40,2001
+Amsterdam,Clay,2.47,1995-2001
+Nice,Clay,2.53,1991-2014
+Madrid Masters,Clay,2.55,2009-2014
+Atlanta,Hard,2.55,2010-2014
+Houston,Clay,2.56,2001-2015
+St. Poelten,Clay,2.56,1994-2005
+Belgrade,Clay,2.58,2009-2012
+Tampa,Clay,2.61,1991-1993
+Poertschach,Clay,2.65,2006-2008
+Hamburg,Clay,2.70,2009-2014
+Delray Beach,Clay,2.74,1999
+Sopot,Clay,2.80,2002-2007
+Antwerp,Hard,2.82,1997-1998
+Hilversum,Clay,2.86,1991-1994
+Sao Paulo,Clay,2.86,1993-2015
+Bournemouth,Clay,2.88,1996-1999
+Guaruja,Hard,2.88,1991-1992
+Montevideo,Clay,2.89,1994-1995
+Bastad,Clay,2.91,1991-2014
+Valencia,Clay,2.92,1995-2008
+Amersfoort,Clay,2.93,2002-2008
+Hamburg Masters,Clay,2.94,1991-2008
+Singapore,Hard,2.96,1991-1999
+Barcelona,Clay,3.06,1991-2015
+Masters Cup,Hard,3.06,2000-2008
+Dusseldorf,Clay,3.10,1995-2014
+Orlando,Clay,3.13,1997-2000
+Casablanca,Clay,3.17,1992-2015
+Oahu,Hard,3.19,1994
+Beijing Olympics,Hard,3.21,2008
+Marbella,Clay,3.21,1996-1997
+Athens,Clay,3.25,1991-1994
+Estoril,Clay,3.26,1991-2014
+Coral Springs,Clay,3.26,1993-1998
+Bermuda,Clay,3.27,1995-1996
+Monte Carlo Masters,Clay,3.31,1991-2015
+Mallorca,Clay,3.32,1998-2002
+Umag,Clay,3.39,1991-2014
+Pinehurst,Clay,3.45,1994-1996
+San Marino,Clay,3.45,1991-2000
+Jakarta,Hard,3.45,1993-1996
+Geneva,Clay,3.47,1991
+Mumbai,Hard,3.50,2006-2007
+Acapulco,Clay,3.53,2001-2013
+Warsaw,Clay,3.58,2008
+Madrid,Clay,3.61,1991-1994
+Buenos Aires,Clay,3.62,1993-2015
+Masters Cup,Carpet,3.64,2005
+Cologne,Clay,3.67,1992
+Acapulco,Hard,3.71,2014-2015
+Costa Do Sauipe,Hard,3.72,2001-2003
+Taipei,Carpet,3.90,1992
+Vina del Mar,Clay,3.94,2001-2014
+Palermo,Clay,3.98,1991-2006
+Rome Masters,Clay,4.09,1991-2014
+Bordeaux,Clay,4.11,1992
+Bucharest,Clay,4.14,1993-2015
+Kuala Lumpur-2,Hard,4.18,1993
+Kuala Lumpur-1,Hard,4.20,1993
+Prague,Clay,4.29,1991-1999
+Rio de Janeiro,Clay,4.40,2014
+Birmingham,Clay,4.49,1994
+Oporto,Clay,4.69,1995-1996
+Genova,Clay,4.71,1991-1993
+Bologna,Clay,4.74,1991-1998
+Merano,Clay,4.93,1999
+Viña del Mar,Clay,4.96,2009
+Florence,Clay,5.08,1991-1994
+Costa Do Sauipe,Clay,5.19,2004-2011
+Maceio,Clay,5.28,1992
+Rio Open,Clay,5.38,2015

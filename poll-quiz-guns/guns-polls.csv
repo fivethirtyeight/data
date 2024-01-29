@@ -1,0 +1,58 @@
+Question,Start,End,Pollster,Population,Support,Republican Support,Democratic Support,URL
+age-21,2/20/18,2/23/18,CNN/SSRS,Registered Voters,72,61,86,"http://cdn.cnn.com/cnn/2018/images/02/25/rel3a.-.trump,.guns.pdf"
+age-21,2/27/18,2/28/18,NPR/Ipsos,Adults,82,72,92,https://www.ipsos.com/en-us/npripsos-poll-majority-americans-support-policies-aimed-keep-guns-out-hands-dangerous-individuals
+age-21,3/1/18,3/4/18,Rasmussen,Adults,67,59,76,http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/march_2018/americans_favor_raising_age_to_buy_gun_not_enlist_or_vote
+age-21,2/22/18,2/26/18,Harris Interactive,Registered Voters,84,77,92,http://thehill.com/opinion/civil-rights/375993-americans-support-no-gun-under-21
+age-21,3/3/18,3/5/18,Quinnipiac,Registered Voters,78,63,93,https://poll.qu.edu/national/release-detail?ReleaseID=2525
+age-21,3/4/18,3/6/18,YouGov,Registered Voters,72,65,80,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/zq33h2ipcl/econTabReport.pdf
+age-21,3/1/18,3/5/18,Morning Consult,Registered Voters,76,72,86,https://morningconsult.com/wp-content/uploads/2018/03/180303_crosstabs_POLITICO_v1_DK-1.pdf
+arm-teachers,2/23/18,2/25/18,YouGov/Huffpost,Registered Voters,41,69,20,http://big.assets.huffingtonpost.com/tabsHPSafeschools20180223.pdf
+arm-teachers,2/20/18,2/23/18,CBS News,Adults,44,68,20,https://drive.google.com/file/d/0ByVu4fDHYJgVbjh5OW1Tb3FRdWxJQUpJSUdHUXdma1RKU0tV/view
+arm-teachers,2/27/18,2/28/18,Rasmussen,Adults,43,71,24,http://www.rasmussenreports.com/public_content/politics/current_events/gun_control/most_adults_with_school_aged_kids_support_arming_teachers
+arm-teachers,2/27/18,2/28/18,NPR/Ipsos,Adults,41,68,18,https://www.ipsos.com/en-us/npripsos-poll-majority-americans-support-policies-aimed-keep-guns-out-hands-dangerous-individuals
+arm-teachers,3/3/18,3/5/18,Quinnipiac,Registered Voters,40,77,10,https://poll.qu.edu/national/release-detail?ReleaseID=2525
+arm-teachers,2/26/18,2/28/18,SurveyMonkey,Registered Voters,43,80,11,https://www.nbcnews.com/politics/politics-news/poll-majority-americans-disagree-trump-s-proposal-arm-teachers-n854596
+background-checks,2/16/18,2/19/18,Quinnipiac,Registered Voters,97,97,99,https://poll.qu.edu/images/polling/us/us02202018_ugbw51.pdf/
+background-checks,2/18/18,2/20/18,YouGov,Registered Voters,85,78,87,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/57yxejgrmo/econTabReport.pdf
+background-checks,2/25/18,2/27/18,YouGov,Registered Voters,83,76,91,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/h8n9gvrqyj/econTabReport.pdf
+background-checks,2/15/18,2/19/18,Morning Consult,Registered Voters,88,88,90,https://morningconsult.com/wp-content/uploads/2018/02/180211_crosstabs_POLITICO_v1_DK-1-1-1.pdf
+background-checks,2/20/18,2/23/18,CBS News,Adults,75,66,86,https://drive.google.com/file/d/0ByVu4fDHYJgVbjh5OW1Tb3FRdWxJQUpJSUdHUXdma1RKU0tV/view
+background-checks,2/27/18,2/28/18,NPR/Ipsos,Adults,94,89,99,https://www.ipsos.com/en-us/npripsos-poll-majority-americans-support-policies-aimed-keep-guns-out-hands-dangerous-individuals
+background-checks,3/1/18,3/5/18,Morning Consult,Registered Voters,90,91,91,https://morningconsult.com/wp-content/uploads/2018/03/180303_crosstabs_POLITICO_v1_DK-1.pdf
+ban-assault-weapons,2/16/18,2/19/18,Quinnipiac,Registered Voters,67,43,91,https://poll.qu.edu/images/polling/us/us02202018_ugbw51.pdf/
+ban-assault-weapons,2/18/18,2/20/18,YouGov,Registered Voters,61,45,79,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/57yxejgrmo/econTabReport.pdf
+ban-assault-weapons,2/25/18,2/27/18,YouGov,Registered Voters,58,37,82,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/h8n9gvrqyj/econTabReport.pdf
+ban-assault-weapons,2/15/18,2/19/18,Morning Consult,Registered Voters,69,64,81,https://morningconsult.com/wp-content/uploads/2018/02/180211_crosstabs_POLITICO_v1_DK-1-1-1.pdf
+ban-assault-weapons,2/15/18,2/18/18,ABC/Washington Post,Registered Voters,51,29,71,https://www.washingtonpost.com/page/2010-2019/WashingtonPost/2018/02/20/National-Politics/Polling/release_513.xml?tid=a_mcntx
+ban-assault-weapons,2/20/18,2/23/18,CNN/SSRS,Registered Voters,57,34,80,"http://cdn.cnn.com/cnn/2018/images/02/25/rel3a.-.trump,.guns.pdf"
+ban-assault-weapons,2/20/18,2/23/18,CBS News,Adults,53,39,66,https://drive.google.com/file/d/0ByVu4fDHYJgVbjh5OW1Tb3FRdWxJQUpJSUdHUXdma1RKU0tV/view
+ban-assault-weapons,2/16/18,2/19/18,Harvard/Harris,Registered Voters,61,43,76,http://harvardharrispoll.com/wp-content/uploads/2018/02/Final_HHP_20Feb2018_RegisteredVoters_Topline_Memo.pdf
+ban-assault-weapons,2/20/18,2/24/18,Suffolk,Registered Voters,63,40,83,http://www.suffolk.edu/documents/SUPRC/3_1_2018_marginals.pdf
+ban-assault-weapons,2/27/18,2/28/18,NPR/Ipsos,Adults,72,58,88,https://www.ipsos.com/en-us/npripsos-poll-majority-americans-support-policies-aimed-keep-guns-out-hands-dangerous-individuals
+ban-assault-weapons,3/3/18,3/5/18,Quinnipiac,Registered Voters,61,38,88,https://poll.qu.edu/national/release-detail?ReleaseID=2525
+ban-assault-weapons,3/1/18,3/5/18,Morning Consult,Registered Voters,68,41,83,https://morningconsult.com/wp-content/uploads/2018/03/180303_crosstabs_POLITICO_v1_DK-1.pdf
+ban-high-capacity-magazines,2/18/18,2/20/18,YouGov,Registered Voters,67,52,82,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/57yxejgrmo/econTabReport.pdf
+ban-high-capacity-magazines,2/25/18,2/27/18,YouGov,Registered Voters,64,44,82,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/h8n9gvrqyj/econTabReport.pdf
+ban-high-capacity-magazines,2/15/18,2/19/18,Morning Consult,Registered Voters,69,63,82,https://morningconsult.com/wp-content/uploads/2018/02/180211_crosstabs_POLITICO_v1_DK-1-1-1.pdf
+ban-high-capacity-magazines,2/20/18,2/23/18,CNN/SSRS,Registered Voters,64,48,82,"http://cdn.cnn.com/cnn/2018/images/02/25/rel3a.-.trump,.guns.pdf"
+ban-high-capacity-magazines,2/27/18,2/28/18,NPR/Ipsos,Adults,73,59,88,https://www.ipsos.com/en-us/npripsos-poll-majority-americans-support-policies-aimed-keep-guns-out-hands-dangerous-individuals
+ban-high-capacity-magazines,3/3/18,3/5/18,Quinnipiac,Registered Voters,63,39,87,https://poll.qu.edu/national/release-detail?ReleaseID=2525
+ban-high-capacity-magazines,3/1/18,3/5/18,Morning Consult,Registered Voters,71,64,84,https://morningconsult.com/wp-content/uploads/2018/03/180303_crosstabs_POLITICO_v1_DK-1.pdf
+mental-health-own-gun,2/18/18,2/20/18,YouGov,Registered Voters,87,87,84,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/57yxejgrmo/econTabReport.pdf
+mental-health-own-gun,2/25/18,2/27/18,YouGov,Registered Voters,84,81,86,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/h8n9gvrqyj/econTabReport.pdf
+mental-health-own-gun,2/15/18,2/19/18,Morning Consult,Registered Voters,88,89,90,https://morningconsult.com/wp-content/uploads/2018/02/180211_crosstabs_POLITICO_v1_DK-1-1-1.pdf
+mental-health-own-gun,2/20/18,2/24/18,Suffolk,Registered Voters,76,84,78,http://www.suffolk.edu/documents/SUPRC/3_1_2018_marginals.pdf
+mental-health-own-gun,2/27/18,2/28/18,NPR/Ipsos,Adults,92,88,96,https://www.ipsos.com/en-us/npripsos-poll-majority-americans-support-policies-aimed-keep-guns-out-hands-dangerous-individuals
+mental-health-own-gun,3/1/18,3/5/18,Morning Consult,Registered Voters,88,91,91,https://morningconsult.com/wp-content/uploads/2018/03/180303_crosstabs_POLITICO_v1_DK-1.pdf
+repeal-2nd-amendment,2/20/18,2/23/18,CNN/SSRS,Registered Voters,10,5,15,"http://cdn.cnn.com/cnn/2018/images/02/25/rel3a.-.trump,.guns.pdf"
+stricter-gun-laws,2/27/18,2/28/18,NPR/Ipsos,Adults,75,59,92,https://www.ipsos.com/en-us/npripsos-poll-majority-americans-support-policies-aimed-keep-guns-out-hands-dangerous-individuals
+stricter-gun-laws,2/25/18,2/27/18,YouGov,Registered Voters,63,43,87,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/h8n9gvrqyj/econTabReport.pdf
+stricter-gun-laws,2/20/18,2/23/18,CNN/SSRS,Registered Voters,70,49,93,"http://cdn.cnn.com/cnn/2018/images/02/25/rel3a.-.trump,.guns.pdf"
+stricter-gun-laws,2/20/18,2/23/18,CBS News,Adults,65,43,85,https://drive.google.com/file/d/0ByVu4fDHYJgVbjh5OW1Tb3FRdWxJQUpJSUdHUXdma1RKU0tV/view
+stricter-gun-laws,2/20/18,2/21/18,Marist,Registered Voters,73,55,93,"http://maristpoll.marist.edu/wp-content/misc/usapolls/us180220/Marist%20Poll_National%20Nature%20of%20the%20Sample%20and%20Tables_February%2023,%202018.pdf#page=3"
+stricter-gun-laws,2/18/18,2/20/18,YouGov,Registered Voters,58,36,76,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/57yxejgrmo/econTabReport.pdf
+stricter-gun-laws,2/16/18,2/19/18,Quinnipiac,Registered Voters,66,34,86,https://poll.qu.edu/images/polling/us/us02202018_ugbw51.pdf/
+stricter-gun-laws,2/22/18,2/26/18,Morning Consult,Registered Voters,68,53,89,https://morningconsult.com/wp-content/uploads/2018/02/180217_crosstabs_POLITICO_v1_DK-1.pdf
+stricter-gun-laws,3/3/18,3/5/18,Quinnipiac,Registered Voters,63,39,88,https://poll.qu.edu/national/release-detail?ReleaseID=2525
+stricter-gun-laws,3/4/18,3/6/18,YouGov,Registered Voters,61,42,82,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/zq33h2ipcl/econTabReport.pdf
+stricter-gun-laws,3/1/18,3/5/18,Morning Consult,Registered Voters,69,57,85,https://morningconsult.com/wp-content/uploads/2018/03/180303_crosstabs_POLITICO_v1_DK-1.pdf
