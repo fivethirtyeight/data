@@ -1,9 +1,3 @@
-See: https://github.com/fivethirtyeight/private-data/blob/gop-delegate-benchmarks-2024/gop-delegate-benchmarks-2024/README.md
-
-
-
-
-
 # 538's 2024 GOP primary delegate benchmarks
 
 This directory contains the data behind 538’s 2024 GOP delegate benchmarks interactive.
