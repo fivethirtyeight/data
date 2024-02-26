@@ -1,0 +1,57 @@
+state_abb,state_name,vote_date,total_delegates,allocated,rules,DeSantis,Haley,Hutchinson,Ramaswamy,Trump,model_date
+IA,Iowa,2024-01-15,40,40,Proportional,22,26,33,20,12,2024-01-10
+NH,New Hampshire,2024-01-23,22,22,Proportional,NA,22,NA,NA,7,2024-01-22
+NV,Nevada,2024-02-08,26,26,Proportional,NA,0,NA,NA,26,2024-01-24
+VI,Virgin Islands,2024-02-08,4,4,WTA (RCV),NA,4,NA,NA,0,2024-01-24
+SC,South Carolina,2024-02-24,50,50,WTA,NA,50,NA,NA,0,2024-02-09
+MI,Michigan,2024-02-27,55,55,Proportional,NA,30,NA,NA,27,2024-02-26
+ID,Idaho,2024-03-02,32,32,Proportional (WTA trigger),NA,32,NA,NA,0,2024-02-26
+MO,Missouri,2024-03-02,54,54,Proportional (WTA trigger) at state convention,NA,23,NA,NA,28,2024-02-26
+DC,District of Columbia,2024-03-03,19,19,Proportional (WTA trigger),NA,19,NA,NA,0,2024-02-26
+ND,North Dakota,2024-03-04,29,29,Proportional,NA,20,NA,NA,13,2024-02-26
+AK,Alaska,2024-03-05,29,29,Proportional,NA,16,NA,NA,14,2024-02-26
+AL,Alabama,2024-03-05,50,50,Proportional (WTA trigger),NA,50,NA,NA,0,2024-02-26
+AR,Arkansas,2024-03-05,40,40,Proportional (WTM trigger),NA,0,NA,NA,40,2024-02-26
+AS,American Samoa,2024-03-05,9,9,Convention vote,NA,5,NA,NA,4,2024-02-26
+CA,California,2024-03-05,169,169,Proportional (WTA trigger),NA,169,NA,NA,169,2024-02-26
+CO,Colorado,2024-03-05,37,37,Proportional,NA,19,NA,NA,19,2024-02-26
+MA,Massachusetts,2024-03-05,40,40,Proportional (WTA trigger),NA,40,NA,NA,0,2024-02-26
+ME,Maine,2024-03-05,20,20,Proportional (WTA trigger),NA,20,NA,NA,0,2024-02-26
+MN,Minnesota,2024-03-05,39,39,Proportional (WTA trigger),NA,39,NA,NA,0,2024-02-26
+NC,North Carolina,2024-03-05,74,74,Proportional,NA,42,NA,NA,36,2024-02-26
+OK,Oklahoma,2024-03-05,43,43,Proportional (WTA trigger),NA,43,NA,NA,0,2024-02-26
+TN,Tennessee,2024-03-05,58,58,Proportional (WTA trigger),NA,0,NA,NA,58,2024-02-26
+TX,Texas,2024-03-05,161,161,Proportional (WTA trigger),NA,0,NA,NA,161,2024-02-26
+UT,Utah,2024-03-05,40,40,Proportional (WTA trigger),NA,40,NA,NA,0,2024-02-26
+VA,Virginia,2024-03-05,48,48,Proportional (WTA trigger),NA,48,NA,NA,0,2024-02-26
+VT,Vermont,2024-03-05,17,17,Proportional (WTA trigger),NA,17,NA,NA,0,2024-02-26
+WY,Wyoming,2024-03-10,29,29,WTA at state convention,NA,29,NA,NA,0,2024-02-26
+GA,Georgia,2024-03-12,59,59,Proportional,NA,29,NA,NA,30,2024-02-26
+HI,Hawaii,2024-03-12,19,19,Proportional (separate for at-large and automatic),NA,12,NA,NA,9,2024-02-26
+MS,Mississippi,2024-03-12,40,40,Proportional (WTA trigger),NA,40,NA,NA,0,2024-02-26
+WA,Washington,2024-03-12,43,43,Proportional (WTA trigger),NA,43,NA,NA,0,2024-02-26
+MP,Northern Marianas,2024-03-15,9,9,WTA,NA,9,NA,NA,0,2024-02-26
+GU,Guam,2024-03-16,9,0,NA,NA,0,NA,NA,0,2024-02-26
+AZ,Arizona,2024-03-19,43,43,WTA,NA,43,NA,NA,0,2024-02-26
+FL,Florida,2024-03-19,125,125,WTA,NA,0,NA,NA,125,2024-02-26
+IL,Illinois,2024-03-19,64,64,WTA,NA,64,NA,NA,64,2024-02-26
+KS,Kansas,2024-03-19,39,39,WTA,NA,39,NA,NA,0,2024-02-26
+OH,Ohio,2024-03-19,79,79,WTA,NA,0,NA,NA,79,2024-02-26
+LA,Louisiana,2024-03-23,47,47,WTA,NA,47,NA,NA,0,2024-02-26
+CT,Connecticut,2024-04-02,28,28,Proportional (WTA trigger),NA,0,NA,NA,28,2024-02-26
+DE,Delaware,2024-04-02,16,16,WTA,NA,16,NA,NA,0,2024-02-26
+NY,New York,2024-04-02,91,91,Proportional (WTA trigger),NA,91,NA,NA,91,2024-02-26
+RI,Rhode Island,2024-04-02,19,19,Proportional,NA,11,NA,NA,9,2024-02-26
+WI,Wisconsin,2024-04-02,41,41,WTA,NA,41,NA,NA,0,2024-02-26
+PR,Puerto Rico,2024-04-21,23,23,Proportional (WTA trigger),NA,0,NA,NA,23,2024-02-26
+PA,Pennsylvania,2024-04-23,67,16,WTA,NA,0,NA,NA,16,2024-02-26
+NM,New Mexico,2024-05-01,22,0,NA,NA,0,NA,NA,0,2024-02-26
+IN,Indiana,2024-05-07,58,58,WTA,NA,0,NA,NA,58,2024-02-26
+MD,Maryland,2024-05-14,37,37,WTA,NA,0,NA,NA,37,2024-02-26
+NE,Nebraska,2024-05-14,36,36,WTA,NA,36,NA,NA,0,2024-02-26
+WV,West Virginia,2024-05-14,32,32,WTA,NA,0,NA,NA,32,2024-02-26
+MT,Montana,2024-05-18,31,0,NA,NA,0,NA,NA,0,2024-02-26
+SD,South Dakota,2024-05-18,29,0,NA,NA,0,NA,NA,0,2024-02-26
+KY,Kentucky,2024-05-21,46,46,Proportional,NA,22,NA,NA,23,2024-02-26
+OR,Oregon,2024-05-25,31,31,WTA at state convention for primary winner,NA,31,NA,NA,0,2024-02-26
+NJ,New Jersey,2024-06-04,12,12,WTA,NA,0,NA,NA,12,2024-02-26
