@@ -1,8 +1,8 @@
 # Candidate visits 2024 GOP primary
 
-This directory contains the data behind [Can a busy campaign schedule save Trump's GOP primary opponents?](https://abcnews.go.com/538/busy-campaign-schedule-save-trumps-gop-primary-opponents/story?id=106292772).
+`candidate_visits_2024-01-11.csv` contains the data behind "[Can a busy campaign schedule save Trump's GOP primary opponents?](https://abcnews.go.com/538/busy-campaign-schedule-save-trumps-gop-primary-opponents/story?id=106292772)" (Data as of Jan. 11, 2024.)
 
-`candidate_visits.csv` contains all public, in-person campaign events that 538 has tracked throughout the course of the 2024 primary campaign as of Jan. 11, 2024. For each candidate, tracking begins on the date that they announced their entry into the race, and ends on the date that they dropped out of the race. Tracking only includes those candidates that [538 considers "major"](https://fivethirtyeight.com/features/whos-a-serious-candidate-for-the-republican-nomination-and-whos-just-dreaming/). Public events are obtained from local media sources, candidate social media, ABC News reporters and campaign websites.
+`candidate_visits.csv` contains all public, in-person campaign events that 538 has tracked throughout the course of the 2024 primary campaign as of March 6, 2024, the date on which former President Donald Trump became the only major candidate in the race. For each candidate, tracking begins on the date that they announced their entry into the race, and ends on the date that they dropped out of the race. Tracking only includes those candidates that [538 considers "major"](https://fivethirtyeight.com/features/whos-a-serious-candidate-for-the-republican-nomination-and-whos-just-dreaming/). Public events are obtained from local media sources, candidate social media, ABC News reporters and campaign websites.
 
 The following columns appear in the dataset.
 
