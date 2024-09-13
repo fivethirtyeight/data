@@ -1,21 +1,20 @@
----
-files:
-  - https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/senate_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/house_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/house_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/governor_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/governor_polls_historical.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls.csv
-  - https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls_historical.csv
-  - https://projects.fivethirtyeight.com/2020-primary-data/pres_primary_avgs_2020.csv
-  - https://projects.fivethirtyeight.com/2020-general-data/presidential_poll_averages_2020.csv
----
+| Files | 
+| ----- |
+https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls.csv
+https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls_historical.csv
+https://projects.fivethirtyeight.com/polls-page/data/president_polls.csv
+https://projects.fivethirtyeight.com/polls-page/data/president_polls_historical.csv
+https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv
+https://projects.fivethirtyeight.com/polls-page/data/senate_polls_historical.csv
+https://projects.fivethirtyeight.com/polls-page/data/house_polls.csv
+https://projects.fivethirtyeight.com/polls-page/data/house_polls_historical.csv
+https://projects.fivethirtyeight.com/polls-page/data/governor_polls.csv
+https://projects.fivethirtyeight.com/polls-page/data/governor_polls_historical.csv
+https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv
+https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls.csv
+https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls_historical.csv
+https://projects.fivethirtyeight.com/2020-primary-data/pres_primary_avgs_2020.csv
+https://projects.fivethirtyeight.com/2020-general-data/presidential_poll_averages_2020.csv
 
 
 ## Polls
@@ -40,10 +39,13 @@ Current polls files contain data since the most recent election. Historical file
 
 ## Polling Averages
 
+- [Presidential Primary Polling Averages (2024)](./2024-averages/presidential_primary_averages_2024.csv)
 - [Presidential Primary Polling Averages (2020)](https://projects.fivethirtyeight.com/2020-primary-data/pres_primary_avgs_2020.csv)
 - [Presidential Primary Polling Averages (1980-2016)](./pres_primary_avgs_1980-2016.csv)
+- [Presidential General Election Polling Averages (2024-)](https://projects.fivethirtyeight.com/polls/data/presidential_general_averages.csv)****
 - [Presidential General Election Polling Averages (2020)](https://projects.fivethirtyeight.com/2020-general-data/presidential_poll_averages_2020.csv)
 - [Presidential General Election Polling Averages (1968-2016)](./pres_pollaverages_1968-2016.csv)
 
-Please see [What Makes Our New 2020 Democratic Primary Polling Averages Different](https://fivethirtyeight.com/features/what-makes-our-new-2020-democratic-primary-polling-averages-different/) for more information about the methodology used to calculate polling averages. For more information about the general election polling averages, please see [Our New Polling Averages Show Biden Leads Trump By 9 Points Nationally
-](https://fivethirtyeight.com/features/our-new-polling-averages-show-biden-leads-trump-by-9-points-nationally/).
+Please see "[What Makes Our New 2020 Democratic Primary Polling Averages Different](https://fivethirtyeight.com/features/what-makes-our-new-2020-democratic-primary-polling-averages-different/)" for more information about the methodology used to calculate polling averages. For more information about the general election polling averages, please see "[Our New Polling Averages Show Biden Leads Trump By 9 Points Nationally](https://fivethirtyeight.com/features/our-new-polling-averages-show-biden-leads-trump-by-9-points-nationally/)."
+
+****On Sept. 12, 2024, we discovered a bug in our 2024 presidential election polling averages that was causing them to not react properly to Robert F. Kennedy Jr.'s withdrawal from the presidential race on Aug. 23, 2024. The bug was overestimating Vice President Kamala Harris's margin over former President Donald Trump by 0.1 percentage points. We have corrected the polling averages on our website and this GitHub page. The previously published averages for Aug. 23-Sept. 12, 2024 have been preserved [here](./2024-averages/presidential_general_averages_2024-09-12_uncorrected.csv) for posterity.
