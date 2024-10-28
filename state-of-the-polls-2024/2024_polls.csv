@@ -1,0 +1,1702 @@
+pollster_name,pollster_rating_id,2024_pollster_rating,sponsor_names,sponsor_classifications,partisanship,internal,state,start_date,end_date,tracking,has_prez?,has_generic?,has_senate?,has_house?,media?,university?,media_or_university
+Marist College,183,2.94,"NPR, PBS NewsHour",national media,,,US,7/9/24,7/10/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Clarity Campaign Labs,52,1.57,,,,,US,6/13/24,6/20/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+North Star Opinion Research,233,1.07,American Greatness,national media,,,WI,7/6/24,7/10/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+GQR,126,2.02,,,DEM,TRUE,IA,6/24/24,6/27/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+YouGov,391,2.98,Yahoo News,national media,,,US,6/28/24,7/1/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+National Public Affairs,768,,,,,,NV,6/28/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,,,REP,TRUE,IL,7/2/24,7/3/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+GQR,126,2.02,,,DEM,TRUE,WI,6/10/24,6/16/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,NC,7/24/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NV,7/24/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Lord Ashcroft Polls,560,,,,,,US,5/31/24,6/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Lord Ashcroft Polls,560,,,,,,US,6/28/24,7/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,US,7/7/24,7/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Hart Research Associates/Public Opinion Strategies,221,2.69,NBC News,national media,,,US,7/7/24,7/9/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Targoz Market Research,454,2.04,Beacon Center of Tennessee,501(c)(3),,,TN,6/20/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Marketing Resource Group (MRG),193,1.78,,,,,MI,7/11/24,7/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+3W Insights,854,,WelcomePAC,PAC,DEM,,US,7/8/24,7/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+3W Insights,854,,WelcomePAC,PAC,DEM,,US,7/13/24,7/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The New York Times/Siena College,448,3,,,,,PA,7/9/24,7/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,VA,7/9/24,7/12/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+SoCal Research,851,,On Point Politics,national media,,,VA,7/6/24,7/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,7/6/24,7/8/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/7/24,7/9/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/8/24,7/10/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/9/24,7/11/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/10/24,7/12/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/11/24,7/13/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/12/24,7/14/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Cygnal,67,2.11,Iowans for Tax Relief Foundation,501(c)(3),REP,,IA,7/8/24,7/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Lake Research Partners,165,1.2,,,DEM,TRUE,CA,6/24/24,6/27/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Virginia Commonwealth University L. Douglas Wilder School of Government and Public Affairs,370,2.14,,,,,VA,6/24/24,7/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,7/8/24,7/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,7/8/24,7/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,7/8/24,7/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,7/8/24,7/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,7/8/24,7/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,7/8/24,7/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,7/15/24,7/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Noble Predictive Insights,235,2.45,The Center Square,national media,,,US,7/8/24,7/11/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+InsiderAdvantage,243,1.97,WAGA-TV (Atlanta),local media,,,GA,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,7/15/24,7/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,WI,7/24/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Big Village,37,1.45,,,,,US,7/12/24,7/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,7/7/24,7/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+HarrisX,133,1.5,Forbes,national media,,,US,7/13/24,7/15/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,7/13/24,7/16/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,Protect Our Care,501(c)(4),DEM,,WI,7/11/24,7/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Manhattan Institute,781,,,,,,US,7/7/24,7/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+HarrisX,133,1.5,Forbes,national media,,,US,7/22/24,7/25/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Ipsos,154,2.79,Reuters,national media,,,US,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Cygnal,67,2.11,,,REP,TRUE,NY,7/9/24,7/11/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Gaither International,626,,"El Vocero de Puerto Rico, WAPA-TV (San Juan, P.R.), WKAQ AM 580 (San Juan, P.R.)",local media,,,PR,6/23/24,7/8/24,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Noble Predictive Insights,235,2.45,Inside Elections,national media,,,MI,7/8/24,7/11/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Target Insyght,330,0.85,Deadline Detroit,local media,,,MI,7/14/24,7/15/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KING-TV (Seattle), The Seattle Times, University of Washington Center for an Informed Public","local media, research institution",,,WA,7/10/24,7/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,US,7/15/24,7/16/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,AZ,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,GA,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,MI,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,NV,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,NC,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,PA,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,WI,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+InsiderAdvantage,243,1.97,"WTVT (Tampa, Fla.)",local media,,,FL,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,Joe Cassidy,other,,,US,7/12/24,7/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Policy Institute of California,262,2.5,,,,,CA,6/24/24,7/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,VA,7/14/24,7/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+J.L. Partners,619,1.67,,,REP,TRUE,AZ,7/10/24,7/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,GA,7/12/24,7/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,WI,7/22/24,7/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,US,7/23/24,7/25/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KSTP-TV (St. Paul, Minn.), KAAL-TV (Austin, Minn.), WDIO-DT (Duluth, Minn.)",local media,,,MN,7/23/24,7/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,PA,7/22/24,7/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,MN,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,GA,7/14/24,7/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,MI,7/22/24,7/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,VA,7/12/24,7/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,VA,7/14/24,7/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Civiqs,471,2.49,Daily Kos,national media,DEM,,US,7/27/24,7/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,Northwest Progressive Institute,local media,DEM,,WA,7/24/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+InsiderAdvantage,243,1.97,,,,,AZ,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/15/24,7/17/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/14/24,7/16/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/13/24,7/15/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/7/24,6/9/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/6/24,6/8/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,NV,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,PA,7/15/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SoCal Research,851,,On Point Politics,national media,,,US,7/17/24,7/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KGTV (San Diego), The San Diego Union-Tribune",local media,,,CA,6/5/24,6/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+RMG Research,555,2.34,,,,,US,7/15/24,7/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Tyson Group,334,1.06,,,,,FL,6/6/24,6/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Change Research,48,1.36,Economic Security Project Action,other,DEM,,AZ,7/9/24,7/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,Economic Security Project Action,other,DEM,,NY,7/9/24,7/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,6/9/24,6/11/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,FL,6/8/24,6/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+YouGov,391,2.98,CBS News,national media,,,US,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SoCal Research,851,,On Point Politics,national media,,,GA,7/25/24,7/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,7/22/24,7/24/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,MI,7/17/24,7/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,PA,7/17/24,7/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,7/27/24,7/30/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Leger,572,1.76,,,,,US,7/26/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Big Village,37,1.45,,,,,US,6/7/24,6/9/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Civiqs,471,2.49,Daily Kos,national media,DEM,,US,6/8/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Torchlight Strategies,745,,,,REP,TRUE,N2,7/8/24,7/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,MI,7/15/24,7/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,WI,7/15/24,7/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Suffolk University,323,2.93,The Boston Globe,local media,,,MA,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Civiqs,471,2.49,Rust Belt Rising,PAC,DEM,,PA,7/13/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Civiqs,471,2.49,Rust Belt Rising,PAC,DEM,,WI,7/13/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Civiqs,471,2.49,Rust Belt Rising,PAC,DEM,,MI,7/13/24,7/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Echelon Insights,407,2.73,,,,,US,6/10/24,6/12/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+3W Insights,854,,WelcomePAC,PAC,DEM,,US,7/15/24,7/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SoCal Research,851,,On Point Politics,national media,,,NY,7/18/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,7/16/24,7/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Ipsos,154,2.79,Reuters,national media,,,US,7/26/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,Progress Action Fund,hybrid PAC,DEM,,AZ,7/29/24,7/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Progress Action Fund,hybrid PAC,DEM,,PA,7/29/24,7/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,7/16/24,7/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,TX,6/25/24,7/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,US,7/23/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+EPIC-MRA,84,1.95,Detroit Free Press,local media,,,MI,7/13/24,7/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Monmouth University Polling Institute,215,2.96,,,,,US,6/6/24,6/10/24,FALSE,FALSE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,7/16/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+J.L. Partners,619,1.67,,,,,WI,6/5/24,6/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of Georgia School of Public and International Affairs,350,2.2,The Atlanta Journal-Constitution,local media,,,GA,7/9/24,7/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Change Research,48,1.36,,,,,US,7/6/24,7/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Praecones Analytica,257,2.03,NH Journal,local media,,,NH,7/19/24,7/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,Progress Action Fund,hybrid PAC,DEM,,AZ,7/10/24,7/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Progress Action Fund,hybrid PAC,DEM,,MI,7/11/24,7/12/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Hoffman Research Group,141,1.72,,,,,OR,7/24/24,7/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Progress Action Fund,hybrid PAC,DEM,,PA,7/11/24,7/12/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Progress Action Fund,hybrid PAC,DEM,,WI,7/10/24,7/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Ipsos,154,2.79,Reuters,national media,,,US,6/12/24,6/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SoCal Research,851,,On Point Politics,national media,,,PA,7/20/24,7/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+SoCal Research,851,,On Point Politics,national media,,,US,7/21/24,7/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,Progress Action Fund,hybrid PAC,DEM,,GA,7/29/24,7/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+McLaughlin & Associates,203,0.5,,,REP,TRUE,MN,6/9/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,WHDH-TV (Boston),local media,,,NH,7/26/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+SurveyUSA,325,2.82,"KGTV (San Diego), The San Diego Union-Tribune",local media,,,CA,6/10/24,6/14/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Selzer & Co.,304,2.86,"The Des Moines Register, Mediacom","local media, media company",,,IA,6/9/24,6/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Strategy Management,857,,Alabama Families PAC,PAC,REP,,AL,7/22/24,7/24/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,6/8/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,6/8/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,6/8/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,6/8/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,6/8/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,6/8/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,6/11/24,6/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,6/11/24,6/13/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/8/24,6/10/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/9/24,6/11/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/10/24,6/12/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/11/24,6/13/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/12/24,6/14/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/13/24,6/15/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/14/24,6/16/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Angus Reid Global,13,1.92,,,,,US,7/23/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marist College,183,2.94,"NPR, PBS NewsHour",national media,,,US,6/10/24,6/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Public Policy Polling,263,1.32,New Mexico Political Report,local media,,,NM,6/13/24,6/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Spry Strategies,508,1.49,,,,,NC,6/7/24,6/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+HarrisX,133,1.5,Forbes,national media,,,US,7/19/24,7/21/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KSTP-TV (St. Paul, Minn.), KAAL-TV (Austin, Minn.), WDIO-DT (Duluth, Minn.)",local media,,,MN,6/12/24,6/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,US,6/14/24,6/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,The New York Post,local media,,,US,6/11/24,6/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Echelon Insights,407,2.73,,,,,US,7/19/24,7/21/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,Texas Politics Project at the University of Texas,research institution,,,TX,5/31/24,6/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,6/16/24,6/18/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Siena College,305,2.77,,,,,NY,6/12/24,6/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,7/21/24,7/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Noble Predictive Insights,235,2.45,Inside Elections,national media,,,OH,7/22/24,7/24/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Echelon Insights,407,2.73,NetChoice,lobbying group,,,AZ,7/1/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/24/24,7/26/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/23/24,7/25/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,AZ,6/13/24,6/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,MI,6/13/24,6/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,MN,6/13/24,6/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,NV,6/13/24,6/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,PA,6/13/24,6/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,WI,6/13/24,6/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,GA,6/13/24,6/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Echelon Insights,407,2.73,NetChoice,lobbying group,,,GA,7/1/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Echelon Insights,407,2.73,NetChoice,lobbying group,,,MI,7/1/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,Montana Republican Party,party committee,REP,TRUE,MT,6/11/24,6/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Echelon Insights,407,2.73,NetChoice,lobbying group,,,NC,7/1/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Echelon Insights,407,2.73,NetChoice,lobbying group,,,PA,7/1/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Echelon Insights,407,2.73,NetChoice,lobbying group,,,WI,7/1/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Echelon Insights,407,2.73,NetChoice,lobbying group,,,NV,7/1/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Quinnipiac University,267,2.83,,,,,US,7/19/24,7/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,AZ,7/19/24,7/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,NC,7/19/24,7/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,MO,6/17/24,6/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+North Star Opinion Research,233,1.07,American Greatness,national media,,,AZ,6/17/24,6/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KGTV (San Diego), The San Diego Union-Tribune",local media,,,CA,6/14/24,6/20/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+ActiVote,721,,,,,,US,6/5/24,6/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,CBS News,national media,,,US,6/17/24,6/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,,,,,MD,6/19/24,6/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,,,,,US,6/16/24,6/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/21/24,6/23/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Data for Progress,522,2.7,,,,,US,6/28/24,6/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Northwest Progressive Institute,local media,DEM,,WA,6/11/24,6/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Red Wave Strategy Group/Impact Research,855,,,,IND,TRUE,NE,7/8/24,7/11/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/15/24,6/17/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/16/24,6/18/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/17/24,6/19/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/20/24,6/22/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/19/24,6/21/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/18/24,6/20/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,US,7/19/24,7/21/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Upswing Research,847,,,,DEM,TRUE,PA,6/12/24,6/16/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Embold Research,48,1.36,Salve Regina University Pell Center for International Relations and Public Policy,research institution,,,RI,6/5/24,6/14/24,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,NV,6/12/24,6/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+University of Georgia School of Public and International Affairs,350,2.2,The Atlanta Journal-Constitution,local media,,,GA,6/11/24,6/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+SurveyUSA,325,2.82,"KGTV (San Diego), The San Diego Union-Tribune",local media,,,CA,6/20/24,6/25/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,6/23/24,6/25/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Leger,572,1.76,The New York Post,local media,,,US,6/22/24,6/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Quinnipiac University,267,2.83,,,,,US,6/20/24,6/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Marquette University Law School,195,2.99,,,,,WI,6/12/24,6/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+McLaughlin & Associates,203,0.5,,,,,US,6/18/24,6/24/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+University of Texas at Tyler Center for Opinion Research,458,1.9,,,,,TX,6/11/24,6/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,US,6/20/24,6/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Capitol Weekly,510,,,,,,CA,7/12/24,7/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Capitol Weekly,510,,,,,,CA,7/19/24,7/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Cygnal,67,2.11,,,REP,TRUE,WA,6/20/24,6/22/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Quantus Polls and News,859,,,,,,PA,7/27/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,NV,6/11/24,6/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,WI,6/11/24,6/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,GA,6/11/24,6/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,MI,6/11/24,6/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,AZ,6/11/24,6/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,Yahoo News,national media,,,US,7/19/24,7/22/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Ipsos,154,2.79,Reuters,national media,,,US,7/22/24,7/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov Blue,391,2.98,Democracy Corps,501(c)(4),DEM,,US,6/14/24,6/18/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,"
+Brighter Future Alliance",501(c)(4),,,ND,6/15/24,6/19/24,FALSE,TRUE,FALSE,TRUE,TRUE,,,FALSE
+MDW Communications,848,,,,DEM,TRUE,FL,6/13/24,6/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+co/efficient,514,1,,,,,NJ,6/26/24,6/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+SurveyUSA,325,2.82,,,,,US,6/28/24,6/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Torchlight Strategies,745,,Common Sense for America (PAC),PAC,REP,,MT,6/22/24,6/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Leger,572,1.76,The New York Post,local media,,,US,6/27/24,6/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,6/28/24,6/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,7/24/24,7/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marist College,183,2.94,"NPR, PBS News",national media,,,US,7/22/24,7/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,US,7/14/24,7/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+EPIC-MRA,84,1.95,,,,,MI,6/21/24,6/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,US,6/27/24,6/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+AtlasIntel,546,2.74,CNN Brazil,national media,,,US,6/26/24,6/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+McLaughlin & Associates,203,0.5,America's New Majority Project,501(c)(4),REP,,US,6/20/24,6/24/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+1892 Polling,461,1.34,NRSC,party committee,REP,TRUE,NM,6/19/24,6/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Landmark Communications,166,2.08,,,,,GA,7/22/24,7/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Cygnal,67,2.11,,,,,PA,6/27/24,6/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Saint Anselm College Survey Center,494,2.44,,,,,NH,6/28/24,6/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+HarrisX/Harris Poll,133,1.5,Harvard University Center for American Political Studies,research institution,,,US,6/28/24,6/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Ipsos,154,2.79,Reuters,national media,,,US,7/1/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KGTV (San Diego), The San Diego Union-Tribune",local media,,,CA,6/24/24,6/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+TIPP Insights,144,1.79,Issues & Insights,national media,,,US,6/26/24,6/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Suffolk University,323,2.93,USA Today,national media,,,US,6/28/24,6/30/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+CNN/SSRS,844,,,,,,US,6/28/24,6/30/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,7/21/24,7/23/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+University of North Florida Public Opinion Research Lab,360,2.85,,,,,FL,7/24/24,7/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+The Bullfinch Group,692,,Commonwealth Foundation,501(c)(3),,,PA,6/14/24,6/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,7/21/24,7/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,7/17/24,7/19/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,CBS News,national media,,,US,6/28/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,6/30/24,7/2/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+RMG Research,555,2.34,,,,,US,7/22/24,7/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+North Star Opinion Research,233,1.07,American Greatness,national media,,,PA,7/20/24,7/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+HarrisX/Harris Poll,133,1.5,Harvard University Center for American Political Studies,research institution,,,US,7/26/24,7/28/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,US,6/29/24,6/30/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Big Village,37,1.45,,,,,US,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The New York Times/Siena College,448,3,,,,,US,6/28/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,AZ,7/22/24,7/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,GA,7/22/24,7/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,MI,7/22/24,7/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,WI,7/22/24,7/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,PA,7/22/24,7/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,6/27/24,6/29/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/26/24,6/28/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/25/24,6/27/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/24/24,6/26/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/22/24,6/24/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/23/24,6/25/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+J.L. Partners,619,1.67,DailyMail.com,national media,,,US,7/1/24,7/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Manhattan Institute,781,,,,,,TX,6/25/24,6/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+HarrisX,133,1.5,Forbes,national media,,,US,6/28/24,6/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Tarrance Group,333,1.56,,,REP,TRUE,NM,7/11/24,7/14/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,,,,,US,6/24/24,6/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,US,6/29/24,7/2/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,AZ,7/1/24,7/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,GA,7/1/24,7/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,MI,7/1/24,7/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NC,7/1/24,7/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NV,7/1/24,7/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,PA,7/1/24,7/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,WI,7/1/24,7/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,"The Times of London, SAY24","national media, research institution",,,US,7/22/24,7/23/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Innovative Research Group,624,2.18,,,,,US,6/7/24,6/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/28/24,6/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The New York Times/Siena College,448,3,,,,,US,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+SoCal Research,851,,On Point Politics,national media,,,US,6/27/24,6/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SoCal Research,851,,On Point Politics,national media,,,WI,6/30/24,7/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,MT,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,NV,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,OH,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,TX,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,PA,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,"Wisconsin Manufacturers & Commerce, American Fuel & Petrochemical Manufacturers",501(c)(6),REP,,WI,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,PA,6/30/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,GA,6/30/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,MI,6/30/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,AZ,6/30/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,WI,6/30/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Democrats for the Next Generation (super PAC),super PAC,DEM,,NV,6/30/24,7/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+1983 Labs,852,,,,,,PA,6/28/24,6/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+1983 Labs,852,,,,,,MI,6/28/24,6/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+1983 Labs,852,,,,,,AZ,6/28/24,6/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,ProgressNow Colorado,501(c)(4),DEM,,CO,6/17/24,6/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SSRS,297,2.09,Vanderbilt University Project on Unity and American Democracy,research institution,,,US,6/7/24,6/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,6/29/24,7/1/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/30/24,7/2/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/1/24,7/3/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/2/24,7/4/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/3/24,7/5/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/4/24,7/6/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/5/24,7/7/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Cygnal,67,2.11,,,,,US,7/1/24,7/2/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+PureSpectrum,567,,The Civic Health and Institutions Project,research institution,,,US,6/28/24,7/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+PureSpectrum,567,,The Civic Health and Institutions Project,research institution,,,US,6/20/24,6/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Big Village,37,1.45,,,,,US,6/28/24,6/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Bendixen & Amandi International,29,0.98,,,,,US,7/2/24,7/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+NewsNation,696,1.61,,,,,US,6/30/24,7/1/24,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,WI,6/28/24,7/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,,,,,US,7/7/24,7/8/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,6/29/24,7/1/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,AZ,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,MI,6/29/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,7/7/24,7/9/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,7/8/24,7/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,The George Washington University,research institution,,,US,6/11/24,6/24/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Marquette University Law School,195,2.99,,,,,US,7/24/24,8/1/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,ME,7/23/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,NH,7/23/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Ipsos,154,2.79,With Honor (PAC),PAC,,,US,7/24/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Glengariff Group,117,1.52,"The Detroit News, WDIV-TV (Detroit)",local media,,,MI,7/22/24,7/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Split Ticket/Data for Progress,853,,,,,,US,7/1/24,7/3/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Saint Anselm College Survey Center,494,2.44,,,,,NH,7/24/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+McLaughlin & Associates,203,0.5,,,,,US,7/23/24,7/29/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+American Pulse Research & Polling,836,,,,,,US,7/26/24,7/29/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,7/22/24,7/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,7/22/24,7/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,US,7/26/24,7/27/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SurveyMonkey,324,1.92,The 19th,national media,,,US,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Susquehanna Polling & Research,326,2.3,,,,,PA,7/22/24,7/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Ipsos,154,2.79,"The Washington Post, ABC News",national media,,,US,7/5/24,7/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Capitol Weekly,510,,,,,,CA,7/25/24,7/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+The Bullfinch Group,692,,Commonwealth Foundation,501(c)(3),,,PA,7/23/24,7/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Pew Research Center,253,2.5,,,,,US,7/1/24,7/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SoCal Research,851,,Red Eagle Politics,other,REP,,MI,7/25/24,7/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,PA,7/24/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,MI,7/24/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Opinion Strategies,260,1.61,The Competitiveness Coalition,lobbying group,,,AZ,7/23/24,7/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,The Competitiveness Coalition,lobbying group,,,MI,7/23/24,7/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,The Competitiveness Coalition,lobbying group,,,NV,7/23/24,7/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,The Competitiveness Coalition,lobbying group,,,PA,7/23/24,7/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,The Competitiveness Coalition,lobbying group,,,WI,7/23/24,7/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,9/6/24,9/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,9/6/24,9/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+CNN/SSRS,844,,,,,,AZ,8/23/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,OH,7/23/24,7/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,AZ,7/24/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,GA,7/24/24,7/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Big Data Poll,251,,Public Polling Project,other,,,US,7/26/24,7/28/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+CNN/SSRS,844,,,,,,GA,8/23/24,8/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+CNN/SSRS,844,,,,,,MI,8/23/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NM,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Pan Atlantic Research,249,2.12,,,,,ME,9/5/24,9/15/24,FALSE,TRUE,FALSE,TRUE,TRUE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,9/6/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,NH,9/12/24,9/16/24,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE
+TIPP Insights,144,1.79,American Greatness,national media,,,PA,10/7/24,10/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+CNN/SSRS,844,,,,,,US,9/19/24,9/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,9/16/24,9/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,7/29/24,7/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,9/16/24,9/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Tarrance Group,333,1.56,NRCC,party committee,REP,TRUE,PA,7/21/24,7/24/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Global Strategy Group,118,1.77,,,DEM,TRUE,NE,6/25/24,6/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+RMG Research,555,2.34,,,,,US,7/29/24,7/31/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Trafalgar Group/InsiderAdvantage,671,,,,,,GA,7/29/24,7/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+CNN/SSRS,844,,,,,,NV,8/23/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Clarity Campaign Labs,52,1.57,,,,,US,7/22/24,7/26/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,CBS News,national media,,,US,7/30/24,8/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Lighthouse Research,483,,Utah Debate Comission,501(c)(3),,,UT,8/29/24,9/19/24,FALSE,FALSE,FALSE,TRUE,TRUE,,,FALSE
+TIPP Insights,144,1.79,Issues & Insights,national media,,,US,7/31/24,8/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates",90,1.63,Early Vote Action (super PAC),super PAC,REP,,PA,7/29/24,8/1/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+GQR,126,2.02,,,DEM,TRUE,PA,7/26/24,7/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/28/24,7/30/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/27/24,7/29/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/31/24,8/2/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,American Greatness,national media,,,NV,9/23/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,,,,,US,8/2/24,8/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,NY,7/8/24,8/5/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Tulchin Research,340,0.82,,,DEM,TRUE,CA,7/23/24,7/29/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,,,IND,TRUE,NE,10/3/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,AZ,9/28/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,GA,9/28/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,MI,9/28/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Siena College,305,2.77,Newsday,local media,,,NY,7/28/24,8/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+CNN/SSRS,844,,,,,,PA,8/23/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+CNN/SSRS,844,,,,,,WI,8/23/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,NC,9/28/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,NV,9/28/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,WI,9/17/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,PA,9/28/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,WI,9/28/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,7/31/24,8/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,7/31/24,8/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,7/31/24,8/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,7/31/24,8/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,7/31/24,8/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,7/31/24,8/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NM,7/31/24,8/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,7/31/24,8/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,7/31/24,8/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,7/31/24,8/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+University of Delaware Center for Political Communication,433,,,,,,DE,9/11/24,9/19/24,FALSE,TRUE,FALSE,TRUE,TRUE,,TRUE,TRUE
+Marist College,183,2.94,"NPR, PBS News",national media,,,US,8/1/24,8/4/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Marquette University Law School,195,2.99,,,,,WI,7/24/24,8/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,GA,10/8/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,,,,,PA,10/8/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,7/30/24,8/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ARW Strategies,678,,IndyPolitics.org,local media,,,IN,9/23/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,NC,9/5/24,9/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,8/12/24,8/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,8/4/24,8/6/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,8/12/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,CBS News,national media,,,WI,9/3/24,9/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,OH,8/28/24,9/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,MT,9/16/24,9/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,MT,8/5/24,8/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Hart Research Associates/Public Opinion Strategies,221,2.69,CNBC,national media,,,US,7/31/24,8/4/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+El Nuevo Día/The Research Office,599,NA,,,,,PR,9/28/24,10/2/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+RMG Research,555,2.34,,,,,WI,7/31/24,8/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Lake Research Partners,165,1.2,,,DEM,TRUE,ND,9/23/24,9/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,8/17/24,8/20/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+YouGov/Johns Hopkins University SNF Agora Institute,860,,,,,,US,7/26/24,7/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+HighGround,416,1.72,,,,,AZ,7/30/24,8/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,GA,7/24/24,7/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,,,DEM,TRUE,MI,7/29/24,8/1/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,,,,,US,9/28/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Ipsos,154,2.79,,,,,US,8/2/24,8/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,8/5/24,8/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Change Research,48,1.36,,,DEM,TRUE,MS,9/29/24,10/3/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,Carolina Journal,local media,,,NC,8/4/24,8/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+University of Massachusetts Department of Political Science/YouGov,861,,WCVB-TV (Boston),local media,,,US,7/29/24,8/1/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+InsiderAdvantage,243,1.97,,,,,MI,8/6/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,NC,8/6/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The New York Times/Siena College,448,3,,,,,MI,8/5/24,8/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,WI,8/5/24,8/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,PA,8/6/24,8/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Trafalgar Group,338,0.62,,,REP,,PA,8/6/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,AZ,8/6/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,NV,8/6/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov Blue,391,2.98,Carolina Forward,501(c)(4),DEM,,NC,8/5/24,8/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of New Hampshire Survey Center,357,2.65,,,,,M1,7/23/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,M2,7/23/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,8/7/24,8/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,MI,8/8/24,8/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,PA,8/8/24,8/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,WI,8/8/24,8/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,NRCC,party committee,REP,TRUE,OH,7/28/24,7/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Glengariff Group,117,1.52,"The Detroit News, WDIV-TV (Detroit)",local media,,,MI,10/1/24,10/4/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+McLaughlin & Associates,203,0.5,Suasion Insights,consulting company,,,US,7/16/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Big Village,37,1.45,,,,,US,8/9/24,8/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,WI,8/6/24,8/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/6/24,8/8/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/5/24,8/7/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/4/24,8/6/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/3/24,8/5/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+J.L. Partners,619,1.67,The Heritage Foundation,research institution,,,US,9/9/24,9/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,,,,,US,10/6/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Suffolk University,323,2.93,"USA Today, WSVN (Miami, Fla.)","national media, local media",,,FL,8/7/24,8/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,OH,7/20/24,8/12/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,CA,7/16/24,8/12/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,TX,7/31/24,8/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,WI,10/12/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+McLaughlin & Associates,203,0.5,Associated Industries of Florida,501(c)(6),,,FL,8/6/24,8/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Ipsos,154,2.79,Reuters,national media,,,US,10/11/24,10/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Trafalgar Group,338,0.62,,,REP,,NC,10/10/24,10/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+American Pulse Research & Polling,836,,"KULR-TV (Billings, Mont.)",local media,,,MT,8/10/24,8/12/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Lake Research Partners,165,1.2,,,DEM,TRUE,ND,7/28/24,8/2/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,8/11/24,8/13/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,FL,8/10/24,8/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+YouGov,391,2.98,Saint Louis University,research institution,,,MO,8/8/24,8/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,AZ,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,MI,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,NV,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,PA,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,WI,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Noble Predictive Insights,235,2.45,,,,,AZ,8/12/24,8/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Fabrizio Ward,90,1.63,Pinpoint Policy Institute,501(c)(3),,,MI,8/19/24,8/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Fabrizio Ward,90,1.63,Pinpoint Policy Institute,501(c)(3),,,PA,8/19/24,8/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Fabrizio Ward,90,1.63,Pinpoint Policy Institute,501(c)(3),,,WI,8/19/24,8/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,NC,8/25/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,GA,7/26/24,8/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,NV,7/26/24,8/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,AZ,7/26/24,8/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,PA,7/26/24,8/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,MI,7/26/24,8/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,NC,7/26/24,8/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,WI,7/26/24,8/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Emerson College,88,2.92,The Hill,national media,,,GA,8/25/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,9/1/24,9/3/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,NH,8/15/24,8/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,VT,8/15/24,8/19/24,FALSE,TRUE,FALSE,TRUE,TRUE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,ME,8/15/24,8/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,M1,8/15/24,8/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,M2,8/15/24,8/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Ipsos,154,2.79,Reuters,national media,,,US,8/21/24,8/28/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Suffolk University,323,2.93,USA Today,national media,,,US,8/25/24,8/28/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+J.L. Partners,619,1.67,DailyMail.com,national media,,,US,8/7/24,8/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BK Strategies,20,1.16,Platform Communications,consulting company,,,WI,8/19/24,8/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Targoz Market Research,454,2.04,The James Madison Institute,501(c)(3),,,FL,7/19/24,7/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+University of Houston Hobby School of Public Affairs/Texas Southern University School of Public Affairs,351,NA,,,,,TX,8/5/24,8/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+ActiVote,721,,,,,,NY,8/1/24,8/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+HarrisX,133,1.5,Deseret News,local media,,,US,8/2/24,8/3/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Monmouth University Polling Institute,215,2.96,,,,,US,8/8/24,8/12/24,FALSE,FALSE,TRUE,FALSE,FALSE,,TRUE,TRUE
+McLaughlin & Associates,203,0.5,Nassau County GOP,party committee,REP,TRUE,NY,7/23/24,7/25/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+ActiVote,721,,,,,,US,8/7/24,8/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of California Berkeley Institute of Governmental Studies,457,2.5,Los Angeles Times,local media,,,CA,7/31/24,8/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Impact Research,14,1.54,SPLC Action Fund,other political entity,DEM,,AL,7/28/24,8/3/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Quinnipiac University,267,2.83,,,,,US,8/23/24,8/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Quinnipiac University,267,2.83,,,,,PA,8/8/24,8/12/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,8/25/24,8/27/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,CA,8/10/24,8/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,NE,8/10/24,8/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,NY,8/10/24,8/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,PA,8/10/24,8/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,PA,8/10/24,8/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,N2,8/10/24,8/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SurveyUSA/High Point University Survey Research Center,325,2.82,,,,,NC,8/19/24,8/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Pew Research Center,253,2.5,,,,,US,8/5/24,8/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,GA,9/5/24,9/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,US,8/9/24,8/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Quantus Polls and News,859,,TrendingPolitics,national media,REP,,US,8/7/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Pew Research Center,253,2.5,,,,,US,8/26/24,9/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Data for Progress,522,2.7,,,,,US,8/1/24,8/15/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,,,,,US,8/12/24,8/14/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Embold Research,48,1.36,Salve Regina University Pell Center for International Relations and Public Policy,research institution,,,US,8/8/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Franklin & Marshall College Center for Opinion Research,106,2.45,,,,,PA,7/21/24,8/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Outward Intelligence,862,,,,,,US,8/18/24,8/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,Cato Institute,501(c)(3),,,PA,8/15/24,8/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,Cato Institute,501(c)(3),,,WI,8/15/24,8/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,Cato Institute,501(c)(3),,,MI,8/15/24,8/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,MI,8/8/24,8/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Peak Insights,217,0.59,NRSC,party committee,REP,TRUE,AZ,7/31/24,8/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,MI,8/7/24,8/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Bullfinch Group,692,,,,,,US,8/19/24,8/21/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Noble Predictive Insights,235,2.45,Inside Elections,national media,,,OR,8/26/24,8/28/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+HarrisX,133,1.5,"Deseret News, University of Utah Hinckley Institute of Politics","local media, research institution",,,UT,8/2/24,8/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,PA,8/5/24,8/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,OH,8/2/24,8/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,MO,7/25/24,8/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/GBAO",796,,The Wall Street Journal,national media,,,US,8/24/24,8/28/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Glengariff Group,117,1.52,"The Detroit News, WDIV-TV (Detroit)",local media,,,MI,8/26/24,8/29/24,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Gonzales Research & Marketing Strategies,121,1.14,,,,,MD,8/24/24,8/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Iron Light,849,,League of American Workers,501(c)(4),REP,,AZ,7/29/24,8/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Outward Intelligence,862,,,,,,US,8/25/24,8/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,FL,8/5/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Spry Strategies,508,1.49,American Principles Project (super PAC),super PAC,REP,,AZ,8/14/24,8/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Spry Strategies,508,1.49,American Principles Project (super PAC),super PAC,REP,,GA,8/14/24,8/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Spry Strategies,508,1.49,American Principles Project (super PAC),super PAC,REP,,NC,8/14/24,8/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Spry Strategies,508,1.49,American Principles Project (super PAC),super PAC,REP,,PA,8/14/24,8/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Spry Strategies,508,1.49,American Principles Project (super PAC),super PAC,REP,,WI,8/14/24,8/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,AZ,8/23/24,8/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,GA,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,MI,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NV,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NC,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,PA,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,WI,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Outward Intelligence,862,,,,,,US,8/11/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Cherry Communications,49,1.03,Florida Chamber of Commerce,501(c)(6),REP,,FL,8/15/24,8/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,TX,8/13/24,8/29/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,,,,,WA,8/28/24,8/30/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,NM,8/20/24,8/22/24,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,TN,7/27/24,8/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,IL,8/6/24,8/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,CBS News,national media,,,MI,9/3/24,9/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,CBS News,national media,,,PA,9/3/24,9/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+KFF,419,2.5,,,,,US,8/26/24,9/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Big Data Poll,251,,Public Polling Project,other,,,US,8/31/24,9/3/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,NV,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,OH,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,PA,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,TX,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,WI,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,FL,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,MD,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Fairleigh Dickinson University,92,2.5,,,,,US,8/17/24,8/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+SoonerPoll,308,1.79,,,,,OK,8/24/24,8/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,8/19/24,8/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Leger,572,1.76,National Post,national media,,,US,8/23/24,8/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Quinnipiac University,267,2.83,,,,,NC,9/4/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Cygnal,67,2.11,NRCC,party committee,REP,TRUE,MI,8/28/24,8/29/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Morning Consult,218,1.8,,,,,NC,8/30/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,MI,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,8/12/24,8/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+EPIC-MRA,84,1.95,Detroit Free Press,local media,,,MI,8/23/24,8/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Cygnal,67,2.11,,,,,US,8/6/24,8/8/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,,,,,US,8/21/24,8/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Quinnipiac University,267,2.83,,,,,GA,9/4/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Big Village,37,1.45,,,,,US,9/6/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,MT,8/6/24,8/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+TIPP Insights,144,1.79,American Greatness,national media,,,WI,8/12/24,8/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,8/25/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+McLaughlin & Associates,203,0.5,America's New Majority Project,501(c)(4),REP,,US,8/29/24,9/1/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,9/3/24,9/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marist College,183,2.94,"NPR, PBS News",national media,,,US,9/3/24,9/5/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,VA,9/4/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+SurveyMonkey,324,1.92,The 19th,national media,,,US,8/26/24,9/4/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,8/25/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NM,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,8/25/24,8/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,US,8/15/24,8/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Gonzales Research & Marketing Strategies,121,1.14,,,,,MD,8/24/24,8/31/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Upswing Research,847,,DCCC,party committee,DEM,TRUE,PA,7/30/24,8/2/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Z to A Research,831,,Rust Belt Rising,PAC,DEM,,MI,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Z to A Research,831,,Rust Belt Rising,PAC,DEM,,PA,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Z to A Research,831,,Rust Belt Rising,PAC,DEM,,WI,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,RealClearPennsylvania,local media,,,PA,8/13/24,8/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,8/26/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SoCal Strategies,851,,"On Point Politics, Red Eagle Politics","national media, other",REP,,PA,8/23/24,8/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Capitol Weekly,510,,,,,,CA,8/13/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Angus Reid Global,13,1.92,,,,,US,8/19/24,8/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,American Greatness,national media,,,MI,8/20/24,8/22/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+DHM Research,76,2.16,,,,,WA,7/12/24,7/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,Montana Republican Party,party committee,REP,TRUE,MT,8/18/24,8/20/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,PA,8/3/24,8/23/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+WPA Intelligence,383,1.67,Club for Growth Action (super PAC),super PAC,REP,,AZ,8/11/24,8/13/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,NC,7/26/24,8/26/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Cygnal,67,2.11,,,,,PA,8/14/24,8/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Echelon Insights,407,2.73,,,,,US,8/23/24,8/25/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Quantus Polls and News,859,,TrendingPolitics,national media,REP,,WI,8/14/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Normington, Petts & Associates",232,0.68,DCCC,party committee,DEM,TRUE,CA,7/29/24,7/31/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Clarity Campaign Labs,52,1.57,,,,,US,8/23/24,8/28/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Kaplan Strategies,124,2.01,,,,,US,8/24/24,8/24/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Impact Research,14,1.54,DCCC,party committee,DEM,TRUE,AZ,8/1/24,8/4/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+The New York Times/Siena College,448,3,,,,,AZ,8/8/24,8/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,NV,8/12/24,8/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+University of Houston Hobby School of Public Affairs/Texas Southern University School of Public Affairs,351,NA,,,,,TX,6/20/24,7/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,NC,8/9/24,8/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,8/21/24,8/23/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/20/24,8/22/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/19/24,8/21/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/18/24,8/20/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The New York Times/Siena College,448,3,,,,,GA,8/9/24,8/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,8/17/24,8/19/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Research America,268,0.64,West Virginia MetroNews,local media,,,WV,8/21/24,8/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Remington Research Group,279,2.65,Missouri Scout,local media,,,MO,9/4/24,9/5/24,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,TX,8/21/24,8/22/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,FL,8/21/24,8/22/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+YouGov,391,2.98,CBS News,national media,,,US,8/14/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Change Research,48,1.36,,,,,US,7/22/24,7/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Change Research,48,1.36,,,,,US,8/20/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,AZ,8/30/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,CO,8/30/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,GA,8/30/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/23/24,8/25/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/1/24,8/3/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/30/24,8/1/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/29/24,7/31/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Ipsos,154,2.79,"The Washington Post, ABC News",national media,,,US,8/9/24,8/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,8/22/24,8/24/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/1/24,9/3/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/31/24,9/2/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/16/24,8/18/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/9/24,8/11/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/8/24,8/10/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/7/24,8/9/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/2/24,9/4/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/6/24,9/8/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/4/24,9/6/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/5/24,9/7/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/26/24,7/28/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/25/24,7/27/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Ragnar Research Partners,517,1.26,,,REP,TRUE,VA,8/4/24,8/6/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Wick,284,1.4,2Way,national media,,,PA,8/27/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Emerson College,88,2.92,,,,,US,9/3/24,9/4/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,8/2/24,8/4/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,9/3/24,9/5/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,7/22/24,7/24/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Cygnal,67,2.11,NRCC,party committee,REP,TRUE,AK,8/30/24,9/1/24,FALSE,TRUE,FALSE,FALSE,TRUE,,,FALSE
+Fabrizio Ward/David Binder Research,864,,AARP,501(c)(4),,,MT,8/25/24,8/29/24,FALSE,TRUE,FALSE,TRUE,TRUE,,,FALSE
+Focaldata,837,,,,,,AZ,8/6/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,GA,8/6/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,MI,8/6/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,NV,8/6/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,NC,8/6/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,PA,8/6/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,WI,8/6/24,8/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Outward Intelligence,862,,,,,,US,9/1/24,9/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Quantus Polls and News,859,,Unknown Sponsor,other,REP,,TX,8/29/24,8/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,8/12/24,8/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KSTP-TV (St. Paul, Minn.), KAAL-TV (Austin, Minn.), WDIO-DT (Duluth, Minn.)",local media,,,MN,8/27/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,8/10/24,8/12/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/11/24,8/13/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/12/24,8/14/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/13/24,8/15/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/14/24,8/16/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/15/24,8/17/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,MD,8/14/24,8/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/24/24,8/26/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/25/24,8/27/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/26/24,8/28/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/27/24,8/29/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/28/24,8/30/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/29/24,8/31/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,8/30/24,9/1/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/3/24,9/5/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NM,8/12/24,8/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,8/12/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,US,8/23/24,8/25/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+InsiderAdvantage,243,1.97,,,,,NV,8/29/24,8/31/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,AZ,8/29/24,8/31/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,MI,8/6/24,9/5/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,WI,8/28/24,8/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,MI,8/28/24,8/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,PA,8/28/24,8/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,NC,8/29/24,8/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,GA,8/29/24,8/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,NC,8/6/24,8/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,FL,8/16/24,8/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,TX,8/14/24,8/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,US,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,MI,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,WI,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,NC,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,GA,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,AZ,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,NV,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marquette University Law School,195,2.99,,,,,WI,8/28/24,9/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+SoCal Strategies,851,,"On Point Politics, Red Eagle Politics","national media, other",REP,,NC,8/26/24,8/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Elway Research,87,1.94,KCTS-TV (Seattle),local media,,,WA,9/3/24,9/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Cygnal,67,2.11,NRCC,party committee,REP,TRUE,OR,8/7/24,8/9/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+SurveyUSA,325,2.82,Split Ticket,national media,,,NE,8/23/24,8/27/24,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,,TRUE
+co/efficient,514,1,Americans for IVF,lobbying group,,,MI,9/4/24,9/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+co/efficient,514,1,Americans for IVF,lobbying group,,,WI,9/4/24,9/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+co/efficient,514,1,Americans for IVF,lobbying group,,,PA,9/4/24,9/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,,,,,US,9/3/24,9/5/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,8/12/24,8/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,8/12/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,8/12/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,8/12/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,8/15/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Patriot Polling,732,1.05,,,,,PA,9/1/24,9/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,8/12/24,8/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Quantus Polls and News,859,,TrendingPolitics,national media,REP,,US,8/26/24,8/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,Yahoo News,national media,,,US,8/22/24,8/26/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Ipsos,154,2.79,ABC News,national media,,,US,8/23/24,8/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+SurveyUSA,325,2.82,Split Ticket,national media,,,N2,8/23/24,8/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Impact Research,14,1.54,,,DEM,TRUE,MT,8/26/24,8/29/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Ipsos,154,2.79,Reuters,national media,,,US,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Leger,572,1.76,The New York Post,local media,,,US,9/10/24,9/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Hendrix College,138,0.75,Talk Business & Politics,local media,,,AR,9/5/24,9/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,9/12/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Alaska Survey Research,155,1.99,,,,,AK,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Quantus Polls and News,859,,TrendingPolitics,national media,REP,,NC,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Impact Research,14,1.54,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,VA,8/20/24,8/25/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Cygnal,67,2.11,,,,,MI,8/28/24,9/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Lake Research Partners,165,1.2,,,DEM,TRUE,IN,8/26/24,9/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,U.S. Term Limits,501(c)(4),,,CA,9/5/24,9/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+RMG Research,555,2.34,U.S. Term Limits,501(c)(4),,,NY,9/5/24,9/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+GQR,126,2.02,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,NE,7/16/24,7/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+RMG Research,555,2.34,U.S. Term Limits,501(c)(4),,,IA,9/5/24,9/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+SurveyUSA,325,2.82,"WRAL-TV (Raleigh, N.C.)",local media,,,NC,9/4/24,9/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,GA,8/8/24,9/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+GQR,126,2.02,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,NY,8/26/24,8/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+GBAO,109,1.11,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,AZ,8/8/24,8/13/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Mitchell Research & Communications,213,2.09,Michigan Information & Research Service,local media,,,MI,9/11/24,9/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+GQR,126,2.02,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,NY,7/9/24,7/15/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+"Normington, Petts & Associates",232,0.68,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,CA,8/25/24,8/27/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+GQR,126,2.02,,,DEM,TRUE,MO,9/6/24,9/12/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,9/3/24,9/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,CA,9/3/24,9/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,FL,9/3/24,9/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,TX,9/3/24,9/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,OH,9/3/24,9/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+YouGov,391,2.98,Texas Politics Project at the University of Texas,research institution,,,TX,8/23/24,8/31/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+SoCal Strategies,851,,"On Point Politics, Red Eagle Politics","national media, other",REP,,OH,8/31/24,9/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,VA,7/24/24,9/1/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,CA,8/2/24,8/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Change Research,48,1.36,,,DEM,TRUE,FL,7/17/24,7/19/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+SoCal Strategies,851,,"On Point Politics, Red Eagle Politics","national media, other",REP,,US,8/18/24,8/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Strategies 360,321,0.98,,,,,NV,8/7/24,8/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,,,,,US,8/29/24,8/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,Issues & Insights,national media,,,US,8/28/24,8/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,US,8/25/24,9/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Capitol Weekly,510,,,,,,CA,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+TIPP Insights,144,1.79,American Greatness,national media,,,AZ,9/3/24,9/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+The New York Times/Siena College,448,3,,,,,US,9/3/24,9/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Strategies 360,321,0.98,,,,,AZ,8/7/24,8/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,,,REP,TRUE,PA,9/7/24,9/9/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+ActiVote,721,,,,,,TN,7/25/24,9/2/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Lake Research Partners,165,1.2,Texas Public Opinion Research,501(c)(3),,,TX,8/24/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Upswing Research,847,,,,DEM,TRUE,PA,9/4/24,9/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Saint Anselm College Survey Center,494,2.44,,,,,NH,8/13/24,8/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+InsiderAdvantage,243,1.97,,,,,PA,8/18/24,8/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,,,IND,TRUE,NE,7/31/24,8/12/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+St. Pete Polls,314,2.49,Florida Politics,local media,,,FL,8/27/24,8/27/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,9/11/24,9/11/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Data for Progress,522,2.7,,,,,US,9/12/24,9/13/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,NC,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/10/24,9/10/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,MI,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Big Village,37,1.45,,,,,US,8/14/24,8/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,MI,7/28/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,9/8/24,9/10/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Saint Anselm College Survey Center,494,2.44,,,,,NH,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE
+TIPP Insights,144,1.79,,,,,US,9/11/24,9/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,American Greatness,national media,,,NC,9/11/24,9/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Trafalgar Group,338,0.62,,,REP,,AZ,9/11/24,9/12/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Embold Research,48,1.36,MinnPost,local media,,,MN,9/4/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+InsiderAdvantage,243,1.97,,,,,WI,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Remington Research Group,279,2.65,,,,,N2,8/14/24,8/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Roanoke College Institute for Policy and Opinion Research,292,2.66,,,,,VA,8/12/24,8/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+National Research,225,1.76,,,REP,TRUE,NJ,8/13/24,8/15/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,,,,,NE,8/14/24,8/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Virginia Commonwealth University L. Douglas Wilder School of Government and Public Affairs,370,2.14,,,,,VA,8/26/24,9/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+SoCal Strategies,851,,"On Point Politics, Red Eagle Politics","national media, other",REP,,US,9/10/24,9/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Big Village,37,1.45,,,,,US,8/23/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,AZ,8/23/24,8/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,GA,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,NV,8/23/24,8/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,NC,8/23/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Opinion Strategies,260,1.61,NRCC,party committee,REP,TRUE,MD,8/6/24,8/11/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+East Carolina University Center for Survey Research,523,2.67,,,,,NC,8/26/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Lighthouse Research,483,,Utah Debate Comission,501(c)(3),,,UT,8/29/24,9/4/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Christopher Newport University Wason Center for Civic Leadership,50,2.81,,,,,VA,9/6/24,9/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,9/9/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Navigator Research,413,1.18,,,,,AZ,7/31/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Navigator Research,413,1.18,,,,,MI,7/31/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Navigator Research,413,1.18,,,,,NC,7/31/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Navigator Research,413,1.18,,,,,PA,7/31/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Navigator Research,413,1.18,,,,,WI,7/31/24,8/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+McLaughlin & Associates,203,0.5,,,REP,TRUE,NY,8/11/24,8/13/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+HarrisX/Harris Poll,133,1.5,Harvard University Center for American Political Studies,research institution,,,US,9/4/24,9/5/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+WPA Intelligence,383,1.67,Club for Growth (PAC),PAC,REP,,FL,8/28/24,8/29/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Glengariff Group,117,1.52,"The Detroit News, WDIV-TV (Detroit)",local media,,,MI,8/26/24,8/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,Yahoo News,national media,,,US,9/11/24,9/13/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+AtlasIntel,546,2.74,,,,,US,9/11/24,9/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Research & Polling,280,2.06,Albuquerque Journal,local media,,,NM,9/6/24,9/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Ipsos,154,2.79,ABC News,national media,,,US,9/11/24,9/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Trafalgar Group,338,0.62,,,REP,,NV,9/11/24,9/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+GBAO,109,1.11,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,WI,9/8/24,9/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Selzer & Co.,304,2.86,"The Des Moines Register, Mediacom","local media, media company",,,IA,9/8/24,9/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Quantus Polls and News,859,,TrendingPolitics,national media,REP,,VA,8/20/24,8/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Big Village,37,1.45,,,,,US,9/11/24,9/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Suffolk University,323,2.93,USA Today,national media,,,PA,9/11/24,9/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,MO,9/12/24,9/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+InsiderAdvantage,243,1.97,,,,,PA,9/14/24,9/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/13/24,9/15/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/7/24,9/9/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/9/24,9/11/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/10/24,9/12/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/11/24,9/13/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/12/24,9/14/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,GA,9/12/24,9/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,"The Hill, WDVM-TV (Hagerstown, Md.)","national media, local media",,,MD,9/12/24,9/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Angus Reid Global,13,1.92,,,,,US,9/13/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,The Hill,national media,,,IN,9/12/24,9/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,9/8/24,9/10/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+J.L. Partners,619,1.67,DailyMail.com,national media,,,US,9/11/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Normington, Petts & Associates",232,0.68,,,DEM,TRUE,IA,8/27/24,8/29/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+HarrisX,133,1.5,Forbes,national media,,,US,9/11/24,9/13/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Monmouth University Polling Institute,215,2.96,,,,,US,9/11/24,9/15/24,FALSE,FALSE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Change Research,48,1.36,,,,,MO,9/11/24,9/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Data Orbital,73,2.93,AZ Free News,local media,,,AZ,9/7/24,9/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Capitol Weekly,510,,,,,,CA,9/11/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,VA,8/19/24,9/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of Georgia School of Public and International Affairs,350,2.2,The Atlanta Journal-Constitution,local media,,,GA,9/9/24,9/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,9/15/24,9/17/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Quinnipiac University,267,2.83,,,,,PA,9/12/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Quinnipiac University,267,2.83,,,,,MI,9/12/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Quinnipiac University,267,2.83,,,,,WI,9/12/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,WI,9/11/24,9/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,9/11/24,9/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of New Hampshire Survey Center,357,2.65,,,,,RI,9/12/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,MA,9/12/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Pan Atlantic Research,249,2.12,,,,,M1,9/5/24,9/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Pan Atlantic Research,249,2.12,,,,,M2,9/5/24,9/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+HarrisX,133,1.5,George Washington University Society of Presidential Pollsters,research institution,,,US,9/14/24,9/16/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,US,9/13/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,,,,,MD,9/16/24,9/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Washington Post,3,2.99,,,,,PA,9/12/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Franklin & Marshall College Center for Opinion Research,106,2.45,,,,,PA,9/4/24,9/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Public Policy Institute of California,262,2.5,,,,,CA,8/29/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Marist College,183,2.94,,,,,PA,9/12/24,9/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Marist College,183,2.94,,,,,WI,9/12/24,9/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Marist College,183,2.94,,,,,MI,9/12/24,9/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,AZ,9/15/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,GA,9/15/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,MI,9/15/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,NV,9/15/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,PA,9/15/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,NC,9/15/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,The Hill,national media,,,WI,9/15/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,US,9/11/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,The Philadelphia Inquirer,local media,,,PA,9/11/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Cygnal,67,2.11,Carolina Journal,local media,,,NC,9/15/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Siena College,305,2.77,,,,,NY,9/11/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Embold Research,48,1.36,Salve Regina University Pell Center for International Relations and Public Policy,research institution,,,RI,9/16/24,9/20/24,FALSE,TRUE,FALSE,TRUE,TRUE,,TRUE,TRUE
+Victory Insights,673,1.33,,,,,NC,9/16/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,US,9/16/24,9/17/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Outward Intelligence,862,,,,,,US,9/15/24,9/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Noble Predictive Insights,235,2.45,Inside Elections,national media,,,MT,9/11/24,9/14/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+TIPP Insights,144,1.79,American Greatness,national media,,,GA,9/16/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,AZ,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,FL,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,MD,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,MI,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,NV,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,OH,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,PA,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,TX,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,WI,9/9/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,NC,9/9/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,CO,9/9/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,GA,9/9/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,MN,9/9/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,VA,9/9/24,9/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,MN,8/30/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,VA,8/30/24,9/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,9/16/24,9/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Research America,268,0.64,University of Mary Washington Center for Leadership & Media Studies,research institution,,,VA,9/3/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+MassINC Polling Group,198,2.78,Spotlight PA,local media,,,PA,9/12/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Global Strategy Group,118,1.77,Retire Career Politicians (super PAC),super PAC,IND,,NE,8/26/24,8/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,CA,8/13/24,9/21/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,CA,8/21/24,9/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Rodriguez Gudelunas Strategies,865,,Neighbors for Results (super PAC),super PAC,DEM,,CA,9/4/24,9/7/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Hart Research Associates/Public Opinion Strategies,221,2.69,NBC News,national media,,,US,9/13/24,9/17/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,OH,8/16/24,9/22/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,FL,8/21/24,9/22/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+MassINC Polling Group,198,2.78,"WBUR-FM 90.9 (Boston), CommonWealth Beacon",local media,,,MA,9/12/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+The New York Times/Siena College,448,3,,,,,AZ,9/17/24,9/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,GA,9/17/24,9/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,NC,9/17/24,9/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+SurveyUSA,325,2.82,"KOB (Albuquerque, N.M.)",local media,,,NM,9/12/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+American Viewpoint,10,1.15,NRCC,party committee,REP,TRUE,AK,9/14/24,9/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+GBAO,109,1.11,,,DEM,TRUE,NY,9/15/24,9/18/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+GBAO,109,1.11,,,DEM,TRUE,NY,8/8/24,8/12/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+YouGov,391,2.98,CBS News,national media,,,US,9/18/24,9/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+MassINC Polling Group,198,2.78,Rhode Island Current,local media,,,RI,9/12/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+Slingshot Strategies,451,1.42,Citizens for Judicial Fairness,lobbying group,,,DE,9/19/24,9/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+MassINC Polling Group,198,2.78,Wisconsin Watch,local media,,,WI,9/12/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,9/20/24,9/22/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Mason-Dixon Polling & Strategy,197,2.62,"StarTribune (Minneapolis), Minnesota Public Radio News, KARE (Minneapolis)",local media,,,MN,9/16/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,9/14/24,9/16/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/15/24,9/17/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/16/24,9/18/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/17/24,9/19/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/18/24,9/20/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Texas Hispanic Policy Foundation,698,,,,,,TX,9/13/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/19/24,9/21/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,MT,9/12/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+MassINC Polling Group,198,2.78,CT Mirror,local media,,,CT,9/12/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Suffolk University,323,2.93,USA Today,national media,,,MI,9/16/24,9/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Elon University,86,2.5,,,,,NC,9/4/24,9/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Noble Predictive Insights,235,2.45,,,,,NV,9/9/24,9/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/14/24,9/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+GQR,126,2.02,,,DEM,TRUE,IA,9/19/24,9/22/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,9/17/24,9/19/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,Institute for Global Affairs,research institution,,,US,8/15/24,8/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,"The Hill, WPIX (New York)","national media, local media",,,NY,9/23/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,OH,9/18/24,9/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Quinnipiac University,267,2.83,,,,,US,9/19/24,9/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,FL,9/20/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,GA,9/20/24,9/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,NC,9/20/24,9/23/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Survey Center on American Life,777,,,,,,US,8/16/24,8/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Tarrance Group,333,1.56,,,REP,TRUE,MI,9/14/24,9/18/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Ragnar Research Partners,517,1.26,,,REP,TRUE,VA,9/15/24,9/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+brilliant corners Research & Strategies,564,1,,,DEM,TRUE,OR,9/16/24,9/18/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+SurveyUSA,325,2.82,,,IND,TRUE,NE,9/20/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Muhlenberg College Institute of Public Opinion,219,2.88,The Morning Call,local media,,,PA,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,US,9/18/24,9/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,TX,9/7/24,9/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Tulchin Research,340,0.82,,,DEM,TRUE,CA,9/14/24,9/19/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Focaldata,837,,,,,,GA,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,OH,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,MI,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,PA,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,WI,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Focaldata,837,,,,,,NV,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,9/21/24,9/24/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Focaldata,837,,,,,,AZ,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Washington Post/University of Maryland Center for Democracy and Civic Engagement,755,2.5,,,,,MD,9/19/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Marist College,183,2.94,,,,,AZ,9/19/24,9/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,PA,9/18/24,9/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,TX,9/22/24,9/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Marist College,183,2.94,,,,,NC,9/19/24,9/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Focaldata,837,,,,,,NC,9/3/24,9/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,NC,9/11/24,9/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+DCCC Targeting and Analytics Department,68,1.05,,,DEM,TRUE,MT,9/11/24,9/13/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Susquehanna Polling & Research,326,2.3,La Torre Live,local media,,,PA,9/16/24,9/22/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Keating Research,161,1.63,,,,,CO,9/11/24,9/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,CBS News,national media,,,GA,9/20/24,9/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Marist College,183,2.94,,,,,GA,9/19/24,9/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+ActiVote,721,,,,,,NY,8/24/24,9/25/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,PA,9/1/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of Massachusetts Lowell Center for Public Opinion/YouGov,355,2.9,,,,,MI,9/11/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+University of Massachusetts Lowell Center for Public Opinion/YouGov,355,2.9,,,,,PA,9/11/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Outward Intelligence,862,,,,,,US,9/22/24,9/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,VA,9/22/24,9/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Echelon Insights,407,2.73,,,,,US,9/23/24,9/25/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Big Village,37,1.45,,,,,US,9/23/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,,,DEM,TRUE,NE,9/9/24,9/13/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Torchlight Strategies,745,,,,REP,TRUE,NE,7/8/24,7/11/24,FALSE,TRUE,FALSE,TRUE,TRUE,,,FALSE
+GBAO,109,1.11,Democratic Governors Association,party committee,DEM,TRUE,IN,9/19/24,9/22/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,AZ,9/20/24,9/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,GA,9/20/24,9/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Quantus Insights,859,,TrendingPolitics,national media,REP,,NV,9/23/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,AZ,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,GA,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,MI,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NV,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NC,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,PA,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,WI,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Suffolk University,323,2.93,USA Today,national media,,,AZ,9/19/24,9/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,9/23/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SurveyUSA,325,2.82,"KSTP-TV (St. Paul, Minn.), WDIV-TV (Detroit), KAAL-TV (Austin, Minn.)",local media,,,MN,9/23/24,9/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+"Meredith College Department of History, Political Science, and International Studies",423,1.59,,,,,NC,9/18/24,9/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+CNN/SSRS,844,,,,,,NC,9/20/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+CNN/SSRS,844,,,,,,NE,9/20/24,9/25/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+CNN/SSRS,844,,,,,,N2,9/20/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,,,,,US,9/25/24,9/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage/Tarrance Group,866,,Senate Opportunity Fund,501(c)(4),REP,,US,7/8/24,7/11/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+Clarity Campaign Labs,52,1.57,,,,,US,9/19/24,9/24/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Echelon Insights/GBAO,740,,AARP,501(c)(4),,,US,8/27/24,9/2/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,NC,9/20/24,9/24/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,PA,9/20/24,9/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+The New York Times/Siena College,448,3,,,,,MI,9/21/24,9/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,OH,9/21/24,9/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,WI,9/21/24,9/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,N2,9/24/24,9/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,NE,9/24/24,9/26/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,FL,9/25/24,9/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Ipsos,154,2.79,Reuters,national media,,,US,9/20/24,9/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Policy Polling,263,1.32,Clean and Prosperous America (PAC),PAC,DEM,,TX,9/25/24,9/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,PA,9/26/24,9/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,AZ,9/20/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,MI,9/20/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,NV,9/20/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,PA,9/20/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,WI,9/20/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,NC,9/20/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,GA,9/20/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Victory Insights,673,1.33,,,,,FL,9/22/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,WI,8/29/24,9/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+University of Southern California/California State University Long Beach Center for Urban Politics and Policy/Cal Poly Pomona,830,,,,,,CA,9/12/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+East Carolina University Center for Survey Research,523,2.67,,,,,NC,9/23/24,9/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Patriot Polling,732,1.05,,,,,PA,9/27/24,9/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,NRCC,party committee,REP,TRUE,NH,9/26/24,9/28/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+WPA Intelligence,383,1.67,,,REP,TRUE,ND,9/22/24,9/24/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,PA,9/17/24,9/24/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Washington Post,3,2.99,,,,,NC,9/25/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,9/21/24,9/23/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/22/24,9/24/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/23/24,9/25/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/24/24,9/26/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/25/24,9/27/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/26/24,9/28/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/27/24,9/29/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,MI,9/24/24,9/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Alaska Survey Research,155,1.99,,,,,AK,9/27/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,TX,9/5/24,9/30/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,IN,8/28/24,9/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,NY,9/4/24,9/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,Nexstar,media company,,,CA,9/23/24,9/26/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+InsiderAdvantage,243,1.97,,,,,AZ,9/29/24,9/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,NV,9/29/24,9/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,NC,9/29/24,9/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,GA,9/29/24,9/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Leger,572,1.76,The New York Post,local media,,,US,9/27/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Quinnipiac University,267,2.83,,,,,NC,9/25/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Quinnipiac University,267,2.83,,,,,GA,9/25/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,TX,9/25/24,9/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,RealClearWorld,national media,,,NC,9/27/24,9/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,RealClearWorld,national media,,,AZ,9/27/24,9/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,PA,9/16/24,9/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,WI,9/16/24,9/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,MI,9/16/24,9/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Remington Research Group,279,2.65,American Fuel & Petrochemical Manufacturers,501(c)(6),REP,,NV,9/16/24,9/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,RealClearPennsylvania,local media,,,PA,9/27/24,9/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Trafalgar Group,338,0.62,,,REP,,WI,9/28/24,9/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,AZ,9/19/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,GA,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,MI,9/19/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,NV,9/19/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,NC,9/19/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,PA,9/19/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,WI,9/19/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Cygnal,67,2.11,Iowans for Tax Relief Foundation,501(c)(3),REP,,IA,9/27/24,9/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Winthrop University Center for Public Opinion & Policy Research,386,2.5,,,,,SC,9/21/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+ActiVote,721,,,,,,MO,9/1/24,10/1/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,MO,9/3/24,10/1/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Public Opinion Strategies,260,1.61,Congressional Leadership Fund (super PAC),super PAC,REP,,WI,9/21/24,9/23/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Emerson College,88,2.92,"The Hill, KDVR (Denver), KWGN-TV (Denver)","national media, local media",,,CO,9/29/24,10/1/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,9/29/24,10/1/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Trafalgar Group,338,0.62,,,REP,,MI,9/28/24,9/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+McLaughlin & Associates,203,0.5,Associated Industries of Florida,501(c)(6),,,FL,9/23/24,9/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+WPA Intelligence,383,1.67,North Dakota News Cooperative,local media,,,ND,9/28/24,9/30/24,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,,TRUE
+Marquette University Law School,195,2.99,,,,,WI,9/18/24,9/26/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,NE,9/27/24,10/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Opinion Diagnostics,769,,,,REP,TRUE,MA,9/19/24,9/21/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Susquehanna Polling & Research,326,2.3,,,,,US,9/23/24,10/1/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Virginia Commonwealth University L. Douglas Wilder School of Government and Public Affairs,370,2.14,,,,,VA,9/16/24,9/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,,,,,US,9/29/24,10/1/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,FL,9/25/24,9/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Colorado Community Research,867,,,,,,CO,9/20/24,9/25/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+OnMessage,239,1.1,Sentinel Action Fund (super PAC),super PAC,REP,,PA,9/28/24,9/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,9/25/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,NJ,9/4/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+HighGround,416,1.72,Arizona's Family KTVK/KPHO-TV (Phoenix),local media,,,AZ,9/26/24,9/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+GQR,126,2.02,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,TX,9/18/24,9/23/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+High Point University Survey Research Center,139,2.5,,,,,NC,9/20/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Mitchell Research & Communications,213,2.09,"Michigan Information & Research Service, Michigan News Source",local media,,,MI,9/30/24,9/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Noble Predictive Insights,235,2.45,Inside Elections,national media,,,NC,9/24/24,9/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Marist College,183,2.94,"NPR, PBS News",national media,,,US,9/27/24,10/1/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Saint Anselm College Survey Center,494,2.44,,,,,NH,10/1/24,10/2/24,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE,TRUE
+"Fabrizio, Lee & Associates",90,1.63,,,REP,TRUE,NY,9/26/24,9/29/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,9/30/24,10/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Bowling Green State University Democracy and Public Policy Research Network/YouGov,868,,,,,,OH,9/18/24,9/27/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Tarrance Group,333,1.56,Democracy Defense Project,501(c)(3),,,NV,9/16/24,9/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+CWS Research,697,1.56,Texas Gun Rights,501(c)(4),REP,,TX,9/4/24,9/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,NC,9/25/24,9/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Data for Progress,522,2.7,,,,,US,10/2/24,10/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Research Co.,449,2.53,,,,,US,10/4/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,IN,9/3/24,10/5/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,NC,9/5/24,10/5/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Ragnar Research Partners,517,1.26,,,REP,TRUE,VA,9/29/24,10/1/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Cygnal,67,2.11,Congressional Leadership Fund (super PAC),super PAC,REP,,NY,9/29/24,10/1/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+TIPP Insights,144,1.79,Issues & Insights,national media,,,US,10/2/24,10/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,NC,9/7/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,FL,9/17/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,AZ,9/30/24,10/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,IL,9/3/24,10/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,9/27/24,10/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,9/27/24,10/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,9/27/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,9/27/24,10/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,9/27/24,10/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,9/27/24,10/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,9/27/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,9/27/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,9/27/24,10/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,Yahoo News,national media,,,US,10/2/24,10/4/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Big Village,37,1.45,,,,,US,10/2/24,10/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Christopher Newport University Wason Center for Civic Leadership,50,2.81,,,,,VA,9/28/24,10/4/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Public Policy Polling,263,1.32,Northwest Progressive Institute,local media,DEM,,WA,10/1/24,10/2/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+SurveyUSA,325,2.82,"KOB (Albuquerque, N.M.)",local media,,,NM,9/26/24,9/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Emerson College,88,2.92,"The Hill, WPIX (New York)","national media, local media",,,NY,10/1/24,10/3/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+DCCC Targeting and Analytics Department,68,1.05,,,DEM,TRUE,IA,9/30/24,10/1/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+SurveyUSA,325,2.82,"KGTV (San Diego), The San Diego Union-Tribune",local media,,,CA,10/2/24,10/6/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Suffolk University,323,2.93,The Boston Globe,local media,,,MA,10/1/24,10/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+SoCal Strategies,851,,"On Point Politics, Red Eagle Politics","national media, other",REP,,AZ,10/5/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov/Pennsylvania State University McCourtney Institute for Democracy,391,2.98,,,,,US,9/23/24,9/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,NV,9/30/24,10/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Ipsos,154,2.79,Reuters,national media,,,US,10/4/24,10/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Remington Research Group,279,2.65,Missouri Scout,local media,,,MO,10/2/24,10/3/24,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,10/4/24,10/6/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The New York Times/Siena College,448,3,,,,,US,9/29/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,PA,9/6/24,10/7/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/28/24,9/30/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/29/24,10/1/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,9/30/24,10/2/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/1/24,10/3/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/2/24,10/4/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/3/24,10/5/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,TX,10/2/24,10/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+The Bullfinch Group,692,,Commonwealth Foundation,501(c)(3),,,PA,9/26/24,9/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,,,DEM,TRUE,NJ,9/30/24,10/3/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Research Co.,449,2.53,,,,,MI,10/5/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Research Co.,449,2.53,,,,,PA,10/5/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Research Co.,449,2.53,,,,,WI,10/5/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,AZ,9/24/24,10/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,PA,10/7/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Impact Research,14,1.54,,,IND,TRUE,NE,10/1/24,10/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,,,,,US,10/2/24,10/3/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,US,10/3/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,AZ,9/6/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of Maryland Baltimore County Institute of Politics,869,,,,,,MD,9/23/24,9/28/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+National Research,225,1.76,"Democracy Defense Project, Echo Canyon Consulting","501(c)(3), consulting company",REP,,AZ,9/25/24,9/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,NE,9/16/24,9/23/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Change Research,48,1.36,Future Majority (PAC),PAC,DEM,,PA,9/16/24,9/23/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+EMC Research,130,0.85,Equality California,501(c)(4),DEM,,CA,9/5/24,9/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,10/6/24,10/7/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+DCCC Targeting and Analytics Department,68,1.05,,,DEM,TRUE,WI,10/1/24,10/2/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Quinnipiac University,267,2.83,,,,,MI,10/3/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Quinnipiac University,267,2.83,,,,,PA,10/3/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Quinnipiac University,267,2.83,,,,,WI,10/3/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Global Strategy Group/North Star Opinion Research,822,,Peter G. Peterson Foundation,501(c)(3),,,AZ,9/23/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group/North Star Opinion Research,822,,Peter G. Peterson Foundation,501(c)(3),,,GA,9/23/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group/North Star Opinion Research,822,,Peter G. Peterson Foundation,501(c)(3),,,MI,9/23/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group/North Star Opinion Research,822,,Peter G. Peterson Foundation,501(c)(3),,,NV,9/23/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group/North Star Opinion Research,822,,Peter G. Peterson Foundation,501(c)(3),,,NC,9/23/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group/North Star Opinion Research,822,,Peter G. Peterson Foundation,501(c)(3),,,PA,9/23/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group/North Star Opinion Research,822,,Peter G. Peterson Foundation,501(c)(3),,,WI,9/23/24,9/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Arc Insights,823,,Fields of Freedom,501(c)(4),,,WI,10/2/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Susquehanna Polling & Research,326,2.3,,,,,PA,10/4/24,10/7/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Public Policy Polling,263,1.32,,,DEM,TRUE,UT,9/27/24,9/28/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,GA,10/7/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Hunt Research,870,,University of Austin,research institution,,,PA,10/2/24,10/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,Nexstar,media company,,,AZ,10/5/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,Nexstar,media company,,,GA,10/5/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,Nexstar,media company,,,MI,10/5/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,Nexstar,media company,,,NV,10/5/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,Nexstar,media company,,,NC,10/5/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,Nexstar,media company,,,PA,10/5/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Emerson College,88,2.92,Nexstar,media company,,,WI,10/5/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Marist College,183,2.94,,,,,FL,10/3/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Marist College,183,2.94,,,,,TX,10/3/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Marist College,183,2.94,,,,,OH,10/3/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+The Washington Post,3,2.99,,,,,OH,10/3/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+The New York Times/Siena College,448,3,,,,,FL,9/29/24,10/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,TX,9/29/24,10/4/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,MT,10/5/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+YouGov/Center for Working Class Politics,391,2.98,Jacobin,national media,,,PA,9/24/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Public Opinion Strategies,260,1.61,Montana Republican Party,party committee,REP,TRUE,MT,9/29/24,10/1/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+1892 Polling,461,1.34,NRCC,party committee,REP,TRUE,TX,9/28/24,10/1/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+co/efficient,514,1,Americans for IVF,lobbying group,,,US,10/6/24,10/8/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Muhlenberg College Institute of Public Opinion,219,2.88,The Morning Call,local media,,,PA,9/30/24,10/3/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+University of California Berkeley Institute of Governmental Studies,457,2.5,Los Angeles Times,local media,,,CA,9/25/24,10/1/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+"Fabrizio, Lee & Associates/McLaughlin & Associates",814,NA,,,REP,TRUE,AZ,10/6/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/McLaughlin & Associates",814,NA,,,REP,TRUE,GA,10/6/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/McLaughlin & Associates",814,NA,,,REP,TRUE,MI,10/6/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/McLaughlin & Associates",814,NA,,,REP,TRUE,NV,10/6/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/McLaughlin & Associates",814,NA,,,REP,TRUE,NC,10/6/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/McLaughlin & Associates",814,NA,,,REP,TRUE,PA,10/6/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/McLaughlin & Associates",814,NA,,,REP,TRUE,WI,10/6/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Data for Progress,522,2.7,,,,,US,9/12/24,9/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,,,DEM,TRUE,NJ,8/5/24,8/8/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Pew Research Center,253,2.5,,,,,US,9/30/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,MI,10/8/24,10/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,WI,10/8/24,10/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Torchlight Strategies,745,,,,REP,TRUE,NE,10/5/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,10/7/24,10/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Article III Project,501(c)(3),REP,,AZ,9/24/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Article III Project,501(c)(3),REP,,GA,9/24/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Article III Project,501(c)(3),REP,,MI,9/24/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Article III Project,501(c)(3),REP,,NV,9/24/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Article III Project,501(c)(3),REP,,PA,9/24/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Article III Project,501(c)(3),REP,,WI,9/24/24,10/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,MO,9/8/24,10/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,CA,9/22/24,10/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,MI,9/15/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,MN,9/10/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,AZ,9/8/24,10/10/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,House Majority PAC (hybrid PAC),hybrid PAC,DEM,,CA,10/3/24,10/6/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Noble Predictive Insights,235,2.45,The Center Square,national media,,,US,10/2/24,10/4/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+DCCC Targeting and Analytics Department,68,1.05,,,DEM,TRUE,NJ,10/8/24,10/9/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+The New York Times/Siena College,448,3,The Philadelphia Inquirer,local media,,,PA,10/7/24,10/10/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,AZ,10/7/24,10/10/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Hart Research Associates/Public Opinion Strategies,221,2.69,NBC News,national media,,,US,10/4/24,10/8/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Mason-Dixon Polling & Strategy,197,2.62,WTVJ (Miami),local media,,,FL,10/1/24,10/4/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Ipsos,154,2.79,ABC News,national media,,,US,10/4/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,CBS News,national media,,,US,10/8/24,10/11/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+J.L. Partners,619,1.67,DailyMail.com,national media,,,PA,10/5/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+TIPP Insights,144,1.79,,,,,US,10/11/24,10/13/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,GA,10/7/24,10/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,WA,9/7/24,10/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+1892 Polling,461,1.34,NRCC,party committee,REP,TRUE,CA,10/5/24,10/8/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,AZ,10/10/24,10/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/11/24,10/13/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,,,,,US,10/12/24,10/14/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+University of Houston Hobby School of Public Affairs,351,NA,,,,,TX,9/26/24,10/10/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Tarrance Group,333,1.56,Florida Republican Party,party committee,REP,TRUE,FL,10/5/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SoCal Strategies,851,,"On Point Politics, Red Eagle Politics","national media, other",REP,,MI,10/11/24,10/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Emerson College,88,2.92,"The Hill, WTNH (New Haven, Conn.), WCTX (New Haven, Conn.)","national media, local media",,,CT,10/9/24,10/11/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+WPA Intelligence,383,1.67,Congressional Leadership Fund (super PAC),super PAC,REP,,WI,10/8/24,10/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+University of Massachusetts Department of Political Science/YouGov,861,,WCVB-TV (Boston),local media,,,MA,10/3/24,10/10/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Targoz Market Research,454,2.04,Beacon Center of Tennessee,501(c)(3),,,TN,9/27/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,MI,10/2/24,10/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+American Pulse Research & Polling,836,,,,,,PA,10/2/24,10/10/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,VA,9/9/24,10/14/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,MD,9/8/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SurveyUSA,325,2.82,,,IND,TRUE,NE,10/9/24,10/12/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Cygnal,67,2.11,,,REP,TRUE,MI,10/6/24,10/8/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+University of Rhode Island Survey Initiative/YouGov,871,,,,,,RI,8/15/24,9/8/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,10/5/24,10/7/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/6/24,10/8/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+co/efficient,514,1,,,REP,TRUE,GA,10/3/24,10/4/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/8/24,10/10/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/9/24,10/11/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/10/24,10/12/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/7/24,10/9/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Yale University Institution for Social and Policy Studies,872,,,,,,US,10/7/24,10/8/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Trafalgar Group,338,0.62,,,REP,,NV,10/10/24,10/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,GA,10/14/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marketing Resource Group (MRG),193,1.78,,,,,MI,10/7/24,10/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+HarrisX/Harris Poll,133,1.5,Harvard University Center for American Political Studies,research institution,,,US,10/11/24,10/13/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+SurveyUSA,325,2.82,"KSTP-TV (St. Paul, Minn.)",local media,,,MN,10/7/24,10/13/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,10/12/24,10/15/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Marquette University Law School,195,2.99,,,,,US,10/1/24,10/10/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+"Normington, Petts & Associates",232,0.68,DCCC,party committee,DEM,TRUE,WI,10/3/24,10/7/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+TIPP Insights,144,1.79,,,,,US,10/13/24,10/15/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Religion Research Institute,428,1.78,Brookings,research institution,,,US,8/16/24,9/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Alaska Survey Research,155,1.99,,,,,AK,10/8/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marist College,183,2.94,,,,,US,10/8/24,10/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Noble Predictive Insights,235,2.45,,,,,UT,10/2/24,10/7/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Fairleigh Dickinson University,92,2.5,,,,,US,10/8/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,"The Hill, Inside California Politics","national media, local media",,,CA,10/12/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+SurveyUSA,325,2.82,"KING-TV (Seattle), The Seattle Times, University of Washington Center for an Informed Public","local media, research institution",,,WA,10/9/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+GQR,126,2.02,,,DEM,TRUE,NC,10/9/24,10/13/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Lord Ashcroft Polls,560,,,,,,US,5/17/24,5/30/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The New York Times/Siena College,448,3,The Philadelphia Inquirer,local media,,,PA,4/28/24,5/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,AZ,4/28/24,5/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,GA,4/28/24,5/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,MI,4/28/24,5/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,NV,4/28/24,5/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+The New York Times/Siena College,448,3,,,,,WI,4/28/24,5/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,5/10/24,5/12/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/9/24,5/11/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/8/24,5/10/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/7/24,5/9/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SurveyUSA,325,2.82,"KSTP-TV (St. Paul, Minn.), KAAL-TV (Austin, Minn.), WDIO-DT (Duluth, Minn.)",local media,,,MN,5/8/24,5/11/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,The Economist,national media,,,US,5/12/24,5/14/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+RMG Research,555,2.34,,,,,US,5/6/24,5/9/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Ipsos,154,2.79,Reuters,national media,,,US,5/7/24,5/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Ipsos,154,2.79,,,,,US,5/7/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+KAConsulting,757,1.51,Vapor Technology Association,lobbying group,DEM,,MI,5/15/24,5/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+KAConsulting,757,1.51,Vapor Technology Association,lobbying group,DEM,,PA,5/15/24,5/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+KAConsulting,757,1.51,Vapor Technology Association,lobbying group,DEM,,WI,5/15/24,5/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+McLaughlin & Associates,203,0.5,America's New Majority Project,501(c)(4),REP,,US,5/10/24,5/14/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,US,5/10/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Echelon Insights,407,2.73,,,,,US,5/13/24,5/16/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,,,,,US,5/13/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Northwest Progressive Institute,local media,DEM,,WA,5/15/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,CBS News,national media,,,AZ,5/10/24,5/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,CBS News,national media,,,FL,5/10/24,5/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,Yahoo News,national media,,,US,5/10/24,5/13/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+McLaughlin & Associates,203,0.5,,,,,US,5/9/24,5/15/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+HarrisX/Harris Poll,133,1.5,Harvard University Center for American Political Studies,research institution,,,US,5/15/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Morning Consult,218,1.8,,,,,US,5/17/24,5/19/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/16/24,5/18/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/15/24,5/17/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/14/24,5/16/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/13/24,5/15/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/12/24,5/14/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/11/24,5/13/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Praecones Analytica,257,2.03,NH Journal,local media,,,NH,5/15/24,5/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+The Bullfinch Group,692,,,,,,US,5/16/24,5/21/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,5/19/24,5/21/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,AZ,5/8/24,5/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Noble Predictive Insights,235,2.45,,,,,AZ,5/7/24,5/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,GA,5/8/24,5/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,MI,5/8/24,5/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NV,5/8/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NC,5/8/24,5/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,PA,5/8/24,5/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,WI,5/7/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Change Research,48,1.36,Carolina Forward,501(c)(4),DEM,,NC,5/13/24,5/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Siena College,305,2.77,,,,,NY,5/13/24,5/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+SSRS,297,2.09,Vanderbilt University Center for the Study of Democratic Institutions,research institution,,,TN,4/26/24,5/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+University of Massachusetts Lowell Center for Public Opinion/YouGov,355,2.9,,,,,NH,5/6/24,5/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,5/14/24,5/16/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+Quinnipiac University,267,2.83,,,,,US,5/16/24,5/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+The Bullfinch Group,692,,The Independent Center,501(c)(3),,,US,5/16/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,NC,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,PA,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,AZ,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,FL,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,GA,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,MI,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,NV,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Prime Group,779,,Citizens to Save Our Republic (super PAC),super PAC,DEM,,WI,5/9/24,5/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+High Point University Survey Research Center,139,2.5,,,,,NC,5/2/24,5/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,GA,5/6/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,MI,5/6/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,AZ,5/6/24,5/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,NV,5/6/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,NC,5/6/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,PA,5/6/24,5/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+BSG/GS Strategy Group,606,,The Cook Political Report,national media,,,WI,5/6/24,5/13/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Marquette University Law School,195,2.99,,,,,US,5/6/24,5/15/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Mason-Dixon Polling & Strategy,197,2.62,"South Dakota News Watch, Chiesman Center for Democracy at the University of South Dakota","local media, research institution",,,SD,5/10/24,5/13/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,US,5/6/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,AZ,5/19/24,5/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,NV,5/19/24,5/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,MA,5/16/24,5/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,RI,5/16/24,5/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+University of New Hampshire Survey Center,357,2.65,,,,,NH,5/16/24,5/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Emerson College,88,2.92,,,,,US,5/21/24,5/23/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+Cygnal,67,2.11,,,,,US,5/14/24,5/16/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Elway Research,87,1.94,KCTS-TV (Seattle),local media,,,WA,5/13/24,5/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+The Tyson Group,334,1.06,Breaking Battlegrounds,national media,,,NV,5/22/24,5/25/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+McLaughlin & Associates,203,0.5,Lawrence Kadish,other,,,US,5/21/24,5/23/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Mitchell Research & Communications,213,2.09,Michigan Information & Research Service,local media,,,MI,5/20/24,5/21/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Iron Light,849,,League of American Workers,501(c)(4),REP,,NV,5/17/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Gravis Marketing,124,,,,DEM,TRUE,CO,5/22/24,5/24/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,5/25/24,5/28/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Roanoke College Institute for Policy and Opinion Research,292,2.66,,,,,VA,5/12/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Iron Light,849,,League of American Workers,501(c)(4),REP,,N2,5/17/24,5/22/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Leger,572,1.76,The Canadian Press,national media,,,US,5/24/24,5/26/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,5/26/24,5/28/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/25/24,5/27/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/24/24,5/26/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/23/24,5/25/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/22/24,5/24/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/21/24,5/23/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/20/24,5/22/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/19/24,5/21/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/18/24,5/20/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marist College,183,2.94,"NPR, PBS NewsHour",national media,,,US,5/21/24,5/23/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+Victory Insights,673,1.33,,,,,LA,5/24/24,5/26/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Emerson College,88,2.92,"The Hill, Nexstar, WPIX (New York)","national media, media company, local media",,,NY,5/28/24,5/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Ipsos,154,2.79,Reuters,national media,,,US,5/30/24,5/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+HarrisX,133,1.5,Forbes,national media,,,US,5/30/24,5/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,5/31/24,5/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,Issues & Insights,national media,,,US,5/29/24,5/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,5/31/24,6/2/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+North Star Opinion Research,233,1.07,American Greatness,national media,,,NC,5/29/24,6/2/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,5/30/24,6/1/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/29/24,5/31/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/28/24,5/30/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,5/27/24,5/29/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,MI,5/30/24,5/31/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,PA,5/30/24,5/31/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Florida Atlantic University PolCom Lab/Mainstreet Research,770,,,,,,WI,5/30/24,5/31/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+"Normington, Petts & Associates",232,0.68,,,DEM,TRUE,PA,5/21/24,5/23/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+YouGov,391,2.98,The Economist,national media,,,US,6/2/24,6/4/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+NewsNation,696,1.61,,,,,US,5/28/24,5/29/24,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE
+University of Massachusetts Department of Political Science/YouGov,861,,WCVB-TV (Boston),local media,,,MA,5/17/24,5/30/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+SurveyMonkey,324,1.92,The 19th,national media,,,US,5/30/24,5/31/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+UpONE Insights,839,,,,REP,TRUE,MI,6/1/24,6/4/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+National Public Affairs,768,,,,,,OH,5/28/24,5/29/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Quinnipiac University,267,2.83,,,,,GA,5/30/24,6/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,5/28/24,5/30/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+Franklin & Marshall College Center for Opinion Research,106,2.45,,,,,PA,5/28/24,6/2/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+ActiVote,721,,,,,,US,5/23/24,6/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Mitchell Research & Communications,213,2.09,Michigan News Source,local media,,,MI,6/3/24,6/3/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Tulchin Research,340,0.82,,,DEM,TRUE,CA,5/23/24,6/2/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+East Carolina University Center for Survey Research,523,2.67,,,,,NC,5/31/24,6/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Kaplan Strategies,124,2.01,,,,,WV,6/4/24,6/4/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,VA,6/1/24,6/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,FL,6/1/24,6/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,NV,6/1/24,6/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,AZ,6/1/24,6/3/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Emerson College,88,2.92,,,,,US,6/4/24,6/5/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+YouGov,391,2.98,Yahoo News,national media,,,US,6/3/24,6/6/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+YouGov,391,2.98,CBS News,national media,,,US,6/5/24,6/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Mason-Dixon Polling & Strategy,197,2.62,"StarTribune (Minneapolis), Minnesota Public Radio News, KARE (Minneapolis)",local media,,,MN,6/3/24,6/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,US,6/5/24,6/7/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/4/24,6/6/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/3/24,6/5/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/2/24,6/4/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,6/1/24,6/3/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Marist College,183,2.94,,,,,OH,6/3/24,6/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Red Oak Strategic,122,,NRSC,party committee,REP,TRUE,NM,5/7/24,5/19/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,Politico,national media,,,US,5/28/24,5/29/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Marist College,183,2.94,,,,,PA,6/3/24,6/6/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Cygnal,67,2.11,,,,,US,6/4/24,6/6/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+Navigator Research,413,1.18,,,,,US,5/23/24,6/3/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,AZ,5/28/24,6/4/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+HarrisX,133,1.5,"Deseret News, University of Utah Hinckley Institute of Politics","local media, research institution",,,UT,6/4/24,6/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Public Policy Institute of California,262,2.5,,,,,CA,5/23/24,6/2/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+GQR,126,2.02,,,DEM,TRUE,FL,5/14/24,5/20/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+RMG Research,555,2.34,,,,,US,6/3/24,6/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+McLaughlin & Associates,203,0.5,,,REP,TRUE,NY,5/21/24,5/23/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Public Opinion Strategies,260,1.61,,,REP,TRUE,AZ,5/28/24,5/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Emerson College,88,2.92,The Common Good,501(c)(3),,,US,5/24/24,5/27/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+"Fabrizio, Lee & Associates",90,1.63,"More Jobs, Less Government (super PAC)",super PAC,REP,,MT,6/3/24,6/5/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,AZ,5/13/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,GA,5/13/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,MI,5/13/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,NV,5/13/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+P2 Insights,334,1.06,Building America's Future,501(c)(3),REP,,WI,5/13/24,5/21/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Global Strategy Group,118,1.77,Nebraska Railroaders for Public Safety,super PAC,IND,,NE,6/3/24,6/5/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+DCCC Targeting and Analytics Department,68,1.05,,,DEM,TRUE,VA,5/28/24,5/30/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Mitchell Research & Communications,213,2.09,"Michigan Information & Research Service, Michigan News Source",local media,,,MI,10/14/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,10/12/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NM,10/12/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,10/12/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,10/12/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,10/12/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,10/12/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,10/12/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,10/12/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MN,10/12/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,10/12/24,10/14/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Grassroots Targeting,701,,,,REP,TRUE,PA,5/14/24,5/20/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Global Strategy Group,118,1.77,Retire Career Politicians (super PAC),super PAC,IND,,NE,6/3/24,6/5/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Quinnipiac University,267,2.83,,,,,GA,10/10/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Quinnipiac University,267,2.83,,,,,NC,10/10/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+co/efficient,514,1,Spirit of Virginia,other political entity,REP,TRUE,VA,6/11/24,6/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Beacon Research/Shaw & Company Research,103,2.8,Fox News,national media,,,US,10/11/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+University of Massachusetts Lowell Center for Public Opinion/YouGov,355,2.9,,,,,PA,10/2/24,10/9/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+University of Massachusetts Lowell Center for Public Opinion/YouGov,355,2.9,,,,,NH,10/2/24,10/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+TIPP Insights,144,1.79,,,,,US,10/14/24,10/16/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,TX,10/1/24,10/16/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,TX,9/26/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,TN,9/24/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,MA,9/6/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Expedition Strategies,409,1.25,Progressive Policy Institute,501(c)(3),,,NC,6/24/24,7/8/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NC,10/16/24,10/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Cygnal,67,2.11,Carolina Journal,local media,,,NC,10/12/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,NC,10/6/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,NC,10/12/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+SurveyUSA/High Point University Survey Research Center,325,2.82,,,,,NC,10/17/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Schoen Cooperman Research,301,1.44,Protect Progress (super PAC),super PAC,DEM,,AL,10/14/24,10/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Schoen Cooperman Research,301,1.44,Protect Progress (super PAC),super PAC,DEM,,AL,9/3/24,9/8/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Noble Predictive Insights,235,2.45,Inside Elections,national media,,,AZ,10/8/24,10/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Expedition Strategies,409,1.25,Progressive Policy Institute,501(c)(3),,,AZ,6/24/24,7/8/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+YouGov,391,2.98,CBS News,national media,,,AZ,10/11/24,10/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,AZ,10/16/24,10/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,AZ,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,AZ,10/12/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,AZ,10/19/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+HighGround,416,1.72,,,,,AZ,10/19/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,CA,10/1/24,10/18/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,FL,10/16/24,10/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,FL,10/14/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+University of North Florida Public Opinion Research Lab,360,2.85,,,,,FL,10/7/24,10/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+ActiVote,721,,,,,,FL,9/23/24,10/20/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Emerson College,88,2.92,"The Hill, Nexstar","national media, media company",,,FL,10/18/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Morning Consult,218,1.8,,,,,MD,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Expedition Strategies,409,1.25,Progressive Policy Institute,501(c)(3),,,MI,6/24/24,7/8/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,MI,10/10/24,10/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,MI,10/16/24,10/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,MI,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Bullfinch Group,692,,,,,,MI,10/11/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,MI,10/12/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,MI,10/18/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Expedition Strategies,409,1.25,Progressive Policy Institute,501(c)(3),,,MT,6/24/24,7/8/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Torchlight Strategies,745,,,,REP,TRUE,NE,10/12/24,10/15/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,NV,10/16/24,10/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,NV,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,NV,10/12/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+InsiderAdvantage,243,1.97,,,,,NV,10/19/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+"Fabrizio, Lee & Associates/Impact Research",694,1.68,AARP,501(c)(4),,,NV,10/8/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Expedition Strategies,409,1.25,Progressive Policy Institute,501(c)(3),,,NJ,6/24/24,7/8/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Research & Polling,280,2.06,Albuquerque Journal,local media,,,NM,10/10/24,10/18/24,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,,TRUE
+Siena College,305,2.77,,,,,NY,10/13/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Morning Consult,218,1.8,,,,,OH,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,OH,9/23/24,10/20/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Expedition Strategies,409,1.25,Progressive Policy Institute,501(c)(3),,,PA,6/24/24,7/8/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,PA,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Bullfinch Group,692,,,,,,PA,10/11/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,PA,10/12/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,PA,10/17/24,10/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+ActiVote,721,,,,,,TN,9/14/24,10/18/24,FALSE,FALSE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,TX,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+YouGov,391,2.98,Texas Politics Project at the University of Texas,research institution,,,TX,10/2/24,10/10/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Northwest Progressive Institute,local media,DEM,,WA,10/16/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,WI,10/16/24,10/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,WI,10/6/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,WI,10/10/24,10/16/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Bullfinch Group,692,,,,,,WI,10/11/24,10/18/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,WI,10/12/24,10/17/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Trafalgar Group,338,0.62,,,REP,,WI,10/18/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,AZ,9/30/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,CO,9/15/24,10/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,FL,10/7/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,GA,10/16/24,10/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,,,,,GA,10/6/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+ActiVote,721,,,,,,GA,10/1/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,American Greatness,national media,,,GA,10/14/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+East Carolina University Center for Survey Research,523,2.67,,,,,GA,10/9/24,10/14/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+AtlasIntel,546,2.74,,,,,GA,10/12/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,GA,9/30/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+University of Georgia School of Public and International Affairs,350,2.2,The Atlanta Journal-Constitution,local media,,,GA,10/7/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Axis Research,467,,NRCC,party committee,REP,TRUE,M2,7/23/24,7/25/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Axis Research,467,,NRCC,party committee,REP,TRUE,M2,10/3/24,10/6/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Axis Research,467,,NRCC,party committee,REP,TRUE,M2,10/17/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,MI,9/30/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,NC,9/30/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+InsiderAdvantage,243,1.97,,,,,NC,10/19/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,NV,9/30/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,OK,9/13/24,10/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Public Policy Polling,263,1.32,Northwest Progressive Institute,local media,DEM,,OR,10/16/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Redfield & Wilton Strategies,562,1.84,The Telegraph,national media,,,PA,10/16/24,10/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,PA,9/30/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+Quantus Insights,859,,TrendingPolitics,national media,REP,,PA,10/17/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,SC,9/9/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+CWS Research,697,1.56,Texans for Fiscal Responsibility,501(c)(4),REP,,TX,10/1/24,10/4/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Elway Research,87,1.94,KCTS-TV (Seattle),local media,,,WA,10/8/24,10/12/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+University of Massachusetts Department of Political Science/YouGov,861,,,,,,US,10/11/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+TIPP Insights,144,1.79,,,,,US,10/15/24,10/17/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Emerson College,88,2.92,,,,,US,10/14/24,10/16/24,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,TRUE
+HarrisX,133,1.5,Deseret News,local media,,,US,10/9/24,10/11/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+ActiVote,721,,,,,,US,10/9/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+OnMessage,239,1.1,Senate Opportunity Fund,501(c)(4),REP,,US,10/14/24,10/16/24,FALSE,TRUE,TRUE,FALSE,FALSE,,,FALSE
+RMG Research,555,2.34,Napolitan Institute,501(c)(3),,,US,10/14/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Quantus Insights,859,,,,,,US,10/15/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Gateway Political Strategies,873,#N/A,,,,,US,9/27/24,10/16/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,,,,,US,10/16/24,10/18/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+TIPP Insights,144,1.79,,,,,US,10/17/24,10/19/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+AtlasIntel,546,2.74,,,,,US,10/12/24,10/17/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Suffolk University,323,2.93,USA Today,national media,,,US,10/14/24,10/18/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+TIPP Insights,144,1.79,,,,,US,10/18/24,10/20/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/12/24,10/14/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/13/24,10/15/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/14/24,10/16/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/15/24,10/17/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/16/24,10/18/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/17/24,10/19/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,,,,,US,10/18/24,10/20/24,TRUE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+The Washington Post/George Mason University Schar School of Policy and Government,754,2.5,,,,,WI,9/30/24,10/15/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+ActiVote,721,,,,,,WA,9/14/24,10/20/24,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE
+Expedition Strategies,409,1.25,Progressive Policy Institute,501(c)(3),,,US,6/24/24,7/8/24,FALSE,FALSE,TRUE,FALSE,FALSE,,,FALSE
+St. Pete Polls,314,2.49,"Voting Trend, The Florida Squeeze","national media, local media",,,FL,10/20/24,10/20/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+WPA Intelligence,383,1.67,Club for Growth (PAC),PAC,REP,,FL,10/6/24,10/7/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+NMB Research,260,1.61,NRCC,party committee,REP,TRUE,MI,10/13/24,10/15/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Glengariff Group,117,1.52,"The Detroit News, WDIV-TV (Detroit)",local media,,,MI,10/14/24,10/16/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+DCCC Targeting and Analytics Department,68,1.05,,,DEM,TRUE,MI,10/15/24,10/18/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Guidant Polling and Strategy,828,,Congressional Leadership Fund (super PAC),super PAC,REP,,MT,10/13/24,10/16/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Impact Research,14,1.54,,,DEM,TRUE,MT,10/14/24,10/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Siena College,305,2.77,Newsday,local media,,,NY,10/13/24,10/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Siena College,305,2.77,Newsday,local media,,,NY,10/13/24,10/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Garin-Hart-Yang Research Group,113,0.98,,,DEM,TRUE,NY,10/9/24,10/13/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+SurveyUSA,325,2.82,"WNYT (Albany, N.Y.)",local media,,,NY,10/11/24,10/16/24,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE
+Christopher Newport University Wason Center for Civic Leadership,50,2.81,,,,,VA,10/11/24,10/20/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+American Viewpoint,10,1.15,NRCC,party committee,REP,TRUE,CA,10/8/24,10/10/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+"Normington, Petts & Associates",232,0.68,DCCC,party committee,DEM,TRUE,CA,10/13/24,10/15/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Cygnal,67,2.11,NRCC,party committee,REP,TRUE,AK,10/14/24,10/16/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Axis Research,467,,NRCC,party committee,REP,TRUE,ME,10/17/24,10/20/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Axis Research,467,,NRCC,party committee,REP,TRUE,ME,10/3/24,10/6/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Axis Research,467,,NRCC,party committee,REP,TRUE,ME,7/23/24,7/25/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+WPA Intelligence,383,1.67,,,REP,TRUE,CA,10/17/24,10/18/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+WPA Intelligence,383,1.67,,,REP,TRUE,CA,9/24/24,9/25/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+University of Guam,874,#N/A,,,,,GU,8/19/24,8/21/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+Public Policy Institute of California,262,2.5,,,,,CA,10/7/24,10/15/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Cherry Communications,49,1.03,Florida Chamber of Commerce,501(c)(6),REP,,FL,10/10/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Rodriguez Gudelunas Strategies,865,,Focus on Rural America,501(c)(4),DEM,,MI,9/19/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Monmouth University Polling Institute,215,2.96,,,,,PA,9/19/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+Rodriguez Gudelunas Strategies,865,,Focus on Rural America,501(c)(4),DEM,,PA,9/19/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Franklin & Marshall College Center for Opinion Research,106,2.45,,,,,PA,10/9/24,10/20/24,FALSE,TRUE,FALSE,TRUE,FALSE,,TRUE,TRUE
+HarrisX,133,1.5,"Deseret News, University of Utah Hinckley Institute of Politics","local media, research institution",,,UT,10/15/24,10/19/24,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+Rodriguez Gudelunas Strategies,865,,Focus on Rural America,501(c)(4),DEM,,WI,9/19/24,9/23/24,FALSE,TRUE,FALSE,TRUE,FALSE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,AZ,10/16/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,GA,10/16/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Digital Research,64,1.38,,,,,M1,9/10/24,10/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Digital Research,64,1.38,,,,,M2,9/10/24,10/7/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Digital Research,64,1.38,,,,,ME,9/10/24,10/7/24,FALSE,TRUE,FALSE,FALSE,TRUE,,,FALSE
+Michigan State University Institute for Public Policy and Social Research/YouGov,876,#N/A,,,,,MI,9/23/24,10/10/24,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,MI,10/16/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Morning Consult,218,1.8,Bloomberg,national media,,,NC,10/16/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+The Dartmouth Poll,879,#N/A,,,,,NH,10/5/24,10/18/24,FALSE,TRUE,FALSE,FALSE,TRUE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,NV,10/16/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+WPA Intelligence,383,1.67,,,,,OK,10/16/24,10/18/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,PA,10/16/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+Mason-Dixon Polling & Strategy,197,2.62,"South Dakota News Watch, Chiesman Center for Democracy at the University of South Dakota","local media, research institution",,,SD,10/12/24,10/16/24,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+Change Research,48,1.36,,,,,US,10/3/24,10/9/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Hart Research Associates/Public Opinion Strategies,221,2.69,CNBC,national media,,,US,10/15/24,10/19/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+HarrisX,133,1.5,Deseret News,local media,,,US,9/20/24,9/23/24,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,,TRUE
+Change Research,48,1.36,"Issue One, Worthy Strategy Group","501(c)(4), consulting company",DEM,,US,9/17/24,9/19/24,FALSE,TRUE,FALSE,FALSE,FALSE,,,FALSE
+Morning Consult,218,1.8,Bloomberg,national media,,,WI,10/16/24,10/20/24,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE
+University of North Florida Public Opinion Research Lab,360,2.85,,,,,FL,10/18/24,10/19/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+Public Policy Polling,263,1.32,,,DEM,TRUE,GA,10/17/24,10/18/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+Monmouth University Polling Institute,215,2.96,,,,,NJ,10/10/24,10/14/24,FALSE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE
+Gotham Polling & Analytics,878,#N/A,,,,,NY,10/11/24,10/19/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+DCCC Targeting and Analytics Department,68,1.05,,,DEM,TRUE,VA,10/19/24,10/20/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
+McLaughlin & Associates,203,0.5,,,REP,TRUE,NY,10/15/24,10/17/24,FALSE,FALSE,FALSE,FALSE,TRUE,,,FALSE
